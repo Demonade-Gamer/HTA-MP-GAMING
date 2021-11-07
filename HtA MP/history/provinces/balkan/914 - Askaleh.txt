@@ -1,0 +1,7 @@
+owner = PER
+controller = PER
+add_core = SYR
+add_core = PER
+add_core = JER
+trade_goods = iron
+life_rating = 35

@@ -1,0 +1,74 @@
+BRA = {
+	value = -35
+}
+BRE = {
+	value = -5
+}
+BRN = {
+	value = -45
+}
+FRM = {
+	value = -5
+}
+HAN = {
+	value = -15
+}
+MEC = {
+	value = -15
+}
+MNR = {
+	value = -15
+}
+MNZ = {
+	value = -15
+}
+NAS = {
+	value = -15
+}
+OLD = {
+	value = -15
+}
+POM = {
+	value = -15
+}
+RHI = {
+	value = -15
+}
+SAX = {
+	value = -5
+}
+THU = {
+	value = -15
+}
+WES = {
+	value = -15
+}
+BAD = {
+	value = 115
+}
+BAV = {
+	value = 100
+}
+ALS = {
+	value = 95
+}
+
+army = {
+	name = "1. Division"
+	location = 589
+	regiment = {
+		name = "1. Reiter-Regiment"
+		type = hussar
+		home = 589
+	}
+	regiment = {
+		name = "1. Infanterie-Regiment"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "2. Infanterie-Regiment"
+		type = infantry
+		home = 589
+	}
+}

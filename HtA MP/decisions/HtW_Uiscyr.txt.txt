@@ -1,0 +1,20 @@
+# Integrate Ourselves
+political_decisions = {
+	integrate_ourselves = {
+		potential = {
+				tag = USR
+				NOT = { country_flag = tar_accepted }
+			}
+			allow = {
+				prestige = 25
+				nationalism_n_imperialism
+				
+			}
+			effect = {
+				add_accepted_culture = tareconano
+				add_accepted_culture = lutzan
+				add_accepted_culture = guarani
+				prestige = 50
+				add_country_flag = tar_accepted 
+			}
+		}	

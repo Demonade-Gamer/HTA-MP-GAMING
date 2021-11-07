@@ -1,0 +1,6 @@
+#Now the province of Borazjan in Iran/Persia
+owner = PER
+controller = PER
+add_core = PER
+trade_goods = grain
+life_rating = 35

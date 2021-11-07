@@ -1,0 +1,560 @@
+#There're events about the Latvian Rebellion that I put in HtA_Nordic instead. They have Nordic event codes instead of Baltic ones, which are 51450-51499
+
+
+########################################
+# Lithuania - Window to the West chain #
+########################################
+
+#$FROM_COUNTRY$ and the Window to the West
+country_event = {
+	id = 51450
+	title = "EVTNAME51450"
+	desc = "EVTDESC51450"
+	picture = "riga"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "This will surely be a mutually beneficial arrangement."
+		money = 5000
+		FROM = {
+			diplomatic_influence = {
+				who = THIS
+				value = 500
+			}
+			relation = {
+				who = THIS
+				value = 100
+			}
+		}
+		#ai_cha
+	}
+	
+	option = {
+		name = "It is not worth the risk to $COUNTRY$'s sovereignty."
+		FROM = {
+			money = 5000
+			relation = {
+				who = THIS
+				value = -40
+			}
+			country_event = {
+				id = 51452
+				days = 5
+			}
+		}
+		relation = {
+			who = FROM
+			value = -40
+		}
+	}
+}
+
+#LIT accepts
+country_event = {
+	id = 51451
+	title = "EVTNAME51451"
+	desc = "EVTDESC51451"
+	picture = "riga"
+	
+	trigger = {
+		primary_culture = russian
+		has_country_flag = window_to_the_west_LIT
+		is_greater_power = yes
+		neighbour = LIT
+		LIT = { in_sphere = THIS }
+		relation = {
+			who = LIT
+			value = 150
+		}
+		NOT = { has_country_flag = wttwLIT_Part1 }
+		NOT = { has_country_flag = wttwLIT_concluded }
+	}
+	
+	mean_time_to_happen = {
+		months = 20
+	}
+	
+	option = {
+		name = "Go ahead with the plan."
+		set_country_flag = wttwLIT_Part1
+		LIT = {
+			country_event = {
+				id = 51453
+				days = 10
+			}
+		}
+	}
+	
+	option = {
+		name = "Forget it."
+		clr_country_flag = window_to_the_west_LIT
+		set_country_flag = wttwLIT_concluded
+	}
+}
+
+#LIT's rejection of the initial WttW offer
+country_event = {
+	id = 51452
+	title = "EVTNAME51452"
+	desc = "EVTDESC51452"
+	picture = "riga"
+	
+	is_triggered_only = yes
+	
+	option =  {
+		name = "Force must be applied to accomplish our goals."
+		casus_belli = {
+			type = conquest
+			target = FROM
+			months = 5
+		}
+		war = {
+			target = FROM
+			attacker_goal = {
+				casus_belli = conquest
+			}
+		}
+		badboy = 8
+		clr_country_flag = window_to_the_west_LIT
+		set_country_flag = wttwLIT_concluded
+		
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.66
+			}
+		}
+	}
+	
+	option = {
+		name = "We cannot afford to provoke an international crisis at the moment."
+		prestige = -15
+		badboy = 2
+		set_country_flag = wttwLIT_concluded
+		
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { badboy = 0.66 }
+			}
+		}
+	}
+}
+
+#$FROMCOUNTRY$'s Influence Grows
+country_event = {
+	id = 51453
+	title = "EVTNAME51453"
+	desc = "EVTDESC51453"
+	picture = "deliberation"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We have no choice, we will submit."
+		FROM = {
+			country_event = {
+				id = 51454
+				days = 1
+			}
+		}
+	}
+	
+	option = {
+		name = "Lithuania is not yet lost!"
+		FROM = {
+			country_event = {
+				id = 51455
+				days = 2
+			}
+		}
+	}
+}
+
+#Notification of success of the above
+country_event = {
+	id = 51454
+	title = "EVTNAME51454"
+	desc = "EVTDESC51454"
+	picture = "deliberation"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "The plan advances."
+		create_vassal = FROM
+	}
+}
+
+#Notification of rebellion
+country_event = {
+	id = 51455
+	title = "EVTNAME51455"
+	desc = "EVTDESC51455"
+	picture = "crisis_revolution_enabled"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Order our troops into action!"
+		badboy = 8
+		casus_belli = {
+			target = FROM
+			type = conquest
+		}
+		release_vassal = FROM
+		war = {
+			target = FROM
+			attacker_goal = {
+				casus_belli = conquest
+			}
+		}
+		clr_country_flag = window_to_the_west_LIT
+		set_country_flag = wttwLIT_concluded
+	
+		ai_chance = {
+			factor = 99
+			modifier = {
+				factor = 0
+				badboy = 0.66
+			}
+		}
+	}
+	
+	option = {
+		name = "Never mind, now is not the right time."
+		badboy = 1
+		prestige = -25
+		clr_country_flag = window_to_the_west_LIT
+		set_country_flag = wttwLIT_concluded
+		
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 100
+				badboy = 0.66
+			}
+		}
+	}
+	
+}
+
+#Annexation
+country_event = {
+	id = 51456
+	title = "EVTNAME51456"
+	desc = "EVTDESC51456"
+	picture = "autocracy"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		has_country_flag = window_to_the_west_LIT
+		LIT = { is_our_vassal = THIS }
+		relation = {
+			who = LIT
+			value = 150
+		}
+		is_sphere_leader_of = LIT
+		NOT = { truce_with = LIT }
+	}
+	
+	mean_time_to_happen = {
+		months = 72
+	}
+	
+	option = {
+		name = "At long last!"
+		inherit = LIT
+		prestige = 5
+		add_accepted_culture = lithuanian
+		clr_country_flag = window_to_the_west_LIT
+		set_country_flag = wttwLIT_concluded
+	}
+}
+
+#####################################
+#				Latvia				#
+#####################################
+#See above chain, just repeated here for LAT instead of LIT
+
+#$FROM_COUNTRY$ and the Window to the West
+country_event = {
+	id = 51457
+	title = "EVTNAME51450"
+	desc = "EVTDESC51450"
+	picture = "riga"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "This will surely be a mutually beneficial arrangement."
+		money = 5000
+		FROM = {
+			diplomatic_influence = {
+				who = THIS
+				value = 500
+			}
+			relation = {
+				who = THIS
+				value = 100
+			}
+		}
+	}
+	
+	option = {
+		name = "It is not worth the risk to $COUNTRY$'s sovereignty."
+		FROM = {
+			money = 5000
+			relation = {
+				who = THIS
+				value = -40
+			}
+			country_event = {
+				id = 51459
+				days = 5
+			}
+		}
+		relation = {
+			who = FROM
+			value = -40
+		}
+	}
+}
+
+country_event = {
+	id = 51458
+	title = "EVTNAME51451"
+	desc = "EVTDESC51451"
+	picture = "riga"
+	
+	trigger = {
+		primary_culture = russian
+		has_country_flag = window_to_the_west_LAT
+		is_greater_power = yes
+		neighbour = LAT
+		LAT = { in_sphere = THIS }
+		relation = {
+			who = LAT
+			value = 150
+		}
+		NOT = { has_country_flag = wttwLAT_Part1 }
+		NOT = { has_country_flag = wttwLAT_concluded }
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = "Go ahead with the plan."
+		set_country_flag = wttwLAT_Part1
+		LAT = {
+			country_event = {
+				id = 51460
+				days = 10
+			}
+		}
+		
+		ai_chance = {
+			factor = 99
+		}
+	}
+	
+	option = {
+		name = "Eh, forget it."
+		clr_country_flag = window_to_the_west_LAT
+		set_country_flag = wttwLAT_concluded
+		
+		ai_chance = {
+			factor = 1
+		}
+	}
+}
+
+#LAT's rejection of the initial WttW offer
+country_event = {
+	id = 51459
+	title = "EVTNAME51452"
+	desc = "EVTDESC51452"
+	picture = "riga"
+	
+	is_triggered_only = yes
+	
+	option =  {
+		name = "Force must be applied to accomplish our goals."
+		casus_belli = {
+			type = conquest
+			target = FROM
+			months = 5
+		}
+		war = {
+			target = FROM
+			attacker_goal = {
+				casus_belli = conquest
+			}
+		}
+		badboy = 8
+		clr_country_flag = window_to_the_west_LAT
+		set_country_flag = wttwLAT_concluded
+		
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.66
+			}
+		}
+	}
+	
+	option = {
+		name = "We cannot afford to provoke an international crisis at the moment."
+		prestige = -15
+		badboy = 2
+		set_country_flag = wttwLAT_concluded
+		
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { badboy = 0.66 }
+			}
+		}
+	}
+}
+
+#Imposition of puppet status
+country_event = {
+	id = 51460
+	title = "EVTNAME51453"
+	desc = "EVTDESC51453"
+	picture = "deliberation"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We have no choice, we will submit."
+		FROM = {
+			country_event = {
+				id = 51462
+				days = 1
+			}
+		}
+	}
+	
+	option = {
+		name = "Latvia is not yet lost!"
+		FROM = {
+			country_event = {
+				id = 51463
+				days = 2
+			}
+		}
+	}
+}
+
+#Notification of success in the above
+country_event = {
+	id = 51462
+	title = "EVTNAME51454"
+	desc = "EVTDESC51454"
+	picture = "deliberation"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "The plan advances."
+		create_vassal = FROM
+	}
+}
+
+#Notification of rebellion in the above
+country_event = {
+	id = 51463
+	title = "EVTNAME51455"
+	desc = "EVTDESC51455"
+	picture = "crisis_revolution_enabled"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Order our troops into action!"
+		badboy = 8
+		casus_belli = {
+			target = FROM
+			type = conquest
+		}
+		release_vassal = FROM
+		war = {
+			target = FROM
+			attacker_goal = {
+				casus_belli = conquest
+			}
+		}
+		clr_country_flag = window_to_the_west_LAT
+		set_country_flag = wttwLAT_concluded
+		
+		ai_chance = {
+			factor = 99
+			modifier = {
+				factor = 0
+				badboy = 0.66
+			}
+		}
+	}
+	
+	option = {
+		name = "Never mind, now is not the right time."
+		badboy = 1
+		prestige = -25
+		clr_country_flag = window_to_the_west_LAT
+		set_country_flag = wttwLIT_concluded
+		
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 100
+				badboy = 0.66
+			}
+		}
+	}
+}
+
+#Annexation
+country_event = {
+	id = 51464
+	title = "EVTNAME51464"
+	desc = "EVTDESC51464"
+	picture = "autocracy"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		has_country_flag = window_to_the_west_LAT
+		LAT = { is_our_vassal = THIS }
+		relation = {
+			who = LAT
+			value = 150
+		}
+		is_sphere_leader_of = LAT
+		NOT = { truce_with = LAT }
+	}
+	
+	mean_time_to_happen = {
+		months = 72
+	}
+	
+	option = {
+		name = "At long last!"
+		inherit = LAT
+		prestige = 5
+		add_accepted_culture = latvian
+		clr_country_flag = window_to_the_west_LAT
+		set_country_flag = wttwLAT_concluded
+	}
+}

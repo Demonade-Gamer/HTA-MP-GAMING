@@ -1,0 +1,24 @@
+army = {
+	name = "Naffaroako Armada"
+	location = 493
+	regiment = {
+		name = "1. Infanteriako Erregimentua"
+		type = infantry
+		home = 460
+	}
+	regiment = {
+		name = "2. Infanteriako Erregimentua"
+		type = infantry
+		home = 492
+	}
+	regiment = {
+		name = "Zaindari Husarak"
+		type = hussar
+		home = 3254
+	}
+	regiment = {
+		name = "Artilleriako Erregimentua"
+		type = artillery
+		home = 494
+	}
+}

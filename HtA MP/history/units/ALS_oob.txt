@@ -1,0 +1,11 @@
+army = {
+	name = "Armee von Elsass"
+	location = 409
+	regiment = {
+		name = "1. Divisie"
+		type = infantry
+		home = 571
+	}
+}
+BAD = { value = 130 }
+WUR = { value = 140 }

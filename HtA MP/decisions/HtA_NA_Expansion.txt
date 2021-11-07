@@ -1,0 +1,329 @@
+political_decisions = {
+	colonise_rouge_ues = {
+		picture = "trail_of_tears"
+		potential = {
+			tag = QUE
+			NOT = {
+				owns = 30
+				has_country_flag = colonise_rouge_ues
+			}
+		}
+		
+		allow = {
+			money = 5000
+			owns = 41
+			owns = 118
+			medicine = 1
+		}
+		
+		effect = {
+			prestige = 2
+			money = -2500
+			30 = { secede_province = THIS }
+			31 = { secede_province = THIS }
+			32 = { secede_province = THIS }
+			33 = { secede_province = THIS }
+			34 = { secede_province = THIS }
+			set_country_flag = colonise_rouge_ues
+		}
+	}
+	
+	colonise_ters_dauror = {
+		picture = "settle_north"
+		potential = {
+			tag = QUE
+			2596 = { empty = yes }
+			year = 1861
+		}
+		
+		allow = {
+			money = 5000
+			owns = 120
+			owns = 31
+			medicine = 1
+		}
+		
+		effect = {
+			prestige = 2
+			money = -5000
+			2596 = { secede_province = THIS add_core = THIS }
+			11 = { secede_province = THIS add_core = THIS }
+			set_country_flag = colonise_ters_dauror
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { money = 6000 }
+			}
+		}
+	}
+	
+	colonise_drytsiben = {
+		picture = "wagons"
+		potential = {
+			tag = SKM
+			26 = { empty = yes }
+		}
+		
+		allow = {
+			money = 5000
+			owns = 2
+			owns = 17
+			owns = 18
+			owns = 21
+			owns = 28
+			owns = 114
+			medicine = 1
+		}
+		
+		effect = {
+			prestige = 3
+			money = -5000
+			22 = { secede_province = THIS }
+			24 = { secede_province = THIS }
+			25 = { secede_province = THIS }
+			26 = { secede_province = THIS }
+			27 = { secede_province = THIS }
+			23 = { secede_province = THIS }
+			2629 = { secede_province = THIS }
+			2597 = { secede_province = THIS }
+			set_country_flag = colonise_drytsiben
+		}
+	}
+	
+	colonise_jukuna = {
+		picture = "settle_north"
+		potential = {
+			tag = SKM
+			7 = { empty = yes }
+			year = 1862
+		}
+		
+		allow = {
+			money = 5000
+			owns = 2
+			owns = 17
+			owns = 2629
+			medicine = 1
+		}
+		
+		effect = {
+			prestige = 2
+			money = -4500
+			6 = { secede_province = THIS add_core = THIS }
+			7 = { secede_province = THIS add_core = THIS }
+			2598 = { secede_province = THIS add_core = THIS }
+			set_country_flag = colonise_jukuna
+		}
+	}
+	
+	colonise_oai = {
+		picture = "wagons"
+		potential = {
+			capital_scope = { continent = north_america }
+			civilized = yes
+			126 = { empty = yes }
+			127 = { empty = yes }
+			123 = { empty = yes }
+			any_owned_province = {
+				has_empty_adjacent_province = yes
+				OR = {
+					province_id = 120
+					province_id = 122
+					province_id = 124
+					province_id = 125
+					province_id = 128
+					province_id = 130 #This is the one that should make MRG get it
+					province_id = 147
+					province_id = 149
+					province_id = 150
+					province_id = 151
+					province_id = 154
+				}
+			}
+		}
+		
+		allow = {
+			money = 4000
+			medicine = 1
+			OR = {
+				AND = {
+					tag = MRG
+					owns = 147
+				}
+				tag = SHC
+				tag = GNC
+				tag = QUE
+				AND = {
+					tag = SKM
+					has_country_flag = colonisation_finished
+				}
+				AND = {
+					tag = CLF
+					has_country_flag = colonisation_finished
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 2
+			money = -4000
+			126 = { secede_province = THIS add_core = THIS }
+			127 = { secede_province = THIS add_core = THIS }
+			123 = {
+				secede_province = THIS
+				add_core = THIS
+				#state_scope = {											#The state was originally called Oai, but since this causes the game to crash for some reason, I've just removed this and changed it to Oailand
+				#	change_region_name = "Oailand"
+				#}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { money = 4500 }
+			}
+		}
+	}
+
+	colonise_necen = {
+		picture = "trail_of_tears"
+		potential = {
+			civilized = yes
+			OR = {
+				tag = SKM
+				tag = GNC
+				tag = SHC
+				AND = {
+					tag = QUE
+					owns = 117
+				}
+				AND = {
+					tag = CLF
+					owns = 98
+				}
+				AND = {
+					tag = MRG
+					owns = 123
+				}
+			}
+			112 = { empty = yes }
+		}
+		
+		allow = {
+			OR = {
+				AND = { #Skamisc
+					tag = SKM
+					owns = 116
+					owns = 111
+				}
+				AND = { #Ginnaecer
+					tag = GNC
+					owns = 106
+					owns = 125
+				}
+				AND = { #Lucky Dabimon
+					tag = QUE
+					owns = 120
+					owns = 121
+				}
+				AND = {
+					tag = CLF
+					OR = {
+						owns = 111
+						owns = 107
+					}
+					OR = {
+						owns = 107
+						owns = 106
+					}
+				}
+				AND = {
+					tag = MRG
+					owns = 125
+					owns = 123
+				}
+				AND = {
+					tag = SHC
+					owns = 120
+					owns = 123
+				}
+			}
+			money = 5000
+		}
+		
+		effect = {
+			110 = { secede_province = THIS add_core = THIS }
+			112 = { secede_province = THIS add_core = THIS }
+			122 = {
+				#secede_province = THIS #The game crashes on this
+				add_core = THIS
+			}
+			124 = {
+				#secede_province = THIS #The game crashes on this
+				add_core = THIS
+			}
+			prestige = 1
+			money = -5000
+			#SKM_110 = { secede_province = THIS add_core = THIS }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { money = 5500 }
+			}
+		}
+	}
+
+	colonise_newea = {
+		picture = "wagons"
+		potential = {
+			OR = {
+				tag = SKM
+				tag = QUE
+			}
+			35 = { empty = yes }
+		}
+		
+		allow = {
+			OR = {
+				AND = { #Skamisc with luck
+					owns = 29
+					owns = 116
+				}
+				AND = { #Dabimon with money
+					owns = 30
+					owns = 118
+				}
+				AND = { #Dabimon with no money
+					owns = 118
+					owns = 117
+				}
+			}
+			money = 5000
+		}
+		
+		effect = {
+			35 = { secede_province = THIS add_core = THIS }
+			115 = { secede_province = THIS add_core = THIS }
+			119 = { secede_province = THIS add_core = THIS }
+			121 = { secede_province = THIS add_core = THIS }
+			prestige = 1
+			money = -5000
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { money = 5500 }
+			}
+		}
+	}			
+}

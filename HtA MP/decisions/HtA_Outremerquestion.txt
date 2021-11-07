@@ -1,0 +1,422 @@
+#################################################################################################################
+#																												#
+#                       						Outremer War Decisions											#
+#																												#
+#################################################################################################################
+
+political_decisions = {
+	FRA_levant_ultimatum = {
+		picture = "levant_crisis"
+		potential = { 
+			tag = FRA
+			has_global_flag = outremer_self_rule_refused
+			has_country_flag = FRA_man_and_the_sea
+			has_unclaimed_cores = no
+			NOT = {
+				has_global_flag = outremer_self_rule_granted
+				has_global_flag = PER_refuse_ultimatum
+				has_global_flag = PER_accept_ultimatum
+				has_country_flag = lost_levantine_war
+				has_global_flag = levant_crisis_over
+				has_global_flag = FRA_demands_levant
+			}			
+		}
+		
+		allow = {
+			war = no
+			PER = {
+				war = no
+			}
+			FRA = {
+				nationalism_n_imperialism = 1
+				OR = {
+					war_policy = jingoism
+					ruling_party_ideology = reactionary
+				}
+				total_amount_of_ships = 15
+			}
+		}
+		
+		effect = {
+			set_global_flag = FRA_demands_levant
+			badboy = 5
+			add_accepted_culture = outremer
+			PER = {
+				country_event = 97099
+			}
+		}
+	}
+	
+	FRA_levant_war = {
+		picture = "levant_crisis_2"
+		potential = {
+			tag = FRA
+			has_global_flag = PER_refuse_ultimatum
+			NOT = {
+				has_global_flag = PER_accept_ultimatum
+			}
+		}
+		
+		allow = {
+			war = no
+			PER = {
+				war = no
+			}
+			FRA = {
+				total_amount_of_ships = 15
+			}
+		}
+		
+		effect = {
+			set_global_flag = levantine_war
+			clr_global_flag = PER_refuse_ultimatum
+			PER = {
+				any_owned = {
+					limit = {
+						is_core = JER
+					}
+					add_core = FRA
+				}
+			}
+			war = {
+				target = PER
+				attacker_goal = {
+					casus_belli = dismantle_PER
+				}
+				defender_goal = {
+					casus_belli = status_quo_levant
+				}
+				call_ally = yes
+			}
+		}
+	}	
+
+	#If Persia wins
+	PER_levant_victory = {
+		picture = "levant_crisis"
+		potential = { 
+			tag = PER
+			NOT = {
+				has_country_flag = lost_levantine_war
+			}
+			FRA = {
+				has_country_flag = lost_levantine_war
+			}
+			PER = {
+				NOT = { has_global_flag = end_of_the_outremer }
+				any_owned_province = { is_core = JER }
+			}
+		}
+		allow = {
+			war = no
+			owns = 912
+			owns = 917
+		}
+		
+		effect = {
+			clr_global_flag = levantine_war
+			set_global_flag = end_of_the_outremer
+			badboy = 10
+			PER = {
+				any_owned = {
+					limit = {
+						is_core = JER
+						is_core = FRA
+					}
+					remove_core = JER
+					remove_core = FRA
+				}
+			}
+			916 = {	
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1123
+				}
+			}
+			917 = {
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1124
+				}
+			}
+			918 = {
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1121
+				}
+			}
+			919 = {
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1125
+				}
+			}
+			920 = {
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1126
+				}
+			}
+			912 = {
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1147
+				}
+			}
+			913 = {
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1148
+				}
+			}
+			914 = {
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1149
+				}
+			}
+			915 = {
+				any_pop = {
+					limit = {
+						is_culture_group = french
+					}
+					reduce_pop = 0.75
+					pop_type = slaves
+					move_pop = 1127
+				}	
+			}
+		}
+		
+		ai_will_do = { 
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}
+
+
+	###############          PORTS            ###############
+
+    PER_reyshahr_treaty_port = {
+        picture = abadan
+        potential = {
+            has_country_flag = persian_gulf_negotiations
+            PER = {
+				owns = 44
+			}
+			NOT = { has_global_flag = all_persian_ports_taken }
+			OR = {
+				AND = {
+					ai =  no
+					has_global_flag = player_must_choose_persian_gulf
+				}
+				AND = {
+					ai = yes
+					NOT = { has_global_flag = player_must_choose_persian_gulf }
+				}
+			}
+        }
+
+        allow = {
+        }
+
+        effect = {
+            clr_country_flag = persian_gulf_negotiations
+			clr_global_flag = player_must_choose_persian_gulf
+			set_country_flag = took_persian_port
+            44 = { secede_province = THIS change_controller = THIS }
+        }
+
+		ai_will_do = {
+			factor = 1
+		}
+    }
+
+    PER_bandar_gumruk_treaty_port = {
+        picture = bandar_abbas
+        potential = {
+            has_country_flag = persian_gulf_negotiations
+            PER = {
+				owns = 10
+			}
+			NOT = { has_global_flag = all_persian_ports_taken }
+			OR = {
+				AND = {
+					ai =  no
+					has_global_flag = player_must_choose_persian_gulf
+				}
+				AND = {
+					ai = yes
+					NOT = { has_global_flag = player_must_choose_persian_gulf }
+				}
+			}
+        }
+
+        allow = {
+        }
+
+        effect = {
+            clr_country_flag = persian_gulf_negotiations
+			clr_global_flag = player_must_choose_persian_gulf			
+			set_country_flag = took_persian_port
+            10 = { secede_province = THIS change_controller = THIS }
+        }
+
+        ai_will_do = {
+			factor = 1
+		}
+    }
+
+    PER_bushire_treaty_port = {
+        picture = bushire
+        potential = {
+            has_country_flag = persian_gulf_negotiations
+            PER = {
+				owns = 1136
+			}
+			NOT = { has_global_flag = all_persian_ports_taken }
+			OR = {
+				AND = {
+					ai =  no
+					has_global_flag = player_must_choose_persian_gulf
+				}
+				AND = {
+					ai = yes
+					NOT = { has_global_flag = player_must_choose_persian_gulf }
+				}
+			}
+        }
+
+        allow = {
+        }
+
+        effect = {
+            clr_country_flag = persian_gulf_negotiations
+			clr_global_flag = player_must_choose_persian_gulf			
+			set_country_flag = took_persian_port
+            1136 = { secede_province = THIS change_controller = THIS }
+        }
+
+        ai_will_do = {
+			factor = 1
+		}
+    }
+
+    PER_qeshm_treaty_port = {
+        picture = chabahar
+        potential = {
+            has_country_flag = persian_gulf_negotiations
+            PER = {
+				owns = 8
+			}
+			NOT = { has_global_flag = all_persian_ports_taken }
+			OR = {
+				AND = {
+					ai =  no
+					has_global_flag = player_must_choose_persian_gulf
+				}
+				AND = {
+					ai = yes
+					NOT = { has_global_flag = player_must_choose_persian_gulf }
+				}
+			}
+        }
+
+        allow = {
+        }
+
+        effect = {
+            clr_country_flag = persian_gulf_negotiations
+			clr_global_flag = player_must_choose_persian_gulf			
+			set_country_flag = took_persian_port
+            8 = { secede_province = THIS change_controller = THIS }
+        }
+
+        ai_will_do = {
+			factor = 1
+		}
+    }	
+
+    FRA_rename_levant = {
+        picture = jer_rename
+        potential = {
+            owns = 913 #Beirut
+			owns = 917 #Jerusalem
+			OR = {
+				is_culture_group = french
+				primary_culture = french
+				primary_culture = outremer
+			}
+			NOT = {
+				has_global_flag = jerusalem_beirut_french
+			}
+        }
+
+        allow = {
+			war = no
+        }
+
+        effect = {
+			set_global_flag = jerusalem_beirut_french
+			prestige = 1
+			912 = { change_province_name = "Baalbec" }
+			913 = { change_province_name = "Beyrouth" }
+			914 = { change_province_name = "Tripolis" }
+			916 = { change_province_name = "Saint-Jean-d'Acre" }
+			917 = { change_province_name = "Hierosolyme" }
+			918 = { change_province_name = "Naplouse" }
+			919 = { change_province_name = "Yaffa" }
+			920 = { change_province_name = "Ghazze"	}		
+        }
+    }
+	
+	#Utility decision to civilize JER if it's released in some other way
+	civilize_JER = {
+		potential = {
+			tag = JER
+			civilized = no
+			exists = yes
+		}
+		allow = {
+			civilized = no
+		}
+		effect = {
+			civilized = yes
+		}
+	}
+	
+}

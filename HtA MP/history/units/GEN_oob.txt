@@ -1,0 +1,57 @@
+NPL = {
+	value = -75
+}
+
+leader = {
+	name = "Emanuele Baldissera"
+	type = land
+	date = 1836.1.1
+	personality = irate
+	background = artillerist
+}
+
+leader = {
+	name = "Gennaro Nicola"
+	type = sea
+	date = 1836.1.1
+	personality = imperious
+	background = warmonger
+}
+
+army = {
+	name = "Esercito di Genova"
+	location = 724
+	regiment = {
+		name = "1. Reggimento di Fanteria"
+		type = infantry
+		home = 724
+	}
+	regiment = {
+		name = "2. Reggimento di Fanteria"
+		type = infantry
+		home = 738
+	}
+	regiment = {
+		name = "1. Reggimento d'Artiglieria"
+		type = artillery
+		home = 723
+	}
+	regiment = {
+		name = "1. Reggimento di Cavalleria"
+		type = cuirassier
+		home = 725
+	}
+}
+
+navy = {
+	name = "Flotta di Genova"
+	location = 724
+	ship = {
+		name = "Marco"
+		type = manowar
+	}
+	ship = {
+		name = "Aliseo"
+		type = manowar
+	}
+}

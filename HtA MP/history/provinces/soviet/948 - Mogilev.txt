@@ -1,0 +1,8 @@
+owner = VIT
+controller = VIT
+add_core = VIT
+add_core = RUS
+add_core = BYE
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,43 @@
+country_event = {
+	id = 203902
+	title = "Bukovina"
+	desc = "There are Poles and Ruthenians to be found in Bukovina, so we should take it for ourselves."
+	picture = "ferdinand"
+	
+	trigger = {
+		tag = POL
+		owns = 951
+		owns = 953
+		owns = 952
+		war_policy = jingoism
+	}
+	
+	mean_time_to_happen = {
+		months = 9
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "A fine goal!"
+		662 = {
+			add_core = THIS
+		}
+		663 = {
+			add_core = THIS
+		}
+		prestige = 5
+		badboy = 4
+		ai_chance = {
+			factor = 75
+		}	
+	}
+
+	option = {
+		name = "It's not worth it."
+		ai_chance = {
+			factor = 25
+		}	
+	}	
+	
+}

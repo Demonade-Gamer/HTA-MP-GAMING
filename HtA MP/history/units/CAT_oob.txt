@@ -1,0 +1,72 @@
+HIS = {
+	truce_until = 1839.9.25
+	value = -50
+}
+
+AQT = { value = 160 }
+
+leader = {
+	name = "Ramón Margall"
+	type = land
+	date = 1836.1.1
+	personality = gutsy
+	background = adventurer
+}
+
+leader = {
+	name = "Valentí Cadafall"
+	type = sea
+	date = 1836.1.1
+	personality = skilled
+	background = cartographer
+}
+
+army = {
+	name = "Exèrcit Català"
+	location = 498
+	regiment = {
+		name = "1era Divisió d'Infanteria"
+		type = infantry
+		home = 498
+	}
+	regiment = {
+		name = "2ona Divisió d'Infanteria"
+		type = infantry
+		home = 464
+	}
+	regiment = {
+		name = "1era Divisió de Cavalleria"
+		type = dragoon
+		home = 498
+	}
+	regiment = {
+		name = "1era Divisió d'Artilleria"
+		type = artillery
+		home = 501
+	}
+}
+
+navy = {
+	name = "Esquadró Català"
+	location = 498
+	ship = {
+		name = "Catalunya"
+		type = manowar
+	}
+	ship = {
+		name = "Noguera"
+		type = frigate
+	}
+	ship = {
+		name = "Mart"
+		type = frigate
+	}
+	ship = {
+		name = "Sant Gabriel"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Antoni"
+		type = clipper_transport
+	}
+}

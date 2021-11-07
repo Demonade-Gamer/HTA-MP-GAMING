@@ -1,0 +1,122 @@
+political_decisions = {
+	
+	move_capital_to_gothenburg = {
+		picture = declare_republic_of_neuchatel
+		potential = {
+			tag = SCA
+			owns = 329 # Gothenburg
+			NOT = { capital = 329 }
+		}	
+		
+		allow = {
+			NOT = { capital = 329 }
+		}
+		
+		effect = {
+			capital = 329
+			prestige = 5
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	form_scandinavia = {
+		news = yes
+		news_desc_long = "form_scandinavia_NEWS_LONG"
+		news_desc_medium = "form_scandinavia_NEWS_MEDIUM"
+		news_desc_short = "form_scandinavia_NEWS_SHORT"
+		potential = {
+			NOT = { exists = SCA }
+			OR = {
+			tag = DEN
+			tag = SWE
+			tag = NOR
+			tag = ICL
+			}
+
+		}
+		
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+			SCA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+							in_sphere = THIS
+								vassal_of = THIS
+							}
+							
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = SCA
+			all_core = { remove_core = DEN }
+			all_core = { remove_core = SWE }
+			all_core = { remove_core = ICL }
+			all_core = { remove_core = NOR }
+			add_accepted_culture = swedish
+			add_accepted_culture = danish
+			add_accepted_culture = norwegian
+			any_country = {
+				limit = {
+					is_culture_group = scandinavian
+					NOT = { has_country_flag = post_colonial_country }
+				}
+				all_core = { add_core = SCA }
+			}
+			any_country = {
+				limit = {
+					exists = yes
+					is_greater_power = no
+					OR = {
+						tag = DEN
+						tag = SWE
+						tag = NOR
+						tag = ICL
+					}
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+			}
+		}
+	}
+	expand_east = {
+		picture = dreams_of_empire
+		potential = {
+			tag = SCA
+			NOT = { has_country_flag = trolled_him }
+		}
+		allow = {
+			revolution n counterrevolution = 1
+			is_greater_power = yes
+			war = no
+			prestige = 60
+			SCA = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			add_accepted_culture = finnish
+			add_accepted_culture = sami
+			add_accepted_culture = ugrian
+			add_accepted_culture = estonian
+			add_accepted_culture = latvian
+			set_country_flag = trolled_him
+			}
+		}
+	}
+

@@ -1,0 +1,155 @@
+#Theoretically I'm only collecting working things in here
+political_decisions = {
+#	sub_unit_test = {		#This works, and is used for building ships. 'current' can be any province ID.
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			tag = AQT
+#		}
+#		effect = {
+#			461 = {
+#				sub_unit = {
+#					type = manowar
+#					value = current
+#				}
+#			}
+#		}
+#	}
+
+#	troops_in_prov = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			tag = AQT
+#			HIS = {
+#				any_owned_province = {
+#					NOT = { country_units_in_province = THIS }
+#				}
+#			}
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+
+#	badboy = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			badboy = 0.8
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+
+#	cb_condition_test = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			casus_belli = FIN
+#			casus_belli = POL
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+
+#	all_core_test = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			all_core = { owned_by = THIS }
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+
+#	puppet_cb_test = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#		}
+#		effect = {
+#			war = {
+#				target = AQT
+#				attacker_goal = {
+#					casus_belli = release_puppet
+#					country = PRE
+#				}
+#				call_ally = yes
+#			}
+#		}
+#	}
+
+#	not_or_test = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			NOT = {
+#				OR = {
+#					tag = AQT
+#					tag = DAU
+#				}
+#			}
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+#
+#	or_not_test = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			OR = {
+#				NOT = { tag = AQT }
+#				NOT = { tag = DAU }
+#			}
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+#	
+#		not_and_test = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			NOT = {
+#				AND = {
+#					tag = AQT
+#					tag = DAU
+#				}
+#			}
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+#		not_only_test = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			NOT = {
+#				tag = AQT
+#				tag = DAU
+#			}
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+
+}
