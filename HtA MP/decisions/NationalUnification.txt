@@ -1000,9 +1000,12 @@ political_decisions = {
 				is_culture_group = polish_culture_group
 				is_culture_group = czecho_slovak_culture_group
 			}
+			NOT = { tag = BHN }
 			NOT = { exists = ZAC }
 			NOT = { has_global_flag = zachadia_formed }
 			NOT = { has_country_flag = bohemia_let_hungary_go }
+			NOT = { has_country_flag = invaded_ukraine }
+			NOT = { has_country_flag = invaded_belarus }
 		}
 
 		allow = {

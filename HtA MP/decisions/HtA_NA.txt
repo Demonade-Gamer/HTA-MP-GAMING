@@ -493,7 +493,6 @@ political_decisions = {
 	
 #Invade the Southern Europeans!
 	invade_the_southern_europeans = {
-		picture = enslave_albanians
 		potential = {
 			tag = MEX
 			NOT = { has_country_flag = south_invaded }
@@ -509,7 +508,6 @@ political_decisions = {
 	}
 #Integrate the Southern Europeans!
 	integrate_the_southern_europeans = {
-		picture = enslave_albanians
 		potential = {
 			tag = MEX
 			has_country_flag = south_invaded

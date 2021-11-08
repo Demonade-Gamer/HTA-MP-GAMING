@@ -6,11 +6,6 @@
 	    NOT = { has_country_flag = blt_accepted }
         }
         allow = {
-            OR = {
-                government = absolute_monarchy
-                government = prussian_constitutionalism
-                government = hms_government
-            }
             owns = 349
             owns = 354
             owns = 360

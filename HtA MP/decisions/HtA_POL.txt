@@ -415,5 +415,59 @@ political_decisions = {
 	}
 
 
-
-}
+# EAST SLAV UNION STUFF, idk what to call it so I'll call it the ESU for now	
+	invade_the_ukraine = {
+		picture = tatars
+		potential = {
+			tag = POL
+			NOT = { has_country_flag = invaded_ukraine }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			badboy = 12.50
+			UKR = {
+				all_core = { add_core = POL }
+			}
+			set_country_flag = invaded_ukraine
+		}
+	}
+	invade_white_ruthenia = {
+		picture = tatars
+		potential = {
+			tag = POL
+			NOT = { has_country_flag = invaded_belarus }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			badboy = 12.50
+			BYE = {
+				all_core = { add_core = POL }
+			}
+			set_country_flag = invaded_belarus
+		}
+	}
+	integrate_the_byelorussians_and_ukrainians = {
+		picture = tatars
+		potential = {
+			tag = POL
+			AND = {
+				has_country_flag = invaded_ukraine
+				has_country_flag = invaded_belarus
+			}
+			NOT = { has_country_flag = integrated_eastern_slavs }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+				BYE = { all_core = { owned_by = THIS } }
+				UKR = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			add_accepted_culture = ukrainian
+			add_accepted_culture = byelorussian
+			set_country_flag = integrated_eastern_slavs
+		}
+	}
