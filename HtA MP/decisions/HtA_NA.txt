@@ -480,14 +480,13 @@ political_decisions = {
 		}
 		
 		effect = {
-			prestige_factor = 1.2
 			add_accepted_culture = vestlandic
 			add_accepted_culture = french_canadian
 			add_accepted_culture = nieuwlander
 			VST = { all_core = { add_core = NEU } }
 			NHL = { all_core = { add_core = NEU } }
 			QUE = { all_core = { add_core = NEU } }
-			change_tag = PIK
+			change_tag = NEU
 		}
 	}
 	
@@ -501,8 +500,7 @@ political_decisions = {
 		revolution_n_counterrevolution = 1
 		}
 		effect = {
-			tag = MEL
-				all_core = { add_core = MEX }
+			MEL = { all_core = add_core = MEX }
 			set_country_flag = south_invaded
 		}
 	}
@@ -514,10 +512,37 @@ political_decisions = {
 			NOT = { has_country_flag = south_integrated }
 		allow = {
 			analytic_philosophy = 1
+			MEL = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			add_accepted_culture = mellomsk
 		}
 	}
-}
-	
+	invade_the_north = {
+		potential = {
+			tag = MEL
+			NOT = { has_country_flag = north_invaded }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			MEX = { all_core = { add_core = MEL } }
+			set_country flag = north_invaded
+		}
+	}
+	integrate_the_mexicans = {
+		potential = {
+			has_country_flag = north_invaded
+			tag = MEL
+			NOT = { has_country_flag = mexicans_integrated }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			MEX = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			add_accepted_culture = mexican
+			prestige = 12
+		}
+	}

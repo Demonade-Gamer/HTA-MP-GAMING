@@ -12,7 +12,7 @@ schools = traditional_academic
 
 oob = "NHL_oob.txt"
 
-ruling_party = NHL_conservative_92
+ruling_party = NEU_conservative_92
 
 upper_house = {
 fascist = 0
