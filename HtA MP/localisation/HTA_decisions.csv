@@ -15,10 +15,10 @@ annexation_of_saxony_title;The Annexation of Saxony;x
 annexation_of_saxony_desc;Saxony failed to take part in the Brunswick Congress, but they must not be allowed to remain outside the German question. They will join us peacefully, as much for their protection against our neighbors as for the protection of all Germans. If they do not, war is no doubt near for them.;x
 annex_califiana_title;The Problem of Califiana;;;;;;;;;;x
 annex_califiana_desc;All that stands between us and the Pacific is the poor, sparsely settled land of Califiana to our west. Our brothers in Skamisc might join us in taking their lands, if the price is right. Let us approach them and enlist their aid.;;;;;;;;;;x
-annex_provence_title;Annex Prouvença;x
-annex_provence_desc;Amid the background of the continued political and economic dependence of Prouvença upon our country, certain recent events have made it expedient now to formalize its incorporation into the greater Aquitànian political structure. May all of its citizens benefit from this step.;x
-approach_aqt_title;Approach Aquitània;;;;;;;;;x
-approach_aqt_desc;Both powers on the Italian peninsula have expressed a territorial interest in our islands. As they know we would refuse to join them, this interest is to be interpreted as a military threat to our sovereignty. Aquitània is a new-born republic like our own. We should build our relations with them, in order to secure our republic.;;;;;;;;;x 
+annex_provence_title;Annex ProuvenÃ§a;x
+annex_provence_desc;Amid the background of the continued political and economic dependence of ProuvenÃ§a upon our country, certain recent events have made it expedient now to formalize its incorporation into the greater AquitÃ nian political structure. May all of its citizens benefit from this step.;x
+approach_aqt_title;Approach AquitÃ nia;;;;;;;;;x
+approach_aqt_desc;Both powers on the Italian peninsula have expressed a territorial interest in our islands. As they know we would refuse to join them, this interest is to be interpreted as a military threat to our sovereignty. AquitÃ nia is a new-born republic like our own. We should build our relations with them, in order to secure our republic.;;;;;;;;;x 
 assert_western_claims_SIE_title;Assert our Western Claims;x
 assert_western_claims_SIE_desc;It has been some time since we lost control over Syrmia and the Banat, but we are once again in a position to take them back. May our flag fly over those lands again!;x
 barbarian_islands_title;Settle the Barbarian Islands;;;;;;;;;x
@@ -37,18 +37,18 @@ BRT_is_France_title;Brittany is part of France!;;;;;;;;;;;x,,,,
 BRT_is_France_desc;Brittany was a part of France not much more than a century ago. They have enjoyed their independence for long enough. Having shown them our might when we reclaimed our colony, they can't possibly refuse to rejoin us!;;;;;;;;;;;;;x
 build_oheskewen_canal_title;Build the Oheskewen Canal;;;;;;;;;;;;;;;;x,,,,
 build_oheskewen_canal_desc;If there were a canal to bypass Niagra Falls, finally, boat traffic could pass between the Native Lakes and the rest of the world! Imagine the profits!;;;;;;;;;;;;;;;;;;x,
-buy_aqt_s_ameriga_title;Offer to buy Aquitània's South Amerigan Colonies;;;;;;;;;x
-buy_aqt_s_ameriga_desc;Aquitània has recently informed us that they are searching for a buyer for their colony of Araguari, comprised of the two intendencies of Porterei and Nova Bordeu.;;;;;;;;;;;;x
+buy_aqt_s_ameriga_title;Offer to buy AquitÃ nia's South Amerigan Colonies;;;;;;;;;x
+buy_aqt_s_ameriga_desc;AquitÃ nia has recently informed us that they are searching for a buyer for their colony of Araguari, comprised of the two intendencies of Porterei and Nova Bordeu.;;;;;;;;;;;;x
 buy_dutch_natal_title;Buy Dutch Natal;;;;;;;;;;;x
 buy_dutch_natal_desc;After the conclusion of the Emden Accords, the cession of Oostkaap to $COUNTRY$ isolated the former territory of the Steenkooler republic of Natal. The Dutch had difficulty administering this territory as resident Zulus began to make trouble. By offering to buy the land and incorporate it into our colonies in South Africa, we can take this problem off of their hands.;;;;;;;;;;x
 califiana_cores_title;Our Claims in the Desert;;;;;;;;;;x
 califiana_cores_desc;The land of Califiana is lightly populated, but full of valuable resources that could propel our country to greatness. Let us stake our claim.;;;;;;;;;;x
 call_brunswick_congress_title;Call the Brunswick Congress of Germans;;;;;;;;x
-call_brunswick_congress_desc;Given the recent Bavarian violation of Mainzer sovereignty, it is clear that the king in Münich does not intend to abide by the terms of the Peace of Augsburg. Therefore, it is time to summon the old allies to a congress to propose a more permanent response to the Bavarian threat - to join forces under one banner and one ruler for the good of all!;;;;;;;;;;x
+call_brunswick_congress_desc;Given the recent Bavarian violation of Mainzer sovereignty, it is clear that the king in MÃ¼nich does not intend to abide by the terms of the Peace of Augsburg. Therefore, it is time to summon the old allies to a congress to propose a more permanent response to the Bavarian threat - to join forces under one banner and one ruler for the good of all!;;;;;;;;;;x
 call_brunswick_congress2_title;Call the Brunswick Congress of Germans;;;;;;;;x
 call_brunswick_congress2_desc;Agitation among the inhabitants of the various states of the old Holy Roman Empire has been increasing recently. Calls for German unification and a rising sense of kinship that transcends political borders has caused some unrest among the people because of the rivalries of the princes. We should call delegates from around the north to discuss the situation. External threats are another concern that will weigh heavily on delegates' minds and we will likely see many states banding together politically.;;;;;;;;;;x
 calm_russians_title;Calm the Russians;x
-calm_russians_desc;The former subjects of the Tsar are still highly agitated and mistrustful of our rule. Let us attempt to calm them by showing our benevolence.n\n§RNB: This can only be taken once and it's intentional that it only partially calms them.§B;x
+calm_russians_desc;The former subjects of the Tsar are still highly agitated and mistrustful of our rule. Let us attempt to calm them by showing our benevolence.n\nÂ§RNB: This can only be taken once and it's intentional that it only partially calms them.Â§B;x
 cancel_zadar_lease_title;Cancel the Zadar Lease;;;;;;;;;;;;x
 cancel_zadar_lease_desc;With the fall from grace of Bohemia, they are no longer able to make use of their port. Indeed, they don't even have the means to access it at the time. Let us unilaterally end the lease and retake Zadar.;;;;;;;;;;;x
 cancel_zadar_lease_HUN_title;Cancel the Zadar Lease;;;;;;;;;;;;x
@@ -60,7 +60,7 @@ cede_emden_desc;With the failure of the diplomatic option in the proposed Emden 
 cisalpines_are_italian_title;The Padanians are Italian!;;;;;;;;;x
 cisalpines_are_italian_desc;The Cisalpine people of Padania speak a language quite similar to ours, and have long shared in the cultural and economic life of the Italian peninsula. Given our power, especially compared to theirs, surely none will dare oppose us for claiming what is rightfully ours. Gloria a la patria!;;;;;;;;x
 cisalpines_are_aquitanian_title;The Padanians are Aquitanian!;x
-cisalpines_are_aquitanian_desc;The Cisalpine people of Padania speak a language none too far removed from our own, and have long been part of our cultural and economic history. It is only natural that we embrace them as fellow Aquitanians, and treat them the same as our conationalists in Mauguio. Glòria a la patria!;x
+cisalpines_are_aquitanian_desc;The Cisalpine people of Padania speak a language none too far removed from our own, and have long been part of our cultural and economic history. It is only natural that we embrace them as fellow Aquitanians, and treat them the same as our conationalists in Mauguio. GlÃ²ria a la patria!;x
 civilize_JER_title;Civilize Jerusalem;x
 civilize_JER_desc;We are a civilized, country which has long had contact with and interaction with Western civilization. Let's act like it!;x
 claim_aegean_title;Claim the Aegean Islands;;;;;;;;;x
@@ -74,7 +74,7 @@ claim_brittany_desc;We have long been sundered from our brothers on the European
 claim_carapara_title;Claim the Carapara Islands;;;;;;;;;;x
 claim_carapara_desc;The Carapara Islands lie off the west coast of South Ameriga and are a veritable Eden. Let us claim them for ourselves so that we may explore their beauty for the betterment of $COUNTRY$!;;;;;;;;;;;;x
 claim_corsar_title;Claim Corsica and Sardinia;;;;;;;;;x
-claim_corsar_desc;Corsica and Sardinia have long held an important position near the rich cities of Aquitània, Provence, and the north of the Italian Peninsula. Acquiring these islands would bolster our reputation and ability to control and conduct trade in that region. By claiming the islands, we risk war with some powerful neighbours, but it must be done for the good of all citizens of the Republic!;;;;;;;;x
+claim_corsar_desc;Corsica and Sardinia have long held an important position near the rich cities of AquitÃ nia, Provence, and the north of the Italian Peninsula. Acquiring these islands would bolster our reputation and ability to control and conduct trade in that region. By claiming the islands, we risk war with some powerful neighbours, but it must be done for the good of all citizens of the Republic!;;;;;;;;x
 claim_elsass_lothringen_title;Claim Elsass;;;;;;;;;;x
 claim_elsass_lothringen_desc;There are Germans to be found in territory nominally controlled by the French. We should remedy this situation and annex this region as a buffer zone between the revanchist French and our industrial heartland.;;;;;;;;;;x
 claim_empire_BAV_title;Claim the title of "Emperor of All Germany";;;;;;;;;x
@@ -95,8 +95,8 @@ claim_remote_siberia_title;Claim Remote Siberia;;;;;;;;;;;;;;x,,,,
 claim_remote_siberia_desc;We should mount an expedition to explore and formally claim the northern interior of Siberia for $COUNTRY$!;;;;;;;;;;x,,,,
 claim_roman_throne_title;Claim the Roman Throne;;;;;;;;;;;x
 claim_roman_throne_desc;Evangelos Melisurgos, uncle to 15-year old Georgios, the current Autokrator of the Roman Empire through his father, Ioannes, feels that he is better suited to lead the Roman Empire in this time of rebellions and crises. By enacting this decision, you will preempt the game event which will fire approximately 9 months after Anatole has a military score of 10. You have until then to prepare for war to take the throne.;;;;;;;;;;;;;x
-claim_rose_title;Claim Rosè;;;;;;;;;;;x
-claim_rose_desc;Daufinat has chosen to join the Padan Union, but this is primarily because of the Cisalpine inhabitants of the Piemont. The inhabitants of the Rosè River valley and regions nearby - even in the Alps - are much closer to ours in terms of culture and language, and it would be better if they were united with their kin!;;;;;;;;;;;;x
+claim_rose_title;Claim RosÃ¨;;;;;;;;;;;x
+claim_rose_desc;Daufinat has chosen to join the Padan Union, but this is primarily because of the Cisalpine inhabitants of the Piemont. The inhabitants of the RosÃ¨ River valley and regions nearby - even in the Alps - are much closer to ours in terms of culture and language, and it would be better if they were united with their kin!;;;;;;;;;;;;x
 claim_sicily_title;Claim Sicily;;;;;;;;;x
 claim_sicily_desc;Sicily has long held an important position separating the eastern and western parts of the Mediterranean, and has changed hands many times throughout the centuries. Acquiring this populous island would bolster our reputation and ability to control and conduct trade in the central Mediterranean. By claiming Sicily, we risk war with some powerful neighbours, but it must be done for the good of all citizens of the Republic!;;;;;;;;x
 claim_suazi_title;Claim the Lands of the Suazi;;;;;;;;;x
@@ -130,15 +130,15 @@ declare_greek_independence_desc;We have survived the war and retained all of our
 declare_romanian_unity_title;Declare the Unity of the Volasean Peoples;;;;;;;;;;x
 declare_romanian_unity_desc;With the instability and troubles in the Empire, the growing nationalist unrest in the Volasean provinces could finally be funelled into a successful movement. Under the guidance of Hospodar Gradisteanu, the boyars and obste are mobilising to help Romania forge its own path. This will mean war with the Empire and our brothers in Wallachia, who lick the heels of the Romans.;;;;;;;;;;x
 demand_corsica_owned_title;Demand Corsica & Sardinia;;;;;;;;;;x
-demand_corsica_owned_desc;We have claims in the Maretan islands. Let us make good on them and demand what's rightfully ours from Aquitània. $RNote for the player: This may lead to war almost immediately$W.;;;;;;;;;;;x
+demand_corsica_owned_desc;We have claims in the Maretan islands. Let us make good on them and demand what's rightfully ours from AquitÃ nia. $RNote for the player: This may lead to war almost immediately$W.;;;;;;;;;;;x
 demand_corsica_puppet_title;Demand Corsica & Sardinia;;;;;;;;;;x
-demand_corsica_puppet_desc;We have claims in the Maretan islands. Let us make good on them and demand what's rightfully ours from Aquitània. $RNote for the player: This may lead to war almost immediately$W.;;;;;;;;;;;x
+demand_corsica_puppet_desc;We have claims in the Maretan islands. Let us make good on them and demand what's rightfully ours from AquitÃ nia. $RNote for the player: This may lead to war almost immediately$W.;;;;;;;;;;;x
 demand_independence_BYZ_title;Demand Independence from the Empire;;;;;;;;;;;x
 demand_independence_BYZ_desc;Now that the war is over and Georgios has defeated his uncle, the Empire is restabilized. At the beginning of the war, we offered our military support in exchange for independence after peace had been restored. Let us now remind Georgios and his counselors of his promise so that we may stand on our own.;;;;;;;;;;;x
 dissolve_old_duchy_CMP_title;Dissolve the old Duchy of Champagne;;;;;;;;;x
 dissolve_old_duchy_CMP_desc;Now that we have claimed the throne of France, the Duchy of Champagne should pass from a legitimate title of power to one merely of respect. Our house will forever be known as Kings of France and Dukes of Champagne, but no longer will the Duchy exist, within our borders or without.;;;;;;;;;;x
-dissolve_old_duchy_ORL_title;Dissolve the old Duchy of Orléans;;;;;;;;;x
-dissolve_old_duchy_ORL_desc;Now that we have claimed the throne of France, the Duchy of Orléans should pass from a legitimate title of power to one merely of respect. Our house will forever be known as Kings of France and Dukes of Orléans, but no longer will the Duchy exist, within our borders or without.;;;;;;;;;;x
+dissolve_old_duchy_ORL_title;Dissolve the old Duchy of OrlÃ©ans;;;;;;;;;x
+dissolve_old_duchy_ORL_desc;Now that we have claimed the throne of France, the Duchy of OrlÃ©ans should pass from a legitimate title of power to one merely of respect. Our house will forever be known as Kings of France and Dukes of OrlÃ©ans, but no longer will the Duchy exist, within our borders or without.;;;;;;;;;;x
 dissolve_old_duchy_NRM_title;Dissolve the old Duchy of Normandy;;;;;;;;;x
 dissolve_old_duchy_NRM_desc;Now that we have claimed the throne of France, the Duchy of Normandy should pass from a legitimate title of power to one merely of respect. Our house will forever be known as Kings of France and Dukes of Normandy, but no longer will the Duchy exist, within our borders or without.;;;;;;;;;;x
 dominate_the_kazakhs_title;Dominate the Kazakhs;x
@@ -149,8 +149,8 @@ embrace_catalans_IRK_title;Embrace Catalans;;;;;;;;;x
 embrace_catalans_IRK_desc;The Catalans of the Balearic Islands Mallorca and Menorca have long been an important part of trading in the western part of the Mediterranean. We should make them feel welcome in our republic and give them equal rights.;;;;;;;;;x
 embrace_galicians_title;Embrace Galicians;;;;;;;;;;;;;x
 embrace_galicians_desc;The Galician people have a unique cultural identity, though one it is not entirely different from that of the Spanish. We should work to make them feel welcome within our Empire.;;;;;;;;;;;;;x
-embrace_irish_title;Embrace the Éirisc;;;;;;;;;x
-embrace_irish_desc;With control over Éirland now established, we should look toward integrating them into our own culture, allowing them some say in our government and welcome among our own people.;;;;;;;;;;x
+embrace_irish_title;Embrace the Ã‰irisc;;;;;;;;;x
+embrace_irish_desc;With control over Ã‰irland now established, we should look toward integrating them into our own culture, allowing them some say in our government and welcome among our own people.;;;;;;;;;;x
 embrace_maltese_title;Embrace the Maltese;;;;;;;;;x
 embrace_maltese_desc;The Maltese people are few and confined to their islands, but they are a proud race with a long history. They should be made to feel welcome and to be equal in our society if we are to truly be a republic.;;;;;;;;;x
 embrace_maretans_title;Embrace the Maretans;;;;;;;;;x
@@ -174,11 +174,11 @@ encourage_tatar_revolts_desc;Spread rumours and support dissident Tatars, and we
 end_smolensk_title;Put an End to Smolensk;;;;;;;;;;x
 end_smolensk_desc;Now that all the lands of Smolensk are lost to them, it is time to "convince" the Korol of Smolensk and his family to abandon all claims to the former kingdom and thus allow the Tsar to have uncontested control of their lands. Note to the player: Don't go abusing this now, just take it immediately. The MIL and CON reduction exists to try to make any lingering Russian Unification rebels go away.;;;;;;;;;;x
 end_the_nobility_title;End the Nobility;;;;;;;;;;;x,,,,
-end_the_nobility_desc;Now that the rebellious dukes of Champagne, Orléans, and Normandy have been put down, we should remove their power and any chance that they could threaten France again! They shall be nobility in their memories only!;;;;;;;;;;;;;;;x;,
+end_the_nobility_desc;Now that the rebellious dukes of Champagne, OrlÃ©ans, and Normandy have been put down, we should remove their power and any chance that they could threaten France again! They shall be nobility in their memories only!;;;;;;;;;;;;;;;x;,
 enlist_tatars_title;The Kazan Pact - Kazanskii Dogovor;;;;;;;;;;;;x
 enlist_tatars_desc;The more populous crown of Smolensk, which falsely claims to be heir to Russia, has many more soldiers than do we. There is, however, opportunity. The Tatars, the once-feared horselords of the steppe, are divided subjects of both countries. If we curry favour with them, we may be able to destabilize Smolensk, allowing us to defeat them. By accepting the Kazani Tatars as equals, we may gain an important advantage with all of the inhabitants of the steppe. However, stories of their cruelty remain and the other peoples of our empire may not be so happy.;;;;;;;;;;x
 establish_la_guardia_civil_title;El Cuerpo Nacional de Carabineros;x
-establish_la_guardia_civil_desc;’El Cuerpo Nacional de Carabineros', Spanish for 'The National Carabiniers', is the Hispanian gendarmerie corps, established during the reign of Lope II in the aftermath of the bloody Años Rojos. Although foreign intervention crushed the Revolution and restored the Monarchy, Albesan sympathies lingered in the countryside and some cities, with some areas never fully pacified. It is in this context that the Carabiniers were born, a mixed police-military force with far-reaching powers to pacify the restive populace and maintain the monarchical order.;x
+establish_la_guardia_civil_desc;Â’El Cuerpo Nacional de Carabineros', Spanish for 'The National Carabiniers', is the Hispanian gendarmerie corps, established during the reign of Lope II in the aftermath of the bloody AÃ±os Rojos. Although foreign intervention crushed the Revolution and restored the Monarchy, Albesan sympathies lingered in the countryside and some cities, with some areas never fully pacified. It is in this context that the Carabiniers were born, a mixed police-military force with far-reaching powers to pacify the restive populace and maintain the monarchical order.;x
 expand_BHN_title;Claim Hungary's Historical Borders;;;;;;;;;x
 expand_BHN_desc;The crown of Hungary once encompassed a much wider area than it does today. We can expand our territory and further earn the loyalty of the Hungarians by helping them reclaim their historical greatness.;;;;;;;;;;x
 expand_halesca_title;Expand Halesca;;;;;;;;;;x
@@ -224,11 +224,11 @@ FRA_return_our_colonies_desc;Now that we once again have access to the sea and a
 further_the_revolution_in_DAU_title;Further the Revolution in Daufinat;;;;;;;;x
 further_the_revolution_in_DAU_desc;The monarchists of our cousins in Daufinat are facing serious opposition from their own liberal people, who seek to set up a democracy similar to the one we have been so successful in establishing. By sending a military mission, we may be able to convince the Duke, Guigues de Mauguio, to give up rather than lose his life fighting for a lost cause.;;;;;;;;;x
 garda_civica_title;Form the Garda Civica;;;;;;;;;;x
-garda_civica_desc;In revolutionary Aquitània, giving the people more say in the maintenance of order was a top priority in securing and legitimising the new, post-royal government. Thus, as a means of restoring order and prosperity to the country, the Garda Civica was formed. Composed of volunteer citizens of both sexes, the GC was meant to bring peace.;;;;;;;;;;x
+garda_civica_desc;In revolutionary AquitÃ nia, giving the people more say in the maintenance of order was a top priority in securing and legitimising the new, post-royal government. Thus, as a means of restoring order and prosperity to the country, the Garda Civica was formed. Composed of volunteer citizens of both sexes, the GC was meant to bring peace.;;;;;;;;;;x
 GDN_ai_selvenkes_purchase_title;Innocuous Story decision;;;;;;;;;x
 GDN_ai_selvenkes_purchase_desc;Please ignore. Thanks.;;;;;;;;;;;;x
-glaschu_ultimatum_title;Issue the Glaschu Ultimatum to Éire;;;;;;;;;;x
-glaschu_ultimatum_desc;For too long has Éire held the crown jewel of Alba: Glaschu. We are now in a position to demand its return. In issuing the ultimatum, we will send Éire a strong message: Give us Glaschu or face war.;;;;;;;;;;x
+glaschu_ultimatum_title;Issue the Glaschu Ultimatum to Ã‰ire;;;;;;;;;;x
+glaschu_ultimatum_desc;For too long has Ã‰ire held the crown jewel of Alba: Glaschu. We are now in a position to demand its return. In issuing the ultimatum, we will send Ã‰ire a strong message: Give us Glaschu or face war.;;;;;;;;;;x
 great_BUK_flag_title;The End of Bukkhara;x
 great_BUK_flag_desc;This is a utility decision to set a flag for whatever Russian country is alive.;x
 great_KHI_flag_title;The End of Khiva;x
@@ -249,8 +249,8 @@ gxi_destiny_title;Unite Greater China;;;;;;;;;x
 gxi_destiny_desc;By restraining foreign influence in our kingdom, we can demonstrate our cultural purity and position Nanyue to unite the disparate lands of China.;;;;;;;;;x
 gxi_seasia_destiny_title;Unite Southeast Asia;;;;;;;;;x
 gxi_seasia_destiny_desc;Now that we have separated from China, we should follow our roots and unite the many peoples of Southeast Asia under our banner.;;;;;;;;;x
-headwaters_po_title;The Headwaters of the Pò;x
-headwaters_po_desc;Ours is a country of the Padanian plain. The Pò River is ever in our minds, yet its source lies not in our lands. Its peoples are much more like to use than to anyone else. So let us lay claim to the whole of the Pò valley, even up to its headwaters in the Pian dël Rè. Avanti, Padanesi!;x
+headwaters_po_title;The Headwaters of the PÃ²;x
+headwaters_po_desc;Ours is a country of the Padanian plain. The PÃ² River is ever in our minds, yet its source lies not in our lands. Its peoples are much more like to use than to anyone else. So let us lay claim to the whole of the PÃ² valley, even up to its headwaters in the Pian dÃ«l RÃ¨. Avanti, Padanesi!;x
 hegemony_gidan_title;Establish Hegemony over Gidan;;;;;;;;;;x
 hegemony_gidan_desc;The people of Gidan speak our language and share many aspects of our culture. While historically, we were separated by the vast wildernesses of the northern bank of the Jordrac River, the advance of progress allows us to bring them under our wing for the good of all.;;;;;;;;;;;;x
 helvetian_patrimony_title;The Helvetian Patrimony;;;;;;;;;x
@@ -315,8 +315,8 @@ invite_malta_irk_title;Invite Malta into the Republic;;;;;;;;;x
 invite_malta_irk_desc;The people of the islands of Malta are proud and shrewd, and their island occupies a strategic position in the Mediterranean Sea. They would make a fine addition to our republic. Together, we can seek prosperity for all. Let us extend our hand in friendship to them, that they may take it to make a brigther future for all.;;;;;;;;x
 invite_navarra_title;Union with Navarra;;;;;;;;;;;;;x
 invite_navarra_desc;The Basque people have a long history of cooperation with our nation and Navarra, near the warring francophone duchies, is in a perpetual state of risk. For their own protection and with a little persuasion, the Basques might consider rejoining our country.;;;;;;;;;;;;;x
-invite_PRE_title;Invite the Republic of Prouvença to join our republic;;;;;;;;;;x
-invite_PRE_desc;Both we and our neighbours in Prouvença have overthrown the monarchy. We should join forces!;;;;;;;;;;;x
+invite_PRE_title;Invite the Republic of ProuvenÃ§a to join our republic;;;;;;;;;;x
+invite_PRE_desc;Both we and our neighbours in ProuvenÃ§a have overthrown the monarchy. We should join forces!;;;;;;;;;;;x
 invite_romagna_PDN_title;Invite Romagna into the Padan Union;;;;;;;;;;;x
 invite_romagna_PDN_desc;Now that Romagna is free from the clutches of the Neapolitans, we can integrate them into our Union so that they will never have to stand up to southern aggression again. With the acquisition of Tuscany and Romagna, we will have marches that will protect us against the Neapolitans.;;;;;;;;;;;;x
 invite_sicily_irk_title;Invite Sicily into the Republic;;;;;;;;;x
@@ -336,7 +336,7 @@ korea_question_desc;Devolving relations with Japan has raised tensions between o
 liberate_tuscany_title;Liberate Tuscany;x
 liberate_tuscany_desc;With Romagna safe in our hands and our strength consolidated, it is at last time to free our Tuscan brothers and let them join our union for the common good and defence of the north. Let the Arno flow free!;x
 look_for_a_buyer_for_aqt_s_a_title;Sell Araguari;;;;;;;;;x
-look_for_a_buyer_for_aqt_s_a_desc;In light of the recent banning of slavery in Aquitània, the value of our plantations in our South Amerigan colony of Araguari has crashed. We should consider selling the land - the intendencies of Nova Bordeu and Porterei to Gidan or Uilscyr. The latter, in particular, would probably be interested in the territory, given its proximity to their capital at the mouth of the Jordrac River.;;;;;;;;x
+look_for_a_buyer_for_aqt_s_a_desc;In light of the recent banning of slavery in AquitÃ nia, the value of our plantations in our South Amerigan colony of Araguari has crashed. We should consider selling the land - the intendencies of Nova Bordeu and Porterei to Gidan or Uilscyr. The latter, in particular, would probably be interested in the territory, given its proximity to their capital at the mouth of the Jordrac River.;;;;;;;;x
 maretans_are_italian_title;The Maretans are Italian!;;;;;;;;;x
 maretans_are_italian_desc;The Maretans of Corsica and Sardinia speak a language quite similar to ours, and have long shared in the cultural and economic life of the Tyrrhenian coast and general Mediterranean sea. Now that we control the north of the peninsula, having brought the Padan Union to heel, there's no reason for them to properly resist us. Gloria per la patria!;;;;;;;;x
 margaria_ai_solelha_purchase_title;Totally Innocuous Decision;;;;;;;;;;x
@@ -382,11 +382,11 @@ move_capital_to_prague_desc;Now that we control Prague again, let us reinstate i
 move_capital_to_zagreb_title;Move the capital back to Zagreb;;;;;;;;;;x
 move_capital_to_zagreb_desc;Now that Zagreb has been returned to its rightful owners, us, we can once more move our government from this small provincial town to the ancestral capital of Croatia, Zagreb. Thank God and people!;;;;;;;;;;;x
 negotiate_with_aengland_title;Negotiate a treaty with Aengland;;;;;;;;;x
-negotiate_with_aengland_desc;The situation along the border with Aengland is untenable. They have recovered from the past century of troubles and sport a stronger military than our own. They will likely declare war to reclaim their city of Monkceastre. Why not defuse the tension by offering to give it back to them in exchange for Ellan Mannin and an alliance against the other threat we face, Éire?;;;;;;;;;;;x
+negotiate_with_aengland_desc;The situation along the border with Aengland is untenable. They have recovered from the past century of troubles and sport a stronger military than our own. They will likely declare war to reclaim their city of Monkceastre. Why not defuse the tension by offering to give it back to them in exchange for Ellan Mannin and an alliance against the other threat we face, Ã‰ire?;;;;;;;;;;;x
 new_life_in_the_new_world_title;A New Life in the New World;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-new_life_in_the_new_world_desc;With the large political freedom that's enjoyed in our country, there's a new proposal in the upper house to boost our numbers: large numbers of Europeans can be brought to our country to work in the fields, their travel being paid by the $COUNTRY_ADJ$ government. Propaganda, incentives, paid travel tickes and treaties can be signed with other governments so to increase the number of immigrants that arrive in our country. Come start a new life in $COUNTRY$!\n\n§RNB: You can only take this decision once.§W;;;;;;;;;;;x
+new_life_in_the_new_world_desc;With the large political freedom that's enjoyed in our country, there's a new proposal in the upper house to boost our numbers: large numbers of Europeans can be brought to our country to work in the fields, their travel being paid by the $COUNTRY_ADJ$ government. Propaganda, incentives, paid travel tickes and treaties can be signed with other governments so to increase the number of immigrants that arrive in our country. Come start a new life in $COUNTRY$!\n\nÂ§RNB: You can only take this decision once.Â§W;;;;;;;;;;;x
 norwegian_caribbean_title;Issue the Declaration of Kajahikos;;;;;;;;;;;;;x
-norwegian_caribbean_desc;For a great many years the king in Anslo had been forced to accept the sovereignty of various elected legislative bodies due to the strictures of the Constitution of 1822, which was ultimately accepted by the royal family under duress. However, the alignment of many of those legislative bodies with the destabilizing forces of Albesanism and the subsequent royal coup, which saw members of the royal family and the solidly absolutist army and navy dissolve the liberal constitution, have rendered the king a free hand in Norway. With support for the royals and Nordic nationalism both at an all-time high, and the Norwegian Navy quite large and abundantly capable of projecting force in the region, Olav Erling, the Duke of Faroe, has traveled to the Norwegian-held island of Kajahikos and, acting on orders from his elder brother King Håkon IV, proclaimed the intent of the Norwegian Crown to annex the islands of Firgene, Heymak, Curasu, and Welighefen by right of conquest. We will forge a great Atlantic empire just as the Vikings before us!;;;;;;;;;;;;;x 
+norwegian_caribbean_desc;For a great many years the king in Anslo had been forced to accept the sovereignty of various elected legislative bodies due to the strictures of the Constitution of 1822, which was ultimately accepted by the royal family under duress. However, the alignment of many of those legislative bodies with the destabilizing forces of Albesanism and the subsequent royal coup, which saw members of the royal family and the solidly absolutist army and navy dissolve the liberal constitution, have rendered the king a free hand in Norway. With support for the royals and Nordic nationalism both at an all-time high, and the Norwegian Navy quite large and abundantly capable of projecting force in the region, Olav Erling, the Duke of Faroe, has traveled to the Norwegian-held island of Kajahikos and, acting on orders from his elder brother King HÃ¥kon IV, proclaimed the intent of the Norwegian Crown to annex the islands of Firgene, Heymak, Curasu, and Welighefen by right of conquest. We will forge a great Atlantic empire just as the Vikings before us!;;;;;;;;;;;;;x 
 norwegian_highlands_title;Claim the Albannach North;;;;;;;;;;;;;x
 norwegian_highlands_desc;The north of Alba, today called Gaideldach, was a place that was settled by our peoples throughout the 11th and early 12th centuries. Although many of them speak the language of the Albans, they still carry on our traditions. What's more, our burgeoning population would find much to love in this land. Let us lay claim to it for Norge!;;;;;;;;;;x
 no_interference_RUS_title;Do Not Interfere in Russia;x
@@ -398,7 +398,7 @@ overlord_eire_desc;Now that our neighbours in Alba to the north have been fully 
 overlord_eire_ai_title;Become Overlord of Eire;;;;;;;;;;x
 overlord_eire_ai_desc;Now that our neighbours in Alba to the north have been fully subjugated, we should turn to Eire. The little brother of the Northern Isles will be ours, too!;;;;;;;;;;;;x
 partition_daufinat_title;Negotiate the Partition of Daufinat;;;;;;;;;;x
-partition_daufinat_desc;Daufinat has been a threat to Aquitània for centuries. There was indeed a time not much more than one century ago when they were more powerful than us. Times are different now, and with the new Duke having inherited Aymon de Buonavi's throne being a less than competent leader, we have an opportunity to expand our holdings to the Alps and improve relations with the Padan Union. We can negotiate a deal to partition Daufinat among ourselves, which will improve the strategic and international standing of both of our countries! \n§RNote: Immediate war is possible.;;;;;;;;;;;;x
+partition_daufinat_desc;Daufinat has been a threat to AquitÃ nia for centuries. There was indeed a time not much more than one century ago when they were more powerful than us. Times are different now, and with the new Duke having inherited Aymon de Buonavi's throne being a less than competent leader, we have an opportunity to expand our holdings to the Alps and improve relations with the Padan Union. We can negotiate a deal to partition Daufinat among ourselves, which will improve the strategic and international standing of both of our countries! \nÂ§RNote: Immediate war is possible.;;;;;;;;;;;;x
 PDN_create_title;Create the Padan Union;;;;;;;;;;;;x
 PDN_create_desc;Now that the treaty has been signed and the groundwork has been laid, for the good of our people and our houses, let us unite against the threat of the south!;;;;;;;;;;;x
 PDN_join_title;Join the Padan Union;;;;;;;;;;;;x
@@ -463,8 +463,8 @@ renew_zadar_lease_title;Renew the Lease on Zadar;x
 renew_zadar_lease_desc;It has been some time since our troubles with the Hungarians and consequent loss of Zadar. But now, a new $COUNTRY$ has risen, and we seek salt and sun of the Mediterranean once more! Let us ask our neighbour to the south about the possibility of leasing it again.;x
 renovate_constantinople_title;Renovate Constantinople;;;;;;;;;;;;x
 renovate_constantinople_desc;Constantinople has stood relatively unchanged for centuries, and is a hodgepodge of different building styles and qualities. The city is constantly growing, and there have been housing and social problems. By renovating the city and building taller buildings, we can truly make Constantinople the City of World's Desire once again.;;;;;;;;;;;;;;x
-request_return_of_lubeck_title;Request the Return of Lübeck;;;;;;;;;;x
-request_return_of_lubeck_desc;The Danes have held the port city of Lübeck for centuries and insisted on their right to the surrounding area. Now that we have unified, we have heard reports of rising German nationalism in the city itself. Let us negotiate for the cession of the port with Denmark, and keep the peace.;;;;;;;;;;x
+request_return_of_lubeck_title;Request the Return of LÃ¼beck;;;;;;;;;;x
+request_return_of_lubeck_desc;The Danes have held the port city of LÃ¼beck for centuries and insisted on their right to the surrounding area. Now that we have unified, we have heard reports of rising German nationalism in the city itself. Let us negotiate for the cession of the port with Denmark, and keep the peace.;;;;;;;;;;x
 restore_order_in_hungary_title;Restore Order in Hungary;;;;;;;;;;x
 restore_order_in_hungary_desc;With the rising tide of unrest and chaos in Hungary, it is time for the to monarchy make a strong response to the situation in its southern component. Let us restore order in Hungary before a full-blown rebellion breaks loose!;;;;;;;;;;x 
 retreat_to_hayastan_title;Retreat to Hayastan;x
@@ -513,10 +513,10 @@ sirocco_replacement_title;The Sirocco;x
 sirocco_replacement_desc;The Sirocco, the hot wind blowing from the deserts of North Africa, bathes our faces in warmth together with the sun. Today, it also brings news. It carries a call to unity and a the appeal of a common destiny with our brothers.;x
 skamisc_ai_halesca_purchase_title;Totally Innocuous Decision;;;;;;;;;;x
 skamisc_ai_halesca_purchase_desc;Definitely not meant to help Skamisc be the one who buys Alaska, definitely not.;;;;;;;;;;;;x
-skane2_title;The Skåne Question;;;;;;;;;;x
-skane2_desc;Skåne is an integral part of $COUNTRY$, and for one reason or another, it is not in our domain. Let us bring this issue back to the world stage, and we will settle it.;;;;;;;;;;;x
+skane2_title;The SkÃ¥ne Question;;;;;;;;;;x
+skane2_desc;SkÃ¥ne is an integral part of $COUNTRY$, and for one reason or another, it is not in our domain. Let us bring this issue back to the world stage, and we will settle it.;;;;;;;;;;;x
 stilhav_naval_base_title;Construct the Stilhav Naval Base;;;;;;;;;;x
-stilhav_naval_base_desc;It wasn't until the mid-1830s that the government of Høyekysten had the resources to begin asserting control over the Pacific coast. Military engineers scouted the location for the naval base in 1833, but it wasn't until 1836 that the plan was approved and construction began. Although a costly project, the base afforded the country control over the Pacific coast and was essential in action against the Andean peoples to the south.;;;;;;;;;;;;;;x
+stilhav_naval_base_desc;It wasn't until the mid-1830s that the government of HÃ¸yekysten had the resources to begin asserting control over the Pacific coast. Military engineers scouted the location for the naval base in 1833, but it wasn't until 1836 that the plan was approved and construction began. Although a costly project, the base afforded the country control over the Pacific coast and was essential in action against the Andean peoples to the south.;;;;;;;;;;;;;;x
 subjugate_yakuts_title;Subjugate the Yakuts;;;;;;;;;;x
 subjugate_yakuts_desc;In 1840, $COUNTRY_ADJ$ soldiers led by Count Aleksei Boroditzki, stationed in Irkutsk, began a campaign of terror and repression against the Yakuts at the frontier of $COUNTRY$ as part of a royal edict to push through the sparsely populated Siberian wilderness to the Pacific coast. The subjugation of the Yakuts removed the last major obstacle to $COUNTRY_ADJ$ dominance of Siberia and the Pacific coast.;;;;;;;;;;;;x
 subjugate_yakuts_finish_title;Declare Victory over the Yakuts;;;;;;;;;;x
@@ -527,16 +527,16 @@ support_latvian_rebels_title;Support Latvian Rebels;;;;;;;;;;;x
 support_latvian_rebels_desc;We have heard the plight of the Latvians. Long have they struggled and suffered under Finnish rule, and now they have decided to take action. We can support them against the Finns and thereby earn a stalwart ally and weaken their masters in one stroke.;;;;;;;;;;;x
 suppress_tuscan_resistance_title;Suppress Tuscan Resistance;;;;;;;;;x
 suppress_tuscan_resistance_desc;With our recent conquest of the Duchy of Tuscany, many remain in its former lands who actively seek justice for the collateral damage our troops caused during the war. They seek freedom and revenge. This must be stopped before it gets out of hand. We will make some examples of the populace.;;;;;;;;;;;x
-swedish_skane_title;Reclaim Skåne;;;;;;;;;;x
-swedish_skane_desc;It has been ten years since Skåne was taken from the Swedish crown. With a new king on the throne and a more powerful army than ever, it is time to take it back! Ära vare Sverige!;;;;;;;;;;;x
+swedish_skane_title;Reclaim SkÃ¥ne;;;;;;;;;;x
+swedish_skane_desc;It has been ten years since SkÃ¥ne was taken from the Swedish crown. With a new king on the throne and a more powerful army than ever, it is time to take it back! Ã„ra vare Sverige!;;;;;;;;;;;x
 treaty_of_brest_title;The Treaty of Brest;;;;;;;;;x
 treaty_of_brest_desc;Ever since our defeat in the Byelorussian War in 1748, we have been waiting for an opportunity to reclaim Brest-Litovsk from Smolensk. At long last, we have our opportunity. With the current situation with Russia, the border is not well-guarded. If we strike quickly, possibly in coordination with the Russians, we may be able to right the wrong done to us a century ago. But that is merely the threat. Let us first see whether Smolensk will return our land peacefully.\n\nHuman Poland only needs State & Government, so Smolensk doesn't HAVE to be at war with Russia.;;;;;;;;;;;x
 treaty_of_twist_title;The Treaty of Twist;;;;;;;;;x
 treaty_of_twist_desc;With the conclusion of the Brunswick Congress, we are now have the very real possibility to unite the Germans under our banner. The matter of Emden, which the Netherlands seized from Oldenburg in 1827, should be settled, as it will create unnecessary friction between our two countries now that we have inherited Oldenburg's claim. We can propose the town of Twist, on the border, to be a meeting ground for negotiations over the territory.;;;;;;;;;;;x
 turn_off_railroading_title;Turn Off Railroading;;;;;;;;;;;x
-turn_off_railroading_desc;Select this to disable railroading, which affects the outcomes of some events in the Heirs to Aquitània mod. You can turn it on again whenever you choose.;;;;;;;;;;;;x
+turn_off_railroading_desc;Select this to disable railroading, which affects the outcomes of some events in the Heirs to AquitÃ nia mod. You can turn it on again whenever you choose.;;;;;;;;;;;;x
 turn_on_railroading_title;Turn On Railroading;;;;;;;;;;x
-turn_on_railroading_desc;Select this to reenable railroading, which affects the outcomes of some events in the Heirs to Aquitània mod. You can turn it off again whenever you choose.;;;;;;;;;;x
+turn_on_railroading_desc;Select this to reenable railroading, which affects the outcomes of some events in the Heirs to AquitÃ nia mod. You can turn it off again whenever you choose.;;;;;;;;;;x
 unequal_treaty_manchu_title;The Unequal Treaty;;;;;;;;;;;;;x
 unequal_treaty_manchu_desc;Manchuria is at a disadvantage. We are in a position to bring them to the negotiating table, and wrangle concessions of both land and reparations-- provided they are willing, of course.;;;;;;;;;;;;;x
 unequal_treaty_nanyue_title;The Unequal Treaty;;;;;;;;;;;;;x
@@ -544,7 +544,7 @@ unequal_treaty_nanyue_desc;Nanyue is at a disadvantage. We are in a position to 
 unification_with_catalonia_title;Unify with the Catalans;;;;;;;;;;;;;;x,,,,
 unification_with_catalonia_desc;Our oppressed and beleaguered brothers to our south are oppressed by their Hispanian overlords! Let us bring them into the fold to secure their freedom!;;;;;;;;;;;;;;x,,,,
 unify_western_med_title;Mare Occidentis Nostrum;;;;;;;;;x
-unify_western_med_desc;We are truly ascendant in the west of the Mediterranean. Its peoples are all our brothers, our cousins, and other long-lost relatives, as evidenced by our similar languages, cultures, customs, and histories. Let the $COUNTRY_ADJ$ eagle spread its wings and bring our far-flung family under its protection, for the benefit of all! \n\n§RNB: You need to own and/or puppet Barcelona, Mauguio, Milan, Rome, and Naples - sphereing alone is not enough. If you want to inherit the countries listed, you must puppet and sphere them.§W;;;;;;;;;;x
+unify_western_med_desc;We are truly ascendant in the west of the Mediterranean. Its peoples are all our brothers, our cousins, and other long-lost relatives, as evidenced by our similar languages, cultures, customs, and histories. Let the $COUNTRY_ADJ$ eagle spread its wings and bring our far-flung family under its protection, for the benefit of all! \n\nÂ§RNB: You need to own and/or puppet Barcelona, Mauguio, Milan, Rome, and Naples - sphereing alone is not enough. If you want to inherit the countries listed, you must puppet and sphere them.Â§W;;;;;;;;;;x
 unite_crowns_BHN_title;Unite the Crowns of Bohemia and Hungary;;;;;;;;;x
 unite_crowns_BHN_desc;In the aftermath of the Hungarian Revolution, the question of the place of Hungary in Bohemia became widely discussed. After deliberation, it was decided that the two crowns should be united in one kingdom proper, thus granting Hungarians recognition as full citizens and full representation in the kingdom. The Crowns of St. Wenceslaus and St. Stephen were joined.;;;;;;;;;;x
 unite_the_celts_title;Unite the Ceilts;;;;;;;;;;;x
@@ -567,3 +567,6 @@ ZAC_inherits_LUZ_title;The Destiny of Luzica;x
 ZAC_inherits_LUZ_desc;Beyond the Odra river lies Luzica, the homeland of the Sorbs, the last remnant of the Slavs that once inhabited all the region from Silesia to Denmark. They have been increasingly marginalized while living in German states, and it is time for us to change that. And we are in a position to do so. Let us welcome them into Zachadia!;x
 ZAC_inherits_RUT_title;Our Brothers, the Ruthenians;x
 ZAC_inherits_RUT_desc;Though their language may not be quite as close to ours as that of the Silesians or Sorbs, the peoples of Zachadia have had much historical contact with the Ruthenians, which has been to the profit of all our peoples. Now that we find ourselves in a position to exert our influence in the region, we should consider incorporating the rich Ruthenian lands into our great nation. Let all share in its bounty!;x
+FRA_embrace_wallonians_title;Embrace our Walloon Brethren;x
+FRA_embrace_wallonians_desc;We have liberated our Walloon Brethren and must begin integrating them! Vive la France!
+integrate_the_aquitanians_title;We have conquered the Aquitanian Empire that has too long lorded over rightful French land, we have liberated our brethren! And now it is time to integrate them as equals, at long last! Vive la France!
