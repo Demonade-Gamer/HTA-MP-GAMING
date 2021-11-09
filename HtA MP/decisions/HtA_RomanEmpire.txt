@@ -185,7 +185,7 @@ political_decisions = {
 		}
 	}
 	
-	roman_adriatic = {
+	roman_cisalpinia = {
 		picture = marching_soldiers
 		potential = {
 			tag = BYZ
@@ -206,13 +206,7 @@ political_decisions = {
 		effect = {
 			set_country_flag = roman_adriatic
 			badboy = 10
-			AUS_736 = { add_core = THIS }
-			AUS_729 = { add_core = THIS }
-			PAP_741 = { add_core = THIS }
-			AUS_771 = { add_core = THIS }
-			AUS_780 = { add_core = THIS }
-			774 = { add_core = THIS }
-			800 = { add_core = THIS }	
+			PDN = { all_core = { add_core = BYZ } }	
 		}
 
 		ai_will_do = {
@@ -245,6 +239,8 @@ political_decisions = {
 
 		effect = {
 			add_accepted_culture = south_italian
+			add_accepted_culture = sicilian
+			add_accepted_culture = maretan
 			prestige = 25
 		}
 	}
@@ -562,5 +558,37 @@ political_decisions = {
 				}
 			}
 		}
+	}
+the_troll_reform = {
+	picture = map_aegean
+	potential = {
+		tag = BYZ
+		NOT = { has_country_flag = first_troll_reform }
+		NOT = { has_country_flag = kilikia_claimed }
+	}
+	allow = {
+		year = 1850
+	}
+	effect = {
+		add_accepted_culture = bulgarian
+		add_accepted_culture = serbian
+		add_accepted_culture = armenian
+		add_accepted_culture = albanian
+		add_accepted_culture = aromanian
+		set_country_flag = first_troll_reform
+		prestige = 25
+	}
+}
+integrate_the_cisalpines = {
+	potential = {
+		has_country_flag = roman_adriatic
+		NOT = { has_country_flag = integrated_north_italian }
+	}
+	allow = {
+		PDN = { all_core = { owned_by = THIS } }
+		year = 1880
+	}
+	effect = {
+		add_accepted_culture = north_italian
 	}
 }

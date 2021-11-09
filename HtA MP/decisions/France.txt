@@ -460,6 +460,7 @@ political_decisions = {
 			}
 		}
 	}
+political_decisions = {
 	integrate_the_aquitanians = {
 		potential = {
 			tag = FRA
