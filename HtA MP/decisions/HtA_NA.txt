@@ -419,14 +419,15 @@ political_decisions = {
 	}
 #Form the Northeastern Union!
 	form_the_northeastern_union = {
-		picture = manifest_destiny
 		potential = {
-			is_culture_group = american_cultures
+			OR = {
+				tag = VST
+				tag = QUE
+				tag = NHL
+			}
 		NOT = { tag = NEU }
 		}
-		
 		allow = {
-			war = no
 			nationalism_n_imperialism = 1
 			VST = {
 				OR = {
@@ -465,7 +466,7 @@ political_decisions = {
 			NOT = { has_country_flag = south_invaded }
 		}
 		allow = {
-		revolution_n_counterrevolution = 1
+		year = 1870
 		}
 		effect = {
 			MEL = { all_core = add_core = MEX }
@@ -478,7 +479,7 @@ political_decisions = {
 			has_country_flag = south_invaded
 			NOT = { has_country_flag = south_integrated }
 		allow = {
-			analytic_philosophy = 1
+			year = 1880
 			MEL = { all_core = { owned_by = THIS } }
 		}
 		effect = {
@@ -491,7 +492,7 @@ political_decisions = {
 			NOT = { has_country_flag = north_invaded }
 		}
 		allow = {
-			nationalism_n_imperialism = 1
+			year = 1870
 		}
 		effect = {
 			MEX = { all_core = { add_core = MEL } }
@@ -505,7 +506,7 @@ political_decisions = {
 			NOT = { has_country_flag = mexicans_integrated }
 		}
 		allow = {
-			revolution_n_counterrevolution = 1
+			yaer = 1880
 			MEX = { all_core = { owned_by = THIS } }
 		}
 		effect = {

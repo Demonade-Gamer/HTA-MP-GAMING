@@ -362,7 +362,21 @@ political_decisions = {
 		}
 	}
 
-
+	claim_aengland = {
+		picture = dreams_of_empire
+		potential = {
+			tag = CLT
+			NOT = { has_country_flag = angles_trolled }
+		}
+		allow = {
+		military_score = 55
+		nationalism_n_imperialism = 1
+		}
+		effect = {
+			AEN = { all_core = { add_core = THIS } }
+			add_accepted_culture = aenglisc
+		}
+	}
 	#Become Albina
 	become_albina = {
 		picture = map_northern_isles
