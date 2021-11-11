@@ -1535,24 +1535,24 @@ slavery_timer = {
 	rgo_output = 0.1
 }
 
-lucky_nation = {
-	badboy = -0.02
-	prestige = 0.01
-	assimilation_rate = 0.1
-	research_points_modifier = 0.25
-	core_pop_militancy_modifier = -0.02
-	tax_efficiency = 0.02
-	population_growth = 0.01
-	supply_consumption = -0.1
-	org_regain = 0.02
-	land_unit_start_experience = 0.2
-	land_organisation = 0.2
-	naval_organisation = 0.2
-	leadership_modifier = 0.05
-	factory_output = 0.05
-	factory_owner_cost = -0.20
-	icon = 11
-}
+# lucky_nation = {
+#	badboy = -0.02
+#	prestige = 0.01
+#	assimilation_rate = 0.1
+#	research_points_modifier = 0.25
+#	core_pop_militancy_modifier = -0.02
+#	tax_efficiency = 0.02
+#	population_growth = 0.01
+#	supply_consumption = -0.1
+#	org_regain = 0.02
+#	land_unit_start_experience = 0.2
+#	land_organisation = 0.2
+#	naval_organisation = 0.2
+#	leadership_modifier = 0.05
+#	factory_output = 0.05
+#	factory_owner_cost = -0.20
+#	icon = 11
+#}
 
 
 mass_labour = {
