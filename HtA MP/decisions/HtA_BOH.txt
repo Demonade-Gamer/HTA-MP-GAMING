@@ -823,7 +823,7 @@ political_decisions = {
 			has_country_flag = balkans_trolled
 			NOT = { has_country_flag = balkans_integrated }
 		allow = {
-		year = 1870
+		year = 1860
 		}
 		effect = {
 			add_accepted_culture = romanian
@@ -835,7 +835,7 @@ political_decisions = {
 			has_country_flag = balkans_trolled
 			NOT = { has_country_flag = balkans_integrated }
 		allow = {
-		year = 1880
+		year = 1870
 		}
 		effect = {
 			add_accepted_culture = bulgarian
