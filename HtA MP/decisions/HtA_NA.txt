@@ -428,7 +428,7 @@ political_decisions = {
 		NOT = { tag = NEU }
 		}
 		allow = {
-			nationalism_n_imperialism = 1
+			year = 1843
 			VST = {
 				OR = {
 					all_core = { in_sphere = THIS }
