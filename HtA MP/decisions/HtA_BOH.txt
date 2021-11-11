@@ -794,3 +794,56 @@ political_decisions = {
 			}
 		}
 	}
+	conquer_the_balkans = {
+		potential = {
+			tag = BHN
+			NOT = { has_country_flag = balkans_trolled }
+		}
+		allow = {
+			year = 1860
+			war = no
+		}
+		effect = {
+			BUL = { all_core = { add_core = THIS } }
+			GRE = { all_core = { add_core = THIS } }
+			ALB = { all_core = { add_core = THIS } }
+			BOS = { all_core = { add_core = THIS } }
+			CRO = { all_core = { add_core = THIS } }
+			MCD = { all_core = { add_core = THIS } }
+			MNT = { all_core = { add_core = THIS } }
+			SER = { all_core = { add_core = THIS } }
+			SLO = { all_core = { add_core = THIS } }
+			VOL = { all_core = { add_core = THIS } }
+			HUN = { all_core = { add_core = THIS } }
+		}
+	}
+	integrate_the_balkan_gamers = {
+		potential = {
+			tag = BHN
+			has_country_flag = balkans_trolled
+			NOT = { has_country_flag = balkans_integrated }
+		allow = {
+		year = 1870
+		}
+		effect = {
+			add_accepted_culture = romanian
+		}
+	}
+	integrate_the_balkan_gamers = {
+		potential = {
+			tag = BHN
+			has_country_flag = balkans_trolled
+			NOT = { has_country_flag = balkans_integrated }
+		allow = {
+		year = 1880
+		}
+		effect = {
+			add_accepted_culture = bulgarian
+			add_accepted_culture = albanian
+			add_accepted_culture = serbian
+			add_accepted_culture = croatian
+			add_accepted_culture = slovene
+			add_accepted_culture = greek
+			add_accepted_culture = aromanian
+		}
+	}
