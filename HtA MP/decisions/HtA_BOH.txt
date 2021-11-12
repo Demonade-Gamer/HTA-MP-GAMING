@@ -815,29 +815,27 @@ political_decisions = {
 			SLO = { all_core = { add_core = THIS } }
 			VOL = { all_core = { add_core = THIS } }
 			HUN = { all_core = { add_core = THIS } }
-			set_country_flag = balkans_trolled
 		}
 	}
 	integrate_the_balkan_gamers = {
 		potential = {
 			tag = BHN
 			has_country_flag = balkans_trolled
-			NOT = { has_country_flag = balkans_integrated_1 }
+			NOT = { has_country_flag = balkans_integrated }
 		allow = {
-		year = 1860
+		year = 1870
 		}
 		effect = {
 			add_accepted_culture = romanian
-			set_country_flag = balkans_integrated_1
 		}
 	}
-	integrate_the_balkan_gamers_2 = {
+	integrate_the_balkan_gamers = {
 		potential = {
 			tag = BHN
-			has_country_flag = balkans_integrated_1
-			NOT = { has_country_flag = balkans_integrated_2 }
+			has_country_flag = balkans_trolled
+			NOT = { has_country_flag = balkans_integrated }
 		allow = {
-		year = 1870
+		year = 1880
 		}
 		effect = {
 			add_accepted_culture = bulgarian
@@ -847,6 +845,5 @@ political_decisions = {
 			add_accepted_culture = slovene
 			add_accepted_culture = greek
 			add_accepted_culture = aromanian
-			set_country_flag = balkans_integrated_2
 		}
 	}

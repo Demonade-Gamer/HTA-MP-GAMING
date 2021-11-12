@@ -408,10 +408,6 @@ political_decisions = {
 		NOT = { tag = NEU }
 		}
 		allow = {
-<<<<<<< HEAD
-=======
-			year = 1843
->>>>>>> 5fedfe392036be41af34920f175857a43e9abf26
 			VST = {
 				OR = {
 					all_core = { owner = { in_sphere = THIS } }

@@ -567,7 +567,7 @@ the_troll_reform = {
 		NOT = { has_country_flag = kilikia_claimed }
 	}
 	allow = {
-		year = 1870
+		year = 1850
 	}
 	effect = {
 		add_accepted_culture = bulgarian
