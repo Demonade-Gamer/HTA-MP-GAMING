@@ -64,9 +64,7 @@ political_decisions = {
 			}
 			OR = {
 				government = fascist_dictatorship
-				AND = {
-					government = absolute_monarchy
-					ruling_party_ideology = reactionary
+				ruling_party_ideology = reactionary
 				}
 			}
 		}
