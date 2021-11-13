@@ -1,16 +1,34 @@
-capital = 194
-primary_culture = margarian
+capital = 65
+primary_culture = nieuwlander
 religion = protestant
-government = hms_government
-plurality = 0.0
+government = democracy
+plurality = 10
 nationalvalue = nv_liberty
-literacy = 0.65
-civilized = yes
+literacy = 0.53
+civilized = yes 
 prestige = 5
 
+schools = traditional_academic
+
+oob = "NHL_oob.txt"
+
+ruling_party = NHL_conservative_92
+
+upper_house = {
+fascist = 0
+reactionary = 33
+conservative = 54
+socialist = 0
+communist = 0
+liberal = 13
+anarcho_liberal = 0
+}
+
+set_country_flag = new_world_nation
+
 # Political reforms
-slavery = yes_slavery
-upper_house_composition = state_equal_weight
+slavery = no_slavery
+upper_house_composition = appointed
 vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = state_press
@@ -24,21 +42,10 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = NOR_conservative
-upper_house = {
-	fascist = 0
-	liberal = 35
-	conservative = 60
-	reactionary = 5
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
-}
 
-set_country_flag = new_world_nation
 
 # Technologies
 post_napoleonic_thought = 1
@@ -65,5 +72,3 @@ water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
-
-oob = "MRG_oob.txt"

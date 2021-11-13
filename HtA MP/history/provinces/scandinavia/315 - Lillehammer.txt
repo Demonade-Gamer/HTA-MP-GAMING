@@ -3,5 +3,5 @@ controller = NOR
 add_core = NOR
 add_core = SCA
 trade_goods = iron
-life_rating = 40
+life_rating = 35
 

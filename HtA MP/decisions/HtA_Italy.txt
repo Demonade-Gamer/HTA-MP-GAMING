@@ -51,8 +51,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			owns = 744
-			owns = 743
+			ideological_thought = 1
 			NOT = { exists = PAP }
 			NOT = { government = democracy }
 		}

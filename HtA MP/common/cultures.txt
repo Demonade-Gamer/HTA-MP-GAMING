@@ -2143,11 +2143,6 @@ native_american = {
 
 american_cultures = {
 	leader = european
-	is_overseas = no	
-}
-
-neo_european_cultures = {
-	leader = european
 	is_overseas = no
 	french_canadian = { 
 		color = {168 195 255}
@@ -2158,32 +2153,32 @@ neo_european_cultures = {
 		last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau Trottier Tremblay Chabot Laquerre
 		Poirier Lacasse Cadieux Legrand
 		}
-	}
 	vestlandic = {
 		color = {129  159  107}
-		first_names = { 
-		Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman Johan Jorgen Ludvig Nils Ogmund 
-		Olav Osvald Otto Peter Sigurd 
-		}
-		last_names = { 
-		Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
+		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
+		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
+		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
+		
+		last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
 		Frisvold Hákonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
-		Rye Sissener Skjalgsson Tambarskjelve Tordenskjold Wedel-Jarlsberg Wiborg With Zeiner-Gundersen
-		}
+		Rye Sissener Skjalgsson Tambarskjelve Tordenskjold Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
 	}
 	nieuwlander = {
 		color = {136  157  48}
 		first_names = { 
-		Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham Barthout
-		Casimir Constantijn Cornelis Christiaan Christoffel Daniël David Dominicus Daniel Dirk
-		Elias Ernst Erwin Eise Frans Frederik Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
-		Hendrik Hans Hugo Isaac Johan Jurgen Jacob Jeroen Jan Joost Karel Kasper Luuk Lodewijk Laurens
-		Marius Matthijs Maximiliaam Merkus Moritz Maurits Nikolaas Pauwel Paul Pieter Quinten
-		Ruben Rudolf Roeland Rogier Rutger Stefan Simon Thomas Victor Willem Vincent Zacharias
+			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham Barthout
+			Casimir Constantijn Cornelis Christiaan Christoffel Daniël David Dominicus Daniel Dirk
+			Elias Ernst Erwin Eise Frans Frederik Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
+			Hendrik Hans Hugo Isaac Johan Jurgen Jacob Jeroen Jan Joost Karel Kasper Luuk Lodewijk Laurens
+			Marius Matthijs Maximiliaam Merkus Moritz Maurits Nikolaas Pauwel Paul Pieter Quinten
+			Rafaël Ruben Rudolf Roeland Rogier Rutger Stefan Simon Thomas Victor Willem Vincent Zacharias
 		}
-		last_names = { Cilliers Botha Kruger Duquesne Potgieter "van Rensburg" "de Houtman" Theron "de Wet" Pretorius Retief "van der Meulen" Uys Steyr Rothmann
-		}
-	}
+		
+}
+
+neo_european_cultures = {
+	leader = european
+	is_overseas = no
 	boer = {
 		color = {220 145 0}
 		first_names = { Adam Andries Christian Cornelis Daniel Dirk Eugene Helmut Hendrick Hermanus Joubert Louis Paul Petrus Pieter Sarel Racheltjie Rudolf 
@@ -2205,12 +2200,18 @@ neo_european_cultures = {
 		Cilliers Botha Kruger Duquesne Potgieter "van Rensburg" "de Houtman" Theron "de Wet" Pretorius Retief "van der Meulen" Uys Steyr Rothmann 
 		}
 	}
+	}
 	margarian = {
 		color = {129  129  177}
 		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
 		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
-		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd
-		}
+		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
+		
+		last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
+		Frisvold Hákonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
+		Rye Sissener Skjalgsson Tambarskjelve Tordenskjold Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
+	}
+
 		last_names = { 
 			"van der Aa" "van Assendelft" 
 			Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode" Brouwer Buyskes "van Braam Houckgeest"

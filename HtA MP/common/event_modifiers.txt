@@ -1089,18 +1089,9 @@ end_the_war = {
 }
 
 international_pariah = {
-	factory_throughput = -0.5
-	RGO_throughput = -0.4
-	tax_efficiency = -0.05
-	poor_everyday_needs = 0.3
-	middle_everyday_needs = 0.3
-	rich_everyday_needs = 0.3
-	poor_luxury_needs = 0.3
-	middle_luxury_needs = 0.3
-	rich_luxury_needs = 0.3
-	loan_interest = 0.2
-	global_pop_militancy_modifier = 0.15
-	global_pop_consciousness_modifier = 0.5
+	diplomatic_points_modifier = -0.25
+	non_accepted_pop_militancy_modifier = 0.2
+	prestige = -0.2
 	icon = 4
 }
 
@@ -1544,24 +1535,24 @@ slavery_timer = {
 	rgo_output = 0.1
 }
 
-# lucky_nation = {
-#	badboy = -0.02
-#	prestige = 0.01
-#	assimilation_rate = 0.1
-#	research_points_modifier = 0.25
-#	core_pop_militancy_modifier = -0.02
-#	tax_efficiency = 0.02
-#	population_growth = 0.01
-#	supply_consumption = -0.1
-#	org_regain = 0.02
-#	land_unit_start_experience = 0.2
-#	land_organisation = 0.2
-#	naval_organisation = 0.2
-#	leadership_modifier = 0.05
-#	factory_output = 0.05
-#	factory_owner_cost = -0.20
-#	icon = 11
-#}
+lucky_nation = {
+	badboy = -0.02
+	prestige = 0.01
+	assimilation_rate = 0.1
+	research_points_modifier = 0.25
+	core_pop_militancy_modifier = -0.02
+	tax_efficiency = 0.02
+	population_growth = 0.01
+	supply_consumption = -0.1
+	org_regain = 0.02
+	land_unit_start_experience = 0.2
+	land_organisation = 0.2
+	naval_organisation = 0.2
+	leadership_modifier = 0.05
+	factory_output = 0.05
+	factory_owner_cost = -0.20
+	icon = 11
+}
 
 
 mass_labour = {
@@ -1828,11 +1819,11 @@ communist_technology = {
 
 #### Heirs to Aquitania HtA####
 native_societies1 = {
-	global_immigrant_attract = -10
+	global_immigrant_attract = .01
 	icon = 8
 }
 native_societies2 = {
-	global_population_growth = 0.025
+	global_population_growth = 0.0001
 	icon = 7
 }
 
