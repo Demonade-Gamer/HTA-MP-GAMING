@@ -274,7 +274,9 @@ political_decisions = {
 			}
 		}
 	}
+}	
 # Integrate the French
+political_decisions = {
 	integrate_the_french = {
 		potential = {
 			tag = AQT
@@ -294,4 +296,3 @@ political_decisions = {
 			set_country_flag = fra_accepted
 		}
 	}
-}
