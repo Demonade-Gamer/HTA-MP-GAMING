@@ -77,7 +77,6 @@ political_decisions = {
 	partition_daufinat = {
 		picture = conference1
 		potential = {
-			prestige = 50000
 			tag = AQT
 			war = no
 			has_global_flag = RIP_Guigues
