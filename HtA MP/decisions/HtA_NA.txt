@@ -465,6 +465,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = mellomsk
+			set_country_flag = south_integrated
 		}
 	}
 	invade_the_north = {
@@ -492,6 +493,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = mexican
+			set_country_flag = mexicans_integrated
 			prestige = 12
 		}
 	}
