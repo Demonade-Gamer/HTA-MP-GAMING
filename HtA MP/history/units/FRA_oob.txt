@@ -7,7 +7,7 @@ BRT = { value = -50 }
 leader = {
 	name = "Hugo Bugeaud de Seurre"
 	picture = european_general_3
-	date = 1835.1.1
+	date = 1836.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_5.1
