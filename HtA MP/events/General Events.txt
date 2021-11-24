@@ -20,9 +20,9 @@ country_event = {
 		define_general = {
 			name = "John Cena"
 			#+1 attack, +1 defence. +10% morale
-			personality = stalwart
+			personality = defence_4.1
 			#+3 attack, +3 defence
-			background = innovative_tactician
+			background = attack_4.1
 		}
 	}
 	option = {

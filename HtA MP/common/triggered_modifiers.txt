@@ -255,7 +255,7 @@ save_the_nation5  = {
 }
 
 #New to HtA
-great_depression = {
+get_trolled = {
 	trigger = {
 		badboy = 1.3
 	}
