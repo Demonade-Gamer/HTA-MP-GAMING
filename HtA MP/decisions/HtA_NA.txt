@@ -278,6 +278,35 @@ political_decisions = {
 			}
 		}
 	}
+invade_the_mexicans_scw = {
+		potential = {
+			tag = MEL
+			NOT = { has_country_flag = north_invaded_scw }
+		}
+		allow = {
+			year = 1870
+		}
+		effect = {
+			MEX = { all_core = { add_core = SCW } }
+			set_country flag = north_invaded_scw
+		}
+	}
+integrate_the_mexicans_scw = {
+		potential = {
+			has_country_flag = north_invaded
+			tag = MEL
+			NOT = { has_country_flag = mexicans_integrated_scw }
+		}
+		allow = {
+			yaer = 1880
+			MEX = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			add_accepted_culture = mexican
+			set_country_flag = mexicans_integrated_scw
+			prestige = 12
+		}
+	}
 
 	### End SCW decisions #########
 
@@ -491,6 +520,7 @@ political_decisions = {
 		}
 		effect = {
 			MEL = { all_core = add_core = MEX }
+			
 			set_country_flag = south_invaded
 		}
 	}
