@@ -257,6 +257,25 @@ political_decisions = {
 			CLF = { all_core = { add_core = SCW } }
 			MRG = { all_core = { add_core = SCW } }
 			change_tag = SCW
+			random_country = {
+				limit = {
+					OR = {
+						tag = CLF
+						tag = GNC
+						tag = MRG
+						tag = SKM
+					}
+					exists = yes
+					is_greater_power = no
+					in_sphere = THIS
+					war = no
+					OR = {
+						vassal_of = THIS
+						is_vassal = no
+					}
+				}
+				country_event = 98650
+			}
 		}
 	}
 
@@ -438,6 +457,27 @@ political_decisions = {
 			NHL = { all_core = { add_core = NEU } }
 			QUE = { all_core = { add_core = NEU } }
 			change_tag = NEU
+			
+			random_country = {
+				limit = {
+					OR = {
+						tag = QUE
+						tag = NHL
+						tag = VST
+					}
+					exists = yes
+					is_greater_power = no
+					in_sphere = THIS
+					war = no
+					OR = {
+						vassal_of = THIS
+						is_vassal = no
+					}
+				}
+				country_event = 98650
+			}
+		}
+	}
 		}
 	}
 	

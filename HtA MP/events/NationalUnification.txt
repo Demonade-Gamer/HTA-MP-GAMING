@@ -1927,68 +1927,6 @@ country_event = {
 			}
 		}
 	}
-	
-	option = {
-		name = "We have no interest in becoming part of $FROMCOUNTRY$."
-		clr_country_flag = wants_to_unify
-		prestige = 1
-		FROM = { country_event = 98651 }
-		any_pop = {
-			limit = { is_primary_culture = yes }
-			militancy = 3
-			consciousness = 2
-		}
-		ai_chance = {
-			factor = 25
-			modifier = {
-				factor = 0
-				has_country_flag = wants_to_unify
-			}
-			modifier = {
-				factor = 1000
-				tag = SWI
-			}
-			modifier = {
-				factor = 3
-				truce_with = FROM
-			}
-			modifier = {
-				factor = 1.5
-				NOT = {
-					relation = { who = FROM value = 0 }
-				}
-			}
-			modifier = {
-				factor = 0.25
-				in_sphere = FROM
-			} 
-			modifier = {
-				factor = 0.25
-				government = fascist_dictatorship
-				FROM = { government = fascist_dictatorship }
-			}
-			modifier = {
-				factor = 0.25
-				government = proletarian_dictatorship
-				FROM = { government = proletarian_dictatorship }
-			}
-			modifier = {
-				factor = 0.25
-				OR = {
-					government = democracy
-					government = prussian_constitutionalism
-					government = hms_government
-				}
-				FROM = {
-					OR = {
-						government = democracy
-						government = prussian_constitutionalism
-						government = hms_government
-					}
-				}
-			}
-		}
-	}
 }
 
 country_event = {
