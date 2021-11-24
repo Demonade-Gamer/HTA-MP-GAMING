@@ -251,7 +251,7 @@ political_decisions = {
 			add_accepted_culture = skamisc
 			add_accepted_culture = ginnaecerisc
 			add_accepted_culture = margarian
-			add_accepted_culture = califaniano
+			add_accepted_culture = califiano
 			SKM = { all_core = { add_core = SCW } }
 			GNC = { all_core = { add_core = SCW } }
 			CLF = { all_core = { add_core = SCW } }
