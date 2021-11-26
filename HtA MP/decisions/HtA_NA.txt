@@ -486,7 +486,6 @@ integrate_the_mexicans_scw = {
 			NHL = { all_core = { add_core = NEU } }
 			QUE = { all_core = { add_core = NEU } }
 			change_tag = NEU
-			
 			random_country = {
 				limit = {
 					OR = {
@@ -507,9 +506,6 @@ integrate_the_mexicans_scw = {
 			}
 		}
 	}
-		}
-	}
-	
 	invade_the_southern_europeans = {
 		potential = {
 			tag = MEX
@@ -519,8 +515,11 @@ integrate_the_mexicans_scw = {
 		year = 1870
 		}
 		effect = {
-			MEL = { all_core = add_core = MEX }
-			
+			MEL = { all_core = { add_core = MEX } }
+			HOY = { all_core = { add_core = MEX } }
+			MDT = { all_core = { add_core = MEX } }
+			MNK = { all_core = { add_core = MEX } }
+			YUC = { all_core = { add_core = MEX } }
 			set_country_flag = south_invaded
 		}
 	}
@@ -529,13 +528,53 @@ integrate_the_mexicans_scw = {
 			tag = MEX
 			has_country_flag = south_invaded
 			NOT = { has_country_flag = south_integrated }
+		}
 		allow = {
 			year = 1880
-			MEL = { all_core = { owned_by = THIS } }
+			OR = {
+				MEL = { all_core = { owned_by = THIS } }
+				AND = {
+					HOY = { all_core = { owned_by = THIS } }
+					MDT = { all_core = { owned_by = THIS } }
+					MNK = { all_core = { owned_by = THIS } }
+				}
+			}
 		}
 		effect = {
 			add_accepted_culture = mellomsk
+			add_accepted_culture = mayan
 			set_country_flag = south_integrated
+		}
+	}
+	invade_the_north_mex = {
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = north_invaded_mex }
+		}
+		allow = {
+			year = 1850
+		}
+		effect = {
+			CLF = { all_core = { add_core = MEX } }
+			GNC = { all_core = { add_core = MEX } }
+			set_country_flag = north_invaded_mex
+		}
+	}
+	integrate_the_north_mex = {
+		potential = {
+			tag = MEX
+			has_country_flag = north_invaded_mex
+			NOT = { has_country_flag = north_integrated }
+		}
+		allow = {
+			year = 1870
+			CLF = { all_core = { owned_by = THIS } }
+			GNC = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			add_accepted_culture = ginnaecerisc
+			add_accepted_culture = califiano
+			set_country flag = north_integrated
 		}
 	}
 	invade_the_north = {
@@ -545,9 +584,12 @@ integrate_the_mexicans_scw = {
 		}
 		allow = {
 			year = 1870
+			CLF = { all_core = { owned_by = THIS } }
+			GNC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			MEX = { all_core = { add_core = MEL } }
+			YUC = { all_core = { add_core = MEL } }
 			set_country flag = north_invaded
 		}
 	}
