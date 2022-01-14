@@ -4,31 +4,31 @@
 #Auckland (17000/4250 POPS)
 2509 = {
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 400
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 8575
 	}
@@ -72,31 +72,31 @@
 	}
 
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 4775
 	}
@@ -135,31 +135,31 @@
 	}
 	
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 5075
 	}
@@ -196,31 +196,31 @@
 		size = 3350
 	}
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 8675
 	}
@@ -259,31 +259,31 @@
 	}
 	
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 255
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 7675
 	}
@@ -293,31 +293,31 @@
 #Dunedin (4000/1000 POPS)
 2513 = {
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 9000
 	}
@@ -331,31 +331,31 @@
 #Hokitikia (4000/1000 POPS)
 2514 = {
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 9000
 	}
@@ -369,31 +369,31 @@
 #Christchurch (4000/1000 POPS)
 2515 = {
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 1000
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 17750
 	}
@@ -407,31 +407,31 @@
 #Nelson (12000/3000 POPS)
 2516 = {
 	aristocrats = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 750
 	}
 
 	artisans = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 750
 	}
 
 	farmers = {
-		culture = maori
+		culture = berrian
 		religion = animist
 		size = 26750
 	}

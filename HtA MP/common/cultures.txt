@@ -1925,20 +1925,6 @@ oceanic = {
 		last_names = { Akaka Apoliona Gaulteria Hee Kahanamoku Kanahele Kekumano Mahealani Momoa Sossamon Trask Wentz Iaukea Nawahi
 		}
 	}
-	maori = {
-		color = {95 14 187}
-		first_names = { Potatau Tukaroto Matutaera Tawhiao Mahuta "Te Rata" Koroki "Te Ata-i" Rangi-Kahu 
-		}
-		last_names = { Wherowhero Kenena Raouparah Herangi Ataarangikaahu 
-		}
-	}
-	aborigine = {
-		color = {78 24 92}
-		first_names = { Nemarluk Umbarra Wylie Yagan Tollamareena Pemulwy Mokare Derrimut Bennelong Billibellary
-		}
-		last_names = { Bunurong Lanne Noongar Mullagh Windich Wonga
-		}
-	}
 	melanesian = {
 		color = {187 42 167}
 		first_names = { Ti-Toorou Ti-Quatchium Kaoua Kanendjo Samuel Ti-Abel  Seru Epenisa Tamavunisa Yavala Ralulu Raivalita Rasolo Lubati Taltai Eroni
