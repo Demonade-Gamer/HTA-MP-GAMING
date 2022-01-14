@@ -4,3 +4,9 @@ slave_acceptance_VST_desc;The slaves in our nation have been granted freedom, an
 #############################################;;;;;;;;;;;;;;x
 slave_acceptance_USR_title;Integrating former slaves;;;;;;;;;;;;;x
 slave_acceptance_USR_desc;The slaves in our nation have been granted freedom, and therefore, should be given full citizenship rights!;;;;;;;;;;;;;x
+will_give_title;Request a Grant;;;;;;;;;;;;;x
+will_give_desc;Request a Grant from other player-controlled nations.;;;;;;;;;;;;;x
+will_receive_title;Receive Grant Requests;;;;;;;;;;;;;x
+will_receive_title;Receive Grant Requests from other player-controlled nations.;;;;;;;;;;;;;x
+will_not_give_title;Don't receive Grant Requests;;;;;;;;;;;;;x
+will_not_give_desc;Don't receive Grant Request from other player-controlled nations.;;;;;;;;;;;;;x
