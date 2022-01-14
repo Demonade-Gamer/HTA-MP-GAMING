@@ -170,44 +170,188 @@ political_decisions = {
 
 	##### About the SKM-GNC union nation - Scylfiga Woning SCW  #########
 
-#	annex_califiana = {
-#		picture = marching_soldiers
-#		potential = {
-#			tag = GNC
-#			has_global_flag = sierra_troubles
-#			is_disarmed = no
-#			war = no
-#			NOT = { alliance_with = CLF }
-#			NOT = { has_country_flag = annex_califiana }
-#		}
+	annex_califiana = {
+		picture = marching_soldiers
+		potential = {
+		OR = {
+			tag = GNC
+			tag = SKM
+			tag = MRG
+		}
+			is_disarmed = no
+			war = no
+			NOT = { alliance_with = CLF }
+			NOT = { has_country_flag = annex_califiana }
+		}
 		
-#		allow = {
-#			NOT = {
-#				SKM = { alliance_with = CLF }
-#			}
-#			relation = { who = SKM value = 75 }
-#			prestige = 20
-#			OR = {
-#				war_policy = pro_military
-#				war_policy = jingoism
-#			}
-#		}
+		allow = {
+			OR = {
+				AND = {
+					tag = GNC
+					neighbour = CLF
+				}
+				AND = {
+					tag = SKM
+					neighbour = CLF
+				}
+				AND = { 
+					tag = MRG
+					neighbour = CLF
+				}
+			}
+
+		}
 		
-#		effect = {
-#			badboy = 10
-#			SKM = { country_event = 51005 }
-#			set_country_flag = annex_califiana
-#		}
+		effect = {
+			badboy = 10
+			CLF = { all_core = { add_core = THIS } }
+			set_country_flag = annex_califiana
+		}
 		
-#		ai_will_do = {
-#			factor = 1
-#			modifier = {
-#				factor = 0
-#				badboy = 0.6
-#			}
-#		}
-#	}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}
+	annex_ginnaecer = {
+		picture = marching_soldiers
+		potential = {
+		OR = {
+			tag = CLF
+			tag = SKM
+			tag = MRG
+		}
+			is_disarmed = no
+			war = no
+			NOT = { alliance_with = CLF }
+			NOT = { has_country_flag = annex_ginnaecer }
+		}
 		
+		allow = {
+			OR = {
+				AND = {
+					tag = MRG
+					neighbour = GNC
+				}
+				AND = {
+					tag = SKM
+					neighbour = GNC
+				}
+				AND = { 
+					tag = CLF
+					neighbour = GNC
+				}
+			}
+
+		}
+		
+		effect = {
+			badboy = 10
+			GNC = { all_core = { add_core = THIS } }
+			set_country_flag = annex_ginnaecer
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}
+	annex_skamisc = {
+		picture = marching_soldiers
+		potential = {
+		OR = {
+			tag = GNC
+			tag = CLF
+			tag = MRG
+		}
+			is_disarmed = no
+			war = no
+			NOT = { alliance_with = SKM }
+			NOT = { has_country_flag = annex_skamisc }
+		}
+		
+		allow = {
+			OR = {
+				AND = {
+					tag = GNC
+					neighbour = SKM
+				}
+				AND = {
+					tag = MRG
+					neighbour = SKM
+				}
+				AND = { 
+					tag = CLF
+					neighbour = SKM
+				}
+			}
+
+		}		
+		effect = {
+			badboy = 10
+			SKM = { all_core = { add_core = THIS } }
+			set_country_flag = annex_skamisc
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}
+	annex_margaria = {
+		picture = marching_soldiers
+		potential = {
+		OR = {
+			tag = GNC
+			tag = SKM
+			tag = CLF
+		}
+			is_disarmed = no
+			war = no
+			NOT = { alliance_with = MRG }
+			NOT = { has_country_flag = annex_margaria }
+		}
+		
+		allow = {
+			OR = {
+				AND = {
+					tag = GNC
+					neighbour = MRG
+				}
+				AND = {
+					tag = SKM
+					neighbour = MRG
+				}
+				AND = { 
+					tag = CLF
+					neighbour = MRG
+				}
+			}
+		}
+		
+		effect = {
+			badboy = 10
+			MRG = { all_core = { add_core = THIS } }
+			set_country_flag = annex_margaria
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}		
 	form_scylfiga_woning = { 
 		picture = manifest_destiny
 		potential = {
@@ -252,6 +396,7 @@ political_decisions = {
 			add_accepted_culture = ginnaecerisc
 			add_accepted_culture = margarian
 			add_accepted_culture = califiano
+			add_accepted_culture = afro_american
 			SKM = { all_core = { add_core = SCW } }
 			GNC = { all_core = { add_core = SCW } }
 			CLF = { all_core = { add_core = SCW } }
@@ -268,6 +413,7 @@ political_decisions = {
 					exists = yes
 					is_greater_power = no
 					in_sphere = THIS
+					is_player = no
 					war = no
 					OR = {
 						vassal_of = THIS
@@ -278,7 +424,7 @@ political_decisions = {
 			}
 		}
 	}
-invade_the_mexicans_scw = {
+invade_the_mexicans_mel = {
 		potential = {
 			tag = MEL
 			NOT = { has_country_flag = north_invaded_scw }
@@ -291,14 +437,13 @@ invade_the_mexicans_scw = {
 			set_country flag = north_invaded_scw
 		}
 	}
-integrate_the_mexicans_scw = {
+integrate_the_mexicans_mel = {
 		potential = {
 			has_country_flag = north_invaded
 			tag = MEL
 			NOT = { has_country_flag = mexicans_integrated_scw }
 		}
 		allow = {
-			yaer = 1880
 			MEX = { all_core = { owned_by = THIS } }
 		}
 		effect = {
@@ -482,6 +627,7 @@ integrate_the_mexicans_scw = {
 			add_accepted_culture = vestlandic
 			add_accepted_culture = french_canadian
 			add_accepted_culture = nieuwlander
+			add_accepted_culture = afro_american
 			VST = { all_core = { add_core = NEU } }
 			NHL = { all_core = { add_core = NEU } }
 			QUE = { all_core = { add_core = NEU } }
@@ -496,6 +642,7 @@ integrate_the_mexicans_scw = {
 					exists = yes
 					is_greater_power = no
 					in_sphere = THIS
+					is_player = no
 					war = no
 					OR = {
 						vassal_of = THIS
