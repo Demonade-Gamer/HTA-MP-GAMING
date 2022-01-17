@@ -1,11 +1,11 @@
 capital = 754
 primary_culture = south_italian
-#culture = sicilian
+culture = sicilian
 religion = catholic
 government = absolute_monarchy
-plurality = 25.0
+plurality = 100.0
 nationalvalue = nv_might
-literacy = 0.35
+literacy = 0.50
 civilized = yes
 
 prestige = 38

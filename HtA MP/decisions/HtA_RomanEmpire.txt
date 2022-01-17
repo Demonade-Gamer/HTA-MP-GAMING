@@ -154,11 +154,12 @@ political_decisions = {
 			tag = BYZ
 			has_country_flag = kilikia_claimed
 			NOT = { has_country_flag = roman_italy }
+			NOT = { has_country_flag = first_troll_reform }
 			ai = no
 		}
 		
 		allow = {
-			owns = 967
+			year = 1850
 			OR = {
 				war_policy = jingoism
 				government = fascist_dictatorship
@@ -564,7 +565,7 @@ the_troll_reform = {
 	potential = {
 		tag = BYZ
 		NOT = { has_country_flag = first_troll_reform }
-		NOT = { has_country_flag = kilikia_claimed }
+		NOT = { has_country_flag = roman_italy }
 	}
 	allow = {
 		year = 1850

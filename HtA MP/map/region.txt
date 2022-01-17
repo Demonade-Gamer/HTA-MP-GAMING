@@ -317,9 +317,9 @@ GER_566 = { 564 566 567 568 } #Kassel
 
 PRU_570 = { 569 570 571 2560 } #Palatinate
 
-PRU_575 = { 575 576 577 578 2561 } #Rheinland/Northern Rheinland
+PRU_575 = { 575 576 577 578 2561 397 572 573 574 579 } #Rheinland/Northern Rheinland
 
-PRU_578 = { 397 572 573 574 579 } #Eastern Rheinland/Southern Rheinland
+#PRU_578 = { 397 572 573 574 579 } #Eastern Rheinland/Southern Rheinland
 
 PRU_581 = { 581 580 582 585 } #Westfalen
 
@@ -333,9 +333,9 @@ BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 
 SWI_603 = { 603 604 605 606 } #East Switzerland/Helvetia
 
-PRU_682 = { 682 683 687 } #Lower Silesia
+PRU_682 = { 682 683 687 684 685 689 2584 688 } #Lower Silesia
 
-PRU_684 = { 684 685 689 2584 688 } #Upper Silesia
+#PRU_684 = { 684 685 689 2584 688 } #Upper Silesia
 
 PRU_690 = { 690 691 693 694 } #Westpreu?en/Pomorze
 
@@ -447,19 +447,19 @@ GRE_826 = { 826 827 } #Heptanesa
 
 GRE_839 = { 839 840 841 842 } #Peloponnese
 
-TUR_832 = { 825 824 833 837 } #Thessalia/Epirou
+#TUR_832 = { 825 824 833 837 } #Thessalia/Epirou
 
-GRE_837 = { 834 832 831 836 835 838 } #Hellas (I don't remember if it was called Attica before, but that was the name I had written here first)
+GRE_837 = { 834 832 831 836 835 838 860 828 858 859 825 824 833 837 } #Hellas (I don't remember if it was called Attica before, but that was the name I had written here first)
 
-EGY_843 = { 846 843 844 845 } #Aegean Islands
+EGY_843 = { 846 843 844 845 848 847 856 855 857 } #Aegean Islands
 
-CRE_847 = { 848 847 } #Crete
+#CRE_847 = { 848 847 } #Crete
 
 TUR_853 = { 849 853 852 851 850 } #Albania/Arbenon
 
-TUR_855 = { 856 855 857 } #Cyprus
+#TUR_855 = { 856 855 857 } #Cyprus
 
-TUR_860 = { 860 828 858 859 } #Thrace
+#TUR_860 = { 860 828 858 859 } #Thrace
 
 
 ### Middle East

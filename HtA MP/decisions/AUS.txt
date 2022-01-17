@@ -38,16 +38,11 @@ political_decisions = {
 			}
 		}
 		allow = {
-			year = 1875
 			prestige = 50
-			revolution_n_counterrevolution = 1
-			psychoanalysis = 1
-			social_science = 1
 		}
 		effect = {
 			set_country_flag = embraced_slovenes
 			add_accepted_culture = slovene
-			prestige = -25
 			any_pop = {
 				limit = {
 					OR = {
@@ -70,45 +65,40 @@ political_decisions = {
 		}
 	}
 	
-#	embrace_croat_minority = {
-#		picture = embrace_minority
-#		potential = {
-#			tag = AUS
-#			any_owned_province = { is_core = CRO }
-#			NOT = {
-#				accepted_culture = croat
-#			}
-#			accepted_culture = slovene
-#		}
-#		allow = {
-#			year = 1870
-#			prestige = 50
-#			revolution_n_counterrevolution = 1
-#			psychoanalysis = 1
-#		}
-#		effect = {
-#			set_country_flag = embraced_croats
-#			add_accepted_culture = croat
-#			prestige = -25
-#			any_pop = {
-#				limit = {
-#					OR = {
-#						has_pop_culture = hungarian
-#						has_pop_culture = czech
-#					}
-#				}
-#				militancy = 4
-#				consciousness = 4
-#			}
-#			any_pop = {
-#				limit = { has_pop_culture = croat }
-#				militancy = -4
-#				consciousness = -4
-#			}
-#		}
-#		ai_will_do = {
-#			factor = 1
-#		}
-#	}
+	embrace_croat_minority = {
+		picture = embrace_minority
+		potential = {
+			tag = AUS
+			any_owned_province = { is_core = CRO }
+			NOT = {
+				accepted_culture = croat
+			}
+		}
+		allow = {
+			prestige = 50
+		}
+		effect = {
+			set_country_flag = embraced_croats
+			add_accepted_culture = croat
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_culture = hungarian
+						has_pop_culture = czech
+					}
+				}
+				militancy = 4
+				consciousness = 4
+			}
+			any_pop = {
+				limit = { has_pop_culture = croat }
+				militancy = -4
+				consciousness = -4
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }
 

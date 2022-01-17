@@ -12,11 +12,4 @@ state_building = {
 	upgrade = yes
 }
 
-state_building = {
-	level = 2 
-	building = winery
-	upgrade = yes
-}
-
-
 

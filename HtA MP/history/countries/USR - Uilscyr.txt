@@ -1,12 +1,12 @@
 capital = 2410
 primary_culture = uilsc
 religion = protestant
-government = democracy
-plurality = 0.0
+government = constitutional_monarchy
+plurality = 70.0
 nationalvalue = nv_equality
-literacy = 0.13
+literacy = 0.2
 civilized = yes
-prestige = 5
+prestige = 15
 
 # Political reforms
 slavery = yes_slavery

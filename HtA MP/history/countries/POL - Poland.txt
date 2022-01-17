@@ -3,9 +3,9 @@ primary_culture = polish
 culture = prusai
 religion = catholic
 government = absolute_monarchy
-plurality = 0.75
+plurality = 55.0
 nationalvalue = nv_order
-literacy = 0.3
+literacy = 0.35
 non_state_culture_literacy = 0.18
 civilized = yes
 

@@ -406,26 +406,10 @@ political_decisions = {
 			CLF = { all_core = { add_core = SCW } }
 			MRG = { all_core = { add_core = SCW } }
 			change_tag = SCW
-			random_country = {
-				limit = {
-					OR = {
-						tag = CLF
-						tag = GNC
-						tag = MRG
-						tag = SKM
-					}
-					exists = yes
-					is_greater_power = no
-					in_sphere = THIS
-					is_player = no
-					war = no
-					OR = {
-						vassal_of = THIS
-						is_vassal = no
-					}
-				}
-				country_event = 98650
-			}
+			inherit = SKM
+			inherit = GNC
+			inherit = CLF
+			inherit = MRG
 		}
 	}
 invade_the_mexicans_mel = {
@@ -460,140 +444,137 @@ integrate_the_mexicans_mel = {
 	### End SCW decisions #########
 
 	
-	form_mellomamerika_without = {
-		picture = map_central_america
-		potential = {
-			OR = {
-				capital_scope = { continent = north_america }
-				capital_scope = { continent = south_america }
-			}
-			NOT = { primary_culture = mellomsk }
-			MEL = { exists = no }
-		}
-		
-		allow = {
-			nationalism_n_imperialism = 1
-			war = no
-			MNK = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							OR = {
-								is_vassal = no
-								vassal_of = THIS
-							}
-							war = no
-							is_greater_power = no
-						}
-					}
-				}
-			}
-			MDT = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							OR = {
-								is_vassal = no
-								vassal_of = THIS
-							}
-							war = no
-							is_greater_power = no
-						}
-					}
-				}
-			}
-			HOY = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							OR = {
-								is_vassal = no
-								vassal_of = THIS
-							}
-							war = no
-							is_greater_power = no
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			badboy = 3
-			prestige = 20
-			MNK = {
-				all_core = {
-					add_core = MEL
-				}
-				any_owned = {
-					limit = {
-						NOT = { is_core = MNK }
-					}
-					add_core = BRR						#just a utility tag
-				}
-			}
-			MDT = {
-				all_core = {
-					add_core = MEL
-				}
-				any_owned = {
-					limit = {
-						NOT = { is_core = MDT }
-					}
-					add_core = BRR
-				}
-			}
-			HOY = {
-				all_core = {
-					add_core = MEL
-				}
-				any_owned = {
-					limit = {
-						NOT = { is_core = HOY }
-					}
-					add_core = BRR
-				}
-			}
-
-			any_country = {
-				limit = {
-					primary_culture = mellomsk
-					in_sphere = THIS
-					OR = {
-						is_vassal = no
-						vassal_of = THIS
-					}
-				}
-				annex_to = THIS
-			}
-			release_vassal = MEL
-			create_alliance = MEL
-			diplomatic_influence = {
-				who = MEL
-				value = 400
-			}
-			any_owned = {
-				limit = {
-					is_core = BRR
-				}
-				secede_province = MEL
-				remove_core = BRR
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.88
-			}
-		}
-	}
+#	form_mellomamerika_without = {
+#		picture = map_central_america
+#		potential = {
+#			OR = {
+#				capital_scope = { continent = north_america }
+#				capital_scope = { continent = south_america }
+#			}
+#			NOT = { primary_culture = mellomsk }
+#			MEL = { exists = no }
+#		}	
+#		allow = {
+#			nationalism_n_imperialism = 1
+#			war = no
+#			MNK = {
+#				all_core = {
+#					OR = {
+#						owned_by = THIS
+#						owner = {
+#							in_sphere = THIS
+#							OR = {
+#								is_vassal = no
+#								vassal_of = THIS
+#							}
+#							war = no
+#							is_greater_power = no
+#						}
+#					}
+#				}
+#			}
+#			MDT = {
+#				all_core = {
+#					OR = {
+#						owned_by = THIS
+#						owner = {
+#							in_sphere = THIS
+#							OR = {
+#								is_vassal = no
+#								vassal_of = THIS
+#							}
+#							war = no
+#							is_greater_power = no
+#						}
+#					}
+#				}
+#			}
+#			HOY = {
+#				all_core = {
+#					OR = {
+#						owned_by = THIS
+#						owner = {
+#							in_sphere = THIS
+#							OR = {
+#								is_vassal = no
+#								vassal_of = THIS
+#							}
+#							war = no
+#							is_greater_power = no
+#						}
+#					}
+#				}
+#			}
+#		}
+#		effect = {
+#			badboy = 3
+#			prestige = 20
+#			MNK = {
+#				all_core = {
+#					add_core = MEL
+#				}
+#				any_owned = {
+#					limit = {
+#						NOT = { is_core = MNK }
+#					}
+#					add_core = BRR						#just a utility tag
+#				}
+#			}
+#			MDT = {
+#				all_core = {
+#					add_core = MEL
+#				}
+#				any_owned = {
+#					limit = {
+#						NOT = { is_core = MDT }
+#					}
+#					add_core = BRR
+#				}
+#			}
+#			HOY = {
+#				all_core = {
+#					add_core = MEL
+#				}
+#				any_owned = {
+#					limit = {
+#						NOT = { is_core = HOY }
+#					}
+#					add_core = BRR
+#				}
+#			}
+#			any_country = {
+#				limit = {
+#					primary_culture = mellomsk
+#					in_sphere = THIS
+#					OR = {
+#						is_vassal = no
+#						vassal_of = THIS
+#					}
+#				}
+#				annex_to = THIS
+#			}
+#			release_vassal = MEL
+#			create_alliance = MEL
+#			diplomatic_influence = {
+#				who = MEL
+#				value = 400
+#			}
+#			any_owned = {
+#				limit = {
+#					is_core = BRR
+#				}
+#				secede_province = MEL
+#				remove_core = BRR
+#			}
+#		}
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				badboy = 0.88
+#			}
+#		}
+#	}
 	form_the_northeastern_union = {
 		potential = {
 			OR = {
@@ -631,29 +612,13 @@ integrate_the_mexicans_mel = {
 			add_accepted_culture = french_canadian
 			add_accepted_culture = nieuwlander
 			add_accepted_culture = afro_american
+			inherit = VST
+			inherit = NHL
+			inherit = QUE
 			VST = { all_core = { add_core = NEU } }
 			NHL = { all_core = { add_core = NEU } }
 			QUE = { all_core = { add_core = NEU } }
 			change_tag = NEU
-			random_country = {
-				limit = {
-					OR = {
-						tag = QUE
-						tag = NHL
-						tag = VST
-					}
-					exists = yes
-					is_greater_power = no
-					in_sphere = THIS
-					is_player = no
-					war = no
-					OR = {
-						vassal_of = THIS
-						is_vassal = no
-					}
-				}
-				country_event = 98650
-			}
 		}
 	}
 	annex_quebec = {

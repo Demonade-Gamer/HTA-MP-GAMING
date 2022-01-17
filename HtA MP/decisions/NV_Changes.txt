@@ -222,15 +222,9 @@ political_decisions = {
 	switch_to_loyalty = {
 		potential = {
 			civilized = no
-			OR = {
-				nationalvalue = nv_enlightenment
-				nationalvalue = nv_tradition
-			}
 		}
 		
 		allow = {
-			war = no
-			prestige = 10
 			civilization_progress = 0.5
 			NOT = { has_country_modifier = national_confusion }
 		}
@@ -279,13 +273,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
-			OR = {
-				ruling_party_ideology = reactionary
-				ruling_party_ideology = conservative
-				conservative = 40
-			}
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
@@ -320,13 +308,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
-			OR = {
-				ruling_party_ideology = socialist
-				ruling_party_ideology = communist
-				socialist = 40
-			}
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
@@ -335,7 +317,6 @@ political_decisions = {
 				name = nv_unity_modifier
 				duration = 1
 			}	
-			prestige = 20
 			nationalvalue = nv_unity
 			add_country_modifier = {
 				name = national_confusion
@@ -361,13 +342,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
-			OR = {
-				ruling_party_ideology = liberal
-				ruling_party_ideology = anarcho_liberal
-				liberal = 40
-			}
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
@@ -376,7 +351,6 @@ political_decisions = {
 				name = nv_prosperity_modifier
 				duration = 1
 			}
-			prestige = 20
 			nationalvalue = nv_prosperity
 			add_country_modifier = {
 				name = national_confusion
@@ -402,13 +376,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
-			OR = {
-				ruling_party_ideology = socialist
-				ruling_party_ideology = communist
-				socialist = 40
-			}
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
@@ -417,7 +385,6 @@ political_decisions = {
 				name = nv_prosperity_modifier
 				duration = 1
 			}
-			prestige = 20
 			nationalvalue = nv_prosperity
 			add_country_modifier = {
 				name = national_confusion
@@ -443,19 +410,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
-			OR = {
-				government = proletarian_dictatorship
-				government = fascist_dictatorship
-				government = presidential_dictatorship
-				government = bourgeois_dictatorship
-				jingoism = 15
-			}
-			OR = {
-				jingoism = 15
-				military_score = 100
-			}
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
@@ -464,7 +419,6 @@ political_decisions = {
 				name = nv_glory_modifier
 				duration = 1
 			}
-			prestige = 20
 			nationalvalue = nv_glory
 			add_country_modifier = {
 				name = national_confusion
@@ -490,13 +444,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
-			OR = {
-				ruling_party_ideology = liberal
-				ruling_party_ideology = anarcho_liberal
-				liberal = 40
-			}
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
@@ -505,7 +453,6 @@ political_decisions = {
 				name = nv_glory_modifier
 				duration = 1
 			}
-			prestige = 20
 			nationalvalue = nv_glory
 			add_country_modifier = {
 				name = national_confusion
@@ -531,13 +478,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
-			OR = {
-				ruling_party_ideology = conservative
-				ruling_party_ideology = reactionary
-				conservative = 40
-			}
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
@@ -546,7 +487,6 @@ political_decisions = {
 				name = nv_dominion_modifier
 				duration = 1
 			}
-			prestige = 20
 			nationalvalue = nv_dominion
 			add_country_modifier = {
 				name = national_confusion
@@ -572,19 +512,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
-			OR = {
-				government = proletarian_dictatorship
-				government = fascist_dictatorship
-				government = presidential_dictatorship
-				government = bourgeois_dictatorship
-				jingoism = 15
-			}
-			OR = {
-				jingoism = 15
-				military_score = 100
-			}
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
@@ -593,7 +521,6 @@ political_decisions = {
 				name = nv_dominion_modifier
 				duration = 1
 			}
-			prestige = 20
 			nationalvalue = nv_dominion
 			add_country_modifier = {
 				name = national_confusion
@@ -618,7 +545,6 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
 			NOT = { has_country_modifier = national_confusion }
 		}
@@ -653,7 +579,6 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
 			NOT = { has_country_modifier = national_confusion }
 		}
@@ -688,7 +613,6 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
 			NOT = { has_country_modifier = national_confusion }
 		}
@@ -698,7 +622,6 @@ political_decisions = {
 				name = nv_supremacy_modifier
 				duration = 1
 			}
-			prestige = 20
 			nationalvalue = nv_supremacy
 			add_country_modifier = {
 				name = national_confusion
@@ -723,7 +646,6 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
 			NOT = { has_country_modifier = national_confusion }
 		}
@@ -733,7 +655,6 @@ political_decisions = {
 				name = nv_productivity_modifier
 				duration = 1
 			}
-			prestige = 20
 			nationalvalue = nv_productivity
 			add_country_modifier = {
 				name = national_confusion
@@ -751,16 +672,10 @@ political_decisions = {
 			ai = no
 			has_country_flag = nv_change
 			civilized = yes
-			OR = {
-				nationalvalue = nv_unity
-				nationalvalue = nv_prosperity
-				nationalvalue = nv_fraternity
-			}
 		}
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
 			NOT = { has_country_modifier = national_confusion }
 		}
@@ -770,7 +685,6 @@ political_decisions = {
 				name = nv_equality_modifier
 				duration = 1
 			}
-			prestige = -20
 			nationalvalue = nv_equality
 			add_country_modifier = {
 				name = national_confusion
@@ -784,16 +698,10 @@ political_decisions = {
 			ai = no
 			has_country_flag = nv_change
 			civilized = yes
-			OR = {
-				nationalvalue = nv_glory
-				nationalvalue = nv_prosperity
-				nationalvalue = nv_freedom
-			}
 		}
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
 			NOT = { has_country_modifier = national_confusion }
 		}
@@ -803,7 +711,6 @@ political_decisions = {
 				name = nv_liberty_modifier
 				duration = 1
 			}
-			prestige = -20
 			nationalvalue = nv_liberty
 			add_country_modifier = {
 				name = national_confusion
@@ -817,11 +724,6 @@ political_decisions = {
 			ai = no
 			has_country_flag = nv_change
 			civilized = yes
-			OR = {
-				nationalvalue = nv_glory
-				nationalvalue = nv_dominion
-				nationalvalue = nv_supremacy
-			}
 		}
 		
 		allow = {
@@ -836,7 +738,6 @@ political_decisions = {
 				name = nv_might_modifier
 				duration = 1
 			}
-			prestige = -20
 			nationalvalue = nv_might
 			add_country_modifier = {
 				name = national_confusion
@@ -850,16 +751,10 @@ political_decisions = {
 			ai = no
 			has_country_flag = nv_change
 			civilized = yes
-			OR = {
-				nationalvalue = nv_unity
-				nationalvalue = nv_dominion
-				nationalvalue = nv_productivity
-			}
 		}
 		
 		allow = {
 			war = no
-			prestige = 100
 			ideological_thought = 1
 			NOT = { has_country_modifier = national_confusion }
 		}
@@ -869,7 +764,6 @@ political_decisions = {
 				name = nv_order_modifier
 				duration = 1
 			}
-			prestige = -20
 			nationalvalue = nv_order
 			add_country_modifier = {
 				name = national_confusion

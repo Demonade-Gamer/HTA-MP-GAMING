@@ -39,7 +39,7 @@ slave_acceptance_USR = {
 
 		effect = {
 			set_country_flag = slave_acceptance_USR_done
-		add_accepted_culture = afro_uilsc
+			add_accepted_culture = afro_uilsc
 		}
 		ai_will_do = {
 			factor = 1

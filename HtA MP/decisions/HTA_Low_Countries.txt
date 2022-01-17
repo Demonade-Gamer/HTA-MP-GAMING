@@ -86,44 +86,44 @@ political_decisions = {
 		}
 	}
 	
-#Incorporate Brabant into the Netherlands - made unnecessary by the decision in NET to Form the Greater Netherlands
-#	incorporate_brabant = {
-#		picture = support_biesterfelds
-#		potential = {
-#			tag = NET
-#			has_country_flag = zeeland_claimed
-#			NOT = { has_country_flag = brabant_incorporated }
-#			NOT = { AST_1097 = { owned_by = BRB } }
-#		}
-#		
-#		allow = {
-#			OR = {
-#				is_greater_power = yes
-#				is_secondary_power = yes
-#			}
-#			prestige = 50
-#			NET_379 = {
-#				owned_by = THIS
-#			}
-#		}
-#		
-#		effect = {
-#			prestige = 5
-#			badboy = 5
-#			set_country_flag = brabant_incorporated
-#			BEL_387 = {
-#				add_core = NET
-#			}
-#		}
-#		
-#		ai_will_do = {
-#			factor = 1
-#			modifier = {
-#				factor = 0
-#				badboy = 0.8
-#			}
-#		}
-#	}
+Incorporate Brabant into the Netherlands - made unnecessary by the decision in NET to Form the Greater Netherlands
+	incorporate_brabant = {
+		picture = support_biesterfelds
+		potential = {
+			tag = NET
+			has_country_flag = zeeland_claimed
+			NOT = { has_country_flag = brabant_incorporated }
+			NOT = { AST_1097 = { owned_by = BRB } }
+		}
+		
+		allow = {
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			prestige = 50
+			NET_379 = {
+				owned_by = THIS
+			}
+		}
+		
+		effect = {
+			prestige = 5
+			badboy = 5
+			set_country_flag = brabant_incorporated
+			BEL_387 = {
+				add_core = NET
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
 	
 	integrate_wallonia = {
 		picture = support_biesterfelds
