@@ -71,14 +71,6 @@ political_decisions = {
 			}
 			NOT = { has_country_flag = cymru_claimed }
 			is_our_vassal = WHA
-			OR = {
-				state_n_government = 1
-				year = 1839
-				AND = {
-					year = 1838
-					month = 9
-				}
-			}
 		}
 		
 		allow = {
@@ -375,6 +367,7 @@ political_decisions = {
 		effect = {
 			AEN = { all_core = { add_core = THIS } }
 			add_accepted_culture = aenglisc
+			set_country_flag = angles_trolled
 		}
 	}
 	#Become Albina

@@ -460,7 +460,6 @@ political_decisions = {
 			}
 		}
 	}
-political_decisions = {
 	integrate_the_aquitanians = {
 		potential = {
 			tag = FRA
@@ -468,11 +467,11 @@ political_decisions = {
 		}
 		
 		allow = {
-			owns = 463
-			owns = 455
+			state_n_government = 1
 		}
 		
 		effect = {
+			AQT = { all_core = { add_core = FRA } }
 			add_accepted_culture = aquitanian
 			set_country_flag = aqt_accepted
 		}
