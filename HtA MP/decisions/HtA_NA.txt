@@ -178,6 +178,7 @@ political_decisions = {
 			tag = SKM
 			tag = MRG
 		}
+			ai = no
 			is_disarmed = no
 			war = no
 			NOT = { alliance_with = CLF }
@@ -224,9 +225,10 @@ political_decisions = {
 			tag = SKM
 			tag = MRG
 		}
+			ai = no
 			is_disarmed = no
 			war = no
-			NOT = { alliance_with = CLF }
+			NOT = { alliance_with = GNC }
 			NOT = { has_country_flag = annex_ginnaecer }
 		}
 		
@@ -270,6 +272,7 @@ political_decisions = {
 			tag = CLF
 			tag = MRG
 		}
+			ai = no
 			is_disarmed = no
 			war = no
 			NOT = { alliance_with = SKM }
@@ -315,6 +318,7 @@ political_decisions = {
 			tag = SKM
 			tag = CLF
 		}
+			ai = no
 			is_disarmed = no
 			war = no
 			NOT = { alliance_with = MRG }
@@ -590,7 +594,6 @@ integrate_the_mexicans_mel = {
 			}
 		}
 	}
-#Form the Northeastern Union!
 	form_the_northeastern_union = {
 		potential = {
 			OR = {
@@ -653,13 +656,124 @@ integrate_the_mexicans_mel = {
 			}
 		}
 	}
+	annex_quebec = {
+		potential = {
+			OR = { 
+				tag = NHL
+				tag = VST
+			}
+			ai = no
+			war = no
+			NOT = { alliance_with = QUE }
+			NOT = { has_country_flag = annex_quebec }
+		}
+		allow = {
+			OR = {
+				AND = {
+					tag = VST
+					neighbour = QUE
+				}
+				AND = {
+					tag = NHL
+					neighbour = QUE
+				}
+			}
+		}		
+		effect = {
+			badboy = 10
+			QUE = { all_core = { add_core = THIS } }
+			set_country_flag = annex_quebec
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}	
+	annex_new_holland = {
+		potential = {
+			OR = { 
+				tag = QUE
+				tag = VST
+			}
+			ai = no
+			war = no
+			NOT = { alliance_with = MRG }
+			NOT = { has_country_flag = annex_new_holland }
+		}
+		allow = {
+			OR = {
+				AND = {
+					tag = VST
+					neighbour = NHL
+				}
+				AND = {
+					tag = QUE
+					neighbour = NHL
+				}
+			}
+		}
+		effect = {
+			badboy = 10
+			NHL = { all_core = { add_core = THIS } }
+			set_country_flag = annex_new_holland
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}	
+	annex_vestland = {
+		potential = {
+			OR = { 
+				tag = NHL
+				tag = QUE
+			}
+			ai = no
+			war = no
+			NOT = { alliance_with = VST }
+			NOT = { has_country_flag = annex_vestland }
+		}
+		allow = {
+			OR = {
+				AND = {
+					tag = NHL
+					neighbour = VST
+				}
+				AND = {
+					tag = QUE
+					neighbour = VST
+				}
+			}
+		}		
+		effect = {
+			badboy = 10
+			VST = { all_core = { add_core = THIS } }
+			set_country_flag = annex_vestland
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}	
 	invade_the_southern_europeans = {
 		potential = {
 			tag = MEX
 			NOT = { has_country_flag = south_invaded }
 		}
 		allow = {
-		year = 1870
+		year = 1850
 		}
 		effect = {
 			MEL = { all_core = { add_core = MEX } }
@@ -677,7 +791,7 @@ integrate_the_mexicans_mel = {
 			NOT = { has_country_flag = south_integrated }
 		}
 		allow = {
-			year = 1880
+			year = 1870
 			OR = {
 				MEL = { all_core = { owned_by = THIS } }
 				AND = {
@@ -702,8 +816,8 @@ integrate_the_mexicans_mel = {
 			year = 1850
 		}
 		effect = {
-			CLF = { all_core = { add_core = MEX } }
 			GNC = { all_core = { add_core = MEX } }
+			CLF = { all_core = { add_core = MEX } }
 			set_country_flag = north_invaded_mex
 		}
 	}
@@ -731,28 +845,45 @@ integrate_the_mexicans_mel = {
 		}
 		allow = {
 			year = 1870
-			CLF = { all_core = { owned_by = THIS } }
-			GNC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			MEX = { all_core = { add_core = MEL } }
+			MEX = { any_owned = { limit = { NOT = { OR { is_core = CLF is_core = GNC } } } } add_core = MEL } } 
 			YUC = { all_core = { add_core = MEL } }
 			set_country flag = north_invaded
 		}
 	}
 	integrate_the_mexicans = {
 		potential = {
-			has_country_flag = north_invaded
-			tag = MEL
+			OR = {
+				has_country_flag = north_invaded
+				has_country_flag = mexicans_invaded
+			OR = {
+				tag = MEL
+				tag = SCW
+			}
 			NOT = { has_country_flag = mexicans_integrated }
 		}
 		allow = {
-			yaer = 1880
+			year = 1880
 			MEX = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			add_accepted_culture = mexican
 			set_country_flag = mexicans_integrated
 			prestige = 12
+		}
+	}
+	invade_the_mexicans = {
+		potential = {
+			tag = SCW
+			NOT = { has_country_flag = mexicans_invaded }
+		}
+		allow = {
+			year = 1870
+		}
+		effect = {
+			MEX = { any_owned = { limit = { NOT = { OR = { is_core = MEL is_core = HOY is_core = MDT is_core = MNK } } } } add_core = SCW } } 
+			YUC = { all_core = { add_core = SCW } }
+			set_country_flag = mexicans_invaded
 		}
 	}
