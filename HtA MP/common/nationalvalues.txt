@@ -47,7 +47,7 @@ nv_liberty = {
 nv_equality = {
 	mobilisation_size = 0.04
 	core_pop_militancy_modifier = -0.02
-	social_reform_desire = 0.01
+	social_reform_desire = 0.3
 	assimilation_rate = 0.1
 }
 
@@ -57,7 +57,7 @@ nv_might = {
 	leadership_modifier = 0.5
 	land_unit_start_experience = 5
 	naval_unit_start_experience = 5
-	assimilation_rate = -0.1
+	assimilation_rate = 0.1
 }
 
 nv_order = {

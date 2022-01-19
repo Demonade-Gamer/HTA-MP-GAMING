@@ -3,6 +3,6 @@ controller = WUR
 add_core = WUR
 
 add_core = GER
-trade_goods = fruit
+trade_goods = iron
 life_rating = 35
 
