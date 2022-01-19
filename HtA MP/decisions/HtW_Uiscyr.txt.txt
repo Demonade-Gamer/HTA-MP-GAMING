@@ -7,7 +7,7 @@ political_decisions = {
 			}
 			allow = {
 				prestige = 25
-				nationalism_n_imperialism
+				year = 1845
 				
 			}
 			effect = {

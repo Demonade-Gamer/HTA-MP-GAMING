@@ -5,7 +5,7 @@ trade_goods = precious_metal
 life_rating = 35
 state_building = {
 	level = 2 
-	building = fabric_factory
+	building = machine_parts_factory
 	upgrade = yes
 }
 

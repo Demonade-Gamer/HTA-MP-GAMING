@@ -17,15 +17,10 @@ country_event = {
 			has_country_modifier = western_influences
 			has_country_modifier = uncivilized_isolationism
 		}
-		OR = {
-			any_neighbor_country = { civilized = yes }
-			any_neighbor_country = { has_country_modifier = western_influences }
-			any_owned_province = { port = yes }
-		}
 	}
 	
 	mean_time_to_happen = {
-		months = 3
+		months = 1
 	}
 	
 	option = {

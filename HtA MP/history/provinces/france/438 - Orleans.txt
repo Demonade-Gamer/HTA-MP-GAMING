@@ -1,6 +1,4 @@
-owner = ORL
-controller = ORL
-add_core = ORL
+owner = FRA
 add_core = FRA
 trade_goods = timber
 life_rating = 35

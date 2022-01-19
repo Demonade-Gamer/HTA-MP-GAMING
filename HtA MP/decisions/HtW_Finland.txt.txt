@@ -1,4 +1,4 @@
-	political_decisions = {
+political_decisions = {
 
     form_finland_baltica = {
         potential = {
@@ -13,6 +13,7 @@
         }
         effect = {
             prestige = 5
+	    state_n_government = 1
             add_accepted_culture = latvian
             add_accepted_culture = lithuanian
             add_accepted_culture = estonian
