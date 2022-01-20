@@ -4,6 +4,7 @@ political_decisions = {
 		potential = {
 			tag = AQT
 			NOT = { has_country_flag = catalans_embraced }
+			NOT = { accepted_culture = north_italian }
 			is_greater_power = yes
 		}
 		
@@ -212,8 +213,8 @@ political_decisions = {
 		
 		potential = {
 			tag = AQT
-			NOT = { has_country_flag = fra_accepted }
 			is_greater_power = yes
+			NOT = { has_country_flag = catalans_embraced }
 			NOT = { accepted_culture = north_italian }
 		}
 		

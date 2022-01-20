@@ -635,120 +635,120 @@ political_decisions = {
 	}
 	
 ###############################Self-explanatory decision title, really#####################################
-	unify_western_med = {
-		picture = WesternMed
-		potential = {
-			OR = {
-				tag = AQT
-				tag = CAT
-				tag = HIS
-				tag = PDN
-				tag = NPL
-				tag = ITA
-				tag = CRS
-			}
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
-			}
-			NOT = { has_global_flag = mare_occidentis_nostrum }
-		}
-		
-		allow = {
-			rank = 2
-			prestige = 500
-			military_score = 300
-			nationalism_n_imperialism = 1
-			498 = {	#Barcelona
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-						in_sphere = THIS
-					}
-				}
-			}
-			461 = { #Mauguio
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-				}
-			}
-			726 = { #Milan
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-						in_sphere = THIS
-					}
-				}
-			}
-			749 = { #Rome
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-						in_sphere = THIS
-					}
-				}
-			}
-			754 = { #Naples
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-						in_sphere = THIS
-					}
-				}
-			}
-		}
+#	unify_western_med = {
+#		picture = WesternMed
+#		potential = {
+#			OR = {
+#				tag = AQT
+#				tag = CAT
+#				tag = HIS
+#				tag = PDN
+#				tag = NPL
+#				tag = ITA
+#				tag = CRS
+#			}
+#			OR = {
+#				is_secondary_power = yes
+#				is_greater_power = yes
+#			}
+#			NOT = { has_global_flag = mare_occidentis_nostrum }
+#		}
+#		
+#		allow = {
+#			rank = 2
+#			prestige = 500
+#			military_score = 300
+#			nationalism_n_imperialism = 1
+#			498 = {	#Barcelona
+#				OR = {
+#					owned_by = THIS
+#					owner = {
+#						vassal_of = THIS
+#						in_sphere = THIS
+#					}
+#				}
+#			}
+#			461 = { #Mauguio
+#				OR = {
+#					owned_by = THIS
+#					owner = {
+#						in_sphere = THIS
+#						vassal_of = THIS
+#					}
+#				}
+#			}
+#			726 = { #Milan
+#				OR = {
+#					owned_by = THIS
+#					owner = {
+#						vassal_of = THIS
+#						in_sphere = THIS
+#					}
+#				}
+#			}
+#			749 = { #Rome
+#				OR = {
+#					owned_by = THIS
+#					owner = {
+#						vassal_of = THIS
+#						in_sphere = THIS
+#					}
+#				}
+#			}
+#			754 = { #Naples
+#				OR = {
+#					owned_by = THIS
+#					owner = {
+#						vassal_of = THIS
+#						in_sphere = THIS
+#					}
+#				}
+#			}
+#		}
 
-		effect = {
-			set_global_flag = mare_occidentis_nostrum
-			set_country_flag = our_western_sea
-			prestige = 50
-			badboy = 25													
-			CAT = { all_core = { add_core = THIS } }
-			AQT = { all_core = { add_core = THIS } }
-			CRS = { all_core = { add_core = THIS } }
-			PDN = { all_core = { add_core = THIS } }
-			ITA = { all_core = { add_core = THIS } }
-			NPL = { all_core = { add_core = THIS } }
-			PAP = { all_core = { add_core = THIS } }
-			SIC = { all_core = { add_core = THIS } }
-			PRE = { all_core = { add_core = THIS } }
-			MLT = { all_core = { add_core = THIS } }
-			TUS = { all_core = { add_core = THIS } }
-			any_country = {
-				limit = {
-					exists = yes
-					OR = {
-						tag = CAT
-						tag = AQT
-						tag = CRS
-						tag = PDN
-						tag = TUS
-						tag = ITA
-						tag = NPL
-						tag = PAP
-						tag = SIC
-						tag = PRE
-						tag = MLT
-					}
-					vassal_of = THIS
-				}
-				set_country_flag = sirocco_should_fire
-				country_event = 51698
-				add_country_modifier = {
-					name = timer
-					duration = 1
-				}
-			}
-		}
-	}
+#		effect = {
+#			set_global_flag = mare_occidentis_nostrum
+#			set_country_flag = our_western_sea
+#			prestige = 50
+#			badboy = 25													
+#			CAT = { all_core = { add_core = THIS } }
+#			AQT = { all_core = { add_core = THIS } }
+#			CRS = { all_core = { add_core = THIS } }
+#			PDN = { all_core = { add_core = THIS } }
+#			ITA = { all_core = { add_core = THIS } }
+#			NPL = { all_core = { add_core = THIS } }
+#			PAP = { all_core = { add_core = THIS } }
+#			SIC = { all_core = { add_core = THIS } }
+#			PRE = { all_core = { add_core = THIS } }
+#			MLT = { all_core = { add_core = THIS } }
+#			TUS = { all_core = { add_core = THIS } }
+#			any_country = {
+#				limit = {
+#					exists = yes
+#					OR = {
+#						tag = CAT
+#						tag = AQT
+#						tag = CRS
+#						tag = PDN
+#						tag = TUS
+#						tag = ITA
+#						tag = NPL
+#						tag = PAP
+#						tag = SIC
+#						tag = PRE
+#						tag = MLT
+#					}
+#					vassal_of = THIS
+#				}
+#				set_country_flag = sirocco_should_fire
+#				country_event = 51698
+#				add_country_modifier = {
+#					name = timer
+#					duration = 1
+#				}
+#			}
+#		}
+#	}
 	
 	sirocco_replacement = {
 		picture = WesternMed
