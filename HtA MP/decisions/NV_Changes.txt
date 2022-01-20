@@ -268,6 +268,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_equality
 		}
 		
 		allow = {
@@ -302,6 +303,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_order
 		}
 		
 		allow = {
@@ -335,6 +337,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_equality
 		}
 		
 		allow = {
@@ -368,6 +371,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_liberty
 		}
 		
 		allow = {
@@ -401,6 +405,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_liberty
 		}
 		
 		allow = {
@@ -434,6 +439,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_might
 		}
 		
 		allow = {
@@ -467,6 +473,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_might
 		}
 		
 		allow = {
@@ -500,6 +507,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_order
 		}
 		
 		allow = {
@@ -532,6 +540,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_equality
 		}
 		
 		allow = {
@@ -565,6 +574,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_liberty
 		}
 		
 		allow = {
@@ -598,6 +608,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_might
 		}
 		
 		allow = {
@@ -630,6 +641,7 @@ political_decisions = {
 				has_country_flag = nv_change
 			}
 			civilized = yes
+			nationalvalue = nv_order
 		}
 		
 		allow = {
