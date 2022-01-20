@@ -45,14 +45,14 @@ nv_liberty = {
 }
 
 nv_equality = {
-	mobilisation_size = 0.04
+	mobilisation_size = 0.05
 	core_pop_militancy_modifier = -0.02
 	social_reform_desire = 0.3
 	assimilation_rate = 0.1
 }
 
 nv_might = {
-	mobilisation_size = 0.04
+	mobilisation_size = 0.05
 	war_exhaustion = -0.02
 	leadership_modifier = 0.5
 	land_unit_start_experience = 5
@@ -117,14 +117,6 @@ nv_prosperity = {
 	social_reform_desire = 0.3
 	assimilation_rate = 0.3
 	global_immigrant_attract = 0.50
-	commerce_tech_research_bonus = 0.2
-	industry_tech_research_bonus = 0.2
-	poor_everyday_needs = 0.3
-	middle_everyday_needs = 0.3
-	rich_everyday_needs = 0.3
-	poor_luxury_needs = 0.2
-	middle_luxury_needs = 0.2
-	rich_luxury_needs = 0.2
 }
 
 nv_productivity = {
@@ -135,24 +127,15 @@ nv_productivity = {
 	poor_everyday_needs = -0.1
 	middle_everyday_needs = -0.1
 	rich_everyday_needs = -0.1
-	research_points_modifier = -0.05
-	industry_tech_research_bonus = 0.2
-	social_reform_desire = -0.2
 }
 
 nv_glory = {
 	mobilisation_size = 0.01
-	army_tech_research_bonus = 0.1
-	navy_tech_research_bonus = 0.1
-	non_accepted_pop_militancy_modifier = 0.03
-	poor_everyday_needs = 0.2
-	middle_everyday_needs = 0.2
-	rich_everyday_needs = 0.2
 	war_exhaustion = -0.01
 	leadership_modifier = 0.7
 	land_unit_start_experience = 5
 	naval_unit_start_experience = 5
-	assimilation_rate = -0.1
+	assimilation_rate = 0.1
 }
 
 nv_dominion = {
@@ -162,5 +145,4 @@ nv_dominion = {
 	land_unit_start_experience = 5
 	naval_unit_start_experience = 5
 	rgo_output = 0.10
-	navy_tech_research_bonus = 0.2
 }
