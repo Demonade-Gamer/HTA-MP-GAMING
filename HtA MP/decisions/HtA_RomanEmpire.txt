@@ -152,7 +152,6 @@ political_decisions = {
 		picture = military_parade
 		potential = {
 			tag = BYZ
-			has_country_flag = kilikia_claimed
 			NOT = { has_country_flag = roman_italy }
 			NOT = { has_country_flag = first_troll_reform }
 			ai = no
@@ -160,10 +159,6 @@ political_decisions = {
 		
 		allow = {
 			year = 1850
-			OR = {
-				war_policy = jingoism
-				government = fascist_dictatorship
-			}
 		}
 		
 		effect = {
