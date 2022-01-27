@@ -1,8 +1,5 @@
 capital = 1314
-primary_culture = kannada
-culture = malayalam
-culture = telegu
-culture = tamil
+primary_culture = marathi
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0

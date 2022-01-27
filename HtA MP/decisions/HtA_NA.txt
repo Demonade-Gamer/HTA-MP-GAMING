@@ -493,7 +493,7 @@ integrate_the_mexicans_mel = {
 #					limit = {
 #						NOT = { is_core = MNK }
 #					}
-#					add_core = BRR						#just a utility tag
+#					add_core = BRR						just a utility tag
 #				}
 #			}
 #			MDT = {

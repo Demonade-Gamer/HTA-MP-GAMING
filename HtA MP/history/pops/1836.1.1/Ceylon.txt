@@ -2,121 +2,121 @@
 #Colombo (400000/100000 POPS)
 1321 = {
 	aristocrats = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 800
 	}
 
 	bureaucrats = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 150
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 750
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 800
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 750
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 67750
 	}
 
 	aristocrats = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 100
 	}
 
 	clergymen = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 125
 	}
 
 	artisans = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 750
 	}
 
 	soldiers = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 100
 	}
 
 	labourers = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 9800
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = marathi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = marathi
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = marathi
 		religion = catholic
 		size = 50
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = marathi
 		religion = catholic
 		size = 6400
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = marathi
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = marathi
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = marathi
 		religion = protestant
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = marathi
 		religion = protestant
 		size = 1200
 	}
@@ -152,31 +152,31 @@
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 1900
 	}
@@ -185,61 +185,61 @@
 #Jaffna (288000/72000 POPS)
 1322 = {
 	aristocrats = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 500
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 4000
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 500
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 42500
 	}
 
 	aristocrats = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 250
 	}
 
 	clergymen = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 250
 	}
 
 	artisans = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 2000
 	}
 
 	soldiers = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 500
 	}
 
 	labourers = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 21000
 	}
@@ -247,31 +247,31 @@
 #Kandy (304000/76000 POPS)
 1323 = {
 	aristocrats = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 750
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 750
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 4000
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 750
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 69250
 	}
@@ -279,133 +279,133 @@
 #Trincomalee (208000/52000 POPS)
 1324 = {
 	aristocrats = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 250
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 225
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 200
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = marathi
 		religion = theravada
 		size = 19825
 	}
 
 	aristocrats = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 250
 	}
 
 	clergymen = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 250
 	}
 
 	artisans = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 500
 	}
 
 	soldiers = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 250
 	}
 
 	labourers = {
-		culture = tamil
+		culture = marathi
 		religion = hindu
 		size = 18750
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = marathi
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = marathi
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = marathi
 		religion = protestant
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = marathi
 		religion = protestant
 		size = 700
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = marathi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = marathi
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = marathi
 		religion = catholic
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = marathi
 		religion = catholic
 		size = 1475
 	}
 
 	clergymen = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 50
 	}
 
 	labourers = {
-		culture = malay
+		culture = marathi
 		religion = sunni
 		size = 675
 	}
@@ -443,31 +443,31 @@
 #Maldives (24000/6000 POPS) #now independent
 1325 = {
 	aristocrats = {
-		culture = maldivian
+		culture = marathi
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = maldivian
+		culture = marathi
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = maldivian
+		culture = marathi
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = maldivian
+		culture = marathi
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = maldivian
+		culture = marathi
 		religion = sunni
 		size = 10000
 	}
