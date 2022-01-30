@@ -34,32 +34,32 @@ country_event = {
 }
 
 #Death of Autokrator Isaakios
-country_event = {
-	id = 50601
-	title = "EVTNAME50601"
-	desc = "EVTDESC50601"
-	picture = "autocracy"
+#country_event = {
+#	id = 50601
+#	title = "EVTNAME50601"
+#	desc = "EVTDESC50601"
+#	picture = "autocracy"
 	
-	fire_only_once = yes
+#	fire_only_once = yes
+#	
+#	trigger = {
+#		tag = BYZ
+#		year = 1848
+#	}
 	
-	trigger = {
-		tag = BYZ
-		year = 1848
-	}
+#	mean_time_to_happen = {
+#		months = 5
+#		modifier = {
+#			factor = 0.1
+#			month = 4
+#		}
+#	}
 	
-	mean_time_to_happen = {
-		months = 5
-		modifier = {
-			factor = 0.1
-			month = 4
-		}
-	}
-	
-	option = {
-		name = "May Ioannes XII guard the Empire."
-		set_country_flag = ioannesxii
-	}
-}
+#	option = {
+#		name = "May Ioannes XII guard the Empire."
+#		set_country_flag = ioannesxii
+#	}
+#}
 
 country_event = {
 	id = 50602
@@ -80,8 +80,8 @@ country_event = {
 		name = "Good for him!"
 		define_general = {
 			name = "Evangelos Melisurgos"
-			personality = audacious
-			background = natural_born_leader
+			personality = attack_5.1
+			background = defence_4.1
 		}
 	}
 }

@@ -10,7 +10,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			ideological_thought = 1
+			year = 1836
 		}
 		
 		effect = {
@@ -27,7 +27,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			ideological_thought = 1
+			year = 1836
 		}
 		
 		effect = {

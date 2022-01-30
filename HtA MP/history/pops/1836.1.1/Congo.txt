@@ -127,32 +127,32 @@
 #Djambala (28000/7000 POPS)
 1980 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size= 75
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 6375
 	}
@@ -160,32 +160,32 @@
 #Impfondo (32000/8000 POPS)
 1981 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size= 75
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 7300
 	}

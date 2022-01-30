@@ -186,346 +186,346 @@ country_event = {
 #####################################################################################
 
 #Sonno Joi event chain
-country_event = {
-	id = 97615
-	title = "EVTNAME97615" #Sonno Joi
-	desc = "EVTDESC97615"
-	picture = "sonno_joi"
+#country_event = {
+#	id = 97615
+#	title = "EVTNAME97615" #Sonno Joi
+#	desc = "EVTDESC97615"
+#	picture = "sonno_joi"
 
-	trigger = {
-		primary_culture = japanese
-		OR = {
-			tag = TKG
-			substate_of = TKG
-			vassal_of = TKG
-		}
-		TKG = {
-			OR = {
-				has_country_modifier = western_influences
-				civilized = yes
-			}
-		}
-		NOT = { has_country_flag = sonno_joi }
-		NOT = { has_global_flag = boshin_war }
-		NOT = { has_global_flag = boshin_war_has_happened }
-	}
+#	trigger = {
+#		primary_culture = japanese
+#		OR = {
+#			tag = TKG
+#			substate_of = TKG
+#			vassal_of = TKG
+#		}
+#		TKG = {
+#			OR = {
+#				has_country_modifier = western_influences
+#				civilized = yes
+#			}
+#		}
+#		NOT = { has_country_flag = sonno_joi }
+#		NOT = { has_global_flag = boshin_war }
+#		NOT = { has_global_flag = boshin_war_has_happened }
+#	}
 	
-	mean_time_to_happen = {
-		months = 1
-	}
+#	mean_time_to_happen = {
+#		months = 1
+#	}
 	
-	option = {
-		name = "Japan must not descend into anarchy."
-		set_country_flag = sonno_joi
-		remove_country_modifier = sakoku
-		remove_country_modifier = rangaku
-		aristocrats = {
-			consciousness = 2
-			ideology = {
-				value = reactionary
-				factor = 0.2
-			}
-		}
-		any_pop = {
-			militancy = 2
-		}
-	}
-}
+#	option = {
+#		name = "Japan must not descend into anarchy."
+#		set_country_flag = sonno_joi
+#		remove_country_modifier = sakoku
+#		remove_country_modifier = rangaku
+#		aristocrats = {
+#			consciousness = 2
+#			ideology = {
+#				value = reactionary
+#				factor = 0.2
+#			}
+#		}
+#		any_pop = {
+#			militancy = 2
+#		}
+#	}
+#}
 
-province_event = {
-	id = 97616
-	title = "EVTNAME97616" #Rebellion against foreigners
-	desc = "EVTDESC97616"
+#province_event = {
+#	id = 97616
+#	title = "EVTNAME97616" #Rebellion against foreigners
+#	desc = "EVTDESC97616"
 
-	trigger = {
-		owner = {
-			has_country_flag = sonno_joi
-			war = no
-		}
-		TKG = { exists = yes }
-		is_core = TKG
-		controlled_by = THIS
-		OR = {
-			has_province_modifier = western_presence
-			has_province_modifier = foreign_smugglers
-			has_province_modifier = foreign_trading_post
-			has_province_modifier = local_opium_habit
-			has_province_modifier = european_military_mission
-			has_province_modifier = extraterritoriality_granted
-			has_province_modifier = legation_quarter
-			any_neighbor_province = { has_province_modifier = peasant_revolt }
-			AND = {
-				owner = { has_global_flag = order_to_expel_barbarians }
-				port = yes
-			}
-			owner = { civilized = yes }
-		}
-		NOT = {
-			owner = { has_global_flag = boshin_war }
-			owner = { has_global_flag = boshin_war_has_happened }
-			has_province_modifier = peasant_revolt
-			average_militancy = 6
-		}
-	}
+#	trigger = {
+#		owner = {
+#			has_country_flag = sonno_joi
+#			war = no
+#		}
+#		TKG = { exists = yes }
+#		is_core = TKG
+#		controlled_by = THIS
+#		OR = {
+#			has_province_modifier = western_presence
+#			has_province_modifier = foreign_smugglers
+#			has_province_modifier = foreign_trading_post
+#			has_province_modifier = local_opium_habit
+#			has_province_modifier = european_military_mission
+#			has_province_modifier = extraterritoriality_granted
+#			has_province_modifier = legation_quarter
+#			any_neighbor_province = { has_province_modifier = peasant_revolt }
+#			AND = {
+#				owner = { has_global_flag = order_to_expel_barbarians }
+#				port = yes
+#			}
+#			owner = { civilized = yes }
+#		}
+#		NOT = {
+#			owner = { has_global_flag = boshin_war }
+#			owner = { has_global_flag = boshin_war_has_happened }
+#			has_province_modifier = peasant_revolt
+#			average_militancy = 6
+#		}
+#	}
 	
-	mean_time_to_happen = {
-		months = 250
-		modifier = {
-			factor = 0.75
-			owner = { has_global_flag = order_to_expel_barbarians }
-		}
-		modifier = {
-			factor = 0.75
-			owner = { has_country_flag = supports_imperial_edict }
-		}
-		modifier = {
-			factor = 0.75
-			owner = { part_of_sphere = yes }
-		}
-		modifier = {
-			factor = 2
-			owner = { has_country_flag = opposes_imperial_edict }
-		}
-		modifier = {
-			factor = 0.9
-			reactionary = 5
-		}
-		modifier = {
-			factor = 0.9
-			reactionary = 10
-		}
-		modifier = {
-			factor = 0.9
-			reactionary = 15
-		}
-		modifier = {
-			factor = 4
-			owner = { average_militancy = 4 }
-		}
-		modifier = {
-			factor = 2
-			owner = { average_militancy = 6 }
-		}
-		modifier = {
-			factor = 0.75
-			owner = { NOT = { average_militancy = 2 } }
-		}
-	}
+#	mean_time_to_happen = {
+#		months = 250
+#		modifier = {
+#			factor = 0.75
+#			owner = { has_global_flag = order_to_expel_barbarians }
+#		}
+#		modifier = {
+#			factor = 0.75
+#			owner = { has_country_flag = supports_imperial_edict }
+#		}
+#		modifier = {
+#			factor = 0.75
+#			owner = { part_of_sphere = yes }
+#		}
+#		modifier = {
+#			factor = 2
+#			owner = { has_country_flag = opposes_imperial_edict }
+#		}
+#		modifier = {
+#			factor = 0.9
+#			reactionary = 5
+#		}
+#		modifier = {
+#			factor = 0.9
+#			reactionary = 10
+#		}
+#		modifier = {
+#			factor = 0.9
+#			reactionary = 15
+#		}
+#		modifier = {
+#			factor = 4
+#			owner = { average_militancy = 4 }
+#		}
+#		modifier = {
+#			factor = 2
+#			owner = { average_militancy = 6 }
+#		}
+#		modifier = {
+#			factor = 0.75
+#			owner = { NOT = { average_militancy = 2 } }
+#		}
+#	}
 	
-	option = {
-		name = "This disruption is growing worse!"
-		owner = { prestige = -2 }
-		any_pop = {
-			ideology = {
-				value = reactionary
-				factor = 0.1
-			}
-			scaled_militancy = {
-				ideology = reactionary
-				factor = 4
-			}
-		}
-		add_province_modifier = {
-			name = peasant_revolt
-			duration = 365
-		}
-		random_country = {
-			limit = { is_greater_power = yes }
-			relation = { who = TKG value = -20 }
-		}
-	}
-}
+#	option = {
+#		name = "This disruption is growing worse!"
+#		owner = { prestige = -2 }
+#		any_pop = {
+#			ideology = {
+#				value = reactionary
+#				factor = 0.1
+#			}
+#			scaled_militancy = {
+#				ideology = reactionary
+#				factor = 4
+#			}
+#		}
+#		add_province_modifier = {
+#			name = peasant_revolt
+#			duration = 365
+#		}
+#		random_country = {
+#			limit = { is_greater_power = yes }
+#			relation = { who = TKG value = -20 }
+#		}
+#	}
+#}
 
-country_event = {
-	id = 97617
-	title = "EVTNAME97617" #Order to Expel the Barbarians
-	desc = "EVTDESC97617"
-	news = yes
-	news_desc_long = "EVTDESC97617_NEWS_LONG"
-	news_desc_medium = "EVTDESC97617_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC97617_NEWS_SHORT"
-	picture = "sonno_joi"
+#country_event = {
+#	id = 97617
+#	title = "EVTNAME97617" #Order to Expel the Barbarians
+#	desc = "EVTDESC97617"
+#	news = yes
+#	news_desc_long = "EVTDESC97617_NEWS_LONG"
+#	news_desc_medium = "EVTDESC97617_NEWS_MEDIUM"
+#	news_desc_short = "EVTDESC97617_NEWS_SHORT"
+#	picture = "sonno_joi"
 
-	is_triggered_only = yes
+#	is_triggered_only = yes
 	
-	option = {
-		name = "A dangerous and reckless act."
-		relation = { who = FROM value = -100 }
-		prestige = -5
-	}
-}
+#	option = {
+#		name = "A dangerous and reckless act."
+#		relation = { who = FROM value = -100 }
+#		prestige = -5
+#	}
+#}
 
-country_event = {
-	id = 97618
-	title = "EVTNAME97617" #Order to Expel the Barbarians - Response from Substates
-	desc = "EVTDESC97618"
-	picture = "sonno_joi"
+#country_event = {
+#	id = 97618
+#	title = "EVTNAME97617" #Order to Expel the Barbarians - Response from Substates
+#	desc = "EVTDESC97618"
+#	picture = "sonno_joi"
 
-	is_triggered_only = yes
+#	is_triggered_only = yes
 	
-	option = {
-		name = "$COUNTRY$ supports the Emperor."
-		set_country_flag = supports_imperial_edict
-		relation = { who = FROM value = 50 }
-		ruling_party_ideology = conservative
-		ai_chance = {
-			factor = 50
-			modifier = {
-				factor = 1.5
-				TKG = { has_recently_lost_war = yes }
-			}
-			modifier = {
-				factor = 1.5
-				civilized = yes
-			}
-			modifier = {
-				factor = 1.5
-				has_country_flag = tozama_daimyo
-				ruling_party_ideology = conservative
-			}
-			modifier = {
-				factor = 0.5
-				has_country_flag = fudai_daimyo
-				ruling_party_ideology = reactionary
-			}
-		}
-	}
+#	option = {
+#		name = "$COUNTRY$ supports the Emperor."
+#		set_country_flag = supports_imperial_edict
+#		relation = { who = FROM value = 50 }
+#		ruling_party_ideology = conservative
+#		ai_chance = {
+#			factor = 50
+#			modifier = {
+#				factor = 1.5
+#				TKG = { has_recently_lost_war = yes }
+#			}
+#			modifier = {
+#				factor = 1.5
+#				civilized = yes
+#			}
+#			modifier = {
+#				factor = 1.5
+#				has_country_flag = tozama_daimyo
+#				ruling_party_ideology = conservative
+#			}
+#			modifier = {
+#				factor = 0.5
+#				has_country_flag = fudai_daimyo
+#				ruling_party_ideology = reactionary
+#			}
+#		}
+#	}
 	
-	option = {
-		name = "This is a dangerous and reckless act."
-		set_country_flag = opposes_imperial_edict
-		relation = { who = FROM value = -50 }
-		ruling_party_ideology = reactionary
-		ai_chance = {
-			factor = 50
-			modifier = {
-				factor = 0.5
-				has_country_flag = tozama_daimyo
-				ruling_party_ideology = conservative
-			}
-			modifier = {
-				factor = 1.5
-				has_country_flag = fudai_daimyo
-				ruling_party_ideology = reactionary
-			}
-		}		
-	}
-}
+#	option = {
+#		name = "This is a dangerous and reckless act."
+#		set_country_flag = opposes_imperial_edict
+#		relation = { who = FROM value = -50 }
+#		ruling_party_ideology = reactionary
+#		ai_chance = {
+#			factor = 50
+#			modifier = {
+#				factor = 0.5
+#				has_country_flag = tozama_daimyo
+#				ruling_party_ideology = conservative
+#			}
+#			modifier = {
+#				factor = 1.5
+#				has_country_flag = fudai_daimyo
+#				ruling_party_ideology = reactionary
+#			}
+#		}		
+#	}
+#}
 
 #Death of the Shogun
-country_event = {
-	id = 97620
-	title = "EVTNAME97620" #The Death of Iesada
-	desc = "EVTDESC97620"
-	picture = "emperor_funeral"
+#country_event = {
+#	id = 97620
+#	title = "EVTNAME97620" #The Death of Iesada
+#	desc = "EVTDESC97620"
+#	picture = "emperor_funeral"
 
-	trigger = {
-		tag = TKG
-		year = 1858
-		OR = {
-			government = absolute_monarchy
-			government = prussian_constitutionalism
-			government = hms_government
-		}
-		NOT = { has_global_flag = yoshinobu_shogun }
-		NOT = { has_global_flag = iemochi_shogun }
-		NOT = { has_global_flag = boshin_war }
-		NOT = { has_global_flag = boshin_war_has_happened }
-	}
+#	trigger = {
+#		tag = TKG
+#		year = 1858
+#		OR = {
+#			government = absolute_monarchy
+#			government = prussian_constitutionalism
+#			government = hms_government
+#		}
+#		NOT = { has_global_flag = yoshinobu_shogun }
+#		NOT = { has_global_flag = iemochi_shogun }
+#		NOT = { has_global_flag = boshin_war }
+#		NOT = { has_global_flag = boshin_war_has_happened }
+#	}
 	
-	mean_time_to_happen = {
-		months = 6
-	}
+#	mean_time_to_happen = {
+#		months = 6
+#	}
 	
-	option = {
-		name = "We will support the tozama and make Yoshinobu shogun."
-		set_global_flag = yoshinobu_shogun
-		any_pop = {
-			scaled_militancy = {
-				ideology = conservative
-				factor = -3
-			}
-			scaled_militancy = {
-				ideology = reactionary
-				factor = 3
-			}
-		}
-		any_country = {
-			limit = {
-				substate_of = TKG
-				has_country_flag = tozama_daimyo
-			}
-			country_event = 97621
-		}
-		any_country = {
-			limit = {
-				substate_of = TKG
-				has_country_flag = fudai_daimyo
-			}
-			country_event = 97622
-		}
-		ai_chance = {
-			factor = 50
-			modifier = {
-				factor = 2
-				has_country_flag = consulted_tozama
-			}
-			modifier = {
-				factor = 0.2
-				has_country_flag = consulted_fudai
-			}
-			modifier = {
-				factor = 0.1
-				NOT = { has_country_flag = consulted_tozama }
-				NOT = { has_country_flag = consulted_fudai }
-			}
-			modifier = {
-				factor = 0
-				ai = yes															####Remove this when you fix this. This will make AI TKG fight against the other Japanese countries in the Boshin War, so it's close to even.
-			}
-		}
-	}
+#	option = {
+#		name = "We will support the tozama and make Yoshinobu shogun."
+#		set_global_flag = yoshinobu_shogun
+#		any_pop = {
+#			scaled_militancy = {
+#				ideology = conservative
+#				factor = -3
+#			}
+#			scaled_militancy = {
+#				ideology = reactionary
+#				factor = 3
+#			}
+#		}
+#		any_country = {
+#			limit = {
+#				substate_of = TKG
+#				has_country_flag = tozama_daimyo
+#			}
+#			country_event = 97621
+#		}
+#		any_country = {
+#			limit = {
+#				substate_of = TKG
+#				has_country_flag = fudai_daimyo
+#			}
+#			country_event = 97622
+#		}
+#		ai_chance = {
+#			factor = 50
+#			modifier = {
+#				factor = 2
+#				has_country_flag = consulted_tozama
+#			}
+#			modifier = {
+#				factor = 0.2
+#				has_country_flag = consulted_fudai
+#			}
+#			modifier = {
+#				factor = 0.1
+#				NOT = { has_country_flag = consulted_tozama }
+#				NOT = { has_country_flag = consulted_fudai }
+#			}
+#			modifier = {
+#				factor = 0
+#				ai = yes															####Remove this when you fix this. This will make AI TKG fight against the other Japanese countries in the Boshin War, so it's close to even.
+#			}
+#		}
+#	}
 	
-	option = {
-		name = "The fudai are Tokugawa allies. Iemochi will be shogun."
-		set_global_flag = iemochi_shogun
-		any_pop = {
-			scaled_militancy = {
-				ideology = conservative
-				factor = 3
-			}
-			scaled_militancy = {
-				ideology = reactionary
-				factor = -3
-			}
-		}
-		any_country = {
-			limit = {
-				substate_of = TKG
-				has_country_flag = tozama_daimyo
-			}
-			country_event = 97623
-		}
-		any_country = {
-			limit = {
-				substate_of = TKG
-				has_country_flag = fudai_daimyo
-			}
-			country_event = 97624
-		}
-		ai_chance = {
-			factor = 50
-			modifier = {
-				factor = 0.2
-				has_country_flag = consulted_tozama
-			}
-			modifier = {
-				factor = 2
-				has_country_flag = consulted_fudai
-			}
-		}
-	}
-}
+#	option = {
+#		name = "The fudai are Tokugawa allies. Iemochi will be shogun."
+#		set_global_flag = iemochi_shogun
+#		any_pop = {
+#			scaled_militancy = {
+#				ideology = conservative
+#				factor = 3
+#			}
+#			scaled_militancy = {
+#				ideology = reactionary
+#				factor = -3
+#			}
+#		}
+#		any_country = {
+#			limit = {
+#				substate_of = TKG
+#				has_country_flag = tozama_daimyo
+#			}
+#			country_event = 97623
+#		}
+#		any_country = {
+#			limit = {
+#				substate_of = TKG
+#				has_country_flag = fudai_daimyo
+#			}
+#			country_event = 97624
+#		}
+#		ai_chance = {
+#			factor = 50
+#			modifier = {
+#				factor = 0.2
+#				has_country_flag = consulted_tozama
+#			}
+#			modifier = {
+#				factor = 2
+#				has_country_flag = consulted_fudai
+#			}
+#		}
+#	}
+#}
 
 country_event = {
 	id = 97621
@@ -929,249 +929,249 @@ country_event = {
 #####################################################################################
 
 #The Meiji Restoration	
-country_event = {
-	id = 97640
-	title = "EVTNAME97640" #The Meiji Rebellion - Other Substates
-	desc = "EVTDESC97640"
-	picture = "boshin_war"
+#country_event = {
+#	id = 97640
+#	title = "EVTNAME97640" #The Meiji Rebellion - Other Substates
+#	desc = "EVTDESC97640"
+#	picture = "boshin_war"
 
-	is_triggered_only = yes
+#	is_triggered_only = yes
 	
-	option = {
-		name = "We shall support the Emperor!"
-		set_country_flag = supports_emperor
-		remove_country_modifier = sakoku
-		remove_country_modifier = rangaku
-		remove_country_modifier = ansei_purge
-		leave_alliance = TKG
-		random_country = {
-			limit = { has_country_flag = imperial_war_leader }
-			relation = { who = THIS value = 100 }
-			create_vassal = THIS
-			create_alliance = THIS
-		}
-		any_owned = {
-			remove_province_modifier = peasant_revolt
-			any_pop = { militancy = -6 }
-		}
-		ai_chance = {
-			factor = 50
-			modifier = {
-				factor = 1.5
-				has_country_flag = angered_by_bakufu
-			}
-			modifier = {
-				factor = 0.5
-				has_country_flag = tozama_daimyo
-				TKG = { has_country_flag = consulted_tozama }
-			}
-			modifier = {
-				factor = 0.5
-				has_country_flag = fudai_daimyo
-				TKG = { has_country_flag = consulted_fudai }
-			}
-			modifier = {
-				factor = 1.25
-				has_country_modifier = ansei_purge
-			}
-			modifier = {
-				factor = 0.5
-				has_global_flag = iemochi_shogun
-				has_country_flag = fudai_daimyo
-			}
-			modifier = {
-				factor = 0.5
-				has_global_flag = yoshinobu_shogun
-				has_country_flag = tozama_daimyo
-			}
-			modifier = {
-				factor = 1.5
-				has_country_flag = supports_imperial_edict
-			}
-			modifier = {
-				factor = 0.8
-				has_country_flag = fudai_daimyo
-			}
-			modifier = {
-				factor = 1.2
-				has_country_flag = tozama_daimyo
-			}
-		}
-	}
+#	option = {
+#		name = "We shall support the Emperor!"
+#		set_country_flag = supports_emperor
+#		remove_country_modifier = sakoku
+#		remove_country_modifier = rangaku
+#		remove_country_modifier = ansei_purge
+#		leave_alliance = TKG
+#		random_country = {
+#			limit = { has_country_flag = imperial_war_leader }
+#			relation = { who = THIS value = 100 }
+#			create_vassal = THIS
+#			create_alliance = THIS
+#		}
+#		any_owned = {
+#			remove_province_modifier = peasant_revolt
+#			any_pop = { militancy = -6 }
+#		}
+#		ai_chance = {
+#			factor = 50
+#			modifier = {
+#				factor = 1.5
+#				has_country_flag = angered_by_bakufu
+#			}
+#			modifier = {
+#				factor = 0.5
+#				has_country_flag = tozama_daimyo
+#				TKG = { has_country_flag = consulted_tozama }
+#			}
+#			modifier = {
+#				factor = 0.5
+#				has_country_flag = fudai_daimyo
+#				TKG = { has_country_flag = consulted_fudai }
+#			}
+#			modifier = {
+#				factor = 1.25
+#				has_country_modifier = ansei_purge
+#			}
+#			modifier = {
+#				factor = 0.5
+#				has_global_flag = iemochi_shogun
+#				has_country_flag = fudai_daimyo
+#			}
+#			modifier = {
+#				factor = 0.5
+#				has_global_flag = yoshinobu_shogun
+#				has_country_flag = tozama_daimyo
+#			}
+#			modifier = {
+#				factor = 1.5
+#				has_country_flag = supports_imperial_edict
+#			}
+#			modifier = {
+#				factor = 0.8
+#				has_country_flag = fudai_daimyo
+#			}
+#			modifier = {
+#				factor = 1.2
+#				has_country_flag = tozama_daimyo
+#			}
+#		}
+#	}
 	
-	option = {
-		name = "We shall support the Shogun!"
-		set_country_flag = supports_shogun
-		remove_country_modifier = sakoku
-		remove_country_modifier = rangaku
-		remove_country_modifier = ansei_purge
-		leave_alliance = FROM
-		create_alliance = TKG
-		relation = { who = TKG value = 100 }
-		any_owned = {
-			remove_province_modifier = peasant_revolt
-			any_pop = { militancy = -6 }
-		}
-		ai_chance = {
-			factor = 50
-			modifier = {
-				factor = 0.5
-				has_country_flag = angered_by_bakufu
-			}
-			modifier = {
-				factor = 1.5
-				has_country_flag = tozama_daimyo
-				TKG = { has_country_flag = consulted_tozama }
-			}
-			modifier = {
-				factor = 1.5
-				has_country_flag = fudai_daimyo
-				TKG = { has_country_flag = consulted_fudai }
-			}
-			modifier = {
-				factor = 1.5
-				has_global_flag = iemochi_shogun
-				has_country_flag = fudai_daimyo
-			}
-			modifier = {
-				factor = 1.5
-				has_global_flag = yoshinobu_shogun
-				has_country_flag = tozama_daimyo
-			}
-			modifier = {
-				factor = 1.5
-				has_country_flag = opposes_imperial_edict
-			}
-			modifier = {
-				factor = 1.2
-				has_country_flag = fudai_daimyo
-			}
-			modifier = {
-				factor = 0.8
-				has_country_flag = tozama_daimyo
-			}
-		}		
-	}
-}
+#	option = {
+#		name = "We shall support the Shogun!"
+#		set_country_flag = supports_shogun
+#		remove_country_modifier = sakoku
+#		remove_country_modifier = rangaku
+#		remove_country_modifier = ansei_purge
+#		leave_alliance = FROM
+#		create_alliance = TKG
+#		relation = { who = TKG value = 100 }
+#		any_owned = {
+#			remove_province_modifier = peasant_revolt
+#			any_pop = { militancy = -6 }
+#		}
+#		ai_chance = {
+#			factor = 50
+#			modifier = {
+#				factor = 0.5
+#				has_country_flag = angered_by_bakufu
+#			}
+#			modifier = {
+#				factor = 1.5
+#				has_country_flag = tozama_daimyo
+#				TKG = { has_country_flag = consulted_tozama }
+#			}
+#			modifier = {
+#				factor = 1.5
+#				has_country_flag = fudai_daimyo
+#				TKG = { has_country_flag = consulted_fudai }
+#			}
+#			modifier = {
+#				factor = 1.5
+#				has_global_flag = iemochi_shogun
+#				has_country_flag = fudai_daimyo
+#			}
+#			modifier = {
+#				factor = 1.5
+#				has_global_flag = yoshinobu_shogun
+#				has_country_flag = tozama_daimyo
+#			}
+#			modifier = {
+#				factor = 1.5
+#				has_country_flag = opposes_imperial_edict
+#			}
+#			modifier = {
+#				factor = 1.2
+#				has_country_flag = fudai_daimyo
+#			}
+#			modifier = {
+#				factor = 0.8
+#				has_country_flag = tozama_daimyo
+#			}
+#		}		
+#	}
+#}
 
-country_event = {
-	id = 97641
-	title = "EVTNAME97640" #The Meiji Rebellion - Shogunate
-	desc = "EVTDESC97641"
-	news = yes
-	news_desc_long = "EVTDESC97641_NEWS_LONG"
-	news_desc_medium = "EVTDESC97641_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC97641_NEWS_SHORT"
-	picture = "boshin_war"
+#country_event = {
+#	id = 97641
+#	title = "EVTNAME97640" #The Meiji Rebellion - Shogunate
+#	desc = "EVTDESC97641"
+#	news = yes
+#	news_desc_long = "EVTDESC97641_NEWS_LONG"
+#	news_desc_medium = "EVTDESC97641_NEWS_MEDIUM"
+#	news_desc_short = "EVTDESC97641_NEWS_SHORT"
+#	picture = "boshin_war"
 
-	is_triggered_only = yes
+#	is_triggered_only = yes
 	
-	option = {
-		name = "The Emperor steps beyond his place!"
-		random_owned = {
-			limit = {
-				owner = { civilized = no }
-				FROM = { civilized = yes }
-			}
-			owner = {
-				add_country_modifier = {
-					name = taiping_draft
-					duration = 365
-				}
-			}
-		}
-		war = {
-			target = FROM
-			attacker_goal = {
-				casus_belli = civil_war
-			}
-			defender_goal = {
-				casus_belli = civil_war
-			}
-		}
-	}
-}
+#	option = {
+#		name = "The Emperor steps beyond his place!"
+#		random_owned = {
+#			limit = {
+#				owner = { civilized = no }
+#				FROM = { civilized = yes }
+#			}
+#			owner = {
+#				add_country_modifier = {
+#					name = taiping_draft
+#					duration = 365
+#				}
+#			}
+#		}
+#		war = {
+#			target = FROM
+#			attacker_goal = {
+#				casus_belli = civil_war
+#			}
+#			defender_goal = {
+#				casus_belli = civil_war
+#			}
+#		}
+#	}
+#}
 
-country_event = {
-	id = 97642
-	title = "EVTNAME97640" #The Meiji Rebellion - Imperial Japan
-	desc = "EVTDESC97640"
-	picture = "boshin_war"
+#country_event = {
+#	id = 97642
+#	title = "EVTNAME97640" #The Meiji Rebellion - Imperial Japan
+#	desc = "EVTDESC97640"
+#	picture = "boshin_war"
 
-	is_triggered_only = yes
+#	is_triggered_only = yes
 	
-	option = {
-		name = "Then fight we shall!"
-		set_country_flag = supports_emperor
-		remove_country_modifier = sakoku
-		remove_country_modifier = rangaku
-		remove_country_modifier = ansei_purge
-		random_owned = {
-			limit = {
-				owner = { civilized = no }
-				TKG = { civilized = yes }
-			}
-			owner = {
-				add_country_modifier = {
-					name = daimyo_draft
-					duration = 365
-				}
-			}
-		}
-		random_owned = {
-			limit = {
-				owner = { civilized = no }
-				TKG = { civilized = no }
-			}
-			owner = {
-				add_country_modifier = {
-					name = taiping_draft
-					duration = 365
-				}
-			}
-		}
-		leave_alliance = TKG
-		relation = { who = FROM value = 100 }
-		random_owned = {
-			limit = {
-				owner = { has_country_flag = imperial_war_leader }
-			}
-			TKG = { release_vassal = THIS }
-			THIS = {
-				create_vassal = FROM
-				create_alliance = FROM
-			}
-			any_country = {
-				limit = {
-					OR = {
-						substate_of = TKG
-						AND = {
-							primary_culture = japanese
-							vassal_of = TKG
-						}
-					}
-					NOT = { tag = FROM }
-					NOT = { tag = JAP }
-				}
-				country_event = 97640
-			}
-			TKG = { country_event = 97641 }
-		}
-		random_owned = {
-			limit = {
-				owner = { NOT = { has_country_flag = imperial_war_leader } }
-			}
-			FROM = {
-				create_vassal = THIS
-				create_alliance = THIS
-			}
-		}
-		any_owned = {
-			remove_province_modifier = peasant_revolt
-			any_pop = { militancy = -6 }
-		}
-	}
-}
+#	option = {
+#		name = "Then fight we shall!"
+#		set_country_flag = supports_emperor
+#		remove_country_modifier = sakoku
+#		remove_country_modifier = rangaku
+#		remove_country_modifier = ansei_purge
+#		random_owned = {
+#			limit = {
+#				owner = { civilized = no }
+#				TKG = { civilized = yes }
+#			}
+#			owner = {
+#				add_country_modifier = {
+#					name = daimyo_draft
+#					duration = 365
+#				}
+#			}
+#		}
+#		random_owned = {
+#			limit = {
+#				owner = { civilized = no }
+#				TKG = { civilized = no }
+#			}
+#			owner = {
+#				add_country_modifier = {
+#					name = taiping_draft
+#					duration = 365
+#				}
+#			}
+#		}
+#		leave_alliance = TKG
+#		relation = { who = FROM value = 100 }
+#		random_owned = {
+#			limit = {
+#				owner = { has_country_flag = imperial_war_leader }
+#			}
+#			TKG = { release_vassal = THIS }
+#			THIS = {
+#				create_vassal = FROM
+#				create_alliance = FROM
+#			}
+#			any_country = {
+#				limit = {
+#					OR = {
+#						substate_of = TKG
+#						AND = {
+#							primary_culture = japanese
+#							vassal_of = TKG
+#						}
+#					}
+#					NOT = { tag = FROM }
+#					NOT = { tag = JAP }
+#				}
+#				country_event = 97640
+#			}
+#			TKG = { country_event = 97641 }
+#		}
+#		random_owned = {
+#			limit = {
+#				owner = { NOT = { has_country_flag = imperial_war_leader } }
+#			}
+#			FROM = {
+#				create_vassal = THIS
+#				create_alliance = THIS
+#			}
+#		}
+#		any_owned = {
+#			remove_province_modifier = peasant_revolt
+#			any_pop = { militancy = -6 }
+#		}
+#	}
+#}
 
 #Shogun Surrender Event
 country_event = {
