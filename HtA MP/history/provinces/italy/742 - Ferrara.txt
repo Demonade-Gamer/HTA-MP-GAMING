@@ -1,7 +1,6 @@
 owner = NPL
 controller = NPL
-add_core = iron
-trade_goods = grain
+trade_goods = iron
 life_rating = 35
 
 

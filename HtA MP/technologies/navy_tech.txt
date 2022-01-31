@@ -20,10 +20,19 @@ post_nelsonian_thought = {
 			factor = 0.5
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 4.05
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
+		}
+		# A nation with ports and the potential to colonize
+		modifier = {
+			factor = 8.0
+			rank = 18
+			year = 1855
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
@@ -97,16 +106,25 @@ battleship_column_doctrine = {
 			factor = 0.5
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 51
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
-			factor = 1.5
+			factor = 3.5
 			total_num_of_ports = 9
 			is_greater_power = yes
+		}
+		# A nation with ports and the potential to colonize
+		modifier = {
+			factor = 4.0
+			rank = 18
+			year = 1855
 		}
 		# GPs and SPs with more than 12 ports
 		modifier = {
@@ -171,16 +189,31 @@ raider_group_doctrine = {
 			factor = 0.5
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 51
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
-			factor = 1.5
+			factor = 3.5
 			total_num_of_ports = 9
 			is_greater_power = yes
+		}
+		# A nation with ports and the potential to colonize
+		modifier = {
+			factor = 3.0
+			rank = 18
+			year = 1855
+		}
+		# A nation with ports and the potential to colonize
+		modifier = {
+			factor = 3.0
+			rank = 18
+			year = 1865
 		}
 		# GPs and SPs with more than 12 ports
 		modifier = {
@@ -245,20 +278,29 @@ blue_and_brown_water_schools = {
 			factor = 0.5
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 51
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
-			factor = 1.5
+			factor = 3.5
 			total_num_of_ports = 9
 			is_greater_power = yes
 		}
+		# A nation with ports and the ability to colonize
+		modifier = {
+			factor = 3.0
+			rank = 16
+			year = 1875
+		}
 		# GPs and SPs with more than 12 ports
 		modifier = {
-			factor = 1.25
+			factor = 2.25
 			total_num_of_ports = 12
 			rank = 16
 		}
@@ -321,14 +363,17 @@ high_sea_battle_fleet = {
 			factor = 0.5
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 51
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
-			factor = 1.5
+			factor = 2.5
 			total_num_of_ports = 9
 			is_greater_power = yes
 		}
@@ -472,10 +517,13 @@ clipper_design = {
 			factor = 0.9
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
 			factor = 1.05
-			tech_school = naval_tech_school
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# Valuable for major producers of fish (+50% output invention)
 		modifier = {
@@ -553,10 +601,13 @@ steamers = {
 			factor = 0.9
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 4.05
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# Valuable for major producers of fish (+50% output invention)
 		modifier = {
@@ -572,7 +623,7 @@ steamers = {
 		}
 		# GPs and SPs with more than 12 ports
 		modifier = {
-			factor = 1.25
+			factor = 6
 			total_num_of_ports = 12
 			rank = 16
 			battleship_column_doctrine = 1
@@ -629,15 +680,23 @@ iron_steamers = {
 			factor = 0
 			NOT = { total_num_of_ports = 1 }
 		}
+		# Don't waste RPs if you don't have an equivalent naval base tech
+		modifier = {
+			factor = 0
+			NOT = { raider_group_doctrine = 1 }
+		}
 		# Low LIT countries should pay less attention here (0.2 = Craftsmen ceiling)
 		modifier = {
 			factor = 0.9
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 51
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
@@ -648,7 +707,7 @@ iron_steamers = {
 		}
 		# GPs and SPs with more than 12 ports
 		modifier = {
-			factor = 1.25
+			factor = 6
 			total_num_of_ports = 12
 			rank = 16
 			raider_group_doctrine = 1
@@ -696,8 +755,7 @@ steel_steamers = {
 	area = ship_construction
 	year = 1880
 	cost = 14400
-	unciv_military = yes
-	navy_base = { maximum_speed = 2 } 
+	unciv_military = yes 
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -705,15 +763,23 @@ steel_steamers = {
 			factor = 0
 			NOT = { total_num_of_ports = 1 }
 		}
+		# Don't waste RPs if you don't have an equivalent naval base tech
+		modifier = {
+			factor = 0
+			NOT = { blue_and_brown_water_schools = 1 }
+		}
 		# Low LIT countries should pay less attention here (0.2 = Craftsmen ceiling)
 		modifier = {
 			factor = 0.9
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 51
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
@@ -724,7 +790,7 @@ steel_steamers = {
 		}
 		# GPs and SPs with more than 12 ports
 		modifier = {
-			factor = 1.25
+			factor = 4.25
 			total_num_of_ports = 12
 			rank = 16
 			blue_and_brown_water_schools = 1
@@ -772,8 +838,7 @@ steam_turbine_ships = {
 	area = ship_construction
 	year = 1900
 	cost = 18000
-	unciv_military = yes
-	navy_base = { maximum_speed = 2 } 
+	unciv_military = yes 
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -786,10 +851,13 @@ steam_turbine_ships = {
 			factor = 0.9
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
-			factor = 1.05
-			tech_school = naval_tech_school
+			factor = 4.05
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
@@ -849,7 +917,6 @@ oil_driven_ships = {
 	year = 1919
 	cost = 21600
 	unciv_military = yes
-	navy_base = { maximum_speed = 2 } 
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -862,24 +929,27 @@ oil_driven_ships = {
 			factor = 0.9
 			NOT = { literacy = 0.2 }
 		}
-		# Valuable to naval tech school countries (UK)
+		# Valuable to naval tech school countries (UK/Japan)
 		modifier = {
 			factor = 1.05
-			tech_school = naval_tech_school
+			OR = {
+				tech_school = naval_tech_school
+				tech_school = japanese_tech_school
+			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
 			factor = 1.25
 			total_num_of_ports = 9
 			is_greater_power = yes
-			modern_naval_doctrine = 1
+			#modern_naval_doctrine = 1
 		}
 		# GPs and SPs with more than 12 ports
 		modifier = {
 			factor = 1.1
 			total_num_of_ports = 12
 			rank = 16
-			modern_naval_doctrine = 1
+			#modern_naval_doctrine = 1
 		}
 		# Bigger navy, more weight
 		modifier = {
@@ -1097,7 +1167,7 @@ fire_control_systems = {
 
 weapon_platforms = {
 	area = naval_engineering
-	year = 1850
+	year = 1855
 	cost = 10800
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -1183,7 +1253,7 @@ weapon_platforms = {
 }
 main_armament = {
 	area = naval_engineering
-	year = 1870
+	year = 1880
 	cost = 14400
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -1472,7 +1542,7 @@ alphabetic_flag_signaling = {
 		}
 		modifier = {
 			factor = 0.5
-			NOT = { rank = 18 }
+			NOT = { rank = 20 }
 		}
 		modifier = {
 			factor = 1.02
@@ -1497,9 +1567,19 @@ naval_plans = {
 			factor = 0
 			NOT = { total_num_of_ports = 1 }
 		}
+		# Don't waste RPs if you don't have an equivalent ship tech
+		modifier = {
+			factor = 0
+			NOT = { steamers = 1 }
+		}
+		# Don't waste RPs if you don't have an equivalent naval base tech
+		modifier = {
+			factor = 0
+			NOT = { battleship_column_doctrine = 1 }
+		}
 		modifier = {
 			factor = 0.5
-			NOT = { rank = 18 }
+			NOT = { rank = 20 }
 		}
 		modifier = {
 			factor = 0
@@ -1539,9 +1619,19 @@ naval_statistics = {
 			factor = 0
 			NOT = { total_num_of_ports = 1 }
 		}
+		# Don't waste RPs if you don't have an equivalent ship tech
+		modifier = {
+			factor = 0
+			NOT = { iron_steamers = 1 }
+		}
+		# Don't waste RPs if you don't have an equivalent naval base tech
+		modifier = {
+			factor = 0
+			NOT = { raider_group_doctrine = 1 }
+		}
 		modifier = {
 			factor = 0.5
-			NOT = { rank = 18 }
+			NOT = { rank = 20 }
 		}
 		modifier = {
 			factor = 0
@@ -1581,9 +1671,19 @@ naval_logistics = {
 			factor = 0
 			NOT = { total_num_of_ports = 1 }
 		}
+		# Don't waste RPs if you don't have an equivalent ship tech
+		modifier = {
+			factor = 0
+			NOT = { steel_steamers = 1 }
+		}
+		# Don't waste RPs if you don't have an equivalent naval base tech
+		modifier = {
+			factor = 0
+			NOT = { blue_and_brown_water_schools = 1 }
+		}
 		modifier = {
 			factor = 0.5
-			NOT = { rank = 18 }
+			NOT = { rank = 20 }
 		}
 		modifier = {
 			factor = 0
@@ -1625,7 +1725,7 @@ naval_directionism = {
 		}
 		modifier = {
 			factor = 0.5
-			NOT = { rank = 18 }
+			NOT = { rank = 20 }
 		}
 		modifier = {
 			factor = 0
@@ -1804,6 +1904,16 @@ naval_professionalism = {
 			factor = 0
 			NOT = { total_num_of_ports = 1 }
 		}
+		# Don't waste RPs if you don't have an equivalent ship tech
+		modifier = {
+			factor = 0
+			NOT = { steamers = 1 }
+		}
+		# Don't waste RPs if you don't have an equivalent naval base tech
+		modifier = {
+			factor = 0
+			NOT = { battleship_column_doctrine = 1 }
+		}
 		# Low LIT countries should pay less attention here (0.2 = Craftsmen ceiling)
 		modifier = {
 			factor = 0.8
@@ -1811,7 +1921,7 @@ naval_professionalism = {
 		}
 		# Valuable to naval tech school countries (UK)
 		modifier = {
-			factor = 1.15
+			factor = 2.15
 			tech_school = naval_tech_school
 		}
 		# More popular when at war
@@ -1874,7 +1984,7 @@ naval_professionalism = {
 }
 naval_decision_making = {
 	area = naval_leadership
-	year = 1850
+	year = 1860
 	cost = 10800
 	unciv_military = yes
 	navy_base = {
@@ -1887,6 +1997,16 @@ naval_decision_making = {
 			factor = 0
 			NOT = { total_num_of_ports = 1 }
 		}
+		# Don't waste RPs if you don't have an equivalent ship tech
+		modifier = {
+			factor = 0
+			NOT = { iron_steamers = 1 }
+		}
+		# Don't waste RPs if you don't have an equivalent naval base tech
+		modifier = {
+			factor = 0
+			NOT = { raider_group_doctrine = 1 }
+		}
 		# Low LIT countries should pay less attention here (0.2 = Craftsmen ceiling)
 		modifier = {
 			factor = 0.8
@@ -1894,7 +2014,7 @@ naval_decision_making = {
 		}
 		# Valuable to naval tech school countries (UK)
 		modifier = {
-			factor = 1.15
+			factor = 2.15
 			tech_school = naval_tech_school
 		}
 		# More popular when at war
@@ -1957,7 +2077,7 @@ naval_decision_making = {
 }
 naval_risk_management = {
 	area = naval_leadership
-	year = 1870
+	year = 1880
 	cost = 14400
 	unciv_military = yes
 	navy_base = {
@@ -1970,6 +2090,16 @@ naval_risk_management = {
 			factor = 0
 			NOT = { total_num_of_ports = 1 }
 		}
+		# Don't waste RPs if you don't have an equivalent ship tech
+		modifier = {
+			factor = 0
+			NOT = { steel_steamers = 1 }
+		}
+		# Don't waste RPs if you don't have an equivalent naval base tech
+		modifier = {
+			factor = 0
+			NOT = { blue_and_brown_water_schools = 1 }
+		}
 		# Low LIT countries should pay less attention here (0.2 = Craftsmen ceiling)
 		modifier = {
 			factor = 0.8
@@ -1977,7 +2107,7 @@ naval_risk_management = {
 		}
 		# Valuable to naval tech school countries (UK)
 		modifier = {
-			factor = 1.15
+			factor = 2.15
 			tech_school = naval_tech_school
 		}
 		# More popular when at war

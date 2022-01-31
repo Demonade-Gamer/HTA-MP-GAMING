@@ -1,7 +1,7 @@
 defines = {
 
 start_date = '1836.1.1',
-end_date = '1935.12.31',
+end_date = '1950.12.31',
 
 country = {
 	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism
@@ -30,12 +30,12 @@ country = {
 	BASE_GREATPOWER_DAILY_INFLUENCE = 0.25, -- Influence value which is distributed each day
 	AI_SUPPORT_REFORM = 0.05, -- At least this many % needs to support a reform for the AI to take it
 	BASE_MONTHLY_DIPLOPOINTS = 0.3, -- Base value gain for diplomatic actions each month
-	DIPLOMAT_TRAVEL_TIME = 0,
+	DIPLOMAT_TRAVEL_TIME = -1,
 	PROVINCE_OVERSEAS_PENALTY = 0.05, -- Each province req. this many goods flagged as overseas penalty 
 	NONCORE_TAX_PENALTY = -0.05, -- -5% for each non-core in state
 	BASE_TARIFF_EFFICIENCY = 0.2, -- baseline tariff efficiency
 	COLONY_FORMED_PRESTIGE = 1, -- prestige from founding a colony.
-	CREATED_CB_VALID_TIME = 12,  -- how many months 
+	CREATED_CB_VALID_TIME = 24,  -- how many months 
 	LOYALTY_BOOST_ON_PARTY_WIN = 0.1,
 	MOVEMENT_RADICALISM_BASE = 25,
 	MOVEMENT_RADICALISM_PASSED_REFORM_EFFECT  = -2,
@@ -104,20 +104,20 @@ economy = {
 	GUNBOAT_HIGH_TAX_CAP = 1.0,
 	GUNBOAT_FLEET_SIZE_FACTOR = 100,
 	PROVINCE_SIZE_DIVIDER = 50,
-	CAPITALIST_BUILD_FACTORY_STATE_EMPLOYMENT_PERCENT = 0.7, -- Capis don't build factories if less than this percent is employed in existing factories
+	CAPITALIST_BUILD_FACTORY_STATE_EMPLOYMENT_PERCENT = 0.1, -- Capis don't build factories if less than this percent is employed in existing factories
 	GOODS_FOCUS_SWAP_CHANCE = 0, -- Percent increased chance that artisan wants to change goods independantly of how well he is doing presently
 	NUM_CLOSED_FACTORIES_PER_STATE_LASSIEZ_FAIRE = 1, -- Number of closed factories allowed per state under Lassiez Faire
-	MIN_NUM_FACTORIES_PER_STATE_BEFORE_DELETING_LASSIEZ_FAIRE = 2, -- Min number of factories per state before starting to delete under Lassiez Faire
+	MIN_NUM_FACTORIES_PER_STATE_BEFORE_DELETING_LASSIEZ_FAIRE = 1, -- Min number of factories per state before starting to delete under Lassiez Faire
 	BANKRUPCY_DURATION = 2, -- Years til a bancrupcy clears all loans
-	SECOND_RANK_BASE_SHARE_FACTOR = 0.25,
+	SECOND_RANK_BASE_SHARE_FACTOR = 0.35,
 	CIV_BASE_SHARE_FACTOR = 0.35,
-	UNCIV_BASE_SHARE_FACTOR = 0.75,
+	UNCIV_BASE_SHARE_FACTOR = 1,
 	FACTORY_PAYCHECKS_LEFTOVER_FACTOR = 0.98, -- % of how much we pay to the pops and capitalists, from the leftovers.
 	MAX_FACTORY_MONEY_SAVE = 2500,	-- how much money is stored maximum in a factory.
 	SMALL_DEBT_LIMIT = 10000,
 	FACTORY_UPGRADE_EMPLOYEE_FACTOR = 0.8, -- determines how close to the employee limit we need to be before "upgrade all" will upgrade/expand a given factory (1 = 100%).
-	RGO_SUPPLY_DEMAND_FACTOR_HIRE_HI = 0.2,	-- how fast pops are Hired when there is a high demand
-	RGO_SUPPLY_DEMAND_FACTOR_HIRE_LO = 0.02,	-- how fast pops are Hired when there is a medium demand
+	RGO_SUPPLY_DEMAND_FACTOR_HIRE_HI = 0.4,	-- how fast pops are Hired when there is a high demand
+	RGO_SUPPLY_DEMAND_FACTOR_HIRE_LO = 0.1,	-- how fast pops are Hired when there is a medium demand
 	RGO_SUPPLY_DEMAND_FACTOR_FIRE = 0.4,		-- how fast pops are Fired when there is a low demand
 	EMPLOYMENT_HIRE_LOWEST = 0.001,				-- we Hire pops no slower then x% of total required per day
 	EMPLOYMENT_FIRE_LOWEST = 0.001,				-- we Fire pops no slower then x% of total required per day
@@ -171,12 +171,12 @@ military = {
 	NAVAL_COMBAT_STACKING_TARGET_CHANGE = 0.03, -- increase chance to change/drop target when suffering stacking penalty
 	NAVAL_COMBAT_STACKING_TARGET_SELECT = 0.2, -- modifier for how much the stacking penalty affects the target selection.
 	NAVAL_COMBAT_MAX_TARGETS = 6, -- max number of ships that may target the same enemy ship
-	AI_BIGSHIP_PROPORTION = 0.3, -- fraction of ships in the navy that should be ships of the line
+	AI_BIGSHIP_PROPORTION = 0.4, -- fraction of ships in the navy that should be ships of the line
 	AI_LIGHTSHIP_PROPORTION = 0.4, -- fraction of ships in the navy that should be cruisers, frigates etc
-	AI_TRANSPORT_PROPORTION = 0.3, -- fraction of ships in the navy that should be should be transports
-	AI_CAVALRY_PROPORTION = 0.15, -- fraction of brigades that should be cavalry
-	AI_SUPPORT_PROPORTION = 0.3, -- fraction of brigades that should be artillery and other support units
-	AI_SPECIAL_PROPORTION = 0.15, -- fraction of brigades that should be engineers and tanks
+	AI_TRANSPORT_PROPORTION = 0.2, -- fraction of ships in the navy that should be should be transports
+	AI_CAVALRY_PROPORTION = 0.2, -- fraction of brigades that should be cavalry
+	AI_SUPPORT_PROPORTION = 1.0, -- fraction of brigades that should be artillery and other support units
+	AI_SPECIAL_PROPORTION = 0.0, -- fraction of brigades that should be engineers and tanks
 	AI_ESCORT_RATIO = 2.0, -- ratio of escorts to transports in invasion fleets
 	AI_ARMY_TAXBASE_FRACTION = 0.3, -- max of tax base that AI will spend on army supply costs (based on peacetime costs)
 	AI_NAVY_TAXBASE_FRACTION = 0.3, -- max of tax base that AI will spend on navy supply costs (based on peacetime costs)
@@ -505,7 +505,7 @@ diplomacy = {
 	
 	MIN_WARSCORE_TO_INTERVENE = -1,
 	MIN_MONTHS_TO_INTERVENE = 0,
-	MAX_WARSCORE_FROM_BATTLES = 50,
+	MAX_WARSCORE_FROM_BATTLES = 25,
 	
 	GUNBOAT_DIPLOMATIC_COST = 1,
 	GUNBOAT_RELATION_ON_ACCEPT = 1,
@@ -515,10 +515,10 @@ diplomacy = {
 	DISHONORED_CALLALLY_PRESTIGE_PENALTY = -3,
 	BASE_TRUCE_MONTHS = 0,
 	MAX_INFLUENCE = 100,
-	WARSUBSIDIES_PERCENT = 0.20, -- How many percent of imports you are going to pay each day(mil. constructions and mil. maintainence)
+	WARSUBSIDIES_PERCENT = 0.33, -- How many percent of imports you are going to pay each day(mil. constructions and mil. maintainence)
 	NEIGHBOUR_BONUS_INFLUENCE_PERCENT = 0.50, -- Bonus to neighbouring countries when influencing
-	SPHERE_NEIGHBOUR_BONUS_INFLUENCE_PERCENT = 0.2, -- Bonus to countries in your sphere neighbouring when influencing
-	OTHER_CONTINENT_BONUS_INFLUENCE_PERCENT = -0.50, -- Bonus to neighbouring countries when influencing
+	SPHERE_NEIGHBOUR_BONUS_INFLUENCE_PERCENT = 0.25, -- Bonus to countries in your sphere neighbouring when influencing
+	OTHER_CONTINENT_BONUS_INFLUENCE_PERCENT = -0.25, -- Bonus to neighbouring countries when influencing
 	PUPPET_BONUS_INFLUENCE_PERCENT = 1.0, -- bonus if they are our puppet
 	
 	-- effects of manually releasing a nation
@@ -564,7 +564,7 @@ diplomacy = {
 	GW_WARSCORE_COST_MOD = 0.65, -- cost reduction factor on warscore needed to fulfill goal if great war
 	GW_WARSCORE_COST_MOD_2 = 0.3, -- cost reduction factor on warscore needed to fulfill goal if late game great war
 	GW_WARSCORE_2_THRESHOLD = 50, -- warscore threshold where a GW turns into a world war for winner side
-	TENSION_DECAY = -0.08,
+	TENSION_DECAY = -10000,
 	TENSION_FROM_CB = 0.04,
 	TENSION_FROM_MOVEMENT = 0.02, -- tension per 1000 in nationalist movement
 	TENSION_FROM_MOVEMENT_MAX = 1.2, -- max total value no matter the size of the movement
@@ -573,7 +573,7 @@ diplomacy = {
 	TENSION_ON_REVOLT = 50,
 	TENSION_WHILE_CRISIS = -1.0,
 	CRISIS_COOLDOWN_MONTHS = 60,
-	CRISIS_BASE_CHANCE = 20,
+	CRISIS_BASE_CHANCE = -10000,
 	CRISIS_TEMPERATURE_INCREASE = 0.05,
 	CRISIS_OFFER_DIPLOMATIC_COST = 0,
 	CRISIS_OFFER_RELATION_ON_ACCEPT = 0,
@@ -610,7 +610,7 @@ diplomacy = {
 	TWS_FULFILLED_IDLE_SPACE = 0.75, -- How much % the CB fulfillment must done, so TWS starts ticking.
 	TWS_BATTLE_MIN_COUNT = 5, -- At least X battles before the aspect of wins will count
 	TWS_BATTLE_MAX_ASPECT = 8.0, -- Max allowed battle wins aspect for TWS
-	LARGE_POPULATION_INFLUENCE_PENALTY = -0.4,
+	LARGE_POPULATION_INFLUENCE_PENALTY = 0,
 	LONE_BACKER_PRESTIGE_FACTOR = 0.05 -- prestige boost for being only defender backer in crisis
 },  
 
@@ -658,7 +658,7 @@ pops = {
 
 	PDEF_BASE_CON = 20.0,			-- so half'ed effect.
 	
-	NATIONAL_FOCUS_DIVIDER = 250000.0,
+	NATIONAL_FOCUS_DIVIDER = 1.0,
 	
 	POP_SAVINGS = 0.018,
 	
@@ -696,21 +696,21 @@ ai =
 {
 	COLONY_WEIGHT = 5.0, -- ai weight for colonising
 	ADMINISTRATOR_WEIGHT = 10.0, -- ai weight for new bureaucrat
-	INDUSTRYWORKER_WEIGHT = 10.0, -- ai weight for new industry workers
+	INDUSTRYWORKER_WEIGHT = 15.0, -- ai weight for new industry workers
 	EDUCATOR_WEIGHT = 10.0, -- ai weigth for new clergy
 	SOLDIER_WEIGHT = 30.0, -- ai weight for soldiers
-	SOLDIER_FRACTION = 0.03, -- max amount of population AI wants to be soldiers
-	CAPITALIST_FRACTION = 0.001, -- max amount of population AI wants to be capis
+	SOLDIER_FRACTION = 0.05, -- max amount of population AI wants to be soldiers
+	CAPITALIST_FRACTION = 0.002, -- max amount of population AI wants to be capis
 	PRODUCTION_WEIGHT = 0.05, -- ai weight for new production
-	SPAM_PENALTY = 10, -- makes certain diplomatic action less common 
+	SPAM_PENALTY = 20, -- makes certain diplomatic action less common 
 	ONE_SIDE_MAX_WARSCORE = 100, -- don't add too many wargoals to one side in a war
-	POP_PROJECT_INVESTMENT_MAX_BUDGET_FACTOR = 0.25, -- how much % of our current budget can be spend on the pop project investments.
+	POP_PROJECT_INVESTMENT_MAX_BUDGET_FACTOR = 0.9, -- how much % of our current budget can be spend on the pop project investments.
 	RELATION_LIMIT_NO_ALLIANCE_OFFER = 0, -- if relation lower then this value, AI will not ally
 	NAVAL_SUPPLY_PENALTY_LIMIT = 0.2, -- AI will allow to have max X% of supply penalty (when too little naval bases)
 	CHANCE_BUILD_RAILROAD = 0.75, -- chances in % of AI decisions (max value 1.0)
 	CHANCE_BUILD_NAVAL_BASE = 0.75,
 	CHANCE_BUILD_FORT = 0.05,
-	CHANCE_INVEST_POP_PROJ = 0.2,
+	CHANCE_INVEST_POP_PROJ = 0.9,
 	CHANCE_FOREIGN_INVEST = 0.2,
 	TWS_AWARENESS_SCORE_LOW_CAP = 0.2, -- AI will always add CBs if current warscore is less then that number (including TWS)
 	TWS_AWARENESS_SCORE_ASPECT = 0.5, -- AI will not add any more CBs when TWS is more then X% of total WS. (to not destroy the progress)
@@ -737,17 +737,17 @@ ai =
 
 graphics =
 {
-	CITIES_SPRAWL_OFFSET = 2,
-	CITIES_SPRAWL_WIDTH = 52,
-	CITIES_SPRAWL_HEIGHT = 52,
-	CITIES_SPRAWL_ITERATIONS = 30,
-	CITIES_MESH_POOL_SIZE_FOR_COUNTRY = 64,
-	CITIES_MESH_POOL_SIZE_FOR_CULTURE = 64,
-	CITIES_MESH_POOL_SIZE_FOR_GENERIC = 256,
-	CITIES_MESH_TYPES_COUNT = 3,
-	CITIES_MESH_SIZES_COUNT = 3,
-	CITIES_SPECIAL_BUILDINGS_POOL_SIZE = 64,
-	CITIES_SIZE_MAX_POPULATION_K = 1000 			-- When province population reach 1mln, the city will get it's maximum size.
+	CITIES_SPRAWL_OFFSET = 0,
+	CITIES_SPRAWL_WIDTH = 0,
+	CITIES_SPRAWL_HEIGHT = 0,
+	CITIES_SPRAWL_ITERATIONS = 0,
+	CITIES_MESH_POOL_SIZE_FOR_COUNTRY = 0,
+	CITIES_MESH_POOL_SIZE_FOR_CULTURE = 0,
+	CITIES_MESH_POOL_SIZE_FOR_GENERIC = 0,
+	CITIES_MESH_TYPES_COUNT = 0,
+	CITIES_MESH_SIZES_COUNT = 0,
+	CITIES_SPECIAL_BUILDINGS_POOL_SIZE = 1,
+	CITIES_SIZE_MAX_POPULATION_K = 0			-- When province population reach 1mln, the city will get it's maximum size.
 }
 
 }

@@ -12,26 +12,15 @@
 
 
 very_easy_player = {
-	supply_consumption = -0.5
-	research_points_modifier = 0.5
-	war_exhaustion = -0.1
-	leadership_modifier = 0.5
-	factory_output = 0.20
 }
 
 easy_player = {
-	supply_consumption = -0.25
-	research_points_modifier = 0.25
-	leadership_modifier = 0.25
-	factory_output = 0.10
 }
 
 hard_player = {
-	supply_consumption = 0.5
 }
 
 very_hard_player = {
-	supply_consumption = 1.0
 }
 
 
@@ -53,7 +42,6 @@ hard_ai = {
 	naval_organisation = 0.25
 	leadership_modifier = 0.5
 	global_pop_militancy_modifier = -0.02
-	factory_output = 0.10
 }
 
 very_hard_ai = {
@@ -63,7 +51,6 @@ very_hard_ai = {
 	naval_organisation = 0.5
 	leadership_modifier = 1.0
 	global_pop_militancy_modifier = -0.04
-	factory_output = 0.20
 }
 
 
@@ -72,6 +59,10 @@ very_hard_ai = {
 ##########################################################################
 
 overseas = {
+	farm_rgo_size = 0.3
+	mine_rgo_size = 0.3
+	pop_consciousness_modifier = -0.01
+	population_growth = -0.0001 #0.01%
 }
 
 coastal = {
@@ -98,9 +89,11 @@ land_province = {
 
 blockaded = 
 {
+	war_exhaustion = 0.02
 }
 
 no_adjacent_controlled = {
+	supply_limit = -3
 }
 
 
@@ -113,7 +106,6 @@ has_siege = {
 }
 
 occupied = {
-	population_growth = -0.01
 	immigrant_attract = -1
 }
 
@@ -142,18 +134,17 @@ base_values = {
 
 war = {
 	max_war_exhaustion = 100			#base max at war.
-	supply_consumption = -0.5
+	#supply_consumption = -0.5
 	#war_exhaustion = 0.1
-	badboy = -0.033
-	cb_generation_speed_modifier = 1
+	badboy = -0.1
 }
 
 peace = {
 	max_war_exhaustion = 50			#base max at peace.
-	supply_consumption = -0.5
-	war_exhaustion = -2.5
-	badboy = -0.25
-	cb_generation_speed_modifier = 2
+	#supply_consumption = -0.5
+	war_exhaustion = -1
+	badboy = -0.1
+	mobilisation_economy_impact = 2.0
 }
 
 disarming = {
@@ -161,15 +152,15 @@ disarming = {
 }
 
 war_exhaustion = {
+	org_regain = -0.01
 	factory_throughput = -0.01
 	RGO_throughput = -0.01
-	cb_generation_speed_modifier = -0.01
+	cb_generation_speed_modifier = -0.02
 }
 
 
 badboy = {
 	global_pop_consciousness_modifier = 0.001
-	cb_generation_speed_modifier = -0.01
 }
 
 
@@ -184,44 +175,36 @@ bad_debter = {
 
 great_power = {
 	prestige = 0.05
-	research_points = 2
+	research_points = 1.5
 	diplomatic_points_modifier = 1.0
-	cb_generation_speed_modifier = 0.1
 	leadership = 2.0
-	badboy = -0.05
 }
 
 second_power = {
 	prestige = 0.025
 	research_points = 1.25
-	diplomatic_points_modifier = 1.0
+	diplomatic_points_modifier = 0.25
 	leadership = 1.0
-	badboy = -0.02
 }
 
 civ_nation = {
 	prestige = 0.01
 	research_points = 1
-	diplomatic_points_modifier = 1.0
 	leadership = 0.5
 }
 
 unciv_nation = {
-	prestige = -0.01
-	badboy = -0.2
 	#mobilisation_size = -0.1
-	cb_generation_speed_modifier = 1
+	diplomatic_points_modifier = -0.25
+	cb_generation_speed_modifier = 0.8
 }
 
 
 average_literacy = {
 	research_points = 4
 	leadership = 1
-	org_regain = 0.5
-	self_unciv_economic_modifier = -0.5
-	self_unciv_military_modifier = -0.5
-	unit_start_experience = 1.5
-	tax_efficiency = 0.1
+	self_unciv_economic_modifier = -0.10 #was -0.5
+	self_unciv_military_modifier = -0.10 #was -0.5
 }
 
 plurality = { 
@@ -229,19 +212,19 @@ plurality = {
 }
 
 generalised_debt_default = {
-	max_loan_modifier = -1.0 
+	max_loan_modifier = -1.0	
 }
 
 total_occupation = {
-	war_exhaustion = 0.05				#increased by war exhaustion.
+	war_exhaustion = 0.05 				#increased by war exhaustion.
 	prestige = -0.1
 }
 
 total_blockaded = {
-	war_exhaustion = 0.2	#increased by war exhaustion.  
+	war_exhaustion = 0.05				#increased by war exhaustion.  
 	prestige = -0.1
 }
 
 in_bankrupcy = {
-	max_loan_modifier = -1.0 
+	max_loan_modifier = -1.0
 }

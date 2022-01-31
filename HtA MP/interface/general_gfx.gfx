@@ -8,7 +8,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_icon_religion"
 		texturefile = "gfx\\interface\\icon_religion.tga"
-		noOfFrames = 16
+		noOfFrames = 14
 		norefcount = yes
 	}
 	spriteType = {
@@ -81,6 +81,14 @@ spriteTypes = {
 	textSpriteType = {
 		name = "GFX_button_standard_111"
 		texturefile = "gfx\\interface\\button_standard_111.tga"
+	}
+	textSpriteType = {
+		name = "GFX_button_standard_202"
+		texturefile = "gfx\\interface\\button_standard_202.tga"
+	}
+	textSpriteType = {
+		name = "GFX_button_standard_201"
+		texturefile = "gfx\\interface\\button_standard_201.tga"
 	}
 	textSpriteType = {
 		name = "GFX_button_thin_160"

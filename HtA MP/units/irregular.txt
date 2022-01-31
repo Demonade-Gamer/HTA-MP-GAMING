@@ -6,11 +6,9 @@ irregular = {
 	active = yes
 	unit_type = infantry
 	floating_flag = no
-	move_sound = army_move
-	select_sound = army_selected
 	
 	#Core Abilities
-	priority = 2
+	priority = 5
 	max_strength = 3
 	default_organisation = 20
 	maximum_speed = 4.00
@@ -20,12 +18,12 @@ irregular = {
 	#Building Costs
 	build_time = 45
 	build_cost = {
-		grain = 10
+		wool = 10
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		grain = 0.1
+		wool = 0.1
 	}
 	
 
