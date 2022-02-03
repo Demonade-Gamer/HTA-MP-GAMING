@@ -566,7 +566,7 @@
 	}
 
     slaves = {
-        culture = african_minor
+        culture = persian
         religion = animist
         size = 1000
     }	

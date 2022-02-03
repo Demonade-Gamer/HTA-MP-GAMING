@@ -1990,25 +1990,25 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = persian
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = persian
 		religion = jewish
 		size = 245
 	}
 
     slaves = {
-        culture = african_minor
+        culture = persian
         religion = animist
         size = 500
     }
 
     slaves = {
-        culture = panjabi
+        culture = persian
         religion = sikh
         size = 2000
     }	
@@ -2128,13 +2128,13 @@
 	}
 
     slaves = {
-        culture = african_minor
+        culture = persian
         religion = animist
         size = 1500
     }	
 
     slaves = {
-        culture = shona
+        culture = persian
         religion = animist
         size = 1000
     }	
@@ -2206,7 +2206,7 @@
 	}
 
     slaves = {
-        culture = afar
+        culture = persian
         religion = sunni
         size = 1500
     }	
@@ -2260,7 +2260,7 @@
 	}
 
     slaves = {
-        culture = african_minor
+        culture = persian
         religion = animist
         size = 2500
     }
@@ -2343,7 +2343,7 @@
     }
 
     slaves = {
-        culture = baluchi
+        culture = persian
         religion = shiite
         size = 2500
     }	
@@ -2420,13 +2420,13 @@
     }	
 
     slaves = {
-        culture = sindi
+        culture = persian
         religion = shiite
         size = 1000
     }
 
     slaves = {
-        culture = baluchi
+        culture = persian
         religion = shiite
         size = 2000
     }
@@ -2496,19 +2496,19 @@
 	}
 
     slaves = {
-        culture = pashtun
+        culture = persian
         religion = shiite
         size = 1500
     }	
 
     slaves = {
-        culture = sindi
+        culture = persian
         religion = shiite
         size = 1000
     }
 
     slaves = {
-        culture = baluchi
+        culture = persian
         religion = shiite
         size = 2000
     }
@@ -2583,13 +2583,13 @@
     }	
 
     slaves = {
-        culture = sindi
+        culture = persian
         religion = shiite
         size = 500
     }
 
     slaves = {
-        culture = baluchi
+        culture = persian
         religion = shiite
         size = 1000
     }
@@ -2629,44 +2629,44 @@
 	}
 
 	aristocrats = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 450
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size= 100
 
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 8200
 	}
 
     slaves = {
-        culture = african_minor
+        culture = persian
         religion = shiite
         size = 1500
     }
 
     slaves = {
-        culture = sindi
+        culture = persian
         religion = shiite
         size = 1000
     }	
@@ -2720,38 +2720,38 @@
 	}
 
 	aristocrats = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size= 75
 
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 6375
 	}
 
     slaves = {
-        culture = african_minor
+        culture = persian
         religion = animist
         size = 2000
     }
@@ -2792,38 +2792,38 @@
 	}
 
 	aristocrats = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size= 50
 
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 6075
 	}
 
     slaves = {
-        culture = panjabi
+        culture = persian
         religion = hindu
         size = 4000
     }	
@@ -2863,38 +2863,38 @@
 	}
 
 	aristocrats = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size= 75
 
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = persian
 		religion = sunni
 		size = 11375
 	}
 
     slaves = {
-        culture = panjabi
+        culture = persian
         religion = hindu
         size = 1500
     }
@@ -3003,19 +3003,19 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = persian
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = persian
 		religion = jewish
 		size = 245
 	}
 
     slaves = {
-        culture = african_minor
+        culture = persian
         religion = animist
         size = 8000
     }
@@ -3060,7 +3060,7 @@
 	}
 
     slaves = {
-        culture = pashtun
+        culture = persian
         religion = shiite
         size = 1000
     }
@@ -3183,7 +3183,7 @@
 	}
 	
     slaves = {
-        culture = pashtun
+        culture = persian
         religion = shiite
         size = 500
     }

@@ -234,227 +234,27 @@ political_decisions = {
 	}   
 	
 #Declaration of Mantua - PDN gains Free People CBs against NPL for TUS and adds core on RMG
-	declaration_of_mantua_ai = {
+	gamer_decree = {
+		picture = the_rights_of_man
 		potential = {
 			tag = PDN
-			ai = yes
-			NOT = {
-				has_country_flag = declaration_of_mantua
-				RMG = {
-					any_core = {
-						OR = {
-							owned_by = RMG
-							owned_by = THIS
-						}
-					}
-				}
-			}
+			NOT = { has_country_flag = nap_accepted }
 		}
 		
 		allow = {
-			OR = {
-				THIS = { military_score = NPL }
-				military_score = 30
-			}
-			year = 1849
-		}
-		
-		effect = {
-			set_country_flag = declaration_of_mantua
-			prestige = 5
-			badboy = 4
-			PAP_741 = {
-				add_core = THIS
-			}
-			casus_belli = {
-				target = NPL
-				type = free_peoples
-				months = 120
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = { year = 1849 }
-			}
-		}
-	}
-
-	declaration_of_mantua = {
-		picture = corwin_amendment #or maybe something more regal?
-		potential = {
-			tag = PDN
-			ai = no
-			NOT = {
-				has_country_flag = declaration_of_mantua
-				RMG = {
-					any_core = {
-						OR = {
-							owned_by = RMG
-							owned_by = THIS
-						}
-					}
-				}
-			}
-		}
-		
-		allow = {
-			NOT = {
-				relation = {
-					who = NPL
-					value = 0
-				}
-			}
-			year = 1849
-		}
-		
-		effect = {
-			set_country_flag = declaration_of_mantua
-			prestige = 10
-			badboy = 4
-			PAP_741 = {
-				add_core = THIS
-			}
-			casus_belli = {
-				target = NPL
-				type = free_peoples
-				months = 1
-			}
-			war = {
-				target = NPL
-				attacker_goal = {
-					casus_belli = acquire_core_state
-					state_province_id = 741
-				}
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = { military_score = 40 }
-			}
-		}
-	}
-	
-#Liberation of Tuscany
-	liberate_tuscany = {
-		picture = Tuscany
-		potential = {
-			tag = PDN
-			NOT = { exists = TUS }
-			744 = { owned_by = NPL }
-			741 = { owned_by = THIS }
-			NOT = { has_country_flag = liberate_tuscany }
-			has_country_flag = declaration_of_mantua
-		}
-		allow = {
-			prestige = 50
-			military_score = 50
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
-			}
-		}
-		effect = {
-			set_country_flag = liberate_tuscany
-			TUS_744 = { add_core = THIS }
-			badboy = 2
-			prestige = 5
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.88
-			}
-		}
-	}
-
-
-#Invite Tuscany into the Union
-	invite_tuscany_PDN = {
-		picture = conference1
-		potential = {
-			tag = PDN
-			TUS = { exists = yes war = no}
-			NOT = { has_country_flag = TUS_in_PDN }
-		}
-		
-		allow = {
-			prestige = 25
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
-			}
-			relation = {
-				who = TUS
-				value = 150
-			}
-			TUS = {
-				OR = {
-					vassal_of = THIS
-					is_vassal = no
-				}
-			}
+			ideological_thought = 1
+			NOT = { exists = PAP }
 		}
 		
 		effect = {
 			prestige = 5
-			inherit = TUS
-			TUS = {
-				all_core = {
-					add_core = PDN
-					remove_core = TUS
-				}
-			}
-			set_country_flag = TUS_in_PDN
+			add_accepted_culture = south_italian
+			add_accepted_culture = maretan
+			add_accepted_culture = sicilian
+			set_country_flag = nap_accepted
+			ITA = { all_core = { add_core = THIS } }
 		}
 	}
-	
-#Invite Romagna into the Union
-	invite_romagna_PDN = {
-		picture = conference1
-		potential = {
-			tag = PDN
-			RMG = { exists = yes war = no}
-			NOT = { has_country_flag = RMG_in_PDN }
-		}
-		
-		allow = {
-			prestige = 25
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
-			}
-			relation = {
-				who = RMG
-				value = 150
-			}
-			RMG = {
-				OR = {
-					vassal_of = THIS
-					is_vassal = no
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 5
-			inherit = RMG
-			RMG = {
-				all_core = {
-					add_core = PDN
-					remove_core = RMG
-				}
-			}
-			set_country_flag = RMG_in_PDN
-		}
-	}
-
 
 #Headwaters of the Po - for claiming the Piemont region when DAU doesn't exist (because otherwise you would try to invite DAU)
 	headwaters_po = {

@@ -427,11 +427,11 @@ CRO_789 = { 789 784 785 788 } #Krajina
 
 TUR_788 = { 783 787 786 } #Bosnia
 
-SER_794 = { 794 797 795 796 } #Northern Serbia
+#SER_794 = { 794 797 795 796 } #Northern Serbia
 
-MON_2582 = { 2583 2569 2577 800 } #Montenegro
+#MON_2582 = { 2583 2569 2577 800 } #Montenegro
 
-TUR_803 = { 803 804 798 802 799 } #Southern Serbia
+TUR_803 = { 803 804 798 802 799 794 797 795 796 } #Southern Serbia
 
 TUR_805 = { 805 819 820 821 822 } #Southern Macedonia/Thessalonikos
 
@@ -445,21 +445,21 @@ TUR_823 = { 823 808 829 830 } #Eastern Macedonia/Neston
 
 GRE_826 = { 826 827 } #Heptanesa
 
-GRE_839 = { 839 840 841 842 } #Peloponnese
+#GRE_839 = { 839 840 841 842 } #Peloponnese
 
-#TUR_832 = { 825 824 833 837 } #Thessalia/Epirou
+TUR_832 = { 825 824 833 837 } #Thessalia/Epirou
 
-GRE_837 = { 834 832 831 836 835 838 860 828 858 859 825 824 833 837 } #Hellas (I don't remember if it was called Attica before, but that was the name I had written here first)
+GRE_837 = { 834 832 831 836 835 838 839 840 841 842  } #Hellas (I don't remember if it was called Attica before, but that was the name I had written here first)
 
 EGY_843 = { 846 843 844 845 848 847 856 855 857 } #Aegean Islands
 
 #CRE_847 = { 848 847 } #Crete
 
-TUR_853 = { 849 853 852 851 850 } #Albania/Arbenon
+TUR_853 = { 849 853 852 851 850 2583 2569 2577 800  } #Albania/Arbenon
 
 #TUR_855 = { 856 855 857 } #Cyprus
 
-#TUR_860 = { 860 828 858 859 } #Thrace
+TUR_860 = { 860 828 858 859 } #Thrace
 
 
 ### Middle East

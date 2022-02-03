@@ -9,7 +9,7 @@ political_decisions = {
 		allow = {
 			war = no
 			is_vassal = no
-			prestige = 45
+			prestige =25
 		}
 
 		effect = {
@@ -62,7 +62,7 @@ political_decisions = {
 		allow = {
 			war = no
 			is_vassal = no
-			prestige = 45
+			prestige = 15
 		}
 
 		effect = {
@@ -228,10 +228,6 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			owns = 799
-			OR = {
-				is_greater_power = yes
-				is_secondary_power = yes
-			}
 		}
 		
 		effect = {
@@ -314,10 +310,6 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			war_policy = jingoism
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
-			}
 		}
 		
 		effect = {
@@ -787,7 +779,6 @@ political_decisions = {
 			badboy = 12
 			prestige = 25
 			set_country_flag = claim_tibetan_empire
-			add_accepted_culture = nepali
 			CHI_1557 = {
 				add_core = TIB
 			}
@@ -976,26 +967,12 @@ political_decisions = {
 		potential = {
 			tag = PER
 			NOT = { has_country_flag = claim_greater_persia }
-			OR = {
-				government = absolute_monarchy
-				government = fascist_dictatorship
-				government = prussian_constitutionalism
-				government = presidential_dictatorship
-			}
 		}
 
 		allow = {
 			war = no
 			is_vassal = no
-			prestige = 50
-			OR = {
-				war_policy = jingoism
-				war_policy = pro_military
-			}
-			OR = {
-				is_greater_power = yes
-				is_secondary_power = yes			
-			}
+			prestige = 25
 		}
 
 		effect = {
@@ -1025,18 +1002,7 @@ political_decisions = {
 				add_core = PER
 			}
 			add_accepted_culture = azerbaijani	
-			add_accepted_culture = kurdish
-			any_country = {
-				limit = {
-					NOT = { tag = THIS }
-					any_owned_province = { is_core = PER }
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-				leave_alliance = THIS
-			}			
+			add_accepted_culture = kurdish			
 		}
 		ai_will_do = {
 			factor = 1
@@ -1131,8 +1097,7 @@ political_decisions = {
 			OR = {
 				war_policy = jingoism
 				war_policy = pro_military
-			}
-			is_greater_power = yes		
+			}		
 			PER = {
 				all_core = { owned_by = PER }
 			}
@@ -1148,18 +1113,7 @@ political_decisions = {
 			KOK_1210 = {
 				add_core = PER
 			}
-			add_accepted_culture = pashtun		
-			any_country = {
-				limit = {
-					NOT = { tag = THIS }
-					any_owned_province = { is_core = PER }
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-				leave_alliance = THIS
-			}			
+			add_accepted_culture = pashtun					
 		}
 		ai_will_do = {
 			factor = 1
@@ -1404,49 +1358,7 @@ political_decisions = {
 				badboy = 0
 			}		
 		}
-	}	
-	
-	alaskan_nationalism = {
-	picture = map_alaska
-		potential = {
-			tag = LSK
-			NOT = { has_country_flag = alaskan_nationalism }
-		}
-
-		allow = {
-			war = no
-			is_vassal = no
-			prestige = 40
-			OR = {
-				is_greater_power = yes
-				is_secondary_power = yes
-			}
-		}
-
-		effect = {
-			badboy = 20
-			prestige = 20
-			set_country_flag = alaskan_nationalism
-			ENG_6 = { add_core = LSK }
-			CAN_13 = { add_core = LSK }
-			CAN_19 = { add_core = LSK }
-			any_country = {
-				limit = {
-					NOT = { tag = THIS }
-					any_owned_province = { is_core = LSK }
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-				leave_alliance = THIS
-			}			
-		}
-		
-		ai_will_do = {
-			factor = 0	
-		}
-	}		
+	}			
 	
 	extending_to_danube = {
 		picture = create_romania
@@ -1463,15 +1375,10 @@ political_decisions = {
 		allow = {
 			war = no
 			is_vassal = no
-			prestige = 100
 			VOL = {
 				all_core = {
 					owned_by = VOL
 				}
-			}
-			OR = {
-				is_greater_power = yes
-				is_secondary_power = yes
 			}
 		}
 
@@ -1480,6 +1387,8 @@ political_decisions = {
 			prestige = 10
 			set_country_flag = extending_to_danube
 			792 = { add_core = VOL }
+			add_accepted_culture = hungarian
+			add_accepted_culture = slovak
 			any_pop = {
 				dominant_issue = {
 					factor = 0.15
@@ -1548,102 +1457,7 @@ political_decisions = {
 			factor = 1
 		}
 	}	
-	
-	greater_germany_GER = {
-		potential = {
-			tag = GER
-			government = fascist_dictatorship
-			NOT = { has_country_flag = greater_germany_GER }
-		}
 
-		allow = {
-			war = no
-			is_vassal = no
-			prestige = 250
-			is_greater_power = yes
-			military_score = 1000
-		}
-
-		effect = {
-			prestige = 25
-			badboy = 16
-			set_country_flag = greater_germany_GER
-			PRU_701 = { add_core = GER }
-			PRU_690 = { add_core = GER }
-			PRU_695 = { add_core = GER }
-			SCH_370 = { add_core = GER }
-			FRA_412 = { add_core = GER }
-			AUS_619 = { add_core = GER }
-			AUS_613 = { add_core = GER }
-			AUS_612 = { add_core = GER }
-			AUS_734 = { add_core = GER }
-			397 = { add_core = GER }
-			396 = { add_core = GER }
-			398 = { add_core = GER }
-			381 = { add_core = GER }
-			767 = { add_core = GER }
-			623 = { add_core = GER }
-			685 = { add_core = GER }
-			684 = { add_core = GER }
-			629 = { add_core = GER }
-			630 = { add_core = GER }
-			627 = { add_core = GER }
-			628 = { add_core = GER }
-			688 = { add_core = GER }
-			606 = { add_core = GER }
-			603 = { add_core = GER }
-			611 = { add_core = GER }
-			605 = { add_core = GER }
-			604 = { add_core = GER }
-			609 = { add_core = GER }
-			any_country = {
-				limit = {
-					government = fascist_dictatorship
-				}
-				relation = {
-					who = THIS
-					value = 100
-				}
-			}
-			any_country = {
-				limit = {
-					NOT = {
-						government = fascist_dictatorship
-					}
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-			}				
-			any_country = {
-				limit = {
-					NOT = { tag = THIS }
-					any_owned_province = { is_core = GER }
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-				leave_alliance = THIS
-			}
-			any_country = {
-				limit = {
-					tag = SWI
-				}
-				set_country_flag = neutrality_violated
-				remove_country_modifier = neutrality
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.5
-			}		
-		}		
-	}
 		
 	greater_yugo = {
 		picture = form_yugoslavia
@@ -1725,138 +1539,4 @@ political_decisions = {
 				badboy = 0.5
 			}		
 		}		
-	}
-	
-	french_blobmode = {
-		picture = reichsland_elsass
-		potential = {
-			tag = FRA
-			government = fascist_dictatorship
-			NOT = { has_country_flag = french_blobmode }
-		}
-
-		allow = {
-			war = no
-			is_vassal = no
-			prestige = 250
-			is_greater_power = yes
-			military_score = 250
-		}
-
-		effect = {
-			prestige = 25
-			badboy = 12
-			set_country_flag = french_blobmode
-			FRA_412 = {
-				add_core = FRA
-			}
-			397 = {
-				add_core = FRA
-			}
-			BEL_394 = {
-				add_core = FRA
-			}
-			SAR_466 = {
-				add_core = FRA
-			}
-			473 = {
-				add_core = FRA
-			}
-			608 = {
-				add_core = FRA
-			}
-			607 = {
-				add_core = FRA
-			}
-			573 = {
-				add_core = FRA
-			}
-			any_country = {
-				limit = {
-					government = fascist_dictatorship
-				}
-				relation = {
-					who = THIS
-					value = 100
-				}
-			}
-			any_country = {
-				limit = {
-					NOT = {
-						government = fascist_dictatorship
-					}
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-			}				
-			any_country = {
-				limit = {
-					NOT = { tag = THIS }
-					any_owned_province = { is_core = FRA }
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-				leave_alliance = THIS
-			}							
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.5
-			}		
-		}		
 	}	
-	
-
-	greater_banat = {
-		picture = switch_to_unity
-		potential = {
-			tag = BAN
-			NOT = { has_country_flag = greater_banat }
-			NOT = {
-				2538 = {
-					is_core = THIS
-				}
-			}
-		}
-
-		allow = {
-			war = no
-			is_vassal = no
-			prestige = 25
-			BAN = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-		}
-
-		effect = {
-			prestige = 5
-			set_country_flag = greater_banat
-			791 = {
-				add_core = BAN
-			}
-			2538 = {
-				add_core = BAN
-			}
-			any_country = {
-				limit = {
-					NOT = { tag = THIS }
-				}
-				relation = {
-					who = THIS
-					value = -200
-				}
-				leave_alliance = THIS
-			}	
-		}	
-	}
-	
-}

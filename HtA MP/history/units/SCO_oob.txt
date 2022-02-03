@@ -5,7 +5,6 @@ AEN = {
 
 IRE = {
 	value = -175
-	truce_until = "1838.2.11"
 }
 
 army = {

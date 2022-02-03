@@ -438,6 +438,7 @@ acquire_core_state = {
 	sprite_index = 5
 	is_triggered_only = yes
 	months = 12
+	always = yes
 	
 	construction_speed = 2
 	
@@ -501,7 +502,7 @@ annex_core_country = {
 	is_triggered_only = yes
 	months = 12
 	crisis = no
-	
+	always = yes
 	construction_speed = 2
 
 	badboy_factor = 0

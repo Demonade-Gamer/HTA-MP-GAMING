@@ -5,6 +5,19 @@
 
 
 ##### POLITICAL EVENTS ######
+native_societies1 = {
+	global_immigrant_attract = -10
+	icon = 8
+}
+native_societies2 = {
+	global_population_growth = 0.008
+	icon = 7
+}
+
+small_immigration_boom = {
+	global_immigrant_attract = 1
+	icon = 17
+}
 government_sanitarium = {
 	population_growth = 0.005
 	icon = 19

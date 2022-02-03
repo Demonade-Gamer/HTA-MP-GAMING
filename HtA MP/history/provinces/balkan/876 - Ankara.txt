@@ -2,6 +2,6 @@ owner = ARM
 controller = ARM
 add_core = ARM
 add_core = BYZ
-trade_goods = fruit
+trade_goods = iron
 life_rating = 35
 

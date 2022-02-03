@@ -5,7 +5,7 @@ political_decisions = {
 			NOT = { has_country_flag = dar_al_funun_built }
 		}
 		allow = {
-			literacy = 0.32
+			literacy = 0.15
 		}
 		effect = {
 			years_of_research = 0.5

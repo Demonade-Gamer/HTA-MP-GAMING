@@ -2,69 +2,7 @@
 political_decisions = {
 
 #Setup decision for Sejm and other modifiers
-	HtA_POL_setup = {
-		potential = {
-			tag = POL
-			NOT = { year = 1837 }
-			NOT = { has_country_flag = POL_is_set_up }
-		}
-		
-		allow = {
-			tag = POL
-		}
-		
-		effect = {
-			set_country_flag = POL_is_set_up
-			add_country_modifier = {
-				name = sejm
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_expensive_factories
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_army_spending
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_diplo
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_land_org
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_leadership
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_mobilisation
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_output
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_prestige
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_reform_desire
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_less_tax_efficiency
-				duration = -1
-			}
-			add_country_modifier = {
-				name = POL_slower_cbs
-				duration = -1
-			}
-		}
-	}
+
 	
 ####Related to Russia 0.36 stuff####
 	#Demand Brest

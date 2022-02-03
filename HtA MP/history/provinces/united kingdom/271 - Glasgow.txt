@@ -1,5 +1,5 @@
-owner = IRE
-controller = IRE
+owner = SCO
+controller = SCO
 add_core = SCO
 trade_goods = coal
 life_rating = 35
@@ -9,11 +9,6 @@ state_building = {
 	building = steamer_shipyard
 	upgrade = yes
 }
-#state_building = {
-#	level = 2
-#	building = lumber_mill
-#	upgrade = yes
-#}
 state_building = {
 	level = 1
 	building = ammunition_factory

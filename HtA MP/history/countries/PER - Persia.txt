@@ -40,12 +40,15 @@ upper_house = {
 }
 
 
+
+army_schools = army_schools_two
+foreign_weapons = yes_foreign_weapons 
 foreign_training = yes_foreign_training
-foreign_weapons = yes_foreign_weapons
 
 # Technologies
-military_staff_system = 1
 flintlock_rifles = 1
+military_staff_system = 1
+command_principle = 1
 
 # Inventions
 
