@@ -26,6 +26,16 @@ army = {
 	regiment = {
 		name = "1. Fedehere"
 		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 294
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
 		home = 278
 	}
 	regiment = {
@@ -35,7 +45,7 @@ army = {
 	}
 	regiment = {
 		name = "1. Artiliehere"
-		type = artillery
+		type = hussar
 		home = 283
 	}
 	regiment = {
@@ -45,28 +55,8 @@ army = {
 	}
 	regiment = {
 		name = "1. Radehere"
-		type = cuirassier
+		type = artillery
 		home = 292
-	}
-}
-
-army = {
-	name = "Setlen Here"
-	location = 300
-	regiment = {
-		name = "1. Fedehere"
-		type = infantry
-		home = 300
-	}
-	regiment = {
-		name = "2. Fedehere"
-		type = infantry
-		home = 294
-	}
-	regiment = {
-		name = "3. Fedehere"
-		type = infantry
-		home = 299
 	}
 	regiment = {
 		name = "1. Artiliehere"
@@ -80,25 +70,31 @@ army = {
 	}
 	regiment = {
 		name = "1. Radehere"
-		type = hussar
+		type = artillery
 		home = 300
+	}
+}
+
+army = {
+	name = "Setlen Here"
+	location = 300
+	regiment = {
+		name = "3. Fedehere"
+		type = infantry
+		home = 299
 	}
 	regiment = {
 		name = "2. Radehere"
 		type = hussar
 		home = 300
 	}
-}
-
-army = {
-	name = "Here ov Welighefen"
-	location = 2222
 	regiment = {
 		name = "3. Fedehere"
-		type = infantry
+		type = artillery
 		home = 284
 	}
 }
+
 
 navy = {
 	name = "Cyneflota"

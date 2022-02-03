@@ -11,110 +11,6 @@ BNG = {
 	influence_value = 10
 }
 
-leader = {
-	name = "José María de Carvajal"
-	type = land
-	date = 1836.1.1
-	personality = bold
-	background = adventurer
-}
-
-leader = {
-	name = "Joaquín Martínez-Campos"
-	type = land
-	date = 1836.1.1
-	personality = heroic
-	background = drillmaster
-}
-
-leader = {
-	name = "Ramón Rojo"
-	type = land
-	date = 1836.1.1
-	personality = ballsy
-	background = madman
-}
-
-leader = {
-	name = "Nicolás Silvestre"
-	type = land
-	date = 1836.1.1
-	personality = manful
-	background = cartographer
-}
-
-leader = {
-	name = "Mariano Cagigal de la Vega"
-	type = land
-	date = 1836.1.1
-	personality = doughty
-	background = colonial_b
-}
-
-leader = {
-	name = "Arsenio Uribe"
-	type = land
-	date = 1836.1.1
-	personality = competent
-	background = armchair_general
-}
-
-leader = {
-	name = "Ricardo García de la Noceda"
-	type = land
-	date = 1836.1.1
-	personality = brilliant
-	background = rising_star
-}
-
-leader = {
-	name = "Melchor Heredia"
-	type = land
-	date = 1836.1.1
-	personality = skilled
-	background = cartographer
-}
-
-leader = {
-	name = "Gabriel Maura"
-	type = sea
-	date = 1836.1.1
-	personality = aggressive
-	background = madman
-}
-
-leader = {
-	name = "Francisco de la Fuente"
-	type = sea
-	date = 1836.1.1
-	personality = gallant
-	background = aristocrat
-}
-
-leader = {
-	name = "Emilio Hidalgo de Cisneros"
-	type = sea
-	date = 1836.1.1
-	personality = brutish
-	background = exranker
-}
-
-leader = {
-	name = "Segismundo Narváez"
-	type = sea
-	date = 1836.1.1
-	personality = impetuous
-	background = adventurer
-}
-
-leader = {
-	name = "Calixto Fernández de Córdoba"
-	type = sea
-	date = 1836.1.1
-	personality = hellbent
-	background = colonial_b
-}
-
 army = {
 	name = "Armada del Rey"
 	location = 489
@@ -144,25 +40,25 @@ army = {
 
 	regiment = {
 		name= "3. Brigada de Infantería"
-		type = infantry
+		type = hussar
 		home = 513
 	}
 
 	regiment = {
 		name= "1. Brigada de Ingenieros"
-		type = engineer
+		type = artillery
 		home = 495
 	}
 
 	regiment = {
 		name= "1. Caballeros del Rey"
-		type = cuirassier
+		type = artillery
 		home = 487
 	}
 
 	regiment = {
 		name= "2. Caballeros del Rey"
-		type = cuirassier
+		type = artillery
 		home = 489
 	}
 
@@ -170,6 +66,11 @@ army = {
 		name= "1. Artillería del Rey"
 		type = artillery
 		home = 488
+	}
+	regiment = {
+		name = "1. Brigada Colonial"
+		type = artillery
+		home = 513
 	}
 }
 
@@ -185,7 +86,7 @@ army = {
 
 	regiment = {
 		name= "1. Brigada de Artillería"
-		type = artillery
+		type = infantry
 		home = 481
 	}
 	
@@ -203,7 +104,7 @@ army = {
 
 	regiment = {
 		name= "7. Brigada de Infantería"
-		type = infantry
+		type = hussar
 		home = 497
 	}
 
@@ -212,34 +113,27 @@ army = {
 		type = artillery
 		home = 479
 	}
-}
-
-army = {
-	name = "Ejército de Bangla"
-	location = 1251
-
+	regiment = {
+		name= "3. Brigada de Artillería"
+		type = artillery
+		home = 515
+	}
 	regiment = {
 		name= "8. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 512
 	}
 
 	regiment = {
 		name= "9. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 514
 	}
 
 	regiment = {
 		name= "10. Brigada de Infantería"
-		type = infantry
-		home = 510
-	}
-	
-	regiment = {
-		name= "3. Brigada de Artillería"
 		type = artillery
-		home = 515
+		home = 510
 	}
 }
 
@@ -258,7 +152,7 @@ army = {
 	}
 	regiment = {
 		name= "3. Brigada Bangala"
-		type = infantry
+		type = hussar
 		home = 1256
 	}
 	regiment = {
@@ -271,32 +165,10 @@ army = {
 		type = artillery
 		home = 1257
 	}
-}
-
-army = {
-	name = "Guardia de Goa"
-	location = 1303
 	regiment = {
 		name = "Guardia de Goa"
 		home = 1303
-		type = irregular
-	}
-}
-	
-army = {
-	name = "Ejército de Cuba"
-	location = 2209
-	
-	regiment = {
-		name = "1. Brigada Colonial"
-		type = infantry
-		home = 513
-	}
-	
-	regiment = {
-		name = "2. Brigada Colonial"
-		type = infantry
-		home = 2209
+		type = artillery
 	}
 }
 
@@ -311,8 +183,13 @@ army = {
 	}
 	regiment = {
 		name = "12. Brigada de Infanteria"
-		type = infantry
+		type = hussar
 		home = 516
+	}
+	regiment = {
+		name = "2. Brigada Colonial"
+		type = artillery
+		home = 2209
 	}
 }
 

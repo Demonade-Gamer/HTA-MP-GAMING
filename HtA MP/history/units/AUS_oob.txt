@@ -20,7 +20,7 @@ army = {
 	}
 	regiment = {
 		name = "I. Dragoner"
-		type = dragoon
+		type = hussar
 		home = 622
 	}
 	regiment = {
@@ -30,12 +30,12 @@ army = {
 	}
 	regiment = {
 		name = "IV. Infanterie"
-		type = infantry
+		type = artillery
 		home = 617
 	}
 	regiment = {
 		name = "V. Infanterie"
-		type = infantry
+		type = artillery
 		home = 624
 	}
 	regiment = {
@@ -65,7 +65,7 @@ army = {
 	}
 	regiment = {
 		name = "II. Dragoner"
-		type = dragoon
+		type = hussar
 		home = 618
 	}
 	regiment = {
@@ -75,12 +75,12 @@ army = {
 	}
 	regiment = {
 		name = "IX. Infanterie"
-		type = infantry
+		type = artillery
 		home = 616
 	}
 	regiment = {
 		name = "X. Infanterie"
-		type = infantry
+		type = artillery
 		home = 624
 	}
 	regiment = {

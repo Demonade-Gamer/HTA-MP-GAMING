@@ -21,26 +21,6 @@ army = {
 		home = 268
 	}
 	regiment = {
-		name = "3. Cor Cosite"
-		type = infantry
-		home = 269
-	}
-	regiment = {
-		name = "1. Cor Artléir"
-		type = artillery
-		home = 266
-	}
-	regiment = {
-		name = "1. Cor Marcra"
-		type = dragoon
-		home = 270
-	}
-}
-
-army = {
-	name = "Armn'Indinéis"
-	location = 1413
-	regiment = {
 		name = "1. Coilineach Resimint"
 		type = infantry
 		home = 1413
@@ -51,8 +31,23 @@ army = {
 		home = 1426
 	}
 	regiment = {
+		name = "3. Cor Cosite"
+		type = hussar
+		home = 269
+	}
+	regiment = {
+		name = "1. Cor Artléir"
+		type = artillery
+		home = 266
+	}
+	regiment = {
+		name = "1. Cor Marcra"
+		type = artillery
+		home = 270
+	}
+	regiment = {
 		name = "3. Coilineach Resimint"
-		type = infantry
+		type = artillery
 		home = 1403
 	}
 	regiment = {
@@ -62,10 +57,11 @@ army = {
 	}
 	regiment = {
 		name = "5. Coilineach Resimint"
-		type = dragoon
+		type = artillery
 		home = 1413
 	}
 }
+
 
 navy = {
 	name = "Cablachn'Alba"

@@ -63,7 +63,7 @@ army = {
 	}
 	regiment = {
 		name = "V. Scholai"
-		type = infantry
+		type = hussar
 		home = 858
 	}
 	regiment = {
@@ -88,12 +88,12 @@ army = {
 	}
 	regiment = {
 		name = "I. Koursouses"
-		type = cuirassier
+		type = artillery
 		home = 806
 	}
 	regiment = {
 		name = "II. Koursoses"
-		type = cuirassier
+		type = artillery
 		home = 835
 	}
 }
@@ -117,39 +117,19 @@ army = {
 		home = 837
 	}
 	regiment = {
-		name = "I. Ippikos"
-		type = hussar
-		home = 840
-	}
-	regiment = {
-		name = "I. Pyrovolikos G."
-		type = artillery
-		home = 836
-	}
-	regiment = {
-		name = "II. Pyrovolikos G."
-		type = artillery
-		home = 841
-	}
-}
-
-army = {
-	name = "Hemia Guard"
-	location = 809
-	regiment = {
 		name = "I. Hemioi"
 		type = infantry
 		home = 809
 	}
 	regiment = {
-		name = "II. Hemioi"
-		type = infantry
-		home = 849
+		name = "III. Hemioi"
+		type = hussar
+		home = 850
 	}
 	regiment = {
-		name = "III. Hemioi"
-		type = infantry
-		home = 850
+		name = "I. Ippikos"
+		type = artillery
+		home = 840
 	}
 	regiment = {
 		name = "I. Pyrovolikos H."
@@ -160,6 +140,16 @@ army = {
 		name = "II. Pyrovolikos H."
 		type = artillery
 		home = 811
+	}
+	regiment = {
+		name = "I. Pyrovolikos G."
+		type = artillery
+		home = 836
+	}
+	regiment = {
+		name = "II. Pyrovolikos G."
+		type = artillery
+		home = 841
 	}
 }
 

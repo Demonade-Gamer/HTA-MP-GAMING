@@ -5,7 +5,7 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_loyalty
-literacy = 0.30
+literacy = 0.20
 non_state_culture_literacy = 0.05
 prestige = 15
 

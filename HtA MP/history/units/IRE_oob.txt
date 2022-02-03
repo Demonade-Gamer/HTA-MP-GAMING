@@ -24,21 +24,6 @@ army = {
 		home = 259
 	}
 	regiment = {
-		name = "1. An Cor Airtléire"
-		type = artillery
-		home = 261
-	}
-	regiment = {
-		name = "1. An Cor Marcra"
-		type = cuirassier
-		home = 260
-	}
-}
-
-army = {
-	name = "Arm na hGlaschun"
-	location = 271
-	regiment = {
 		name = "3. An Cor Coisithe"
 		type = infantry
 		home = 254
@@ -49,9 +34,34 @@ army = {
 		home = 271
 	}
 	regiment = {
+		name = "4. An Cor Airtléire"
+		type = hussar
+		home = 262
+	}
+	regiment = {
+		name = "1. An Cor Airtléire"
+		type = artillery
+		home = 261
+	}
+	regiment = {
+		name = "1. An Cor Marcra"
+		type = artillery
+		home = 260
+	}
+	regiment = {
 		name = "1. Airtléire na hAlban"
 		type = artillery
 		home = 255
+	}
+	regiment = {
+		name = "2. Cor na hGhuisearait"
+		type = artillery
+		home = 1292
+	}
+	regiment = {
+		name = "1. Marcra na hGhuisearait"
+		type = artillery
+		home = 1293
 	}
 }
 
@@ -65,28 +75,13 @@ army = {
 	}
 	regiment = {
 		name = "5. An Cor Coisithe"
-		type = infantry
+		type = hussar
 		home = 264
 	}
 	regiment = {
-		name = "4. An Cor Airtléire"
-		type = artillery
-		home = 262
-	}
-	regiment = {
 		name = "1. Cor na hGhuisearait"
-		type = infantry
+		type = artillery
 		home = 1291
-	}
-	regiment = {
-		name = "2. Cor na hGhuisearait"
-		type = infantry
-		home = 1292
-	}
-	regiment = {
-		name = "1. Marcra na hGhuisearait"
-		type = dragoon
-		home = 1293
 	}
 }
 

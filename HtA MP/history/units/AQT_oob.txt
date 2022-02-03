@@ -74,7 +74,7 @@ army = {
 	}
 	regiment = {
 		name= "1. Artilharia"
-		type = artillery
+		type = hussar
 		home = 455
 	}
 	regiment = {
@@ -84,12 +84,12 @@ army = {
 	}
 	regiment = {
 		name= "1. Cavalaria"
-		type = dragoon
+		type = artillery
 		home = 456
 	}
 	regiment = {
 		name= "2. Cavalaria"
-		type = dragoon
+		type = artillery
 		home = 459
 	}
 }

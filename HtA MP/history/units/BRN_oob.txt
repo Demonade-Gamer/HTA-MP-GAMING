@@ -1,6 +1,6 @@
-BAD = { value = -175 truce_until = 1840.4.13 }
-BAV = {	value = -175 truce_until = 1840.4.13 }
-WUR = { value = -175 truce_until = 1840.4.13 }
+BAD = { value = -175 }
+BAV = {	value = -175 }
+WUR = { value = -175 }
 BRA = { value = 125 }
 THU = { value = 140 }
 POM = {	value = 155
@@ -34,12 +34,12 @@ army = {
 	}
 	regiment = {
 		name = "I Reiter-Regiment"
-		type = hussar
+		type = infantry
 		home = 552
 	}
 	regiment = {
 		name = "I Artillerie-Regiment"
-		type = artillery
+		type = hussar
 		home = 681
 	}
 	regiment = {

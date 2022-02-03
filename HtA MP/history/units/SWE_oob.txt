@@ -7,7 +7,7 @@ army = {
 	location = 322
 	regiment = {
 		name= "Svea Livgarde"
-		type = guard
+		type = infantry
 		home = 322
 	}
 
@@ -31,31 +31,31 @@ army = {
 
 	regiment = {
 		name= "Västgöta Regemente"
-		type = infantry
+		type = hussar
 		home = 330
 	}
 
 	regiment = {
 		name= "Kalmar Regemente"
-		type = infantry
+		type = artillery
 		home = 332
 	}
 
 	regiment = {
 		name= "Jönköpings Regemente"
-		type = infantry
+		type = artillery
 		home = 333
 	}
 
 	regiment = {
 		name= "Götborgs Infanteriregementet"
-		type = infantry
+		type = artillery
 		home = 329
 	}
 
 	regiment = {
 		name= "Kronprinsens Husarregemente"
-		type = hussar
+		type = artillery
 		home = 322
 	}
 

@@ -25,7 +25,7 @@ army = {
 	}
 	regiment = {
 		name = "3. Fanteria di Linea"
-		type = infantry
+		type = hussar
 		home = 727
 	}
 	regiment = {
