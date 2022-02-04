@@ -3,109 +3,109 @@
 #Massenya (320000/80000 POPS)
 1818 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 40
 	}
 
 	officers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 60
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1800
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 24800
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 22000
 	}
 
 	slaves = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 8000
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 1000
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 18300
 	}
@@ -113,73 +113,73 @@
 #Moundou (48000/12000 POPS)
 1819 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 575
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 6375
 	}
 
 	slaves = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 2000
 	}
 
 	slaves = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 2000
 	}
@@ -187,61 +187,61 @@
 #Bongor (36000/9000 POPS)
 1820 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 6375
 	}
@@ -251,85 +251,85 @@
 #Abeche (136000/34000 POPS)
 1821 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1250
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 12000
 	}
 	
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 2000
 	}	
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 8000
 	}
 
 	slaves = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 8000
 	}
@@ -337,67 +337,67 @@
 #Am Timan (168000/42000 POPS)
 1822 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 550
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 21650
 	}
 
 	slaves = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 10000
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 7300
 	}
@@ -405,79 +405,79 @@
 #Mongo (184000/46000 POPS)
 1823 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 700
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1450
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 26500
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 5400
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
@@ -489,13 +489,13 @@
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 3600
 	}
 
 	slaves = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 6000
 	}
@@ -505,109 +505,109 @@
 #Mao (752000/188000 POPS)
 1824 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 2600
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1300
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 5300
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1400
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 63400
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 7200
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 900
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 2400
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 53400
 	}
 
 	slaves = {
-		culture = bedouin
+		culture = yoruba
 		religion = animist
 		size = 48000
 	}
@@ -615,61 +615,61 @@
 #Zouar (72000/18000 POPS)
 1825 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 14575
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 1800
 	}
@@ -678,31 +678,31 @@
 #Faya (56000/14000 POPS)
 1826 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = sunni
 		size = 12750
 	}

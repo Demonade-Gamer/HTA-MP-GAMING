@@ -1,10 +1,5 @@
 capital = 1794
-primary_culture = bambara
-culture = fulbe
-culture = mande
-culture = dyula
-culture = senufo
-culture = african_minor
+primary_culture = yoruba
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

@@ -619,7 +619,7 @@
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bakongo
 		religion = animist
 		size = 1800
 	}

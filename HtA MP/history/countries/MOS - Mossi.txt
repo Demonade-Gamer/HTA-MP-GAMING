@@ -1,6 +1,5 @@
 capital = 1901
-primary_culture = mossi
-culture = african_minor
+primary_culture = yoruba
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
