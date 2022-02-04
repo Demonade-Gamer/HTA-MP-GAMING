@@ -24,11 +24,6 @@ army = {
 	name = "1. Wojsko Polskie"
 	location = 706
 	regiment = {
-		name = "1. Dywizja Piechoty Gwardii"
-		type = guard
-		home = 712
-	}
-	regiment = {
 		name = "1. Dywizja Piechoty"
 		type = infantry
 		home = 696
@@ -50,7 +45,7 @@ army = {
 	}
 	regiment = {
 		name = "1. Dywizja Artylerii"
-		type = artillery
+		type = hussar
 		home = 700
 	}
 	regiment = {
@@ -70,12 +65,12 @@ army = {
 	}
 	regiment = {
 		name = "1. Dywizja Huzara"
-		type = hussar
+		type = artillery
 		home = 701
 	}
 	regiment = {
 		name = "2. Dywizja Huzara"
-		type = hussar
+		type = artillery
 		home = 714
 	}
 }
@@ -105,7 +100,7 @@ army = {
 	}
 	regiment = {
 		name = "5. Dywizja Artylerii"
-		type = artillery
+		type = hussar
 		home = 703
 	}
 	regiment = {
@@ -119,9 +114,19 @@ army = {
 		home = 690
 	}
 	regiment = {
-		name = "3. Dywizja Huzara"
-		type = hussar
+		name = "1. Dywizja Piechoty Gwardii"
+		type = artillery
 		home = 712
+	}
+	regiment = {
+		name = "3. Dywizja Huzara"
+		type = artillery
+		home = 712
+	}
+	regiment = {
+		name = "10. Dywizja Piechoty"
+		type = artillery
+		home = 715
 	}
 }
 
@@ -130,12 +135,12 @@ army = {
 	location = 702
 	regiment = {
 		name = "1. Dywizja Lodomerie"
-		type = infantry
+		type = artillery
 		home = 702
 	}
 	regiment = {
 		name = "2. Dywizja Lodomerie"
-		type = infantry
+		type = artillery
 		home = 952
 	}
 	regiment = {
@@ -145,17 +150,17 @@ army = {
 	}
 	regiment = {
 		name = "9. Dywizja Piechoty"
-		type = infantry
+		type = artillery
 		home = 701
 	}
 	regiment = {
 		name = "10. Dywizja Piechoty"
-		type = infantry
+		type = artillery
 		home = 715
 	}
 	regiment = {
 		name = "1. Dywizja Kirasjerzya"
-		type = cuirassier
+		type = hussar
 		home = 699
 	}
 }

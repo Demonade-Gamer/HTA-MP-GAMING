@@ -27,7 +27,7 @@ army = {
 	}
 	regiment = {
 		name= "2-2 Hayastan Guard"
-		type = artillery
+		type = hussar
 		home = 1098
 	}
 	regiment = {
@@ -37,8 +37,23 @@ army = {
 	}
 	regiment = {
 		name= "2-1 Hayastan Guard"
-		type = cuirassier
+		type = artillery
 		home = 887
+	}
+	regiment = {
+		name= "2. Cavalry Guards"
+		type = artillery
+		home = 879
+	}
+	regiment = {
+		name= "3. Cavalry Guards"
+		type = artillery
+		home = 878
+	}
+	regiment = {
+		name= "4. Cavalry Guards"
+		type = artillery
+		home = 876
 	}
 }
 
@@ -66,13 +81,18 @@ army = {
 		home = 887
 	}
 	regiment = {
+		name= "1. Cavalry Guards"
+		type = hussar
+		home = 879
+	}
+	regiment = {
 		name= "1-5 Line Infantry"
-		type = infantry
+		type = artillery
 		home = 873
 	}
 	regiment = {
 		name= "1-6 Line Infantry"
-		type = infantry
+		type = artillery
 		home = 874
 	}
 	regiment = {
@@ -93,36 +113,16 @@ army = {
 }
 
 army = {
-	name = "1. Cavalry Guards"
+	name = "The 2 spare arty brigades"
 	location = 878
 	regiment = {
-		name= "1. Cavalry Guards"
-		type = hussar
-		home = 879
-	}
-	regiment = {
-		name= "2. Cavalry Guards"
-		type = hussar
-		home = 879
-	}
-	regiment = {
-		name= "3. Cavalry Guards"
-		type = cavalry
-		home = 878
-	}
-	regiment = {
-		name= "4. Cavalry Guards"
-		type = cavalry
-		home = 876
-	}
-	regiment = {
 		name= "5. Cavalry Guards"
-		type = cavalry
+		type = artillery
 		home = 875
 	}
 	regiment = {
 		name= "6. Cavalry Guards"
-		type = cavalry
+		type = artillery
 		home = 876
 	}
 }

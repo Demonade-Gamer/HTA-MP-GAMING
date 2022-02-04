@@ -29,13 +29,13 @@ army = {
 
 	regiment = {
 		name= "2.2. Infanteridivision"
-		type = infantry
+		type = hussar
 		home = 366
 	}
 
 	regiment = {
 		name= "3.2. Infanteridivision"
-		type = infantry
+		type = artillery
 		home = 372
 	}
 	
@@ -59,7 +59,7 @@ army = {
 
 	regiment = {
 		name= "1.1. Kavalleridivision"
-		type = dragoon
+		type = artillery
 		home = 373
 	}
 
