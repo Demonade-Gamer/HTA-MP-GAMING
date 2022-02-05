@@ -93,7 +93,20 @@ vassal_nation = {
 	icon = 10
 	prestige = -0.1
 }
-
+bad_badboy = {
+		trigger = {
+			badboy = 1.6
+		}
+		global_immigrant_attract = -1.5
+		land_organisation = -0.25
+		mobilisation_size = -0.05
+		supply_consumption = 0.30
+		mobilization_impact = 1
+		mobilisation_economy_impact = 0.66
+		tariff_efficiency_modifier = -0.1
+		tax_efficiency = -0.5
+		research_points_modifier = -1
+	}
 hormuz_strait = {
 		trigger = {
 			exists = yes
@@ -127,7 +140,7 @@ own_suez_canal = {
 	}
 	icon = 9
 	tariff_efficiency_modifier = 0.1
-	tax_efficiency = 0.5
+	tax_efficiency = 0.25
 	prestige = 0.01
 }
 
@@ -140,7 +153,7 @@ own_panama_canal = {
 	}
 	icon = 9
 	tariff_efficiency_modifier = 0.2
-	tax_efficiency = 0.5
+	tax_efficiency = 0.25
 	prestige = 0.02
 }
 

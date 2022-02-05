@@ -380,23 +380,24 @@ political_decisions = {
 			change_tag = SCW
 		}
 	}
-invade_the_mexicans_mel = {
+invade_the_mexicans_scw = {
 		potential = {
-			tag = MEL
-			NOT = { has_country_flag = north_invaded_scw }
+			tag = SCW
+			NOT = { has_country_flag = mexico_invaded_scw }
 		}
 		allow = {
 			year = 1870
 		}
 		effect = {
-			MEX = { all_core = { add_core = SCW } }
-			set_country flag = north_invaded_scw
+			MEX = { any_owned = { limit = { NOT = { OR = { is_core = MEL } } } } add_core = SCW } } 
+			YUC = { all_core = { add_core = SCW } }
+			set_country flag = mexico_invaded_scw
 		}
 	}
-integrate_the_mexicans_mel = {
+integrate_the_mexicans_scw = {
 		potential = {
 			has_country_flag = north_invaded
-			tag = MEL
+			tag = SCW
 			NOT = { has_country_flag = mexicans_integrated_scw }
 		}
 		allow = {
@@ -650,7 +651,7 @@ integrate_the_mexicans_mel = {
 			year = 1870
 		}
 		effect = {
-			MEX = { any_owned = { limit = { NOT = { OR { is_core = CLF is_core = GNC } } } } add_core = MEL } } 
+			MEX = { any_owned = { limit = { NOT = { OR = { is_core = CLF is_core = GNC } } } } add_core = MEL } } 
 			YUC = { all_core = { add_core = MEL } }
 			set_country flag = north_invaded
 		}

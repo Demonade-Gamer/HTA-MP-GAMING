@@ -11,7 +11,7 @@ army = {
 	location = 375 
 	regiment = {
 		name= "1e Cavalerie Brigade"
-		type = cuirassier
+		type = infantry
 		home = 375
 	}
 
@@ -32,82 +32,69 @@ army = {
 		type = infantry
 		home = 377
 	}
-
+	regiment = {
+		name= "4e Afrika Brigade"
+		type = hussar
+		home = 384
+	}
 	regiment = {
 		name = "1e Artillerie Brigade"
 		type = artillery
 		home = 375
 	}
-
-}
-
-army = {
-	name = "2e Divisie"
-	location = 382
 	regiment = {
 		name= "2e Cavalerie Brigade"
-		type = cuirassier
+		type = artillery
 		home = 383
 	}
 	regiment = {
 		name = "4e Infanterie Brigade"
-		type = infantry
+		type = artillery
 		home = 386
 	}
 	regiment = {
 		name = "5e Infanterie Brigade"
-		type = infantry
+		type = artillery
 		home = 382
 	}
 	regiment = {
 		name = "6e Infanterie Brigade"
-		type = infantry
+		type = artillery
 		home = 383
 	}
 }
-
 army = {
-	name = "Afrika Divisie"
-	location = 2087
+	name = "Panaja Divisie"
+	location = 1455
+	regiment = {
+		name = "1e Panaja Brigade"
+		type = hussar
+		home = 1455
+	}
+	regiment = {
+		name = "2e Panaja Brigade"
+		type = artillery
+		home = 1457
+	}
+	regiment = {
+		name = "3e Panaja Brigade"
+		type = artillery
+		home = 1456
+	}
 	regiment = {
 		name = "1e Afrika Brigade"
-		type = infantry
+		type = artillery
 		home = 2087
 	}
 	regiment = {
 		name = "2e Afrika Brigade"
-		type = infantry
+		type = artillery
 		home = 2096
 	}
 	regiment = {
 		name = "3e Afrika Brigade"
 		type = artillery
 		home = 384
-	}
-	regiment = {
-		name= "4e Afrika Brigade"
-		type = cuirassier
-		home = 384
-	}
-}
-
-army = {
-	name = "Panaja Divisie"
-	location = 1455
-	regiment = {
-		name = "1e Panaja Brigade"
-		type = infantry
-		home = 1455
-	}
-	regiment = {
-		name = "2e Panaja Brigade"
-		type = infantry
-		home = 1457
-	}
-	regiment = {
-		name = "3e Panaja Brigade"
-		type = infantry
-		home = 1456
 	}
 }
 
