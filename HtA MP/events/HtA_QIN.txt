@@ -18,8 +18,10 @@ country_event = {
 	option = {
 		name = "The bureaucracy need to be improved."
 		prestige = 10
-		economic_reform = yes_admin_reform
+		economic_reform = yes_education_reform
 		economic_reform = yes_land_reform
+		GXI = { activate_technology = malthusian_thought }
+		GXI = { activate_technology = water_wheel_power }
 		random_country = {
 			limit = {
 				OR = {
@@ -58,6 +60,8 @@ country_event = {
 		prestige = 10
 		economic_reform = yes_transport_improv
 		economic_reform = yes_finance_reform
+		GXI = { activate_technology = experimental_railroad }
+		GXI = { activate_technology = private_banks }
 		random_country = {
 			limit = { 
 				OR = {
@@ -96,6 +100,8 @@ country_event = {
 		prestige = 10
 		military_reform = yes_foreign_officers
 		military_reform = yes_foreign_training
+		GXI = { activate_technology = army_command_principle }
+		GXI = { activate_technology = post_napoleonic_thought }
 		random_country = {
 			limit = {
 				OR = {
@@ -224,17 +230,17 @@ country_event = {
 			}
 			AND = {
 				QIN = { NOT = { civilization_progress = .5 } }
-				THIS = { civilization_progress = .7 }
+				THIS = { civilization_progress = .4 }
 			}
 			AND = {
 				QIN = { civilized = no }
-				THIS = { civilization_progress = .8 }
+				THIS = { civilization_progress = .6 }
 			}
 		}
 	}
 	
 	mean_time_to_happen = {
-		months = 24
+		months = 6
 		modifier = {
 			factor = 0.5
 			QIN = { is_disarmed = yes }
