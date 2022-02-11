@@ -976,7 +976,7 @@ country_event = {
 	trigger = {
 		DAU = { vassal_of = THIS }
 		neighbour = DAU
-		year = 1860
+		year = 1845
 	}
 	
 	mean_time_to_happen = {

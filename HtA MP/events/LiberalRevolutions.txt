@@ -24,8 +24,7 @@ country_event = {
 			is_culture_group = scandinavian
 			is_culture_group = finnic
 			is_culture_group = baltic
-			is_culture_group = byzantine
-			#is_culture_group = gallo_romance (Do not want)			
+			is_culture_group = byzantine		
 			literacy = 0.3
 		}
 		year = 1840

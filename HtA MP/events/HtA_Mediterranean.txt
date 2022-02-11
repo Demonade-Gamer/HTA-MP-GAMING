@@ -2,46 +2,6 @@
 #51650 - 51699
 
 #Corsica, Aquitania, PDN, and Naples/Italy
-
-#Corsican Revolution
-country_event = {
-	id = 51650
-	title = "EVTNAME51650"
-	desc = "EVTDESC51650"
-	picture = "storming_palace"
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = CRS
-		year = 1847
-		OR = {
-			government = absolute_monarchy
-			government = hms_government
-			government = prussian_constitutionalism
-		}
-		ai = yes
-	}
-	
-	mean_time_to_happen = {
-		months = 12
-	}
-	
-	option = {
-		name = "Long live the Republic!"
-		government = democracy
-		election = yes
-		ruling_party_ideology = liberal
-		political_reform = universal_voting
-		political_reform = state_equal_weight
-		political_reform = jefferson_method
-		political_reform = yes_meeting
-		political_reform = censored_press
-		political_reform = non_socialist
-		political_reform = non_secret_ballots
-	}
-}
-
 #Claims in Corsica?
 country_event = {
 	id = 51651

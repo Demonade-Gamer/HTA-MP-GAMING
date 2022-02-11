@@ -42,24 +42,6 @@ political_decisions = {
 			add_accepted_culture = cherokee
 		}
 	}
-	
-	skamisc_ai_halesca_purchase = {
-		potential = {
-			ai = yes
-			tag = SKM
-			has_country_flag = alaska_purchase_interest
-			NOT = { money = 30000 }
-			NOT = { has_global_flag = alaska_purchase_completed }
-		}
-		
-		allow = {
-		}
-		
-		effect = {
-			money = 30000
-		}
-	}
-	
 	sell_solelha = {
 		potential = {
 			tag = AQT
@@ -93,23 +75,6 @@ political_decisions = {
 					slavery = yes_slavery
 				}
 			}
-		}
-	}
-	
-	margaria_ai_solelha_purchase = {
-		potential = {
-			ai = yes
-			tag = MRG
-			AQT = { has_country_flag = sell_solelha }
-			NOT = { money = 30000 }
-			NOT = { has_global_flag = solelha_sold }
-		}
-		
-		allow = {
-		}
-		
-		effect = {
-			money = 30000
 		}
 	}
 	
