@@ -1205,61 +1205,16 @@ political_decisions = {
 		}
 		
 		allow = {
-			prestige = 50
-			nationalism_n_imperialism = 1
+			ai = no
 			war = no
-			SCO = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							OR = {
-								vassal_of = THIS
-								AND = {
-									is_vassal = no
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-				}
-			}
-			IRE = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							OR = {
-								vassal_of = THIS
-								AND = {
-									is_vassal = no
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-				}
-			}
+			year = 1836
 		}
 		
 		effect = {
 			prestige = 20
 			change_tag = CLT
-			any_country = {
-				limit = {
-					NOT = { is_greater_power = yes }
-					NOT = { has_country_flag = post_colonial_country }
-					is_culture_group = THIS
-					OR = {
-						AND = {
-							is_vassal = no
-							in_sphere = THIS
-						}
-						vassal_of = THIS
-					}
-				}
-				country_event = 11101
-			}
+			inherit = IRE
+			inherit = SCO
 			add_accepted_culture = scots
 			add_accepted_culture = irish
 			SCO = {

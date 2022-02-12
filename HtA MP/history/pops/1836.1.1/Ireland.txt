@@ -84,6 +84,12 @@
 
 	}
 
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
+	}
+
 	farmers = {
 		culture = irish
 		religion = catholic
@@ -121,6 +127,12 @@
 		culture = irish
 		religion = catholic
 		size = 8050
+	}
+
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
 	}
 
 	labourers = {
@@ -166,6 +178,12 @@
 		culture = irish
 		religion = catholic
 		size = 50
+	}
+
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
 	}
 
 	farmers = {
@@ -243,6 +261,12 @@
 
 	}
 
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
+	}
+
 	farmers = {
 		culture = irish
 		religion = catholic
@@ -291,6 +315,12 @@
 
 	}
 
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
+	}
+
 	farmers = {
 		culture = irish
 		religion = catholic
@@ -322,8 +352,14 @@
 	soldiers = {
 		culture = irish
 		religion = catholic
-		size= 1500
+		size = 1500
 
+	}
+
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
 	}
 
 	farmers = {
@@ -357,6 +393,12 @@
 		religion = catholic
 		size= 1100
 
+	}
+
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
 	}
 
 	farmers = {
@@ -406,6 +448,12 @@
 		size = 41000
 	}
 
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
+	}
+
 	farmers = {
 		culture = irish
 		religion = catholic
@@ -439,6 +487,12 @@
 
 	}
 
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
+	}
+
 	labourers= {
 		culture = irish
 		religion = catholic
@@ -464,6 +518,12 @@
 		religion = catholic
 		size= 1100
 
+	}
+
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 4000
 	}
 
 	labourers = {

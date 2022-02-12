@@ -6,6 +6,6 @@ life_rating = 35
 naval_base = 2 #Base in Cobh, important since pre-Napoleonic times
 state_building = {
 	level = 2 
-	building = glass_factory
+	building = artillery_factory
 	upgrade = yes
 }
