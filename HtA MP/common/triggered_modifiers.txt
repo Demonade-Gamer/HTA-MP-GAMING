@@ -454,9 +454,9 @@ chinese_rp_nerf
 	trigger = {
 		OR = {
 			tag = GXI
-			tag = QNG
+			tag = QIN
 		}
 		civilized = no
 	}
-	research_points_on_conquer = -60.0
+	research_points_on_conquer = -70.0
 }
