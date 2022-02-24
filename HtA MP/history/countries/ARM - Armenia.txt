@@ -2,6 +2,7 @@ capital = 888
 primary_culture = armenian
 culture = anatolian
 culture = roman
+culture = kurdish
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
