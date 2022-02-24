@@ -406,6 +406,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = ukrainian
 			add_accepted_culture = byelorussian
+			add_accepted_culture = ruthenian
 			set_country_flag = integrated_eastern_slavs
 		}
 	}

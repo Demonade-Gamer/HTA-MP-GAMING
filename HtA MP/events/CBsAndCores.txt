@@ -1286,17 +1286,6 @@ province_event = {
 			NOT = { tag = THIS }
 			NOT = { is_cultural_union = THIS }
 		}
-		any_neighbor_province = {
-			owned_by = THIS
-			is_core = THIS
-			NOT = {
-				any_core = {
-					exists = yes
-					NOT = { tag = THIS }
-					NOT = { is_cultural_union = THIS }
-				}
-			}
-		}
 		NOT = {
 			has_province_modifier = integration_refusal
 			has_province_modifier = national_assimilation
@@ -1313,9 +1302,7 @@ province_event = {
 			war = no
 			civilized = yes
 			is_vassal = no
-			NOT = { citizenship_policy = full_citizenship }
 		}
-		year = 1870
 	}
 	
 	mean_time_to_happen = {

@@ -253,6 +253,8 @@ political_decisions = {
 			add_accepted_culture = sicilian
 			set_country_flag = nap_accepted
 			ITA = { all_core = { add_core = THIS } }
+			RMG = { all_core = { add_core = THIS } }
+			TUS = { all_core = { add_core = THIS } }
 		}
 	}
 

@@ -10,7 +10,7 @@ native_societies1 = {
 	icon = 8
 }
 native_societies2 = {
-	global_population_growth = 0.008
+	global_population_growth = 0.01
 	icon = 7
 }
 
@@ -98,10 +98,6 @@ uncivilized_isolationism = {
 	icon = 10
 }
 
-china_rp_nerf = {
-	research_points_on_conquer = -1000.0
-	icon = 10
-}
 
 western_presence = {
 	pop_militancy_modifier = 0.01
@@ -178,6 +174,12 @@ colonial_recruitment = {
 	population_growth = 0.001
 	assimilation_rate = 0.25
 	icon = 9
+}
+
+korean_assimilation = {
+	population_growth = 0.001
+	assimilation_rate = 1.50
+	icon = 19
 }
 
 baby_boom = {

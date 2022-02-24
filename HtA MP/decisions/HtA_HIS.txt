@@ -355,4 +355,43 @@ political_decisions = {
 			}
 		}
 	}
-}
+
+	claim_the_islands = {
+		potential = {
+			tag = HIS
+			CAT = { all_core = { owned_by = THIS } }
+			NOT = { has_country_flag = med_islands_claimed
+		}
+		allow = {
+			year = 1860
+		}
+		effect = {
+			set_country_flag = med_islands_claimed
+			SIC = { all_core = { add_core = HIS } }
+			SRD = { all_core = { add_core = HIS } }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	integrate_the_islands = {
+		potential = {
+			tag = HIS
+			has_country_flag = med_islands_claimed
+			NOT = { has_country_flag = med_islands_integrated }
+		}
+		allow = {
+			SIC = { all_core = { owned_by = THIS } }
+			SRD = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			prestige = 25
+			add_accepted_culture = sicilian
+			add_accepted_culture = maretan
+			set_country_flag = med_islands_integrated
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}

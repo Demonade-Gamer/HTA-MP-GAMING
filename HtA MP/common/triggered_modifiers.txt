@@ -6,7 +6,7 @@ ai_boost = {
 	trigger = { 
 		ai = yes
 		civilized = yes
-		NOT = { literacy = 0.7 }
+		NOT = { literacy = 0.8 }
 		NOT = {
 		 	is_culture_group = east_asian
 			OR = { 
@@ -110,7 +110,6 @@ bad_badboy = {
 hormuz_strait = {
 		trigger = {
 			exists = yes
-			year = 1880
 			owns = 1145
 			owns = 1168
 		}
@@ -450,4 +449,14 @@ save_the_nation5  = {
 	mobilization_impact = 1
 	mobilisation_economy_impact = -0.66
 	icon = 9
+}
+chinese_rp_nerf
+	trigger = {
+		OR = {
+			tag = GXI
+			tag = QNG
+		}
+		civilized = no
+	}
+	research_points_on_conquer = -60.0
 }

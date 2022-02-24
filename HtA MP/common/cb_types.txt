@@ -189,7 +189,6 @@ conquest = {
 	can_use = {
 		NOT = { tag = LCT }
 		total_pops = 400000
-		this = { NOT = { badboy = 1 } }
 		NOT = { is_our_vassal = THIS }
 		# only one state or unciv
 		NOT = { number_of_states = 5 }
@@ -233,7 +232,7 @@ conquest = {
 		}
 	}
 
-	badboy_factor = 1.1
+	badboy_factor = 1.5
 	prestige_factor = 5
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -639,7 +638,7 @@ acquire_state = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.1
+	badboy_factor = 2
 	prestige_factor = 2
 	peace_cost_factor = 1.1
 	penalty_factor = 1
@@ -735,7 +734,7 @@ acquire_state_midgame = {
 	months = 0
 	crisis = no
 
-	badboy_factor = 1.1
+	badboy_factor = 1.9
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -833,7 +832,7 @@ acquire_state_late = {
 	months = 0
 	crisis = no
 
-	badboy_factor = 1.1
+	badboy_factor = 1.75
 	prestige_factor = 1
 	peace_cost_factor = 0.9
 	penalty_factor = 1
@@ -2163,7 +2162,7 @@ demand_concession_casus_belli = {
 	construction_speed = 0.5
 	crisis = no
 	
-	badboy_factor = 0.5
+	badboy_factor = 0.75
 	prestige_factor = 0.1
 	peace_cost_factor = 0.9
 	penalty_factor = 1
@@ -2239,7 +2238,7 @@ demand_concession_casus_belli_china = {
 	
 	badboy_factor = 1.0
 	prestige_factor = 0.1
-	peace_cost_factor = 2
+	peace_cost_factor = 1.75
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -2307,7 +2306,7 @@ establish_protectorate_casus_belli = {
 	construction_speed = 0.5
 	crisis = no
 	
-	badboy_factor = 0.5
+	badboy_factor = 1
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -2859,8 +2858,6 @@ conquest_low = {
 	construction_speed = 0.5
 	
 	can_use = {
-		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		NOT = {	total_pops = 400000 }
 		NOT = { 
 			OR = { 
@@ -2905,7 +2902,7 @@ conquest_low = {
 		is_independant = yes
 	}
 
-	badboy_factor = 0.5
+	badboy_factor = 1
 	prestige_factor = 5
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -2940,7 +2937,7 @@ take_capital_earlygame = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.5
+	badboy_factor = 2
 	prestige_factor = 10
 	peace_cost_factor = 1.5
 	penalty_factor = 1
@@ -3032,7 +3029,7 @@ take_capital_midgame = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.5
+	badboy_factor = 2
 	prestige_factor = 10
 	peace_cost_factor = 1.4
 	penalty_factor = 1
@@ -3125,7 +3122,7 @@ take_capital_lategame = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.5
+	badboy_factor = 2
 	prestige_factor = 10
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -3321,7 +3318,7 @@ negotiated_transfer = {
 	months = 0
 	crisis = no
 
-	badboy_factor = 0.5
+	badboy_factor = 0
 	prestige_factor = 0
 	peace_cost_factor = 0
 	penalty_factor = 0
@@ -3465,7 +3462,7 @@ establish_colonial_protectorate_casus_belli = {
 	construction_speed = 0.5
 	crisis = no
 	
-	badboy_factor = 0.5
+	badboy_factor = 1
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -3782,6 +3779,12 @@ make_puppet_large = {
 		OR = {
 			total_pops = 3000000
 			number_of_states = 10
+		}
+		NOT = {
+			OR = { 
+				number_of_states = 25
+				total_pops = 6000000
+			}
 		}
 		NOT = { 
 			OR = { 

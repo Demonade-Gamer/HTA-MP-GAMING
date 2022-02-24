@@ -1,45 +1,5 @@
 #51000-51199 - North Amerigan events
 
-#The Iroquois and Cherokee break away
-country_event = {
-	id = 51000
-	title = "EVTNAME51000"
-	desc = "EVTDESC51000"
-	picture = "geronimo"
-	
-	trigger = {
-		tag = SHC
-		war = no
-		OR = {
-			NOT = { military_score = 1 }
-			AND = {
-				IRO = { brigades_compare = 1 }
-				CHE = { brigades_compare = 1 }
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 12
-	}
-	
-	option = {
-		name = "They have betrayed our long history together."
-		prestige = -10
-		release_vassal = IRO
-		leave_alliance = IRO
-		relation = {
-			who = IRO
-			value = -200
-		}
-		release_vassal = CHE
-		leave_alliance = CHE
-		relation = {
-			who = CHE
-			value = -200
-		}
-	}
-}
 
 #Event Margaria asks asking to buy Solelha
 country_event = {

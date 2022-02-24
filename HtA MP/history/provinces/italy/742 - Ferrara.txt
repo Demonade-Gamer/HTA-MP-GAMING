@@ -1,5 +1,6 @@
 owner = NPL
 controller = NPL
+add_core = RMG
 trade_goods = iron
 life_rating = 35
 

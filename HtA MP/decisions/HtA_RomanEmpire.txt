@@ -190,9 +190,11 @@ political_decisions = {
 		}
 		
 		allow = {
-			nationalism_n_imperialism = 1
-			owns = 758
-			owns = 763
+			ITA = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
 		}
 		
 		effect = {
@@ -219,6 +221,7 @@ political_decisions = {
 		}
 
 		allow = {
+			year = 1860
 			ITA = { all_core = { owned_by = THIS } }
 			NOT = { exists = ITA }
 			NOT = { exists = NPL }
