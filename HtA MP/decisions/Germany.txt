@@ -247,11 +247,9 @@ political_decisions = {
 		
 		effect = {
 			add_accepted_culture = western_slavic
-			add_accepted_culture = prusai
+			add_accepted_culture = prussian
 			set_country_flag = srb_accepted
-			tag = SIL
-				all_core = { add_core = GER }
-			tag = PRS
-				all_core = { add_core = GER }
+			SIL = { all_core = { add_core = GER } }
+			PRS = { all_core = { add_core = GER } }
 		}
 	}
