@@ -349,41 +349,6 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = 19017
-	title = "Questioning Our Alliance"
-	desc = "We have begun to question our alliance to a great power that is clearly not our true protector."
-	
-	trigger = {
-		war = no
-		great_wars_enabled = no
-		part_of_sphere = yes
-		any_greater_power = {
-			alliance_with = THIS
-			NOT = { is_sphere_leader_of = THIS }
-			NOT = { is_our_vassal = THIS }
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 12
-	}
-	
-	option = {
-		name = "Let us change this arrangement."
-		random_country = {
-			limit = {
-				is_greater_power = yes
-				NOT = { is_sphere_leader_of = THIS }
-				NOT = { is_our_vassal = THIS }
-				alliance_with = THIS
-			}
-			relation = { who = THIS value = -50 }
-			leave_alliance = THIS
-		}
-	}
-}
-
 # Alliance Breaker
 country_event = {
 	id = 19018
