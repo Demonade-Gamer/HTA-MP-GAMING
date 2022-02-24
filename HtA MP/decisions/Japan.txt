@@ -231,9 +231,9 @@ political_decisions = {
 	Expand_into_the_pacific = {
 		potential = {
 			tag = JAP
-			has_country_modifier = settle_barbarians
-			has_country_modifier = claimed_korea
-			has_country_modifier = taiwan_administration
+			has_country_flag = settle_barbarians
+			has_country_flag = claimed_korea
+			has_country_flag = taiwan_administration
 			NOT = { has_country_flag = expanded_into_pacific }
 		}
 		allow = {
