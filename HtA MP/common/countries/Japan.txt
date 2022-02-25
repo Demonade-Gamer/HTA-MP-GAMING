@@ -1,9 +1,4 @@
-color = { 194  123  47 }
-prussian_constitutionalism = { 247  44  15 }
-proletarian_dictatorship = { 199  67  44 }
-hms_government = { 244  121  158 }
-democracy = { 244  121  158 }
-fascist_dictatorship = { 248 51 22 }
+color = { 247  44  15 }
 graphical_culture = JapaneseGC
 
 party = {

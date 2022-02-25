@@ -237,12 +237,14 @@ political_decisions = {
 			NOT = { has_country_flag = expanded_into_pacific }
 		}
 		allow = {
-			technology = raider_group_doctrine
-			technology = iron_steamers
-			technology = weapon_platforms
+			raider_group_doctrine = 1
+			iron_steamers = 1
+			weapon_platforms = 1
 		}
 		effect = {
-			PHL = { all_core = add_core = JAP }
+			badboy = 5
+			PHL = { all_core = { add_core = JAP } }
 			prestige = 15
 			set_country_flag = expanded_into_pacific
 		}
+	}

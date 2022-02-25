@@ -360,7 +360,7 @@ political_decisions = {
 		potential = {
 			tag = HIS
 			CAT = { all_core = { owned_by = THIS } }
-			NOT = { has_country_flag = med_islands_claimed
+			NOT = { has_country_flag = med_islands_claimed }
 		}
 		allow = {
 			year = 1860

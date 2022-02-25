@@ -17,29 +17,24 @@ political_decisions = {
 			prestige = 5
 			set_country_flag = brunswick_congress_called
 			BRA = {
-				inherit = POM
-				inherit = MEK
-				inherit = SAX
-				inherit = THU
-				inherit = FRM
-				inherit = HEK
-				inherit = MNZ
-				inherit = NAS
-			}
-			BRN = {
 				inherit = RHI
 				inherit = TRR
 				inherit = MNR
 				inherit = OLD
-				inherit = SAX
-				inherit = BRE
 				inherit = HAN
+				inherit = WES
+				inherit = MNZ
+				inherit = NAS
+				inherit = BRE
 			}
-			BAV = {
-				country_event = {
-					id = 50062
-					days = 3
-				}
+			BRN = {
+				inherit = POM
+				inherit = MEC
+				inherit = SAX
+				inherit = THU
+				inherit = FRM
+				inherit = HEK
+				inherit = SAX
 			}
 		}
 	}

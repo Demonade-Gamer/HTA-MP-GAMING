@@ -1,6 +1,6 @@
-owner = BRE
-controller = BRE
-add_core = BRE
+owner = BRA
+controller = BRA
+add_core = BRA
 add_core = GER
 trade_goods = cattle
 life_rating = 40

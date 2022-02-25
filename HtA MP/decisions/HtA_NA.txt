@@ -354,24 +354,9 @@ invade_the_mexicans_scw = {
 			year = 1870
 		}
 		effect = {
-			MEX = { any_owned = { limit = { NOT = { OR = { is_core = MEL } } } } add_core = SCW } } 
+			MEX = { any_owned = { limit = { NOT = { is_core = MEL } } }  add_core = SCW }  
 			YUC = { all_core = { add_core = SCW } }
 			set_country flag = mexico_invaded_scw
-		}
-	}
-integrate_the_mexicans_scw = {
-		potential = {
-			has_country_flag = north_invaded
-			tag = SCW
-			NOT = { has_country_flag = mexicans_integrated_scw }
-		}
-		allow = {
-			MEX = { all_core = { owned_by = THIS } }
-		}
-		effect = {
-			add_accepted_culture = mexican
-			set_country_flag = mexicans_integrated_scw
-			prestige = 12
 		}
 	}
 
@@ -542,7 +527,7 @@ integrate_the_mexicans_scw = {
 			NOT = { has_country_flag = south_invaded }
 		}
 		allow = {
-		year = 1850
+			year = 1850
 		}
 		effect = {
 			MEL = { all_core = { add_core = MEX } }
@@ -616,7 +601,7 @@ integrate_the_mexicans_scw = {
 			year = 1870
 		}
 		effect = {
-			MEX = { any_owned = { limit = { NOT = { OR = { is_core = CLF is_core = GNC } } } } add_core = MEL } } 
+			MEX = { any_owned = { limit = { NOT = { OR = { is_core = CLF is_core = GNC } } } } add_core = MEL }  
 			YUC = { all_core = { add_core = MEL } }
 			set_country flag = north_invaded
 		}
@@ -640,19 +625,5 @@ integrate_the_mexicans_scw = {
 			add_accepted_culture = mexican
 			set_country_flag = mexicans_integrated
 			prestige = 12
-		}
-	}
-	invade_the_mexicans = {
-		potential = {
-			tag = SCW
-			NOT = { has_country_flag = mexicans_invaded }
-		}
-		allow = {
-			year = 1870
-		}
-		effect = {
-			MEX = { any_owned = { limit = { NOT = { OR = { is_core = MEL is_core = HOY is_core = MDT is_core = MNK } } } } add_core = SCW } } 
-			YUC = { all_core = { add_core = SCW } }
-			set_country_flag = mexicans_invaded
 		}
 	}
