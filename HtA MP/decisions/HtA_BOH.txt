@@ -819,6 +819,7 @@ political_decisions = {
 			tag = BHN
 			has_country_flag = balkans_trolled
 			NOT = { has_country_flag = balkans_integrated_1 }
+		}
 		allow = {
 		year = 1870
 		}

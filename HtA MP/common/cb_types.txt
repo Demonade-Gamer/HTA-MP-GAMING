@@ -345,7 +345,6 @@ add_to_sphere = {
 			 } 
 		}
 		NOT = { has_country_flag = conquerable_1865 }
-		this = { NOT = { badboy = 1 } }
 		this = { is_greater_power = yes }
 		is_greater_power = no
 		part_of_sphere = no
@@ -405,7 +404,6 @@ take_from_sphere = {
 				}
 			 } 
 		}
-		this = { NOT = { badboy = 1 } }
 		this = { is_greater_power = yes }
 		is_greater_power = yes
 	}
@@ -595,7 +593,6 @@ acquire_substate_region = {
 				}
 			 } 
 		}
-		this = { NOT = { badboy = 1 } }
 		num_of_substates = 1 # if has any substate
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
@@ -947,7 +944,6 @@ place_in_the_sun = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { year = 1901 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1023,7 +1019,6 @@ place_in_the_sun_late = {
 	can_use = {
 		NOT = { tag = LCT }
 		year = 1900
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1138,7 +1133,6 @@ colonial_competition = {
 #	
 #	can_use = {
 #		NOT = { tag = LCT }
-#		this = { NOT = { badboy = 1 } }
 #		NOT = { 
 #			OR = { 
 #				has_country_modifier = neutrality
@@ -1404,7 +1398,6 @@ liberate_country = {
 		}
 		NOT = { has_country_flag = conquerable_1865 }
 		NOT = { year = 1870 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1523,7 +1516,6 @@ liberate_country_midgame = {
 		NOT = { has_country_flag = conquerable_1865 }
 		year = 1870
 		NOT = { year = 1900 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1641,7 +1633,6 @@ liberate_country_late = {
 		NOT = { has_country_flag = conquerable_1865 }
 		year = 1900
 		NOT = { year = 1914 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1758,7 +1749,6 @@ liberate_country_verylate = {
 		}
 		NOT = { has_country_flag = conquerable_1865 }
 		year = 1914
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1864,7 +1854,6 @@ dismantle_forts = {
 	
 	can_use = {
 		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1931,7 +1920,6 @@ release_puppet = {
 
 	can_use = {
 		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		num_of_vassals_no_substates = 1
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
@@ -1986,7 +1974,6 @@ make_puppet = {
 	
 	can_use = {
 		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -2129,7 +2116,6 @@ humiliate = {
 
 	can_use = {
 		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -2182,7 +2168,6 @@ demand_concession_casus_belli = {
 		NOT = { tag = LCT }
 		#NOT = { tag = CHI }
 		year = 1860
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -2255,7 +2240,6 @@ demand_concession_casus_belli_china = {
 	can_use = {
 		NOT = { tag = LCT }
 		tag = CHI
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -2332,7 +2316,6 @@ establish_protectorate_casus_belli = {
 				is_culture_group = southern_african
 			}
 		}
-		this = { NOT = { badboy = 1 } }
 		THIS = {
 			civilized = yes
 		}
@@ -2407,7 +2390,6 @@ unification_humiliate_cb = {
 
 	can_use = {
 		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		THIS = {
 			culture_has_union_tag = yes
 			nationalism_n_imperialism = 1
@@ -2583,7 +2565,6 @@ unification_annex_casus_belli = {
 	
 	can_use = {
 		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		THIS = {
 			culture_has_union_tag = yes
 			nationalism_n_imperialism = 1
@@ -2954,7 +2935,6 @@ take_capital_earlygame = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { year = 1870 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -3047,7 +3027,6 @@ take_capital_midgame = {
 		NOT = { tag = LCT }
 		year = 1870
 		NOT = { year = 1900 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -3139,7 +3118,6 @@ take_capital_lategame = {
 	can_use = {
 		NOT = { tag = LCT }
 		year = 1900
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -3233,7 +3211,6 @@ acquire_treaty_port = {
 
 	can_use = {
 		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -3486,7 +3463,6 @@ establish_colonial_protectorate_casus_belli = {
 			is_culture_group = east_african
 			is_culture_group = southern_african
 		}
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -3563,7 +3539,6 @@ demand_colonial_concession_casus_belli = {
 		NOT = { tag = LCT }
 		NOT = { is_culture_group = arab }
 		continent = africa
-		this = { NOT = { badboy = 1 } }
 		NOT = {
 			has_country_flag = conquerable_1865
 		}
@@ -3705,7 +3680,6 @@ make_puppet_small = {
 	
 	can_use = {
 		NOT = { tag = LCT }
-		this = { NOT = { badboy = 1 } }
 		NOT = { is_our_vassal = THIS }
 		is_greater_power = no
 		is_vassal = no
@@ -3803,7 +3777,6 @@ make_puppet_large = {
 			ai = yes
 			year = 1900
 		}
-		this = { NOT = { badboy = 1 } }
 		NOT = { is_our_vassal = THIS }
 		NOT = { tag = CHI }
 		is_greater_power = no
@@ -3932,7 +3905,6 @@ demand_concession_casus_belli_player_early = {
 		ai = no
 		NOT = { year = 1861 }
 		#NOT = { tag = CHI }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -4007,7 +3979,6 @@ demand_concession_casus_belli_ai_early = {
 		NOT = { year = 1861 }
 		#NOT = { tag = CHI }
 		ai = yes
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -4473,7 +4444,6 @@ demand_concession_casus_belli_player_early_for_puppet = {
 		NOT = { has_country_flag = conquerable_1865 }
 		ai = no
 		NOT = { year = 1861 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -4562,7 +4532,6 @@ demand_concession_casus_belli_ai_early_for_puppet = {
 		NOT = { has_country_flag = conquerable_1865 }
 		ai = yes
 		NOT = { year = 1861 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -4650,7 +4619,6 @@ demand_concession_casus_belli_for_puppet = {
 		}
 		NOT = { has_country_flag = conquerable_1865 }
 		year = 1860
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -4733,7 +4701,6 @@ place_in_the_sun_for_puppet = {
 		}
 		NOT = { has_country_flag = conquerable_1865 }
 		NOT = { year = 1901 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -4903,7 +4870,6 @@ acquire_state_for_puppet = {
 		}
 		NOT = { has_country_flag = conquerable_1865 }
 		NOT = { year = 1870 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -5018,7 +4984,6 @@ acquire_state_midgame_for_puppet = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
 		NOT = { has_country_flag = conquerable_1865 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -5123,7 +5088,6 @@ acquire_state_late_for_puppet = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
 		NOT = { has_country_flag = conquerable_1865 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -5367,7 +5331,6 @@ take_capital_for_puppet = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
 		NOT = { has_country_flag = conquerable_1865 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -5486,7 +5449,6 @@ take_capital_midgame_for_puppet = {
 		NOT = { has_country_flag = conquerable_1865 }
 		year = 1870
 		NOT = { year = 1900 }
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -5604,7 +5566,6 @@ take_capital_late_for_puppet = {
 		}
 		NOT = { has_country_flag = conquerable_1865 }
 		year = 1900
-		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality

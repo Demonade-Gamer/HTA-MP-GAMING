@@ -576,7 +576,7 @@ integrate_the_cisalpines = {
 		NOT = { has_country_flag = integrated_north_italians }
 	}
 	allow = {
-		PDN = { all_core = { owned_by = THIS } }
+		PDN = { all_core = { limit = { NOT = { is_core = DAU } } owned_by = THIS } }
 		year = 1880
 	}
 	effect = {
