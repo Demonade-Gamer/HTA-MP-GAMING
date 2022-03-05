@@ -373,12 +373,12 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = tatars_accepted }
-			year = 1839
-			1023 = { owned_by = THIS }
 		}
 		
 		allow = {
 			money = 5000
+			year = 1839
+			1023 = { owned_by = THIS }
 		}
 		
 		effect = {
@@ -393,267 +393,6 @@ political_decisions = {
 				consciousness = 1
 			}
 			set_country_flag = tatars_accepted
-		}
-	}
-	
-	#Encourage Tatar revolts
-	encourage_tatar_revolts = {
-		picture = rebellious_minorities
-		potential = {
-			tag = RUS
-			has_country_flag = tatars_accepted
-			NOT = { has_country_flag = tatar_revolts_encouraged }
-			SML = { any_owned_province = { any_pop = { has_pop_culture = tatar } } }
-			year = 1841
-		}
-		
-		allow = {
-			prestige = 80
-			money = 5000
-			exists = SML
-		}
-		
-		effect = {
-			money = -5000
-			set_country_flag = tatar_revolts_encouraged
-			DON = { set_country_flag = russian_support }
-		}
-	}
-	
-	#Incite Ukrainians
-	incite_ukrainians = {
-		picture = rebellious_minorities
-		potential =  {
-			tag = RUS
-			NOT = { has_country_flag = ukrainians_incited }
-			has_country_flag = tatar_revolts_encouraged
-			SML = { any_owned_province = { is_core = UKR } }
-			year = 1844
-		}
-		
-		allow = {
-			prestige = 80
-			money = 5000
-			exists = SML
-		}
-		
-		effect = {
-			money = -5000
-			set_country_flag = ukrainians_incited
-			SML = {
-				country_event = {
-					id = 50371
-					days = 12
-				}
-			}
-		}
-	}
-	
-	#Cossack Hetmanate Rebels (no railroading)
-	revolt_against_smolensk = {
-		picture = enslave_the_undesireables
-		potential = {
-			tag = DON
-			has_country_flag = russian_support
-			NOT = { has_country_flag = tatar_revolt }
-			RUS = {
-				has_country_flag = ukrainians_incited
-			}
-			year = 1844
-			NOT = { has_global_flag = railroading_on }
-		}
-		allow = {
-			RUS = { war_with = SML }
-			vassal_of = SML
-		}
-		effect = {
-			prestige = 5
-			SML = {
-				country_event = {
-					id = 50385
-					days = 2
-				}
-			}
-			set_country_flag = tatar_revolt
-		}
-	}
-	
-	#Cossack Hetmanate Rebels (railroading)
-	revolt_against_smolensk_rr = {
-		picture = enslave_the_undesireables
-		potential = {
-			tag = DON
-			has_country_flag = russian_support
-			NOT = { has_country_flag = tatar_revolt }
-			RUS = {
-				has_country_flag = ukrainians_incited
-				casus_belli = SML
-			}
-			OR = {
-				year = 1846
-				AND = {
-					RUS = { ai = no }
-					year = 1844
-				}
-			}
-			has_global_flag = railroading_on
-		}
-		allow = {
-			vassal_of = SML
-		}
-		effect = {
-			prestige = 5
-			SML = {
-				release_vassal = THIS
-				leave_alliance = THIS
-				relation = {
-					who = DON
-					value = -400
-				}
-				relation = {
-					who = RUS
-					value = -150
-				}
-			}
-			RUS = {
-				country_event = {
-					id = 50369
-					days = 2
-				}
-				set_country_flag = tatars_join #referenced in the CB so that AI will not declare war before this has been resolved
-				end_war = THIS
-			}
-			relation = {
-				who = RUS
-				value = 400
-			}
-			set_country_flag = tatar_revolt
-		}
-	}
-	
-	#Railroaded-only decision for AI allies of SML and RUS not to be part of the Russian War - This only affects all-AI situations. Players have it a bit more rough.
-	no_interference_RUS = {
-		potential = {
-			ai = yes
-			OR = {
-				alliance_with = RUS
-				alliance_with = SML
-			}
-			NOT = {
-				tag = SML
-				tag = RUS
-				tag = DON
-				tag = VIT
-				tag = POL
-			}
-			RUS = {
-				war_with = SML
-				ai = yes
-			}
-			SML = {
-				ai = yes
-			}
-			has_global_flag = railroading_on
-			NOT = { has_global_flag = RUS_wars_complete }
-		}
-		allow = {}
-		effect = {
-			leave_alliance = RUS
-			leave_alliance = SML
-			RUS = { end_war = THIS }
-			SML = { end_war = THIS }
-		}
-	}
-	
-	
-	#Debug-type decision to make people not sphere SML
-	hta_no_sml_sphere = {
-		potential = {
-			ai = yes
-			has_global_flag = railroading_on
-			is_greater_power = yes
-			NOT = { has_country_modifier = hta_dont_sphere_sml }
-		}
-		allow = {
-			OR = {
-				SML = { in_sphere = THIS }
-				relation = {
-					who = SML
-					value = 150
-				}
-				diplomatic_influence = {
-					who = SML
-					value = 50
-				}
-			}
-		}
-		effect = {
-			relation = {
-				who = SML
-				value = -100
-			}
-			diplomatic_influence = {
-				who = SML
-				value = -200
-			}
-			add_country_modifier = {
-				name = hta_dont_sphere_sml
-				duration = 14
-			}
-		}
-	}
-	
-	#Debug-type decision to make sure that a puppet Hetmanate is allied to RUS
-	hta_DON_ally_RUS = {
-		potential = {
-			tag = DON
-			exists = yes
-			ai = yes
-			vassal_of = RUS
-			NOT = { alliance_with = RUS }
-			exists = SML
-		}
-		allow = {
-			war = no
-		}
-		effect = {
-			create_alliance = RUS
-		}
-	}
-	
-	#Annex the Hetmanate
-	yoke_the_tatars = {
-		picture = enslave_the_undesireables
-		potential = {
-			primary_culture = russian
-			OR = {
-				has_country_flag = won_RUS_war
-				AND = { tag = SML NOT = { exists = RUS } }
-				AND = { tag = RUS NOT = { exists = SML } }
-				AND = { tag = SRU NOT = { exists = RUS } }
-			}
-			exists = DON
-		}
-		allow = {
-			is_our_vassal = DON
-			OR = {
-				AND = { tag = SML NOT = { exists = RUS } }
-				AND = { tag = RUS NOT = { exists = SML } }
-				AND = { tag = SRU NOT = { exists = RUS } }
-			}
-			nationalism_n_imperialism = 1
-		}
-		effect = {
-			prestige = 2
-			DON = { all_core = { add_core = THIS } }
-			inherit = DON
-			any_pop = {
-				limit = {
-					has_pop_culture = tatar
-				}
-				militancy = 4
-				consciousness = 4
-			}
 		}
 	}
 	
@@ -783,7 +522,7 @@ political_decisions = {
 
 			war = no
 			nationalism_n_imperialism = 1
-			owns = 1074 #Petropavlovsk
+			owns = 1074
 			military_score = 75
 		}
 		effect = {
@@ -804,22 +543,18 @@ political_decisions = {
 		}
 	}
 	
-	#Railroaded-only decision to give money to RUS    
-	RUS_fiscal_support = {
+	get_russian_cores = {
+		picture = tsar_coronation
 		potential = {
-			tag = RUS
-			ai = yes
-			has_global_flag = railroading_on
-			NOT = { has_country_flag = hta_fiscal_support }
-			NOT = { has_global_flag = RUS_wars_complete }
-			exists = SML
+			ai = no
+			tag = SML
+			NOT = { has_country_flag = russian_cores }
 		}
-		allow = {}
+		allow = {
+			year = 1836
+		}
 		effect = {
-			set_country_flag = hta_fiscal_support
+			RUS = { all_core = { add_core = SML } }
+			set_country_flag = russian_cores
 		}
 	}
-	
-	#Warmwater Pacific Port chain (to be done in 0.41)
-	
-}
