@@ -86,7 +86,7 @@ political_decisions = {
 		}
 	}
 	
-Incorporate Brabant into the Netherlands - made unnecessary by the decision in NET to Form the Greater Netherlands
+#Incorporate Brabant into the Netherlands - made unnecessary by the decision in NET to Form the Greater Netherlands
 	incorporate_brabant = {
 		picture = support_biesterfelds
 		potential = {
@@ -284,17 +284,17 @@ Incorporate Brabant into the Netherlands - made unnecessary by the decision in N
 					AND = {
 						exists = GER
 						neighbour = GER
-						military_score = GER
+						military_score = 100
 					}
 					AND = {
 						exists = NGF
 						neighbour = NGF
-						military_score = NGF
+						military_score = 50
 					}
 					AND = {
 						exists = BRC
 						neighbour = BRC
-						military_score = BRC
+						military_score = 10
 					}
 				}
 			}

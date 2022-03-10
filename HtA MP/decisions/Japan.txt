@@ -56,7 +56,6 @@ political_decisions = {
 		
 		allow = {
 			OR = {
-				nationalvalue = nv_might
 				breech_loaded_rifles = 1
 				naval_decision_making = 1
 				army_decision_making = 1
@@ -248,3 +247,4 @@ political_decisions = {
 			set_country_flag = expanded_into_pacific
 		}
 	}
+}

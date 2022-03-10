@@ -39,7 +39,7 @@ BRT = {
 	level = 4
 	influence_value = 25
 }
-
+CMP = { value = 100 }
 HIS = {
 	truce_until = 1839.9.25
 }

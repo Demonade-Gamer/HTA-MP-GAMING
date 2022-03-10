@@ -67,72 +67,15 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = mandate
-			add_country_modifier = {
-				name = mandate_of_heaven
-				duration = -1
-			}
 		}
 		
 		ai_will_do = {
 			factor = 1
 		}
 	}
-	
-	korea_question = {
-		picture = annex_korea
-		potential = {
-			OR = {
-				tag = QIN
-				tag = CHI
-				tag = GXI
-				tag = KMT
-			}
-			OR = {
-				neighbour = KOR
-				neighbour = JAP 
-			}
-			civilized = yes 
-			KOR = { any_core = { owned_by = JAP } }
-			NOT = { 
-				has_country_flag = korean_conference
-				has_global_flag = warlord_era_has_begun
-			}
-		}
-		
-		allow = {
-			war = no
-			MCK = { 
-				all_core = { owned_by = THIS }
-#				NOT = { 
-#					province_id = 1083 #Boli
-#					province_id = 1082 #Haishenwai/Haesamwi					####################Why was this included?
-#				}
-			} 
-			NOT = {
-				JAP = {
-					relation = { who = THIS value = -100 }
-					truce_with = THIS 
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 5
-			JAP = { country_event = 53011 }
-			set_country_flag = korean_conference 
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.5
-			}
-		}
-	}
+
 	
 	gxi_destiny = {
-		picture = heavenly_seal
 		potential = {
 			tag = GXI 
 			war = no 
@@ -179,7 +122,6 @@ political_decisions = {
 	}
 	
 	gxi_seasia_destiny = {
-		picture = restore_khmer_empire
 		potential = {
 			tag = GXI 
 			war = no

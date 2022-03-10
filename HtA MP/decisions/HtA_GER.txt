@@ -34,7 +34,6 @@ political_decisions = {
 				inherit = THU
 				inherit = FRM
 				inherit = HEK
-				inherit = SAX
 			}
 		}
 	}
@@ -257,34 +256,7 @@ political_decisions = {
 		}
 	}
 	
-	request_return_of_lubeck = {
-		picture = negotiations
-		potential = {
-			OR = {
-				tag = NGF
-				tag = GER
-			}
-			NOT = { has_country_flag = lubeck_return }
-			530 = { owner = { NOT = { primary_culture = north_german } } }
-		}
-		
-		allow = {
-			prestige = 50
-		}
-		
-		effect = {
-			any_neighbor_country = {
-				limit = {
-					owns = 530
-				}
-				country_event = {
-					id = 50506 #in events/HtA_Nordic
-					days = 1
-				}
-			}
-			set_country_flag = lubeck_return
-		}
-	}
+
 	
 	annexation_of_saxony = {
 		picture = negotiations
@@ -292,12 +264,10 @@ political_decisions = {
 			OR = {
 				tag = BRN
 				tag = NGF
-				AND = {
-					OR = {
+				OR = {
 						primary_culture = north_german
 						primary_culture = central_german
 					}
-				}
 			}
 			exists = SAX
 			has_country_flag = claim_empire

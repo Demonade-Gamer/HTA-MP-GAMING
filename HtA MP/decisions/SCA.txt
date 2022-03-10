@@ -25,7 +25,7 @@ political_decisions = {
 						owned_by = THIS
 						owner = {
 							OR = {
-							in_sphere = THIS
+								in_sphere = THIS
 								vassal_of = THIS
 							}
 							
@@ -56,22 +56,6 @@ political_decisions = {
 				}
 				all_core = { add_core = SCA }
 			}
-			any_country = {
-				limit = {
-					exists = yes
-					is_greater_power = no
-					OR = {
-						tag = DEN
-						tag = SWE
-						tag = NOR
-						tag = ICL
-					}
-					OR = {
-						is_vassal = no
-						vassal_of = THIS
-					}
-				}
-			}
 		}
 	}
 	expand_east = {
@@ -81,10 +65,8 @@ political_decisions = {
 			NOT = { has_country_flag = trolled_him }
 		}
 		allow = {
-			revolution n counterrevolution = 1
-			is_greater_power = yes
+			year = 1860
 			war = no
-			prestige = 60
 			SCA = {
 				all_core = {
 					owned_by = THIS
@@ -97,8 +79,8 @@ political_decisions = {
 			add_accepted_culture = ugrian
 			add_accepted_culture = estonian
 			add_accepted_culture = latvian
+			FIN = { all_core = { add_core = SCA } }
 			set_country_flag = trolled_him
-			}
 		}
 	}
-
+}

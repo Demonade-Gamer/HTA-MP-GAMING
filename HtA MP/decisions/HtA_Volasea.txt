@@ -1,7 +1,6 @@
 political_decisions = {
 	#Moldavia intends to conquer Wallachia and thus unite Romania
 	declare_romanian_unity = {
-		picture = create_romania
 		potential = {
 			tag = MOL
 			vassal_of = BYZ
@@ -30,7 +29,6 @@ political_decisions = {
 	}
 
 	unite_moldavia_wallachia = {
-		picture = create_romania
 		potential = {
 			OR = {
 				tag = WAL
@@ -127,15 +125,6 @@ political_decisions = {
 				}
 				country_event = 11101
 			}
-#			capital = 664
-#			RUS = {
-#				relation = { who = THIS value = 300 }
-#				diplomatic_influence = { who = THIS value = 100 }
-#			}
-#			any_country = {
-#				limit = { in_sphere = RUS }
-#				relation = { who = THIS value = 200 }
-#			}
 		}
 
 		ai_will_do = {
@@ -143,7 +132,6 @@ political_decisions = {
 		}
 	}
 	unite_with_romania = {
-		picture = create_romania
 		potential = {
 			is_culture_group = pan_romanian
 			exists = VOL

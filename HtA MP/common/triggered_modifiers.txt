@@ -450,7 +450,7 @@ save_the_nation5  = {
 	mobilisation_economy_impact = -0.66
 	icon = 9
 }
-chinese_rp_nerf
+chinese_rp_nerf = {
 	trigger = {
 		OR = {
 			tag = GXI

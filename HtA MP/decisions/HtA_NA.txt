@@ -354,9 +354,9 @@ invade_the_mexicans_scw = {
 			year = 1870
 		}
 		effect = {
-			MEX = { any_owned = { limit = { NOT = { is_core = MEL } } }  add_core = SCW }  
+			MEX = { all_core = { limit = { NOT = { is_core = MEL } } add_core = THIS } } 
 			YUC = { all_core = { add_core = SCW } }
-			set_country flag = mexico_invaded_scw
+			set_country_flag = mexico_invaded_scw
 		}
 	}
 
@@ -589,7 +589,7 @@ invade_the_mexicans_scw = {
 		effect = {
 			add_accepted_culture = ginnaecerisc
 			add_accepted_culture = califiano
-			set_country flag = north_integrated
+			set_country_flag = north_integrated
 		}
 	}
 	invade_the_north = {
@@ -601,9 +601,9 @@ invade_the_mexicans_scw = {
 			year = 1870
 		}
 		effect = {
-			MEX = { any_owned = { limit = { NOT = { OR = { is_core = CLF is_core = GNC } } } } add_core = MEL }  
+			MEX = { any_owned = { limit = { NOT = { OR = { is_core = CLF is_core = GNC } } } add_core = MEL } } 
 			YUC = { all_core = { add_core = MEL } }
-			set_country flag = north_invaded
+			set_country_flag = north_invaded
 		}
 	}
 	integrate_the_mexicans = {
@@ -611,6 +611,7 @@ invade_the_mexicans_scw = {
 			OR = {
 				has_country_flag = north_invaded
 				has_country_flag = mexicans_invaded
+			}
 			OR = {
 				tag = MEL
 				tag = SCW
@@ -627,3 +628,4 @@ invade_the_mexicans_scw = {
 			prestige = 12
 		}
 	}
+}

@@ -827,8 +827,6 @@ CHI_1522 = { 1522 1516 1517 1518 } #East Hubei
 
 CHI_1524 = { 1524 1525 1526 1528 1529 } #West Hunan/North Hunan in some mod/Hunan in mine
 
-CHI_1526 = { } #East Hunan
-
 CHI_1532 = { 1532 1533 1534 1535 } #Inner Mongolia
 
 CHI_2221 = { 2221 1538 1537 1539 1544 } #South Jiangsu

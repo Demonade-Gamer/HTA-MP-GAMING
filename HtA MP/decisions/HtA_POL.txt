@@ -392,10 +392,8 @@ political_decisions = {
 		picture = tatars
 		potential = {
 			tag = POL
-			AND = {
-				has_country_flag = invaded_ukraine
-				has_country_flag = invaded_belarus
-			}
+			has_country_flag = invaded_ukraine
+			has_country_flag = invaded_belarus
 			NOT = { has_country_flag = integrated_eastern_slavs }
 		}
 		allow = {
@@ -410,3 +408,4 @@ political_decisions = {
 			set_country_flag = integrated_eastern_slavs
 		}
 	}
+}

@@ -1,37 +1,7 @@
 political_decisions = {
 
 
-# This decision rendered obsolete by something more interesting in a small event chain
-#	aceh_protectorate = {
-#		picture = dreams_of_empire
-#		potential = {
-#			OR = {
-#				tag = AEN
-#				AND = {
-#					is_greater_power = yes
-#					NOT = { tag = SCO }
-#					number_of_ports = 3
-#					any_owned_province = { continent = asia }
-#				}
-#			}
-#			year = 1852
-#			NOT = { has_country_flag = aceh_protectorate }
-#		}
-#		
-#		allow = {
-#			ATJ = { in_sphere = THIS }
-#		}
-#		
-#		effect = {
-#			ATJ = {
-#				country_event = {
-#					id = 51500
-#					days = 1
-#				}
-#			}
-#			set_country_flag = aceh_protectorate
-#		}
-#	}
+
 			
 	siak_protectorate = {
 		picture = dreams_of_empire
