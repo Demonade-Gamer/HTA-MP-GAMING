@@ -112,13 +112,13 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 112
+        size = 75
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 825
+        size = 550
     }
 
     soldiers = {
@@ -130,7 +130,7 @@
     labourers = {
         culture = finnish
         religion = protestant
-        size = 7500
+        size = 5000
     }
 
     aristocrats = {
@@ -154,7 +154,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 7500
+        size = 5000
     }
 }
 #Lulea (44000/11000 POPS)
@@ -162,13 +162,13 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 60
+        size = 40
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 450
+        size = 300
     }
 
     soldiers = {
@@ -180,7 +180,7 @@
     labourers = {
         culture = finnish
         religion = protestant
-        size = 4275
+        size = 2850
     }
 
     farmers = {
@@ -192,13 +192,13 @@
     artisans = {
         culture = finnish
         religion = protestant
-        size = 240
+        size = 160
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 16500
+        size = 11000
     }
 }
 #Svealand Region : 1178000

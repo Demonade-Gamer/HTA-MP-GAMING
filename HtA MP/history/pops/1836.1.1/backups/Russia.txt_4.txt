@@ -1075,25 +1075,25 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 15
+        size = 10
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 735
+        size = 490
     }
 
     clergymen = {
-        culture = finnish
+        culture = sami
         religion = protestant
-        size = 150
+        size = 50
     }
 
     farmers = {
-        culture = finnish
+        culture = sami
         religion = protestant
-        size = 15075
+        size = 5025
     }
 }
 #Kandalasksha/Kantalahti (7000/1750 POPS)	Finland
@@ -1101,25 +1101,25 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 150
+        size = 100
     }
 
     bureaucrats = {
         culture = finnish
         religion = protestant
-        size = 120
+        size = 80
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 37
+        size = 25
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 112
+        size = 75
     }
 
     soldiers = {
@@ -1131,19 +1131,19 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 952
+        size = 635
     }
 
     clergymen = {
-        culture = finnish
+        culture = sami
         religion = protestant
-        size = 210
+        size = 70
     }
 
     farmers = {
-        culture = finnish
+        culture = sami
         religion = protestant
-        size = 5370
+        size = 1790
     }
 
     clergymen = {
@@ -1163,31 +1163,31 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 67
+        size = 45
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 345
+        size = 230
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 600
+        size = 400
     }
 
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 412
+        size = 275
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 7237
+        size = 4825
     }
 
     clergymen = {
@@ -1215,15 +1215,15 @@
     }
 
     clergymen = {
-        culture = finnish
+        culture = sami
         religion = protestant
-        size = 96
+        size = 32
     }
 
     farmers = {
-        culture = finnish
+        culture = sami
         religion = protestant
-        size = 2670
+        size = 890
     }
 }
 #Povyents/Karhumäki (28000/7000 POPS) Finland
@@ -1231,13 +1231,13 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 112
+        size = 75
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 3225
+        size = 2150
     }
 
     soldiers = {
@@ -1249,7 +1249,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 4125
+        size = 2750
     }
 
     clergymen = {
@@ -1281,25 +1281,25 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 22
+        size = 15
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 442
+        size = 295
     }
 
     clergymen = {
-        culture = finnish
+        culture = sami
         religion = protestant
-        size = 150
+        size = 50
     }
 
     farmers = {
-        culture = finnish
+        culture = sami
         religion = protestant
-        size = 3900
+        size = 1300
     }
 }
 #Onega/Airoranta (22000/5500 POPS)	Finland
@@ -1307,31 +1307,31 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 75
+        size = 50
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 75
+        size = 50
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 375
+        size = 250
     }
 
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 75
+        size = 50
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 4050
+        size = 2700
     }
 
     aristocrats = {
@@ -2713,19 +2713,19 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 825
+        size = 550
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 375
+        size = 250
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 3000
+        size = 2000
     }
 
     soldiers = {
@@ -2737,7 +2737,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 21675
+        size = 14450
     }
 
     soldiers = {
@@ -2787,7 +2787,7 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 337
+        size = 225
     }
 
     clergymen = {
@@ -2817,25 +2817,25 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 112
+        size = 75
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 375
+        size = 250
     }
 
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 75
+        size = 50
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 6937
+        size = 4625
     }
 
     clergymen = {
@@ -2869,43 +2869,43 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 870
+        size = 580
     }
 
     bureaucrats = {
         culture = finnish
         religion = protestant
-        size = 525
+        size = 350
     }
 
     officers = {
         culture = finnish
         religion = protestant
-        size = 300
+        size = 200
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 1050
+        size = 700
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 13500
+        size = 9000
     }
 
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 3600
+        size = 2400
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 34050
+        size = 22700
     }
 
     clergymen = {
@@ -3009,19 +3009,19 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 307
+        size = 205
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 300
+        size = 200
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 675
+        size = 450
     }
 
     soldiers = {
@@ -3033,7 +3033,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 12412
+        size = 8275
     }
 
     clergymen = {
@@ -3089,19 +3089,19 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 450
+        size = 300
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 187
+        size = 125
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 1575
+        size = 1050
     }
 
     soldiers = {
@@ -3113,7 +3113,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 12262
+        size = 8175
     }
 
     artisans = {
@@ -3187,31 +3187,31 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 450
+        size = 300
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 262
+        size = 175
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 1500
+        size = 1000
     }
 
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 600
+        size = 400
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 7275
+        size = 4850
     }
 
     clergymen = {
@@ -3285,31 +3285,31 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 165
+        size = 110
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 97
+        size = 65
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 450
+        size = 300
     }
 
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 37
+        size = 25
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 8250
+        size = 5500
     }
 
     clergymen = {
@@ -3983,13 +3983,13 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 450
+        size = 300
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 2250
+        size = 1500
     }
 
     soldiers = {
@@ -4001,7 +4001,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 14550
+        size = 9700
     }
 
     farmers = {
@@ -4051,19 +4051,19 @@
     aristocrats = {
         culture = finnish
         religion = protestant
-        size = 525
+        size = 350
     }
 
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 337
+        size = 225
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 1050
+        size = 700
     }
 
     soldiers = {
@@ -4075,7 +4075,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 22500
+        size = 15000
     }
 
     clergymen = {

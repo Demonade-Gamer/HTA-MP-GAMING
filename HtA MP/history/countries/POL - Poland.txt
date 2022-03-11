@@ -1,6 +1,7 @@
 capital = 706
 primary_culture = polish
 culture = prussian
+culture = ashkenazi
 religion = catholic
 government = absolute_monarchy
 plurality = 55.0
