@@ -347,7 +347,7 @@ precision_work = {
 machine_tools = {
 	limit = { interchangeable_parts = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = precision_work
@@ -1109,7 +1109,7 @@ artificial_fertilizers = {
 nitroglycerin = {
 	limit = { inorganic_chemistry = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			military_statistics = 1

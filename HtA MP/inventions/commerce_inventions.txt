@@ -94,7 +94,7 @@ distribution_channels = {
 	limit = { business_banks = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal

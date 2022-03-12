@@ -3,28 +3,7 @@
 #Last Updated January 14, 2015
 ###############################################################
 
-#Empiricism (Culture)
-sanitation = {
-	limit = { 
-		impressionism = 1
-	}
-	chance = {
-		base = 2
-		modifier = {
-			factor = 4
-			practical_steam_engine = 1
-		}
-		modifier = {
-			factor = 4
-			any_neighbor_country = {
-				invention = sanitation
-			}
-		}
-	}
-	effect = {
-		pop_growth = 0.0001
-	}	
-}
+
 
 #Malthusian Thought (Culture)
 thomas_robert_malthus ={
@@ -47,26 +26,6 @@ thomas_robert_malthus ={
 	}
 	effect = {
 		pop_growth = 0.0001
-	}	
-}
-
-#Inorganic Chemistry
-prophylactics = {
-	limit = { inorganic_chemistry = 1 }
-	news = no
-	chance = {
-		base = 2
-		modifier = {
-			factor = 5
-			nationalvalue = nv_equality
-		}
-		modifier = {
-			factor = 6
-			NOT = { pop_majority_religion = catholic }
-		}
-	}
-	effect = {
-		#pop_growth = -0.0001
 	}	
 }
 
@@ -114,7 +73,7 @@ antitoxins = {
 
 	}
 	effect = {
-		pop_growth = 0.0002
+		pop_growth = 0.0003
 	}	
 }
 
