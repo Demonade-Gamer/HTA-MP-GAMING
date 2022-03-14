@@ -54,7 +54,7 @@ wright_n_langleys_aeroplanes = {
 tractors = {
 	limit = { combustion_engine = 1 }
 	chance = {
-		base = 3
+		base = 100
 		modifier = {
 			factor = 2
 			average_consciousness = 2

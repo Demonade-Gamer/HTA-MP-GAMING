@@ -72,7 +72,13 @@
 		religion = orthodox
 		size = 1450
 	}
-
+	
+	craftsmen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 10000
+	}
+	
 	bureaucrats = {
 		culture = roman
 		religion = orthodox
@@ -177,6 +183,13 @@
 		religion = orthodox
 		size = 650
 	}
+	
+	craftsmen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 10000
+	}
+	
 
 	clergymen = {
 		culture = roman
@@ -246,6 +259,12 @@
 		size = 1050
 	}
 
+	craftsmen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 10000
+	}
+	
 	clergymen = {
 		culture = roman
 		religion = orthodox
