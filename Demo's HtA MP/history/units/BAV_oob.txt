@@ -1,0 +1,181 @@
+
+#North Germans
+BRA = {
+	value = -175
+	level = 0
+}
+BRN = {
+	value = -175
+	level = 0
+}
+
+
+
+#Others
+BOH = {
+	value = -15
+}
+army = {
+	name = "I. Korps"
+	location = 599
+	regiment = {
+		name= "1. Kgl. Bayer. Infanteriebrigade"
+		type = infantry
+		home = 599
+	}
+
+	regiment = {
+		name= "2. Kgl. Bayer. Infanteriebrigade"
+		type = infantry
+		home = 592
+	}
+	regiment = {
+		name= "3. Kgl. Bayer. Infanteriebrigade"
+		type = infantry
+		home = 602
+	}
+	regiment = {
+		name= "1. Kgl. Bayer. Artilleriebrigade"
+		type = infantry
+		home = 601
+	}
+	regiment = {
+		name= "1. Kgl. Bayer. Reiterbrigade"
+		type = hussar
+		home = 595
+	}
+	regiment = {
+		name= "4. Kgl. Bayer. Infanteriebrigade"
+		type = artillery
+		home = 595
+	}
+	regiment = {
+		name= "5. Kgl. Bayer. Infanteriebrigade"
+		type = artillery
+		home = 597
+	}
+	regiment = {
+		name = "2. Kgl. Bayer. Artilleriebrigade"
+		type = artillery
+		home = 593
+	}
+	regiment = {
+		name = "2. Kgl. Bayer. Reiterbrigade"
+		type = artillery
+		home = 612
+	}
+	regiment = {
+		name= "3. Kgl. Bayer. Artilleriebrigade"
+		type = artillery
+		home = 612
+	}
+
+}
+army = {
+	name = "1. Division"
+	location = 589
+	regiment = {
+		name = "1. Reiter-Regiment"
+		type = hussar
+		home = 589
+	}
+	regiment = {
+		name = "1. Infanterie-Regiment"
+		type = artillery
+		home = 589
+	}
+	regiment = {
+		name = "2. Infanterie-Regiment"
+		type = artillery
+		home = 589
+	}
+	regiment = {
+		name = "1. Badische Infanterie-Brigade"
+		type = artillery
+		home = 586
+	}
+}
+
+army = {
+	name = "I fucking love Boris!!"
+	location = 619
+	regiment = {
+		name = "2. Badische Infanterie-Brigade"
+		type = infantry
+		home = 587
+	}
+	regiment = {
+		name = "I. Infanterie"
+		type = infantry
+		home = 619
+	}
+	regiment = {
+		name = "II. Infanterie"
+		type = infantry
+		home = 619
+	}
+	regiment = {
+		name = "1. Divisie"
+		type = infantry
+		home = 571
+	}
+	regiment = {
+		name = "III. Infanterie"
+		type = infantry
+		home = 621
+	}
+	regiment = {
+		name = "I. Dragoner"
+		type = hussar
+		home = 622
+	}
+	regiment = {
+		name = "I. Feldkanonen"
+		type = artillery
+		home = 622
+	}
+	regiment = {
+		name = "IV. Infanterie"
+		type = artillery
+		home = 617
+	}
+	regiment = {
+		name = "V. Infanterie"
+		type = artillery
+		home = 624
+	}
+	regiment = {
+		name = "II. Feldkanonen"
+		type = artillery
+		home = 618
+	}
+}
+army = {
+	name = "Zased All Arty Army"
+	location = 593
+	regiment = {
+		name= "6. Kgl. Bayer. Infanteriebrigade"
+		type = artillery
+		home = 593
+	}
+	regiment = {
+		name= "7. Kgl. Bayer. Infanteriebrigade"
+		type = artillery
+		home = 599
+	}
+	regiment = {
+		name = "8. Kgl. Bayer. Infanteriebrigade"
+		type = artillery
+		home = 613
+	}
+	regiment = {
+		name = "9. Kgl. Bayer. Infanteriebrigade"
+		type = artillery
+		home = 614
+	}
+	regiment = {
+		name = "4. Kgl. Bayer. Artilleriebrigade"
+		type = artillery
+		home = 615
+	}
+}

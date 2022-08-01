@@ -1,0 +1,8 @@
+owner = PDN
+controller = PDN
+
+trade_goods = fruit
+life_rating = 35
+
+
+add_core = PDN

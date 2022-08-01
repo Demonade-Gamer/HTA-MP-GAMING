@@ -1,0 +1,1040 @@
+political_decisions = {
+	
+	form_south_german_confederation = {
+		potential = {
+			OR = {
+				primary_culture = central_german
+				primary_culture = south_german
+			}
+			
+			NOT = {
+				has_country_flag = post_colonial_country
+				exists = SGF
+				exists = GER
+			}
+		}	
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			GER = {
+				all_core = {
+					OR = {
+						AND = {
+							NOT = { culture = south_german }
+							NOT = { culture = central_german }
+						}
+						province_id = 571
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+								
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			clr_country_flag = crown_from_the_gutter
+			clr_country_flag = secondary_union_formation
+			prestige = 10
+			all_core = { add_core = SGF }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						exists = no
+						primary_culture = central_german
+						has_country_flag = wants_to_unify
+						NOT = { has_country_flag = post_colonial_country }
+					}
+				}
+				add_core = SGF
+			}
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						exists = no
+						primary_culture = south_german
+						has_country_flag = wants_to_unify
+						NOT = { has_country_flag = post_colonial_country }
+					}
+				}
+				add_core = SGF
+			}
+			change_tag = SGF
+			add_accepted_culture = central_german
+			add_accepted_culture = south_german
+			any_country = {
+				limit = {
+					primary_culture = south_german
+					in_sphere = THIS
+					NOT = {
+						has_country_flag = post_colonial_country
+						tag = THIS
+						tag = BAN
+						tag = SWI
+						tag = SIE
+					}
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11106
+			}
+			any_country = {
+				limit = {
+					primary_culture = central_german
+					in_sphere = THIS
+					NOT = {
+						has_country_flag = post_colonial_country
+						tag = THIS
+					}
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11106
+			}
+		}
+		ai_will_do = {
+			factor = 10
+		}
+	}
+
+	
+	form_union_nation = {
+		potential = {
+			culture_has_union_tag = yes
+			NOT = {
+				cultural_union = { exists = yes }
+				has_country_flag = post_colonial_country
+				is_culture_group = germanic
+				is_culture_group = scandinavian
+				is_culture_group = italian
+				is_culture_group = east_asian
+				is_culture_group = south_asian
+				is_culture_group = polish_culture_group
+				is_culture_group = celtic
+				tag = ZAC
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			nationalism_n_imperialism = 1
+			war = no
+			cultural_union = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+							war = no
+							
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			all_core = { remove_core = THIS }
+			change_tag = culture
+			any_country = {
+				limit = {
+					NOT = { is_greater_power = yes }
+					NOT = { has_country_flag = post_colonial_country }
+					is_culture_group = THIS
+					in_sphere = THIS
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11101
+			}
+			add_accepted_culture = union		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+		
+	form_germany = {
+		news = yes
+		news_desc_long = "form_germany_NEWS_LONG"
+		news_desc_medium = "form_germany_NEWS_MEDIUM"
+		news_desc_short = "form_germany_NEWS_SHORT"
+		potential = {
+			OR = {
+				tag = NGF
+				tag = SGF
+				tag = BRC
+				tag = BRN
+				tag = BRA
+				tag = BAV
+			}
+			NOT = { exists = GER }
+			NOT = { tag = SWI }
+		}
+		
+		allow = {
+			prestige = 45
+			nationalism_n_imperialism = 1
+			war = no
+			GER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+							war = no
+						}
+						province_id = 543
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			all_core = {
+				remove_core = THIS
+				add_core = GER
+			}
+			change_tag = GER
+			add_accepted_culture = north_german
+			add_accepted_culture = central_german
+			add_accepted_culture = south_german
+			set_global_flag = 3hurrahs
+			all_core = {
+				remove_core = BAV
+				add_core = GER
+			}
+			all_core = {
+				remove_core = BRN
+				add_core = GER
+			}
+			all_core = {
+				remove_core = BRA
+				add_core = GER
+			}
+			all_core = {
+				remove_core = AUS
+				add_core = GER
+			}
+			all_core = {
+				remove_core = RHI
+				add_core = GER
+			}
+			all_core = {
+				remove_core = OLD
+				add_core = GER
+			}
+			all_core = {
+				remove_core = LUB
+				add_core = GER
+			}
+			all_core = {
+				remove_core = MEC
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = THU
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = WUR
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = BAD
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = ALS
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = SWI
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = BRE
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = HEK
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = LUX
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = MNZ
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = FRM
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = MNZ
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = WES
+				add_core = GER
+			}				
+			all_core = {
+				remove_core = TRR
+				add_core = GER
+			}
+			any_country = {
+				limit = {
+					is_culture_group = germanic
+					exists = no
+					NOT = { tag = BAN }
+					NOT = { tag = SWI }
+					NOT = { tag = SIE }
+					NOT = { has_country_flag = post_colonial_country }
+					OR = {
+						all_core = { owned_by = THIS }
+						tag = NGF
+						tag = SGF
+						tag = BRC
+					}
+				}
+				country_event = 11105
+			}
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					is_culture_group = germanic
+					NOT = { 
+						tag = BAN
+						tag = SWI
+						tag = SIE
+					}
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+					NOT = { has_country_flag = post_colonial_country }
+				}
+				country_event = 11101
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	form_italy = {
+		news = yes
+		news_desc_long = "form_italy_NEWS_LONG"
+		news_desc_medium = "form_italy_NEWS_MEDIUM"
+		news_desc_short = "form_italy_NEWS_SHORT"
+		potential = {
+			is_culture_group = italian
+			NOT = {
+				has_country_flag = post_colonial_country
+				exists = ITA
+				tag = PAP
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			nationalism_n_imperialism = 1
+			war = no
+			ITA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+							war = no
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			all_core = { remove_core = THIS }
+			change_tag = ITA
+			capital = 749
+			add_accepted_culture = south_italian
+			add_accepted_culture = sicilian
+			any_country = {
+				limit = {
+					is_culture_group = italian
+					in_sphere = THIS
+					NOT = { has_country_flag = post_colonial_country }
+				}
+				country_event = 11101
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	
+	form_india = {
+		potential = {
+			is_culture_group = south_asian
+			NOT = {
+				has_country_flag = post_colonial_country
+				exists = HND
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			nationalism_n_imperialism = 1
+			war = no
+			HND = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						province_id = 1303
+						province_id = 1312
+						province_id = 1320
+						is_core = KAL
+						is_core = MAK
+						is_core = AFG
+						is_core = KAS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+							war = no
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			all_core = { remove_core = THIS }
+			1303 = { add_core = HND }
+			1312 = { add_core = HND }
+			change_tag = HND
+			any_country = {
+				limit = {
+					NOT = { is_greater_power = yes }
+					is_culture_group = south_asian
+					in_sphere = THIS
+					NOT = { has_country_flag = post_colonial_country }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11101
+			}
+			add_accepted_culture = avadhi
+			add_accepted_culture = marathi
+			add_accepted_culture = bengali	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	reichsland_elsass = {
+		potential = {
+			OR = {
+				tag = BRC
+				tag = GER
+				tag = NGF
+			}
+			owns = 410
+			owns = 409
+			owns = 412
+			NOT = {
+				has_global_flag = germany_has_renamed_elsass
+			}
+		}
+		
+		allow = {
+			prestige = 10
+		}
+		
+		effect = {
+			410 = {
+				change_province_name = "Kolmar"
+			}
+			409 = {
+				change_province_name = "Straßburg"
+				state_scope = {
+					change_region_name = "Elsaß"
+				}
+			}
+			prestige = 5
+			set_global_flag = germany_has_renamed_elsass
+		}
+	}
+	
+	restore_alsace = {
+		potential = {
+			tag = FRA
+			has_global_flag = germany_has_renamed_elsass
+			owns = 410
+			owns = 409
+			owns = 412
+		}
+		
+		allow = {
+			prestige = 10
+		}
+		
+		effect = {
+			410 = {
+				change_province_name = "Colmar"
+			}
+			409 = {
+				change_province_name = "Strasbourg"
+				state_scope = {
+					change_region_name = "Alsace"
+				}
+			}
+			prestige = 10
+			clr_global_flag = germany_has_renamed_elsass
+		}
+	}
+	
+	form_north_german_confederation2 = {
+		picture = form_north_german_confederation
+		potential = {
+			primary_culture = north_german
+			NOT = {
+				has_country_flag = post_colonial_country
+				exists = GER
+				exists = NGF
+				tag = BRC
+			}
+		}	
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			GER = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+						NOT = { culture = north_german }
+						owner = {
+							NOT = { is_culture_group = germanic }
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			badboy = 5
+			clr_country_flag = crown_from_the_gutter
+			all_core = { add_core = NGF }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						exists = no
+						primary_culture = north_german
+						has_country_flag = wants_to_unify
+						NOT = { has_country_flag = post_colonial_country }
+					}
+				}
+				add_core = NGF
+			}
+			change_tag = NGF
+			set_country_flag = secondary_union_formation
+			any_country = {
+				limit = {
+					primary_culture = north_german
+					in_sphere = THIS 
+					NOT = { tag = THIS }
+					NOT = { has_country_flag = post_colonial_country }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11106
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
+
+	form_south_german_confederation2 = {
+		picture = form_south_german_confederation
+		potential = {
+			OR = {
+				primary_culture = central_german
+				primary_culture = south_german
+			}
+			NOT = {
+				has_country_flag = post_colonial_country
+				exists = SGF
+				exists = GER
+				tag = AUS
+			}
+			
+		}	
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			GER = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+						NOT = { culture = south_german }
+						NOT = { culture = central_german }
+						owner = {
+							NOT = { is_culture_group = germanic }
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			clr_country_flag = crown_from_the_gutter
+			prestige = 5
+			badboy = 5
+			all_core = { add_core = SGF }
+			add_accepted_culture = south_german
+			add_accepted_culture = central_german
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						exists = no
+						primary_culture = south_german
+						has_country_flag = wants_to_unify
+						NOT = { has_country_flag = post_colonial_country }
+					}
+				}
+				add_core = SGF
+			}
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						exists = no
+						primary_culture = central_german
+						has_country_flag = wants_to_unify
+						NOT = { has_country_flag = post_colonial_country }
+					}
+				}
+				add_core = SGF
+			}
+			change_tag = SGF
+			set_country_flag = secondary_union_formation
+			any_country = {
+				limit = {
+					primary_culture = central_german
+					in_sphere = THIS
+					NOT = { tag = THIS }
+					NOT = { has_country_flag = post_colonial_country }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11106
+			}
+			any_country = {
+				limit = {
+					primary_culture = south_german
+					in_sphere = THIS
+					NOT = { tag = THIS }
+					NOT = { tag = BAN }
+					NOT = { tag = SWI }
+					NOT = { tag = SIE }
+					NOT = { has_country_flag = post_colonial_country }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11106
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
+
+	form_mellomamerika = {
+		potential = {
+			OR = {
+				tag = MNK
+				tag = MDT
+				tag = HOY
+				}
+			MEL = { exists = no }
+		}
+		
+		allow = {
+			war = no
+			MNK = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+							war = no
+						}
+					}
+				}
+			}
+			MDT = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+							war = no
+
+						}
+					}
+				}
+			}
+			HOY = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+							war = no
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			MNK = {
+				all_core = { add_core = MEL }
+				}
+			MDT = {
+				all_core = { add_core = MEL }
+				}
+			HOY = {
+				all_core = { add_core = MEL }
+				}
+			all_core = { remove_core = THIS }
+			change_tag = MEL
+			any_country = {
+				limit = {
+					NOT = { is_greater_power = yes }
+					primary_culture = mellomsk
+					in_sphere = THIS
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11101
+			}
+		}
+	}
+
+	form_zachadia = {
+		picture = form_union_nation
+		potential = {
+			OR = {
+				is_culture_group = polish_culture_group
+				is_culture_group = czecho_slovak_culture_group
+			}
+			NOT = { exists = ZAC }
+			NOT = { has_global_flag = zachadia_formed }
+		}
+
+		allow = {
+			war = no
+			prestige = 125
+			nationalism_n_imperialism = 1
+			POL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_culture_group = polish_culture_group
+								is_culture_group = czecho_slovak_culture_group
+							}
+							
+						}
+					}
+				}
+			}
+			SLS = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_culture_group = polish_culture_group
+								is_culture_group = czecho_slovak_culture_group
+							}
+							
+						}
+					}
+				}
+			}
+			SLV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								is_culture_group = polish_culture_group
+								is_culture_group = czecho_slovak_culture_group
+							}
+							in_sphere = THIS
+							
+						}
+						owner = {
+							NOT = {
+								is_culture_group = polish_culture_group
+								is_culture_group = czecho_slovak_culture_group
+							}
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+						owner = {
+							NOT = {
+								is_culture_group = polish_culture_group
+								is_culture_group = czecho_slovak_culture_group
+							}
+							in_sphere = THIS
+							
+						}
+					}
+				}
+			}
+			OR = {
+				PRH = {
+					in_sphere = THIS
+					is_our_vassal = THIS
+				}
+				BOH = {
+					in_sphere = THIS
+					is_our_vassal = THIS
+				}
+				owns = 625						
+			}
+		}
+
+		effect = {
+			set_global_flag = zachadia_formed
+			prestige = 20
+			all_core = { add_core = ZAC }
+			POL = { all_core = { add_core = ZAC } }
+			SLS = { all_core = { add_core = ZAC } }
+			SLV = { all_core = { add_core = ZAC } }
+			LUZ = { all_core = { add_core = ZAC } }
+			AUS_625 = { add_core = ZAC } 
+			AUS_626 = { add_core = ZAC }
+			add_accepted_culture = polish
+			add_accepted_culture = silesian
+			add_accepted_culture = czech
+			add_accepted_culture = slovak
+			add_accepted_culture = prussian
+			change_tag = ZAC
+			any_country = {			#Annex all countries with the two culture groups, so POL, LUZ, SLS, BOH/PRH and SLV
+				limit = {
+					OR = {
+						is_culture_group = polish_culture_group
+						is_culture_group = czecho_slovak_culture_group
+					}
+					in_sphere = THIS
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					OR = {
+						NOT = { is_culture_group = polish_culture_group }
+						NOT = { is_culture_group = czecho_slovak_culture_group }
+					}
+					in_sphere = THIS
+					war = no
+					any_owned_province = {
+						OR = {
+							is_core = BOH
+							is_core = POL
+							is_core = SLS
+							is_core = SLV
+							is_core = PRH
+							province_id = 625 #Prague #So these are basically all BOH cores
+							province_id = 626
+							province_id = 627
+							province_id = 628
+							province_id = 629
+							province_id = 630
+							province_id = 631
+							province_id = 632
+							province_id = 633 #Bratislava
+							province_id = 634
+							province_id = 635
+							province_id = 636
+							province_id = 637
+							province_id = 638	
+						}
+					}
+				}
+				any_owned = {
+					limit = {
+						OR = {
+							is_core = BOH
+							is_core = POL
+							is_core = SLS
+							is_core = SLV
+							is_core = PRH
+							province_id = 625
+							province_id = 626
+							province_id = 627
+							province_id = 628
+							province_id = 629
+							province_id = 630
+							province_id = 631
+							province_id = 632
+							province_id = 633
+							province_id = 634
+							province_id = 635
+							province_id = 636
+							province_id = 637
+							province_id = 638	
+						}
+					}
+					secede_province = THIS
+				}
+			}
+		}
+			
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+
+#Unite the Celts
+	unite_the_celts = {
+		picture = form_union_nation
+		potential = {
+			is_culture_group = celtic
+			CLT = { exists = no }
+			NOT = { has_country_flag = post_colonial_country }
+		}
+		
+		allow = {
+			ai = no
+			war = no
+			year = 1836
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = CLT
+			inherit = IRE
+			inherit = SCO
+			add_accepted_culture = scots
+			add_accepted_culture = irish
+			SCO = {
+				all_core = {
+					add_core = CLT
+					remove_core = SCO
+				}
+			}
+			IRE = {
+				all_core = {
+					add_core = CLT
+					remove_core = IRE
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+
+
+

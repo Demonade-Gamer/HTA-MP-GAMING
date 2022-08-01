@@ -1,0 +1,9 @@
+owner = FRA
+controller = FRA
+
+add_core = LOR
+trade_goods = iron
+life_rating = 35
+
+
+add_core = FRA

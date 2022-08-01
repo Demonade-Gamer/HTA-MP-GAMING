@@ -1,0 +1,8 @@
+owner = SKM
+controller = SKM
+
+trade_goods = fruit
+life_rating = 40
+
+
+add_core = SKM

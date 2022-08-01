@@ -1,0 +1,14 @@
+owner = FRA
+controller = FRA
+
+trade_goods = cotton
+life_rating = 35
+naval_base = 2
+state_building = {
+	level = 2 
+	building = regular_clothes_factory
+	upgrade = yes
+}
+
+
+add_core = FRA

@@ -1,0 +1,90 @@
+OLD = {	value = 125 }
+army = {
+	name = "Hannöversche Heer"
+	location = 534
+	regiment = {
+		name= "1. Oldenburgische Infanteriebrigade"
+		type = hussar
+		home = 540
+	}
+	regiment = {
+		name= "1. Hannöversche Infanteriebrigade"
+		type = artillery
+		home = 534
+	}
+
+	regiment = {
+		name= "2. Hannöversche Infanteriebrigade"
+		type = artillery
+		home = 535
+	}
+	regiment = {
+		name= "1. Hannöversche Artilleriebrigade"
+		type = artillery
+		home = 534
+	}
+	regiment = {
+		name = "I Bremenische Infanterie"
+		type = artillery
+		home = 539
+	}
+	regiment = {
+		name = "II Bremenische Infanterie"
+		type = artillery
+		home = 531
+	}
+}
+army = {
+	name = "Braunschweigische Armee"
+	location = 536
+	regiment = {
+		name = "1. Infanterie-Regiment"
+		type = infantry
+		home = 581
+	}
+	regiment = {
+		name = "2. Infanterie-Regiment"
+		type = infantry
+		home = 580
+	}
+	regiment = {
+		name = "1. Artillerie-Regiment"
+		type = infantry
+		home = 581
+	}
+	regiment = {
+		name = "1. Dragoner-Regiment"
+		type = infantry
+		home = 580
+	}
+	regiment = {
+		name= "1. Braunschweigische Infanterie-Brigade"
+		type = hussar
+		home = 536
+	}
+	regiment = {
+		name= "2. Braunschweigische Infanterie-Brigade"
+		type = artillery
+		home = 536
+	}
+	regiment = {
+		name= "3. Braunschweigische Infanterie-Brigade"
+		type = artillery
+		home = 537
+	}
+	regiment = {
+		name = "Lingenische Brigade"
+		type = artillery
+		home = 542
+	}
+	regiment = {
+		name= "1. Braunschweigische Reiter-Brigade"
+		type = artillery
+		home = 553
+	}
+	regiment = {
+		name= "1. Braunschweigische Artillerie-Brigade"
+		type = artillery
+		home = 528
+	}	            	            
+}

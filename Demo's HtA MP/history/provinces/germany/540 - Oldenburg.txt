@@ -1,0 +1,14 @@
+owner = NET
+controller = NET
+add_core = OLD
+add_core = GER
+trade_goods = fish
+life_rating = 40
+#state_building = {
+#	level = 2 
+#	building = glass_factory
+#	upgrade = yes
+#}
+
+add_core = BRA
+add_core = NET

@@ -1,0 +1,10 @@
+owner = PDN
+controller = PDN
+
+trade_goods = grain
+life_rating = 35
+
+
+
+
+add_core = PDN

@@ -1,0 +1,13 @@
+owner = PDN
+controller = PDN
+
+trade_goods = fish
+life_rating = 35
+naval_base = 2
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}
+
+add_core = PDN

@@ -1,0 +1,6 @@
+owner = CLT
+controller = CLT
+add_core = ATJ
+trade_goods = tea
+life_rating = 30
+

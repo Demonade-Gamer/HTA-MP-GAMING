@@ -1,0 +1,269 @@
+RAJ = {
+	value = -25
+}
+AGR = {
+	value = -15
+}
+army = {
+	name = "Arm na hÉireann"
+	location = 263
+	regiment = {
+		name = "1. An Cor Coisithe"
+		type = infantry
+		home = 263
+	}
+	regiment = {
+		name = "2. An Cor Coisithe"
+		type = infantry
+		home = 259
+	}
+	regiment = {
+		name = "3. An Cor Coisithe"
+		type = infantry
+		home = 254
+	}
+	regiment = {
+		name = "1. Coisithe na hAlban"
+		type = infantry
+		home = 271
+	}
+	regiment = {
+		name = "4. An Cor Airtléire"
+		type = hussar
+		home = 262
+	}
+	regiment = {
+		name = "1. An Cor Airtléire"
+		type = artillery
+		home = 261
+	}
+	regiment = {
+		name = "1. An Cor Marcra"
+		type = artillery
+		home = 260
+	}
+	regiment = {
+		name = "1. Airtléire na hAlban"
+		type = artillery
+		home = 255
+	}
+	regiment = {
+		name = "2. Cor na hGhuisearait"
+		type = artillery
+		home = 1292
+	}
+	regiment = {
+		name = "1. Marcra na hGhuisearait"
+		type = artillery
+		home = 1293
+	}
+}
+
+army = {
+	name = "Arm na hGhuisearait"
+	location = 1291
+	regiment = {
+		name = "4. An Cor Coisithe"
+		type = infantry
+		home = 258
+	}
+	regiment = {
+		name = "5. An Cor Coisithe"
+		type = hussar
+		home = 264
+	}
+	regiment = {
+		name = "1. Cor na hGhuisearait"
+		type = artillery
+		home = 1291
+	}
+}
+
+navy = {
+	name = "Loingeas na hÉireann"
+	location = 263
+	ship = {
+		name = "Misneach"
+		type = manowar
+	}
+	ship = {
+		name = "Foirtile"
+		type = manowar
+	}
+	ship = {
+		name = "Bun na Spéire"
+		type = manowar
+	}
+	ship = {
+		name = "An Gaoth"
+		type = frigate
+	}
+	ship = {
+		name = "Iontaofa"
+		type = frigate
+	}
+	ship = {
+		name = "1. Iomparlong"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Iomparlong"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Iomparlong"
+		type = clipper_transport
+	}
+}
+army = {
+	name = "Armn'Alban"
+	location = 269
+	regiment = {
+		name = "1. Cor Cosite"
+		type = infantry
+		home = 267
+	}
+	regiment = {
+		name = "2. Cor Cosite"
+		type = infantry
+		home = 268
+	}
+	regiment = {
+		name = "1. Coilineach Resimint"
+		type = infantry
+		home = 1413
+	}
+	regiment = {
+		name = "2. Coilineach Resimint"
+		type = infantry
+		home = 1426
+	}
+	regiment = {
+		name = "3. Cor Cosite"
+		type = hussar
+		home = 269
+	}
+	regiment = {
+		name = "1. Cor Artléir"
+		type = artillery
+		home = 266
+	}
+	regiment = {
+		name = "1. Cor Marcra"
+		type = artillery
+		home = 270
+	}
+	regiment = {
+		name = "3. Coilineach Resimint"
+		type = artillery
+		home = 1403
+	}
+	regiment = {
+		name = "4. Coilineach Resimint"
+		type = artillery
+		home = 1429
+	}
+	regiment = {
+		name = "5. Coilineach Resimint"
+		type = artillery
+		home = 1413
+	}
+}
+
+
+navy = {
+	name = "Cablachn'Alba"
+	location =  269
+	ship = {
+		name = "Alba"
+		type = manowar
+	}
+	ship = {
+		name = "Orla"
+		type = manowar
+	}
+	ship = {
+		name = "Balor"
+		type = manowar
+	}
+	ship = {
+		name = "Ciara"
+		type = frigate
+	}
+	ship = {
+		name = "Roisin"
+		type = frigate
+	}
+	ship = {
+		name = "Emer"
+		type = frigate
+	}
+	ship = {
+		name = "1. Omparlong"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Omparlong"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Omparlong"
+		type = clipper_transport
+	}
+}
+	
+navy = {
+	name = "Cablachn'Indinéis"
+	location =  1413
+	ship = {
+		name = "Eithen"
+		type = manowar
+	}
+	ship = {
+		name = "Banba"
+		type = manowar
+	}
+	ship = {
+		name = "Niam"
+		type = frigate
+	}
+	ship = {
+		name = "Fola"
+		type = frigate
+	}
+	ship = {
+		name = "1. I. Omparlong"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. I. Omparlong"
+		type = clipper_transport
+	}
+}
+	
+navy = {
+	name = "Scaothn'Afraic"
+	location =  1884
+	ship = {
+		name = "Cilona"
+		type = frigate
+	}
+	ship = {
+		name = "Cináed macAlpin"
+		type = frigate
+	}
+}
+
+navy = {
+	name = "Scaoth na Socotra"
+	location =  1177
+	ship = {
+		name = "Bridei"
+		type = frigate
+	}
+	ship = {
+		name = "Abhainn Dubh"
+		type = frigate
+	}
+}
+

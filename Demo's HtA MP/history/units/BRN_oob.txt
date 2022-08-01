@@ -1,0 +1,90 @@
+THU = { value = 140 }
+
+
+army = {
+	name = "Brandenburgische Armee"
+	location = 549
+	regiment = {
+		name = "I Infanterie-Regiment"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "II Infanterie-Regiment"
+		type = infantry
+		home = 550
+	}
+	regiment = {
+		name = "III Infanterie-Regiment"
+		type = infantry
+		home = 551
+	}
+	regiment = {
+		name = "I Reiter-Regiment"
+		type = infantry
+		home = 552
+	}
+	regiment = {
+		name = "I Artillerie-Regiment"
+		type = hussar
+		home = 681
+	}
+	regiment = {
+		name = "II Artillerie-Regiment"
+		type = artillery
+		home = 556
+	}
+	regiment = {
+		name = "I. Pommernische Infanterie"
+		type = artillery
+		home = 546
+	}
+	regiment = {
+		name = "II. Pommernische Infanterie"
+		type = artillery
+		home = 546
+	}
+	regiment = {
+		name = "I. Pommernische Artillerie"
+		type = artillery
+		home = 547
+	}
+	regiment = {
+		name= "1. Mecklenburgische Infanterie-Brigade"
+		type = artillery
+		home = 544
+	}
+}
+army = {
+	name = "Thuringisches Heer"
+	location = 554
+	regiment = {
+		name = "I Infanterieregiment"
+		type = infantry
+		home = 554
+	}
+	regiment = {
+		name = "II Infanterieregiment"
+		type = infantry
+		home = 554
+	}
+	regiment = {
+		name = "I Kavallerieregiment"
+		type = hussar
+		home = 554
+	}
+}
+
+ai = {
+	initialized = yes
+	consolidate = yes
+	date = "1836.1.1"
+	static = no
+	personality = balanced
+
+	befriend = { id="BRA" value=50 }
+
+	rival = { id="BAV" value = 125 }
+
+	antagonize = { id="BOH" value=50 }
+}

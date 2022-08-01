@@ -1,0 +1,13 @@
+owner = PDN
+controller = PDN
+
+trade_goods = iron
+life_rating = 35
+state_building = {
+	level = 2 
+	building = canned_food_factory
+	upgrade = yes
+}
+
+
+add_core = PDN

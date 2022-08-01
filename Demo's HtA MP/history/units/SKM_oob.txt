@@ -1,0 +1,9 @@
+army = {
+	name = "I prefer margaria myself but have it your way"
+	location = 89
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 89
+	}
+}

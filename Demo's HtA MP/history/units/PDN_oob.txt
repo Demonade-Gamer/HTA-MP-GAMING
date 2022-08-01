@@ -1,0 +1,138 @@
+
+leader = {
+	name = "Vincenzo di Moncalieri"
+	type = land
+	date = 1836.1.1
+	personality = attack_1.1
+	background = defence_4.1
+}
+
+army = {
+	name = "Esercito di Lombardia"
+	location = 726
+	regiment = {
+		name = "1. Fanteria di Linea"
+		type = infantry
+		home = 726
+	}
+	regiment = {
+		name = "2. Fanteria di Linea"
+		type = infantry
+		home = 728
+	}
+	regiment = {
+		name = "3. Fanteria di Linea"
+		type = hussar
+		home = 727
+	}
+	regiment = {
+		name = "1. Artigleria"
+		type = artillery
+		home = 726
+	}
+	regiment = {
+		name = "2. Artigleria"
+		type = artillery
+		home = 2568
+	}
+}
+army = {
+	name = "Armada di Venezia"
+	location = 729
+	regiment = {
+		name = "1. Linea d'Infanteria"
+		type = infantry
+		home = 730
+	}
+	regiment = {
+		name = "2. Linea d'Infanteria"
+		type = infantry
+		home = 731
+	}
+	regiment = {
+		name = "1. Artilleria"
+		type = artillery
+		home = 730
+	}
+}
+army = {
+	name = "Esercito di Genova"
+	location = 724
+	regiment = {
+		name = "1. Reggimento di Fanteria"
+		type = infantry
+		home = 724
+	}
+	regiment = {
+		name = "2. Reggimento di Fanteria"
+		type = infantry
+		home = 738
+	}
+	regiment = {
+		name = "1. Reggimento d'Artiglieria"
+		type = artillery
+		home = 723
+	}
+	regiment = {
+		name = "1. Reggimento di Cavalleria"
+		type = hussar
+		home = 725
+	}
+}
+
+navy = {
+	name = "Flotta di Genova"
+	location = 724
+	ship = {
+		name = "Marco"
+		type = manowar
+	}
+	ship = {
+		name = "Aliseo"
+		type = manowar
+	}
+}
+navy = {
+	name = "Marina della Reppublica"
+	location = 729
+	ship = { 
+		name = "Veneziana"
+		type = manowar
+	}
+	ship = { 
+		name = "Marco Polo"
+		type = manowar
+	}
+	ship = { 
+		name = "Dandolo"
+		type = frigate
+	}
+	ship = { 
+		name = "San Marco"
+		type = frigate
+	}
+	ship = { 
+		name = "Santa Croce"
+		type = frigate
+	}
+}
+ai = {
+	initialized = yes
+	consolidate = yes
+	date = "1836.1.1"
+	static = no
+	personality = balanced
+
+	befriend = { id="AQT" value = 100 }
+	befriend = { id="RMG" value = 200 }
+	befriend = { id="TUS" value = 200 }
+
+	protect = { id="RMG" value = 200 }
+	protect = { id="TUS" value = 200 }
+
+	threat = { id="NPL" value=200 }
+
+	antagonize = { id="NPL" value=200 }
+
+	rival = { id="NPL" value=200 }
+}
