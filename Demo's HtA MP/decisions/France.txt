@@ -267,51 +267,11 @@ political_decisions = {
 				owns = 398
 				owns = 403
 			}
-			OR = {
-				WLL = { exists = no }
-				WLL = { vassal_of = THIS }
-			}
 		}
 		
 		effect = {
 			prestige = -2
 			add_accepted_culture = wallonian
-			any_pop = {
-				limit = {
-					has_pop_culture = french
-				}
-				consciousness = 1
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = wallonian
-				}
-				consciousness = 2
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = picard
-				}
-				consciousness = 2
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = breton
-				}
-				consciousness = 1
-			}
-			any_pop = {
-				limit = {
-					is_accepted_culture = no
-					NOT = {
-						has_pop_culture = french
-						has_pop_culture = wallonian
-						has_pop_culture = picard
-						has_pop_culture = breton
-					}
-				}
-				consciousness = 0.5
-			}
 		}
 	}
 
@@ -334,57 +294,25 @@ political_decisions = {
 		effect = {
 			prestige = -2
 			add_accepted_culture = breton
-			any_pop = {
-				limit = {
-					has_pop_culture = french
-				}
-				consciousness = 1
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = wallonian
-				}
-				consciousness = 2
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = picard
-				}
-				consciousness = 2
-			}
-			any_pop = {
-				limit = {
-					is_accepted_culture = no
-					NOT = {
-						has_pop_culture = french
-						has_pop_culture = wallonian
-						has_pop_culture = picard
-						has_pop_culture = breton
-					}
-				}
-				consciousness = 0.5
-			}
 		}
 	}
 
-	integrate_the_aquitanians = {
-		potential = {
-			tag = FRA
-			NOT = { has_country_flag = aqt_accepted }
-		}
-		
-		allow = {
-			year = 1840
-			owns = 442
-			owns = 437
-		}
-		
-		effect = {
-			AQT = { all_core = { add_core = FRA } }
-			add_accepted_culture = aquitanian
-			set_country_flag = aqt_accepted
-		}
-	}
+#	integrate_the_aquitanians = {
+#		potential = {
+#			tag = FRA
+#			NOT = { has_country_flag = aqt_accepted }
+#		}		
+#		allow = {
+#			year = 1840
+#			owns = 442
+#			owns = 437
+#		}		
+#		effect = {
+#			AQT = { all_core = { add_core = FRA } }
+#			add_accepted_culture = aquitanian
+#			set_country_flag = aqt_accepted
+#		}
+#	}
 
 	
 }

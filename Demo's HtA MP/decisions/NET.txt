@@ -148,6 +148,7 @@ political_decisions = {
 		allow = {
 			state_n_government = 1
 			owns = 387
+			NOT = { exists = BRB }
 		}
 		
 		effect = {

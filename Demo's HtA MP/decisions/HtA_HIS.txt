@@ -356,14 +356,14 @@ political_decisions = {
 		}
 	}
 
-	claim_the_islands = {
+	claim_the_med_islands = {
 		potential = {
 			tag = HIS
 			NOT = { has_country_flag = med_islands_claimed }
 		}
 		allow = {
-			year = 1860
-			CAT = { all_core = { owned_by = THIS } }
+			SIC = { all_core = { owned_by = THIS } }
+			SRD = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			set_country_flag = med_islands_claimed
@@ -375,24 +375,4 @@ political_decisions = {
 		}
 	}
 
-	integrate_the_islands = {
-		potential = {
-			tag = HIS
-			has_country_flag = med_islands_claimed
-			NOT = { has_country_flag = med_islands_integrated }
-		}
-		allow = {
-			SIC = { all_core = { owned_by = THIS } }
-			SRD = { all_core = { owned_by = THIS } }
-		}
-		effect = {
-			prestige = 25
-			add_accepted_culture = sicilian
-			add_accepted_culture = maretan
-			set_country_flag = med_islands_integrated
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 }

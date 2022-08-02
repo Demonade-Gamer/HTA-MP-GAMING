@@ -1,9 +1,5 @@
 political_decisions = {
 
-#Call the Congress of Brunswick
-
-
-	
 	claim_empire_BAV = {
 		picture = form_germany
 		
@@ -13,7 +9,9 @@ political_decisions = {
 		}
 		
 		allow = {
-			year = 1850
+			549 = { owned_by = THIS }
+			575 = { owned_by = THIS }
+			599 = { owned_by = THIS }
 		}
 		
 		effect = {
@@ -34,7 +32,9 @@ political_decisions = {
 		}
 		
 		allow = {
-			year = 1850
+			549 = { owned_by = THIS }
+			575 = { owned_by = THIS }
+			599 = { owned_by = THIS }
 		}
 		
 		effect = {
@@ -52,101 +52,15 @@ political_decisions = {
 		}
 		
 		allow = {
-			year = 1850
+			549 = { owned_by = THIS }
+			575 = { owned_by = THIS }
+			599 = { owned_by = THIS }
 		}
 		
 		effect = {
 			prestige = 25
 			GER = { all_core = { add_core = BRN } }
 			set_country_flag = claim_empire_brn
-		}
-	}
-
-	helvetian_patrimony = {
-		picture = negotiations
-		potential = {
-			tag = GER
-			exists = SWI
-			NOT = { has_country_flag = helvetian_patrimony }
-		}
-		
-		allow = {
-			war = no
-			SWI = {
-				OR = {
-					in_sphere = THIS
-					vassal_of = THIS
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 5
-			set_country_flag = helvetian_patrimony
-			inherit = SWI
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	#Treaty of Twist
-	treaty_of_twist = {
-		picture = negotiations
-		potential = {
-			tag = BRA
-			NET = { is_greater_power = no }
-			NOT = { has_country_flag = treaty_over_emden }
-			543 = { owned_by = NET }
-			year = 1846
-		}
-		
-		allow = {
-			war = no
-		}
-		
-		effect = {
-			set_country_flag = treaty_over_emden
-			prestige = 1
-			NET = {
-				country_event = {
-					id = 50254
-					days = 1
-				}
-			}
-		}
-	}
-	
-
-	
-	annexation_of_saxony = {
-		picture = negotiations
-		potential = {
-			OR = {
-				tag = BRN
-				tag = NGF
-				OR = {
-						primary_culture = north_german
-						primary_culture = central_german
-					}
-			}
-			exists = SAX
-			has_country_flag = claim_empire
-			NOT = { has_country_flag = SAX_annexed_postCongress }
-		}
-		allow = {
-			
-			SAX = { in_sphere = THIS }
-			OR = {
-				SAX = { is_vassal = no }
-				SAX = { is_our_vassal = THIS }
-			}
-			neighbour = SAX
-		}
-		effect = {
-			prestige = 2
-			inherit = SAX
-			set_country_flag = SAX_annexed_postCongress
 		}
 	}
 }

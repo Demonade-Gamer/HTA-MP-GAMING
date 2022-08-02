@@ -110,54 +110,6 @@ political_decisions = {
 	
 
 	##### About the SKM-GNC union nation - Scylfiga Woning SCW  #########
-
-	annex_califiana = {
-		picture = marching_soldiers
-		potential = {
-		OR = {
-			tag = GNC
-			tag = SKM
-			tag = MRG
-		}
-			ai = no
-			is_disarmed = no
-			war = no
-			NOT = { alliance_with = CLF }
-			NOT = { has_country_flag = annex_califiana }
-		}
-		
-		allow = {
-			OR = {
-				AND = {
-					tag = GNC
-					neighbour = CLF
-				}
-				AND = {
-					tag = SKM
-					neighbour = CLF
-				}
-				AND = { 
-					tag = MRG
-					neighbour = CLF
-				}
-			}
-
-		}
-		
-		effect = {
-			badboy = 10
-			CLF = { all_core = { add_core = THIS } }
-			set_country_flag = annex_califiana
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.6
-			}
-		}
-	}
 	annex_ginnaecer = {
 		picture = marching_soldiers
 		potential = {
@@ -303,7 +255,6 @@ political_decisions = {
 			OR = {
 				tag = GNC
 				tag = SKM
-				tag = CLF
 				tag = MRG
 			}
 			SCW = { exists = no }
@@ -312,24 +263,21 @@ political_decisions = {
 		allow = {
 			SKM = {
 				OR = {
+					is_vassal = yes
 					all_core = { owner = { in_sphere = THIS } }
 					all_core = { owned_by = THIS }
 				}
 			}
 			GNC = {
 				OR = {
-					all_core = { owner = { in_sphere = THIS } }
-					all_core = { owned_by = THIS }
-				}
-			}
-			CLF = {
-				OR = {
+					is_vassal = yes
 					all_core = { owner = { in_sphere = THIS } }
 					all_core = { owned_by = THIS }
 				}
 			}
 			MRG = {
 				OR = {
+					is_vassal = yes
 					all_core = { owner = { in_sphere = THIS } }
 					all_core = { owned_by = THIS }
 				}
@@ -351,10 +299,9 @@ invade_the_mexicans_scw = {
 		}
 		allow = {
 			SCW = { all_core = { owned_by = SCW } }
-			year = 1850
 		}
 		effect = {
-			MEX = { all_core = { limit = { NOT = { is_core = MEL } } add_core = THIS } } 
+			MEX = { all_core = { limit = { NOT = { is_core = HOY is_core = MDT is_core = MNK } } add_core = THIS } } 
 			YUC = { all_core = { add_core = SCW } }
 			set_country_flag = mexico_invaded_scw
 		}
@@ -527,7 +474,7 @@ invade_the_mexicans_scw = {
 			NOT = { has_country_flag = south_invaded }
 		}
 		allow = {
-			year = 1850
+			YUC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			MEL = { all_core = { add_core = MEX } }
@@ -545,7 +492,6 @@ invade_the_mexicans_scw = {
 			NOT = { has_country_flag = south_integrated }
 		}
 		allow = {
-			year = 1870
 			OR = {
 				MEL = { all_core = { owned_by = THIS } }
 				AND = {
@@ -567,7 +513,7 @@ invade_the_mexicans_scw = {
 			NOT = { has_country_flag = north_invaded_mex }
 		}
 		allow = {
-			year = 1850
+			GNC = { any_core = { owned_by = THIS } }
 		}
 		effect = {
 			GNC = { all_core = { add_core = MEX } }
@@ -585,8 +531,10 @@ invade_the_mexicans_scw = {
 			NOT = { has_country_flag = north_integrated }
 		}
 		allow = {
-			year = 1860
-			CLF = { all_core = { owned_by = THIS } }
+			MEX_85 = { owned_by = THIS }
+			MEX_2138 = { owned_by = THIS }
+			100 = { owned_by = THIS }
+			102 = { owned_by = THIS }
 			GNC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
@@ -601,10 +549,10 @@ invade_the_mexicans_scw = {
 			NOT = { has_country_flag = north_invaded }
 		}
 		allow = {
-			year = 1850
+			YUC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			MEX = { all_core = { limit = { NOT = { OR = { is_core = CLF is_core = GNC is_core = SCW } } } add_core = MEL } }
+			MEX = { all_core = { limit = { NOT = { OR = { is_core = SKM is_core = GNC is_core = SCW } } } add_core = MEL } }
 			YUC = { all_core = { add_core = MEL } }
 			set_country_flag = north_invaded
 		}
@@ -622,7 +570,6 @@ invade_the_mexicans_scw = {
 			NOT = { has_country_flag = mexicans_integrated }
 		}
 		allow = {
-			year = 1860
 			MEX = { all_core = { owned_by = THIS } }
 		}
 		effect = {
