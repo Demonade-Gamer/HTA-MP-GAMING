@@ -1,6 +1,6 @@
-owner = BRB
-controller = BRB
-add_core = BRB
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = fish
 life_rating = 30
 terrain = small_island

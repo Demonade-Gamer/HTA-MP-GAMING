@@ -1,7 +1,6 @@
 owner = AEN
 controller = AEN
 add_core = AEN
-add_core = SCO
 trade_goods = fish
 life_rating = 35
 

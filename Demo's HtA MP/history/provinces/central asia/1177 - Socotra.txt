@@ -1,5 +1,5 @@
-owner = SCO
-controller = SCO
+owner = CLT
+controller = CLT
 add_core = ARA
 add_core = YEM
 trade_goods = fish
