@@ -2,110 +2,109 @@
 #Ruled by Central America 1836
 #San Jose (52000/13000 POPS)
 2201 = {
-	aristocrats = {
-		culture = mellomsk
-		religion = protestant
-		size = 400
-	}
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 600
+    }
 
-	bureaucrats = {
-		culture = mellomsk
-		religion = protestant
-		size = 100
-	}
+    bureaucrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 150
+    }
 
-	officers = {
-		culture = mellomsk
-		religion = protestant
-		size = 50
-	}
+    officers = {
+        culture = mellomsk
+        religion = protestant
+        size = 75
+    }
 
-	clergymen = {
-		culture = mellomsk
-		religion = protestant
-		size = 255
-	}
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 382
+    }
 
-	artisans = {
-		culture = mellomsk
-		religion = protestant
-		size = 1350
-	}
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 2025
+    }
 
-	soldiers = {
-		culture = mellomsk
-		religion = protestant
-		size = 1125
-	}
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 1687
+    }
 
-	farmers = {
-		culture = mellomsk
-		religion = protestant
-		size = 23725
-	}
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 35587
+    }
 }
 #Liberia (20000/5000 POPS)
 2202 = {
-	aristocrats = {
-		culture = mellomsk
-		religion = protestant
-		size = 450
-	}
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 675
+    }
 
-	clergymen = {
-		culture = mellomsk
-		religion = protestant
-		size = 250
-	}
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
 
-	artisans = {
-		culture = mellomsk
-		religion = protestant
-		size = 1250
-	}
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 1875
+    }
 
-	soldiers = {
-		culture = mellomsk
-		religion = protestant
-		size = 250
-	}
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
 
-	farmers = {
-		culture = mellomsk
-		religion = protestant
-		size = 24500
-	}
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 36750
+    }
 }
 #Limon (12000/3000 POPS)
 2203 = {
-	aristocrats = {
-		culture = mellomsk
-		religion = protestant
-		size = 300
-	}
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 450
+    }
 
-	clergymen = {
-		culture = mellomsk
-		religion = protestant
-		size = 500
-	}
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 750
+    }
 
-	artisans = {
-		culture = mellomsk
-		religion = protestant
-		size = 1500
-	}
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 2250
+    }
 
-	soldiers = {
-		culture = mellomsk
-		religion = protestant
-		size = 250
-	}
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
 
-	farmers = {
-		culture = mellomsk
-		religion = protestant
-		size = 27000
-	}
-
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 40500
+    }
 }
