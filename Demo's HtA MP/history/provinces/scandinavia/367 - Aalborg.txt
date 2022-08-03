@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = SWE
+controller = SWE
+
 add_core = SCA
 trade_goods = fish
 life_rating = 35
@@ -15,3 +15,6 @@ state_building = {
 #	building = glass_factory
 #	upgrade = yes
 #}
+
+add_core = SWE
+add_core = DEN

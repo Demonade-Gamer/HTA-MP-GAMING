@@ -1,7 +1,10 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = SWE
+controller = SWE
+
 add_core = SCA
 trade_goods = cattle
 life_rating = 40
 naval_base = 1
+
+add_core = SWE
+add_core = DEN

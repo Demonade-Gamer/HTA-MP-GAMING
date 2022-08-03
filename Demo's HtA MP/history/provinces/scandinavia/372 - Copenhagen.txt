@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = SWE
+controller = SWE
+
 add_core = SCA
 trade_goods = grain
 life_rating = 40
@@ -21,3 +21,6 @@ state_building = {
 	building = artillery_factory
 	upgrade = yes
 }
+
+add_core = SWE
+add_core = DEN

@@ -27,7 +27,8 @@ claim_scandanavia = {
 			NOT = { has_country_flag = claim_scandi }
 		}
 		allow = {
-			nationalism_n_imperialism = 1
+			owns = 322
+			owns = 313
 		}
 		effect = {
 			add_accepted_culture = swedish
