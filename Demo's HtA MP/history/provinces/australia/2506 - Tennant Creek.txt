@@ -2,5 +2,5 @@ owner = TER
 controller = TER
 add_core = TER
 trade_goods = cattle
-life_rating = 15
+life_rating = 35
 
