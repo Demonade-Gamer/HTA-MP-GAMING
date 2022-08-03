@@ -28,7 +28,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 2600
+        size = 5200
     }
 
     clergymen = {
@@ -259,7 +259,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 800
+        size = 1600
     }
 
     clergymen = {
@@ -409,7 +409,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 600
+        size = 1200
     }
 
     clergymen = {
@@ -496,7 +496,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 1600
+        size = 3200
     }
 
     clergymen = {

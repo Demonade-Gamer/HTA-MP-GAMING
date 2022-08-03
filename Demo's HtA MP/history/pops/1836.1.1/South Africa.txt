@@ -1,2300 +1,2254 @@
 #file includes modern South Africa, Lesotho and Swaziland
 #Western Cape Region (395100)
 #Ruled by the Netherlands 1836
-#Boer POPs represent post-Great Trek migration 
+#Boer POPs represent post-Great Trek migration
 #Cape Town (173000/43250 POPS)
 2087 = {
-	clergymen = {
-		culture = bakongo
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = bakongo
+        religion = protestant
+        size = 50
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = protestant
-		size = 750
-	}
+    artisans = {
+        culture = bakongo
+        religion = protestant
+        size = 750
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = protestant
-		size= 350
-	}
+    soldiers = {
+        culture = bakongo
+        religion = protestant
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = protestant
-		size = 9050
-	}
+    farmers = {
+        culture = bakongo
+        religion = protestant
+        size = 9050
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 750
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 750
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 525
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 12050
-	}
-	
-	aristocrats = {
-		culture = dutch
-		religion = protestant
-		size = 20
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 12050
+    }
 
-	clergymen = {
-		culture = dutch
-		religion = protestant
-		size = 70
-	}
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 20
+    }
 
-	bureaucrats = {
-		culture = dutch
-		religion = protestant
-		size = 60
-	}
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 70
+    }
 
-	artisans = {
-		culture = dutch
-		religion = protestant
-		size = 1500
-	}
+    bureaucrats = {
+        culture = dutch
+        religion = protestant
+        size = 120
+    }
 
-	soldiers = {
-		culture = dutch
-		religion = protestant
-		size= 200
-	}
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 1500
+    }
 
-	farmers = {
-		culture = dutch
-		religion = protestant
-		size = 4250
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 30
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 80
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 465
-	}
-	
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 3550
-	}
-	
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size = 2475
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 18425
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = obbite
-		size = 20
-	}
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 0
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = obbite
-		size = 110
-	}
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 4250
+    }
 
-	bureaucrats = {
-		culture = steenkooler
-		religion = obbite
-		size = 90
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 30
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = obbite
-		size = 1800
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 160
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = obbite
-		size = 600
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 465
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = obbite
-		size = 5250
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 3550
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 2475
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 18425
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 20
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = obbite
+        size = 110
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 180
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = obbite
+        size = 1800
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = obbite
+        size = 600
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = obbite
+        size = 5250
+    }
 }
 #Worcester (117700/29425 POPS)
 2089 = {
-	clergymen = {
-		culture = bakongo
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = bakongo
+        religion = protestant
+        size = 50
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = protestant
-		size = 250
-	}
+    artisans = {
+        culture = bakongo
+        religion = protestant
+        size = 250
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = protestant
-		size = 7600
-	}
+    farmers = {
+        culture = bakongo
+        religion = protestant
+        size = 7600
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 6700
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 6700
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 9650
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 9650
+    }
 
-	clergymen = {
-		culture = dutch
-		religion = protestant
-		size = 15
-	}
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 15
+    }
 
-	artisans = {
-		culture = dutch
-		religion = protestant
-		size = 300
-	}
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 300
+    }
 
-	farmers = {
-		culture = dutch
-		religion = protestant
-		size = 660
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 10
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 660
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 10
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 1200
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 5225
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = obbite
-		size = 30
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = obbite
-		size = 130
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 1200
+    }
 
-	bureaucrats = {
-		culture = steenkooler
-		religion = obbite
-		size = 110
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 5225
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = obbite
-		size = 2050
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 30
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = obbite
-		size = 720
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = obbite
+        size = 130
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = obbite
-		size = 6150
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 220
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = obbite
+        size = 2050
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = obbite
+        size = 720
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = obbite
+        size = 6150
+    }
 }
 #Swettenham (69700/17425 POPS)
 2090 = {
-	clergymen = {
-		culture = bakongo
-		religion = protestant
-		size = 75
-	}
+    clergymen = {
+        culture = bakongo
+        religion = protestant
+        size = 75
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = protestant
-		size = 200
-	}
+    artisans = {
+        culture = bakongo
+        religion = protestant
+        size = 200
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = protestant
-		size = 6625
-	}
+    farmers = {
+        culture = bakongo
+        religion = protestant
+        size = 6625
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 14675
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 14675
+    }
 
-	clergymen = {
-		culture = dutch
-		religion = protestant
-		size = 15
-	}
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 15
+    }
 
-	artisans = {
-		culture = dutch
-		religion = protestant
-		size = 300
-	}
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 300
+    }
 
-	farmers = {
-		culture = dutch
-		religion = protestant
-		size = 660
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 8
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 40
-	}
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 660
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 75
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 8
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 580
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 80
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 7425
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = obbite
-		size = 15
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 75
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = obbite
-		size = 100
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 580
+    }
 
-	bureaucrats = {
-		culture = steenkooler
-		religion = obbite
-		size = 70
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 7425
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = obbite
-		size = 1700
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 15
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = obbite
-		size = 550
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = obbite
+        size = 100
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = obbite
-		size = 5050
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 140
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = obbite
+        size = 1700
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = obbite
+        size = 5050
+    }
 }
 #Mossel Bay (34700/8675 POPS)
 2091 = {
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 150
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 150
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 550
-	}
-	
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size = 595
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 550
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 5575
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 595
+    }
 
-	clergymen = {
-		culture = dutch
-		religion = protestant
-		size = 50
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 5575
+    }
 
-	artisans = {
-		culture = dutch
-		religion = protestant
-		size = 150
-	}
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 50
+    }
 
-	farmers = {
-		culture = dutch
-		religion = protestant
-		size = 1800
-	}
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 150
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 35
-	}
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 1800
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 35
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 2890
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = protestant
-		size = 25
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 2890
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = protestant
-		size = 100
-	}
+    clergymen = {
+        culture = bakongo
+        religion = protestant
+        size = 25
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = protestant
-		size = 1850
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = obbite
-		size = 10
-	}
+    artisans = {
+        culture = bakongo
+        religion = protestant
+        size = 100
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = obbite
-		size = 50
-	}
+    farmers = {
+        culture = bakongo
+        religion = protestant
+        size = 1850
+    }
 
-	bureaucrats = {
-		culture = steenkooler
-		religion = obbite
-		size = 50
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 10
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = obbite
-		size = 800
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = obbite
+        size = 50
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = obbite
-		size = 300
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 100
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = obbite
-		size = 3250
-	}
+    artisans = {
+        culture = steenkooler
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = obbite
+        size = 300
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = obbite
+        size = 3250
+    }
 }
 #Namaqualand Region (12000) #see Namibia.txt for balance of region
 #uncolonized 1836
 #Springbok (12000/3000 POPS)
 2088 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 25
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 25
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 2750
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 2750
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 25
-	}
-
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
 }
 #Karoo Region (244500)
 #Ruled by Britain 1836
-#Boer POPs represent post-Great Trek migration 
+#Boer POPs represent post-Great Trek migration
 #Beaufort (34600/8650 POPS)
 2092 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 10
+    }
 
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 10
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 40
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 75
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 40
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 170
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 75
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size = 250
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 170
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 2750
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 250
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 2750
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 50
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 4800
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 4800
+    }
 }
 #Calvinia (23300/5825 POPS)
-2093 = {	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 45
-	}
+2093 = {
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 45
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 190
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 190
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 1525
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 1525
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 25
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 25
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 2900
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 2900
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 25
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 25
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 25
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 1875
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 1875
+    }
 }
-#De Aar (30600/7650 POPS) 
+#De Aar (30600/7650 POPS)
 2558 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 50
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 5700
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 5
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 30
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 5700
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 80
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 5
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 380
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 30
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size = 450
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 80
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 3250
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 380
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 3250
+    }
 }
 #Uncolonized in 1836
 #Kimberley (156000/39000 POPS)
 2094 = {
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 250
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 250
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 400
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 400
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 400
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 400
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1600
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1600
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 400
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 26200
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 26200
+    }
 }
 #Bechuanaland Region (20000) #see Botswana.txt for balance of region
 #Dikathong (20000/5000 POPS)
 2095 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 50
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 4650
-	}
-
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 4650
+    }
 }
 #Eastern Cape Region (232000)
 #Ruled by Britain 1836
 #Port Elizabeth (44000/11000 POPS)
 2096 = {
-	clergymen = {
-		culture = dutch
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 50
+    }
 
-	artisans = {
-		culture = dutch
-		religion = protestant
-		size = 300
-	}
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 300
+    }
 
-	soldiers = {
-		culture = dutch
-		religion = protestant
-		size= 40
-	}
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 0
+    }
 
-	farmers = {
-		culture = dutch
-		religion = protestant
-		size = 1650
-	}
-	
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 100
-	}
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 1650
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 280
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 2100
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 200
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size= 2700
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 280
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 10500
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 2100
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 80
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 0
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 70
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 10500
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 80
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 70
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 7800
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 30
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 30
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 7800
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size = 20
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 30
+    }
 
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 30
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 1990
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 20
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 1990
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 5800
-	}
-	
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 5800
+    }
+
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 }
 #Graaf Reinet (36000/9000 POPS)
-2097 = {	
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 20
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 75
-	}
+2097 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 145
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 150
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 675
-	}
-	
-	officers = {
-		culture = steenkooler
-		religion = catholic
-		size = 30
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 11025
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 145
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 25
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 675
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 25
-	}
+    officers = {
+        culture = steenkooler
+        religion = catholic
+        size = 30
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 11025
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 3800
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 25
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 10
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 25
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 15
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 3800
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 850
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 10
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 15
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 3850
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 850
+    }
+
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 3850
+    }
 }
 #uncolonized/ruled by the Xhosa 1836
 #Bisho (80000/20000 POPS)
 2098 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1100
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1100
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 1200
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 17400
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 17400
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 250
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 250
+    }
 }
 #Mathele (80000/20000 POPS)
 2099 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1100
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1100
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 1200
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 17400
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 17400
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 150
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 150
+    }
 }
 #Umtata (144000/36000 POPS)
 2100 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 400
-	}
-	
-	bureaucrats = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 400
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 400
-	}
+    bureaucrats = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1800
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 400
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 1400
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1800
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 32000
-	}
-
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 32000
+    }
 }
 #Transorangia Region (509000)
 #uncolonized in 1836/dominated by the Sotho in 1836
-#Boer POPs represent post-Great Trek migration 
+#Boer POPs represent post-Great Trek migration
 #Bloemfontein (194000/48500 POPS)
 2101 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 100
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 200
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 100
+    }
 
-	officers = {
-		culture = steenkooler
-		religion = catholic
-		size = 30
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 200
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 240
-	}
+    officers = {
+        culture = steenkooler
+        religion = catholic
+        size = 30
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size= 1200
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 240
+    }
 
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 2400
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 0
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 925
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 2400
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 475
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 925
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 2375
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 475
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 1475
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 2375
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 32500
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 32500
+    }
 }
 #Winburg (102000/25500 POPS)
 2102 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 80
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 150
-	}
-	
-	officers = {
-		culture = steenkooler
-		religion = catholic
-		size = 20
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 800
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 80
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size= 1000
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 50
+    }
 
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 150
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 350
-	}
+    officers = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 225
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 800
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1100
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 0
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 200
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 350
+    }
 
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 225
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 18225
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1100
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 75
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 18225
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 250
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 75
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 50
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 250
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 4575
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 4575
+    }
 }
 #Philippolis (85000/21250 POPS)
 2103 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 80
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 80
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 50
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 690
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 80
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 400
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 80
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 690
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1025
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 400
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 200
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1025
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 18675
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 18675
+    }
 }
-#Thaba Bosiu (256000/64000 POPS) #now Lesotho 
+#Thaba Bosiu (256000/64000 POPS) #now Lesotho
 2104 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 1250
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 1250
+    }
 
-	bureaucrats = {
-		culture = bakongo
-		religion = animist
-		size = 250
-	}
+    bureaucrats = {
+        culture = bakongo
+        religion = animist
+        size = 250
+    }
 
-	officers = {
-		culture = bakongo
-		religion = animist
-		size = 250
-	}
+    officers = {
+        culture = bakongo
+        religion = animist
+        size = 250
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 650
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 650
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 3200
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 3200
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 1100
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 57600
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 57600
+    }
 }
 #Transvaal Region (349000)
 #uncolonized in 1836/dominated by the Sotho in 1836
-#Boer POPs represent post-Great Trek migration 
+#Boer POPs represent post-Great Trek migration
 #Pretoria (137600/34400 POPS)
 2105 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 200
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 200
+    }
 
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 170
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 170
+    }
 
-	officers = {
-		culture = steenkooler
-		religion = catholic
-		size = 20
-	}
+    officers = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 150
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 2400
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 150
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size= 1200
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 2400
+    }
 
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 0
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 650
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 650
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 350
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 350
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1350
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1350
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 350
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 21300
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 21300
+    }
 }
 #Johannesburg (102400/25600 POPS)
 2106 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 100
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 100
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size= 400
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 100
+    }
 
-	}
-		
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 1200
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 0
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 425
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 1200
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 250
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 425
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1250
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 250
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 250
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1250
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 18775
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 18775
+    }
 }
 #uncolonized in 1836/dominated by the Ndebele
 #Klerksdorp (109000/27250 POPS)
 2107 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 20
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size= 525
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 50
+    }
 
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 650
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 100
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 225
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 0
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 125
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 650
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1600
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 225
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 125
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 125
+    }
 
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1600
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 14925
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 275
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 14925
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 275
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 600
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 8825
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 600
+    }
+
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 8825
+    }
 }
 #Limpopo Region (129000)
 #uncolonized in 1836/dominated by the Ndebele
-#Boer POPs represent post-Great Trek migration 
+#Boer POPs represent post-Great Trek migration
 #Mosega (48200/12050 POPS)
 2108 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 25
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 25
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 20
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 300
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 300
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 600
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size = 1250
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 600
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 7625
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 1250
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 125
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 7625
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 75
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 125
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 350
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 75
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 75
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 350
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 8375
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 8375
+    }
 }
 #uncolonized in 1836/dominated by the Zulu
 #Lydenburg (52600/13150 POPS)
 2109 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 20
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 25
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 500
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 225
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 125
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 500
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 650
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 225
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 150
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 125
+    }
 
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 650
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 11850
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 11850
+    }
 }
 #owned by the Matabele Nguni
 #Thohoyandu (28200/7050 POPS)
 2110 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 5
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 15
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 5
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 200
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 15
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 75
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 200
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 25
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 75
+    }
 
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 4700
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 75
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 4700
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 175
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 50
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 50
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 175
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 1750
+    }
 }
 #Natal Region (682000)
 #ruled/dominated by the Zulu in 1836
-#Boer POPs represent post-Great Trek migration 
+#Boer POPs represent post-Great Trek migration
 #Durban (126000/31500 POPS)
 2111 = {
-	aristocrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 10
-	}
-	
-	bureaucrats = {
-		culture = steenkooler
-		religion = catholic
-		size = 25
-	}
-	
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 50
-	}
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 10
+    }
 
-	artisans = {
-		culture = steenkooler
-		religion = catholic
-		size = 100
-	}
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
 
-	soldiers = {
-		culture = steenkooler
-		religion = catholic
-		size= 300
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 50
+    }
 
-	}
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 420
-	}
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 0
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 420
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 75
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 400
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 75
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 75
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 400
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 7275
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 7275
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 425
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 425
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 225
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 225
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1050
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1050
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 250
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 11050
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 11050
+    }
 }
 #Ladysmith (156000/39000 POPS)
 2112 = {
-	clergymen = {
-		culture = steenkooler
-		religion = catholic
-		size = 25
-	}
-	
-	farmers = {
-		culture = steenkooler
-		religion = catholic
-		size = 250
-	}
-	
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 750
-	}
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 400
-	}
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 250
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1950
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 750
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 3000
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 400
+    }
 
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1950
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 3000
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 1000
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 18900
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 18900
+    }
 }
 #Ulundi (320000/80000 POPS)
 2113 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 1550
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 1550
+    }
 
-	bureaucrats = {
-		culture = bakongo
-		religion = animist
-		size = 200
-	}
+    bureaucrats = {
+        culture = bakongo
+        religion = animist
+        size = 200
+    }
 
-	officers = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    officers = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 825
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 825
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 4000
-	}
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 4000
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 3000
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 3000
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 3000
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 1000
-
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 77450
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 77450
+    }
 }
 #Ruled by Suazi 1836
 #Mbabane (160000/40000 POPS)  #now Swaziland
 2114 = {
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 250
-	}
-	
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 150
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 250
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 700
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 150
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 700
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 12750
-	}
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 12750
+    }
 
-	aristocrats = {
-		culture = bakongo
-		religion = animist
-		size = 500
-	}
-	
-	bureaucrats = {
-		culture = bakongo
-		religion = animist
-		size = 100
-	}
+    aristocrats = {
+        culture = bakongo
+        religion = animist
+        size = 500
+    }
 
-	clergymen = {
-		culture = bakongo
-		religion = animist
-		size = 250
-	}
+    bureaucrats = {
+        culture = bakongo
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1300
-	}
+    clergymen = {
+        culture = bakongo
+        religion = animist
+        size = 250
+    }
 
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size= 1000
+    artisans = {
+        culture = bakongo
+        religion = animist
+        size = 1300
+    }
 
-	}
+    soldiers = {
+        culture = bakongo
+        religion = animist
+        size = 0
+    }
 
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 22950
-	}
-
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 22950
+    }
 }

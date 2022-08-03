@@ -5,7 +5,7 @@
     bureaucrats = {
         culture = russian
         religion = orthodox
-        size = 60
+        size = 120
     }
 
     clergymen = {
@@ -227,7 +227,7 @@
     bureaucrats = {
         culture = russian
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     clergymen = {

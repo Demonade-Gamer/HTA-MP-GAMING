@@ -497,7 +497,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 1300
+        size = 2600
     }
 
     officers = {
@@ -975,7 +975,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 375
+        size = 750
     }
 
     officers = {
@@ -1381,7 +1381,7 @@
     bureaucrats = {
         culture = ukrainian
         religion = orthodox
-        size = 750
+        size = 1500
     }
 
     officers = {
@@ -1435,7 +1435,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 450
+        size = 900
     }
 
     officers = {
@@ -1489,7 +1489,7 @@
     bureaucrats = {
         culture = russian
         religion = orthodox
-        size = 750
+        size = 1500
     }
 
     officers = {
@@ -2019,7 +2019,7 @@
     bureaucrats = {
         culture = tatar
         religion = sunni
-        size = 450
+        size = 900
     }
 
     officers = {
@@ -2085,7 +2085,7 @@
     bureaucrats = {
         culture = russian
         religion = orthodox
-        size = 525
+        size = 1050
     }
 
     officers = {
@@ -2593,7 +2593,7 @@
     bureaucrats = {
         culture = ukrainian
         religion = orthodox
-        size = 225
+        size = 450
     }
 
     officers = {
@@ -2695,7 +2695,7 @@
     bureaucrats = {
         culture = russian
         religion = orthodox
-        size = 450
+        size = 900
     }
 
     officers = {
@@ -3301,7 +3301,7 @@
     bureaucrats = {
         culture = ukrainian
         religion = orthodox
-        size = 150
+        size = 300
     }
 
     officers = {
@@ -3367,7 +3367,7 @@
     bureaucrats = {
         culture = russian
         religion = orthodox
-        size = 75
+        size = 150
     }
 
     officers = {
@@ -3625,7 +3625,7 @@
     bureaucrats = {
         culture = tatar
         religion = sunni
-        size = 450
+        size = 900
     }
 
     officers = {

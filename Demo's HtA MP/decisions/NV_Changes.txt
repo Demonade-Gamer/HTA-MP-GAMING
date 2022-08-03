@@ -11,6 +11,7 @@ political_decisions = {
 			NOT = {	has_country_modifier = national_confusion }
 			war = no
 			NOT = { num_of_revolts = 1 }
+			civilized = yes
 		}
 		
 		effect = { set_country_flag = nv_change }

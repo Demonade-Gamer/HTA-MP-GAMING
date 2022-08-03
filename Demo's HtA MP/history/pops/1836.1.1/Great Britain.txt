@@ -80,7 +80,7 @@
     bureaucrats = {
         culture = scots
         religion = protestant
-        size = 1100
+        size = 2200
     }
 
     artisans = {
@@ -131,7 +131,7 @@
     bureaucrats = {
         culture = scots
         religion = protestant
-        size = 2100
+        size = 4200
     }
 
     clerks = {
@@ -362,7 +362,7 @@
     bureaucrats = {
         culture = cymry
         religion = protestant
-        size = 1025
+        size = 2050
     }
 
     officers = {
@@ -527,7 +527,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 1550
+        size = 3100
     }
 
     clergymen = {
@@ -840,7 +840,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 2150
+        size = 4300
     }
 
     officers = {
@@ -897,7 +897,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 2525
+        size = 5050
     }
 
     capitalists = {
@@ -1068,7 +1068,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 750
+        size = 1500
     }
 
     clergymen = {
@@ -1183,7 +1183,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 1750
+        size = 3500
     }
 
     clergymen = {
@@ -1292,7 +1292,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 1075
+        size = 2150
     }
 
     clergymen = {
@@ -1369,7 +1369,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 1550
+        size = 3100
     }
 
     clergymen = {
@@ -1582,7 +1582,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 4000
+        size = 8000
     }
 
     clergymen = {
@@ -1745,7 +1745,7 @@
     bureaucrats = {
         culture = aenglisc
         religion = catholic
-        size = 750
+        size = 1500
     }
 
     clergymen = {
@@ -1784,7 +1784,7 @@
     bureaucrats = {
         culture = scots
         religion = protestant
-        size = 25
+        size = 50
     }
 
     clergymen = {

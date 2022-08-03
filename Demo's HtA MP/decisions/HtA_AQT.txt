@@ -36,6 +36,7 @@ political_decisions = {
 			CAT = {
 				all_core = { add_core = AQT } }
 			add_accepted_culture = catalan
+			add_accepted_culture = basque
 		}
 		
 		ai_will_do = {

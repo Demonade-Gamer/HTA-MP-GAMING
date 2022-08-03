@@ -163,7 +163,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 1350
+        size = 2700
     }
 
     officers = {
@@ -415,7 +415,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 225
+        size = 450
     }
 
     officers = {
@@ -469,7 +469,7 @@
     bureaucrats = {
         culture = russian
         religion = orthodox
-        size = 450
+        size = 900
     }
 
     officers = {
@@ -989,7 +989,7 @@
     bureaucrats = {
         culture = byelorussian
         religion = orthodox
-        size = 450
+        size = 900
     }
 
     officers = {
@@ -1031,7 +1031,7 @@
     bureaucrats = {
         culture = russian
         religion = orthodox
-        size = 600
+        size = 1200
     }
 
     officers = {

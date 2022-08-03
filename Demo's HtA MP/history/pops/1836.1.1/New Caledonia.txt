@@ -1,58 +1,58 @@
 #Southern Melanesia (24000) #see Vanuatu.txt for balance of region
 #uncolonized in 1836
-#New Caledonia (24000/6000 POPS) 
+#New Caledonia (24000/6000 POPS)
 1097 = {
-	aristocrats = {
-		culture = melanesian
-		religion = animist
-		size = 60
-	}
+    aristocrats = {
+        culture = melanesian
+        religion = animist
+        size = 60
+    }
 
-	artisans = {
-		culture = melanesian
-		religion = animist
-		size = 300
-	}
+    artisans = {
+        culture = melanesian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = melanesian
-		religion = animist
-		size = 75
-	}
+    soldiers = {
+        culture = melanesian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = melanesian
-		religion = animist
-		size = 4475
-	}
-	
-	aristocrats = {
-		culture = flemish
-		religion = catholic
-		size = 10
-	}
-	
-	bureaucrats = {
-		culture = flemish
-		religion = catholic
-		size = 10
-	}
+    farmers = {
+        culture = melanesian
+        religion = animist
+        size = 4475
+    }
 
-	clergymen = {
-		culture = flemish
-		religion = catholic
-		size = 20
-	}
+    aristocrats = {
+        culture = flemish
+        religion = catholic
+        size = 10
+    }
 
-	soldiers = {
-		culture = flemish
-		religion = catholic
-		size = 50
-	}
+    bureaucrats = {
+        culture = flemish
+        religion = catholic
+        size = 20
+    }
 
-	farmers = {
-		culture = flemish
-		religion = catholic
-		size = 450
-	}
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 450
+    }
 }

@@ -65,7 +65,7 @@
     soldiers = {
         culture = north_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -121,7 +121,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 275
+        size = 550
     }
 
     clergymen = {
@@ -179,7 +179,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 100
+        size = 200
     }
 
     officers = {
@@ -272,7 +272,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 50
+        size = 100
     }
 
     officers = {
@@ -389,13 +389,13 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 50
+        size = 100
     }
 
     bureaucrats = {
         culture = danish
         religion = protestant
-        size = 1000
+        size = 2000
     }
 
     officers = {
@@ -476,7 +476,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 275
+        size = 550
     }
 
     officers = {
@@ -566,7 +566,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 500
+        size = 1000
     }
 
     officers = {
@@ -905,7 +905,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 200
+        size = 400
     }
 
     officers = {
@@ -981,7 +981,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 76
+        size = 152
     }
 
     officers = {
@@ -1035,7 +1035,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 16
+        size = 32
     }
 
     officers = {
@@ -1089,7 +1089,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 13
+        size = 26
     }
 
     officers = {
@@ -1146,7 +1146,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 90
+        size = 180
     }
 
     officers = {
@@ -1206,7 +1206,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 19
+        size = 38
     }
 
     officers = {
@@ -1266,7 +1266,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 16
+        size = 32
     }
 
     officers = {
@@ -1493,7 +1493,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 54
+        size = 108
     }
 
     officers = {
@@ -1553,7 +1553,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 130
+        size = 260
     }
 
     clergymen = {
@@ -1583,7 +1583,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 11
+        size = 22
     }
 
     officers = {
@@ -1649,7 +1649,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 10
+        size = 20
     }
 
     officers = {
@@ -1747,7 +1747,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 250
+        size = 500
     }
 
     clergymen = {
@@ -2015,7 +2015,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 2700
+        size = 5400
     }
 
     officers = {
@@ -2301,7 +2301,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 1400
+        size = 2800
     }
 
     officers = {
@@ -2550,7 +2550,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 70
+        size = 140
     }
 
     officers = {
@@ -2620,7 +2620,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 700
+        size = 1400
     }
 
     officers = {
@@ -2838,7 +2838,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 150
+        size = 300
     }
 
     officers = {
@@ -2895,7 +2895,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 125
+        size = 250
     }
 
     officers = {
@@ -2940,7 +2940,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 90
+        size = 180
     }
 
     officers = {
@@ -2986,7 +2986,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 200
+        size = 400
     }
 
     officers = {
@@ -3073,7 +3073,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 175
+        size = 350
     }
 
     officers = {
@@ -3154,7 +3154,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 325
+        size = 650
     }
 
     officers = {
@@ -3329,7 +3329,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 400
+        size = 800
     }
 
     officers = {
@@ -3606,7 +3606,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 1700
+        size = 3400
     }
 
     officers = {
@@ -3824,7 +3824,7 @@
     bureaucrats = {
         culture = north_german
         religion = catholic
-        size = 2100
+        size = 4200
     }
 
     capitalists = {
@@ -4204,7 +4204,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 700
+        size = 1400
     }
 
     officers = {
@@ -4246,7 +4246,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 325
+        size = 650
     }
 
     clergymen = {
@@ -4545,7 +4545,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 120
+        size = 240
     }
 
     officers = {
@@ -4603,7 +4603,7 @@
     bureaucrats = {
         culture = central_german
         religion = catholic
-        size = 700
+        size = 1400
     }
 
     officers = {
@@ -4797,7 +4797,7 @@
     bureaucrats = {
         culture = central_german
         religion = protestant
-        size = 850
+        size = 1700
     }
 
     officers = {
@@ -4979,7 +4979,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5012,13 +5012,13 @@
     soldiers = {
         culture = central_german
         religion = protestant
-        size =1000
+        size = 0
     }
 
     soldiers = {
         culture = central_german
         religion = protestant
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5048,7 +5048,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5069,7 +5069,7 @@
     bureaucrats = {
         culture = central_german
         religion = catholic
-        size = 20
+        size = 40
     }
 
     officers = {
@@ -5093,7 +5093,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5115,7 +5115,7 @@
     bureaucrats = {
         culture = central_german
         religion = catholic
-        size = 1050
+        size = 2100
     }
 
     officers = {
@@ -5139,7 +5139,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5169,7 +5169,7 @@
     soldiers = {
         culture = central_german
         religion = protestant
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5213,7 +5213,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5245,7 +5245,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5277,7 +5277,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5301,7 +5301,7 @@
     soldiers = {
         culture = central_german
         religion = protestant
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5323,7 +5323,7 @@
     bureaucrats = {
         culture = central_german
         religion = catholic
-        size = 800
+        size = 1600
     }
 
     officers = {
@@ -5365,7 +5365,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5389,7 +5389,7 @@
     soldiers = {
         culture = central_german
         religion = protestant
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5439,7 +5439,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5471,7 +5471,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5503,7 +5503,7 @@
     soldiers = {
         culture = central_german
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5543,7 +5543,7 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5567,7 +5567,7 @@
     soldiers = {
         culture = silesian
         religion = catholic
-        size =1000
+        size = 0
     }
 
     farmers = {
@@ -5619,7 +5619,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 1000
+        size = 2000
     }
 
     officers = {
@@ -5655,7 +5655,7 @@
     bureaucrats = {
         culture = prussian
         religion = catholic
-        size = 300
+        size = 600
     }
 
     clergymen = {
@@ -5733,7 +5733,7 @@
     soldiers = {
         culture = lithuanian
         religion = protestant
-        size =1000
+        size = 0
     }
 
     farmers = {
