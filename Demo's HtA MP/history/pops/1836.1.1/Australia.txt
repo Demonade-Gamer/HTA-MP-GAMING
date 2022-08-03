@@ -19,13 +19,6 @@
         religion = catholic
         size = 22500
     }
-
-    soldiers = {
-        culture = largano
-        religion = catholic
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = catholic
@@ -41,7 +34,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -64,12 +57,6 @@
         size = 1250
     }
 
-    soldiers = {
-        culture = largano
-        religion = catholic
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = catholic
@@ -85,7 +72,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -111,7 +98,7 @@
     soldiers = {
         culture = largano
         religion = catholic
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -135,7 +122,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -158,12 +145,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -179,7 +160,7 @@
     soldiers = {
         culture = largano
         religion = catholic
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -200,12 +181,6 @@
         culture = largano
         religion = catholic
         size = 250
-    }
-
-    soldiers = {
-        culture = largano
-        religion = catholic
-        size = 0
     }
 
     farmers = {
@@ -229,7 +204,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -255,7 +230,7 @@
     soldiers = {
         culture = largano
         religion = catholic
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -274,12 +249,6 @@
         culture = largano
         religion = animist
         size = 750
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -305,7 +274,7 @@
     soldiers = {
         culture = largano
         religion = catholic
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -326,12 +295,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -350,12 +313,6 @@
         culture = largano
         religion = animist
         size = 375
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -389,7 +346,7 @@
     soldiers = {
         culture = largano
         religion = catholic
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -408,12 +365,6 @@
         culture = largano
         religion = animist
         size = 375
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -436,12 +387,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -460,12 +405,6 @@
         culture = largano
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -488,12 +427,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -514,12 +447,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -538,12 +465,6 @@
         culture = largano
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -568,12 +489,6 @@
         size = 500
     }
 
-    soldiers = {
-        culture = largano
-        religion = catholic
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = catholic
@@ -594,12 +509,6 @@
         culture = largano
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -623,7 +532,7 @@
     soldiers = {
         culture = largano
         religion = catholic
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -646,12 +555,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -672,12 +575,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -696,12 +593,6 @@
         culture = largano
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -725,12 +616,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -750,12 +635,6 @@
         culture = largano
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -779,11 +658,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
 
     farmers = {
         culture = largano
@@ -803,12 +677,6 @@
         culture = largano
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -832,12 +700,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -859,12 +721,6 @@
         size = 225
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -881,12 +737,6 @@
         culture = largano
         religion = animist
         size = 375
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -909,12 +759,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -933,12 +777,6 @@
         culture = largano
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -961,12 +799,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -985,12 +817,6 @@
         culture = largano
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -1013,12 +839,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -1033,12 +853,6 @@
         culture = largano
         religion = catholic
         size = 75
-    }
-
-    soldiers = {
-        culture = largano
-        religion = catholic
-        size = 0
     }
 
     farmers = {
@@ -1057,12 +871,6 @@
         culture = largano
         religion = animist
         size = 625
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -1085,12 +893,6 @@
         size = 375
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -1109,12 +911,6 @@
         culture = largano
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -1137,12 +933,6 @@
         size = 125
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -1161,12 +951,6 @@
         culture = largano
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -1189,12 +973,6 @@
         size = 50
     }
 
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = largano
         religion = animist
@@ -1213,12 +991,6 @@
         culture = largano
         religion = animist
         size = 75
-    }
-
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -1244,7 +1016,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -1270,7 +1042,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -1296,7 +1068,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -1322,7 +1094,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -1350,7 +1122,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -1376,7 +1148,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -1402,7 +1174,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
@@ -1428,7 +1200,7 @@
     soldiers = {
         culture = largano
         religion = animist
-        size = 0
+        size = 1000
     }
 
     farmers = {
