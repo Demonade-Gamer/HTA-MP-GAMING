@@ -11,8 +11,7 @@ everyday_needs = {
 	liquor = 3
 	regular_clothes = 1.2
 	furniture = 1.1
-	fertilizer = 0.75 #0
-	cattle = 2.5
+	fertilizer = 0.5 #0
 }
 
 life_needs = {
