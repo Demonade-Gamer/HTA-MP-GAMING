@@ -28,7 +28,7 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -52,7 +52,7 @@
     soldiers = {
         culture = afro_caribbean
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -102,7 +102,7 @@
     soldiers = {
         culture = afro_caribbean
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -152,7 +152,7 @@
     soldiers = {
         culture = afro_caribbean
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -184,7 +184,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -208,7 +208,7 @@
     soldiers = {
         culture = afro_caribbean
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {

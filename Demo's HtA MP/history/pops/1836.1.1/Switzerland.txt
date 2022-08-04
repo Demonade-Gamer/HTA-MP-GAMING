@@ -40,7 +40,7 @@
     soldiers = {
         culture = south_german
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -76,7 +76,7 @@
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -114,7 +114,7 @@
     soldiers = {
         culture = south_german
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -144,7 +144,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -206,7 +206,7 @@
     soldiers = {
         culture = south_german
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -250,7 +250,7 @@
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -319,7 +319,7 @@
     soldiers = {
         culture = aquitanian
         religion = protestant
-        size = 0
+        size = 500
     }
 
     aristocrats = {
@@ -361,7 +361,7 @@
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -411,7 +411,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -474,7 +474,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -512,7 +512,7 @@
     soldiers = {
         culture = romansh
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -542,13 +542,13 @@
     soldiers = {
         culture = south_german
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
         culture = south_german
         religion = protestant
-        size = 0
+        size = 500
     }
 
     artisans = {
@@ -560,7 +560,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {

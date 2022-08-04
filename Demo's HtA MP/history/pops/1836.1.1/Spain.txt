@@ -270,7 +270,7 @@
     soldiers = {
         culture = spanish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -1461,7 +1461,7 @@
     soldiers = {
         culture = spanish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {

@@ -76,7 +76,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -142,7 +142,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     labourers = {
@@ -180,7 +180,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -218,7 +218,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -242,7 +242,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 }
 #Antwerp (354000/88500 POPS)
@@ -286,7 +286,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -336,7 +336,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -399,13 +399,13 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     labourers = {
@@ -429,7 +429,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     labourers = {
@@ -467,7 +467,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -509,7 +509,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -583,7 +583,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -633,7 +633,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -671,7 +671,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -695,7 +695,7 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -728,7 +728,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {

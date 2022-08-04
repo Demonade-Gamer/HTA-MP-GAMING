@@ -29,7 +29,7 @@
     soldiers = {
         culture = dutch
         religion = catholic
-        size = 0
+        size = 500
     }
 
     aristocrats = {
@@ -71,13 +71,13 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -113,7 +113,7 @@
     soldiers = {
         culture = malay
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -145,7 +145,7 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -169,7 +169,7 @@
     soldiers = {
         culture = asian_minor
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -201,7 +201,7 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -225,7 +225,7 @@
     soldiers = {
         culture = malay
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -257,7 +257,7 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -281,7 +281,7 @@
     soldiers = {
         culture = filipino
         religion = sunni
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -315,7 +315,7 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -345,7 +345,7 @@
     soldiers = {
         culture = filipino
         religion = sunni
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -369,7 +369,7 @@
     soldiers = {
         culture = asian_minor
         religion = animist
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -401,7 +401,7 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -425,7 +425,7 @@
     soldiers = {
         culture = filipino
         religion = sunni
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -457,7 +457,7 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -483,7 +483,7 @@
     soldiers = {
         culture = dutch
         religion = catholic
-        size = 0
+        size = 500
     }
 
     aristocrats = {
@@ -513,7 +513,7 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -537,7 +537,7 @@
     soldiers = {
         culture = filipino
         religion = sunni
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -565,7 +565,7 @@
     soldiers = {
         culture = dutch
         religion = catholic
-        size = 0
+        size = 500
     }
 
     aristocrats = {
@@ -589,7 +589,7 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -619,7 +619,7 @@
     soldiers = {
         culture = filipino
         religion = sunni
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -655,7 +655,7 @@
     soldiers = {
         culture = asian_minor
         religion = animist
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -688,7 +688,7 @@
     soldiers = {
         culture = filipino
         religion = sunni
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -742,7 +742,7 @@
     soldiers = {
         culture = asian_minor
         religion = animist
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -786,7 +786,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 0
+        size = 500
     }
 
     farmers = {

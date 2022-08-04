@@ -265,7 +265,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -399,7 +399,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -423,7 +423,7 @@
     soldiers = {
         culture = hungarian
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -447,7 +447,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -471,7 +471,7 @@
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -497,7 +497,7 @@
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -545,7 +545,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -569,7 +569,7 @@
     soldiers = {
         culture = silesian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -609,7 +609,7 @@
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -651,7 +651,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -675,7 +675,7 @@
     soldiers = {
         culture = hungarian
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -699,7 +699,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -735,7 +735,7 @@
     soldiers = {
         culture = czech
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -765,7 +765,7 @@
     soldiers = {
         culture = ruthenian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -789,7 +789,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -815,7 +815,7 @@
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -845,7 +845,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -869,7 +869,7 @@
     soldiers = {
         culture = hungarian
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -893,7 +893,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 0
+        size = 500
     }
 
     farmers = {
