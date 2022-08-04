@@ -135,7 +135,6 @@ base_values = {
 war = {
 	max_war_exhaustion = 100			#base max at war.
 	#supply_consumption = -0.5
-	#war_exhaustion = 0.1
 	badboy = -0.15
 }
 
@@ -208,7 +207,7 @@ average_literacy = {
 }
 
 plurality = { 
-	research_points_modifier = 0.02
+	research_points_modifier = 2
 }
 
 generalised_debt_default = {

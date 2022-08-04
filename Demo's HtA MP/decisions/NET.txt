@@ -57,45 +57,13 @@ political_decisions = {
 		allow = {
 			state_n_government = 1
 			war = no
-			BRB = {
-				OR = {
-				vassal_of = THIS
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-						}
-					}
-				}
-			}
-			}
+			owns = 387
 	
 		}
 
 		effect = {
 			set_country_flag = form_greater_netherlands
-			prestige = 20
-			BRB = { all_core = { add_core = NET } }
-			inherit = BRB			
-			any_pop = {
-				dominant_issue = {
-					factor = 0.15
-					value = jingoism
-				}
-				consciousness = 1
-			}
-			any_country = {
-				limit = {
-					NOT = { tag = THIS }
-					any_owned_province = { is_core = NET }
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-			}			
+			prestige = 20			
 		}
 	}
 
@@ -148,7 +116,6 @@ political_decisions = {
 		allow = {
 			state_n_government = 1
 			owns = 387
-			NOT = { exists = BRB }
 		}
 		
 		effect = {

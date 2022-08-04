@@ -1,7 +1,7 @@
 owner = HIS
 controller = HIS
 add_core = HND
-trade_goods = fruit
+trade_goods = precious_metal
 life_rating = 32
 naval_base = 1
 colonial = 2
