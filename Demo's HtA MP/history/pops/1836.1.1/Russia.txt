@@ -35,13 +35,13 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -85,7 +85,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -129,7 +129,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -153,7 +153,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -177,7 +177,7 @@
     soldiers = {
         culture = byelorussian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -221,13 +221,13 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -267,7 +267,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -309,7 +309,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -341,7 +341,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -373,7 +373,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -385,7 +385,7 @@
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -403,7 +403,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -423,7 +423,7 @@
     clergymen = {
         culture = ukrainian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -435,7 +435,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -465,7 +465,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -499,7 +499,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -541,7 +541,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -571,7 +571,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -621,7 +621,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -651,7 +651,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -677,13 +677,13 @@
     artisans = {
         culture = ukrainian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -713,7 +713,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -743,7 +743,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -775,7 +775,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -805,7 +805,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -835,7 +835,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -859,7 +859,7 @@
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -929,7 +929,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -995,7 +995,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1061,7 +1061,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1125,7 +1125,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1243,7 +1243,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1367,7 +1367,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1401,7 +1401,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1425,7 +1425,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1455,7 +1455,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1485,7 +1485,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1509,7 +1509,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1535,7 +1535,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1559,7 +1559,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1583,7 +1583,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1607,7 +1607,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1631,7 +1631,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1655,7 +1655,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1693,7 +1693,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1705,7 +1705,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1717,7 +1717,7 @@
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1743,7 +1743,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1767,7 +1767,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1791,7 +1791,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1815,7 +1815,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1839,7 +1839,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1909,7 +1909,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1921,7 +1921,7 @@
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1971,7 +1971,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1983,7 +1983,7 @@
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2021,7 +2021,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2033,7 +2033,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2045,7 +2045,7 @@
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2083,7 +2083,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2095,7 +2095,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2107,7 +2107,7 @@
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2145,7 +2145,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2157,7 +2157,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2169,7 +2169,7 @@
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2415,7 +2415,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2439,7 +2439,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2463,7 +2463,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2487,7 +2487,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2511,7 +2511,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2535,7 +2535,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2731,7 +2731,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2743,13 +2743,13 @@
     soldiers = {
         culture = ugrian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     artisans = {
         culture = ugrian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -2773,7 +2773,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2965,7 +2965,7 @@
     soldiers = {
         culture = estonian
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     clergymen = {
@@ -2995,7 +2995,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3027,7 +3027,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3051,7 +3051,7 @@
     soldiers = {
         culture = ugrian
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3075,7 +3075,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3107,7 +3107,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3155,7 +3155,7 @@
     farmers = {
         culture = estonian
         religion = protestant
-        size = 5000
+        size = 5500
     }
 
     clergymen = {
@@ -3173,7 +3173,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3223,13 +3223,13 @@
     artisans = {
         culture = ugrian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = ugrian
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3247,7 +3247,7 @@
     artisans = {
         culture = estonian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -3271,7 +3271,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3995,7 +3995,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -4037,7 +4037,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -4069,7 +4069,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -4093,7 +4093,7 @@
     soldiers = {
         culture = ugrian
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -4117,7 +4117,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -4295,7 +4295,7 @@
     artisans = {
         culture = estonian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -4815,7 +4815,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -4853,7 +4853,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -4897,7 +4897,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -5181,7 +5181,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -5199,7 +5199,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -5619,7 +5619,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -6289,7 +6289,7 @@
     aristocrats = {
         culture = tatar
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -7023,7 +7023,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7053,7 +7053,7 @@
     soldiers = {
         culture = tatar
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7085,7 +7085,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7119,7 +7119,7 @@
     officers = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -7155,13 +7155,13 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
         culture = tatar
         religion = sunni
-        size = 5000
+        size = 5500
     }
 
     farmers = {
@@ -7193,7 +7193,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7211,13 +7211,13 @@
     artisans = {
         culture = tatar
         religion = orthodox
-        size = 5000
+        size = 5500
     }
 
     soldiers = {
         culture = tatar
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7249,7 +7249,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7267,13 +7267,13 @@
     artisans = {
         culture = tatar
         religion = orthodox
-        size = 5000
+        size = 5500
     }
 
     soldiers = {
         culture = tatar
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7287,7 +7287,7 @@
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -7305,7 +7305,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7323,7 +7323,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7341,7 +7341,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7373,7 +7373,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     aristocrats = {
@@ -7391,7 +7391,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7417,7 +7417,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7447,7 +7447,7 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7477,7 +7477,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7523,13 +7523,13 @@
     artisans = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7565,7 +7565,7 @@
     soldiers = {
         culture = tatar
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7595,7 +7595,7 @@
     soldiers = {
         culture = tatar
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 }
 #Busuluk (164000/41000 POPS)
@@ -7621,7 +7621,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7659,7 +7659,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7705,7 +7705,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7758,7 +7758,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
         militancy = 9
     }
 
@@ -7811,7 +7811,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7823,7 +7823,7 @@
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     bureaucrats = {
@@ -7847,7 +7847,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7893,7 +7893,7 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
         militancy = 9
     }
 
@@ -7972,13 +7972,13 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
         militancy = 9
     }
 
@@ -8045,7 +8045,7 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8093,7 +8093,7 @@
     soldiers = {
         culture = azerbaijani
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8125,7 +8125,7 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8173,7 +8173,7 @@
     soldiers = {
         culture = azerbaijani
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8207,7 +8207,7 @@
     soldiers = {
         culture = azerbaijani
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     aristocrats = {
@@ -8231,7 +8231,7 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8263,7 +8263,7 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8301,7 +8301,7 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8357,7 +8357,7 @@
     soldiers = {
         culture = north_caucasian
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8409,7 +8409,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8457,7 +8457,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8505,7 +8505,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8543,7 +8543,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8581,7 +8581,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8619,7 +8619,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8643,7 +8643,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8669,7 +8669,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8687,7 +8687,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8715,7 +8715,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8745,7 +8745,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8777,7 +8777,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8813,7 +8813,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8843,7 +8843,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8879,7 +8879,7 @@
     soldiers = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8915,7 +8915,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8947,7 +8947,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -8959,7 +8959,7 @@
     aristocrats = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     clergymen = {
@@ -8977,7 +8977,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9009,7 +9009,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9053,7 +9053,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9083,7 +9083,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9115,7 +9115,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9145,7 +9145,7 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     artisans = {
@@ -9181,7 +9181,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9193,13 +9193,13 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9243,13 +9243,13 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9261,7 +9261,7 @@
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9273,13 +9273,13 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9311,7 +9311,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9361,7 +9361,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9395,7 +9395,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9407,25 +9407,25 @@
     aristocrats = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9457,7 +9457,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9469,25 +9469,25 @@
     aristocrats = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9519,7 +9519,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9549,13 +9549,13 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9567,13 +9567,13 @@
     aristocrats = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     artisans = {
@@ -9585,7 +9585,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9597,13 +9597,13 @@
     clergymen = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9635,7 +9635,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9647,25 +9647,25 @@
     aristocrats = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9697,7 +9697,7 @@
     soldiers = {
         culture = russian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9709,25 +9709,25 @@
     aristocrats = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     clergymen = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     artisans = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9759,7 +9759,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9809,7 +9809,7 @@
     soldiers = {
         culture = ugrian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9825,7 +9825,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9849,7 +9849,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9881,7 +9881,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9913,7 +9913,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9937,7 +9937,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9957,7 +9957,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -9987,7 +9987,7 @@
     soldiers = {
         culture = tatar
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10013,7 +10013,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10043,7 +10043,7 @@
     soldiers = {
         culture = tatar
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10083,7 +10083,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10179,7 +10179,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10211,7 +10211,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10277,7 +10277,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10309,7 +10309,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10359,7 +10359,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10391,7 +10391,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10423,7 +10423,7 @@
     soldiers = {
         culture = burmese
         religion = theravada
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10435,13 +10435,13 @@
     aristocrats = {
         culture = burmese #Chin
         religion = animist
-        size = 500
+        size = 550
     }
 
     clergymen = {
         culture = burmese
         religion = animist
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -10453,7 +10453,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     aristocrats = {
@@ -10477,7 +10477,7 @@
     soldiers = {
         culture = burmese
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10503,7 +10503,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10533,7 +10533,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10565,7 +10565,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10595,7 +10595,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10627,7 +10627,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10659,7 +10659,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10693,7 +10693,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10725,7 +10725,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10775,7 +10775,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10807,7 +10807,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10839,7 +10839,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10871,7 +10871,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10903,7 +10903,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10948,7 +10948,7 @@
     soldiers = {
         culture = moluccan
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -10972,7 +10972,7 @@
     soldiers = {
         culture = moluccan
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11002,7 +11002,7 @@
     soldiers = {
         culture = moluccan
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11034,7 +11034,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11066,7 +11066,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11098,7 +11098,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11130,7 +11130,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11164,7 +11164,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11214,7 +11214,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11246,7 +11246,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11276,7 +11276,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11308,7 +11308,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11340,7 +11340,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11372,7 +11372,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11405,7 +11405,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11437,7 +11437,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11469,7 +11469,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11499,7 +11499,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11523,7 +11523,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11555,7 +11555,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11585,7 +11585,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11617,7 +11617,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11647,7 +11647,7 @@
     soldiers = {
         culture = yakut
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11681,7 +11681,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11719,7 +11719,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11769,7 +11769,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11801,7 +11801,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11829,7 +11829,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11859,7 +11859,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11891,7 +11891,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11923,7 +11923,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11955,7 +11955,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -11987,7 +11987,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12019,7 +12019,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12053,7 +12053,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12085,7 +12085,7 @@
     soldiers = {
         culture = inuit
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12117,7 +12117,7 @@
     soldiers = {
         culture = inuit
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12149,7 +12149,7 @@
     soldiers = {
         culture = inuit
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12181,7 +12181,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12213,7 +12213,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12229,13 +12229,13 @@
     clergymen = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = tatar
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12265,7 +12265,7 @@
     soldiers = {
         culture = tatar
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12295,7 +12295,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12327,7 +12327,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12359,7 +12359,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12391,7 +12391,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12423,7 +12423,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12469,7 +12469,7 @@
     soldiers = {
         culture = mongol
         religion = gelugpa
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12499,7 +12499,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12531,7 +12531,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12563,7 +12563,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12595,7 +12595,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12635,7 +12635,7 @@
     soldiers = {
         culture = mongol
         religion = gelugpa
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12667,7 +12667,7 @@
     soldiers = {
         culture = mongol
         religion = gelugpa
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12697,7 +12697,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12736,7 +12736,7 @@
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12760,7 +12760,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12790,7 +12790,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12816,13 +12816,13 @@
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12852,7 +12852,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12886,7 +12886,7 @@
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12916,7 +12916,7 @@
     soldiers = {
         culture = korean
         religion = mahayana
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12946,7 +12946,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -12978,7 +12978,7 @@
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13008,7 +13008,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13040,7 +13040,7 @@
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13070,7 +13070,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13108,7 +13108,7 @@
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13138,7 +13138,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13170,7 +13170,7 @@
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13200,7 +13200,7 @@
     soldiers = {
         culture = siberian
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13234,7 +13234,7 @@
     soldiers = {
         culture = ainu
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13278,7 +13278,7 @@
     soldiers = {
         culture = ainu
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13316,7 +13316,7 @@
     soldiers = {
         culture = ainu
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -13348,7 +13348,7 @@
     soldiers = {
         culture = ainu
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {

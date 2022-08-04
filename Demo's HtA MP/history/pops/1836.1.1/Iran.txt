@@ -11,7 +11,7 @@
 	bureaucrats = {
 		culture = azerbaijani
 		religion = shiite
-		size = 500
+		size = 550
 	}
 
 	officers = {
@@ -29,7 +29,7 @@
 	artisans = {
 		culture = azerbaijani
 		religion = shiite
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -120,7 +120,7 @@
     slaves = {
         culture = armenian
         religion = coptic
-        size = 5000
+        size = 5500
     }	
 }
 #Khvoy (168000/42000 POPS)
@@ -258,7 +258,7 @@
 	slaves = {
         culture = armenian
         religion = coptic
-        size = 5000
+        size = 5500
     }	
 }
 #Urumia (192000/48000 POPS) 17k azer 8k kurd 2k persian 16k assyr 4k armenian 1k jew
@@ -579,7 +579,7 @@
     slaves = {
         culture = tatar
         religion = orthodox
-        size = 5000
+        size = 5500
     }		
 }
 #Gilan-Maznadaran Region (448000)
@@ -719,7 +719,7 @@
 	aristocrats = {
 		culture = persian
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -793,7 +793,7 @@
     slaves = {
         culture = tatar
         religion = orthodox
-        size = 1000
+        size = 1100
     }		
 	
 }
@@ -1025,7 +1025,7 @@
 	slaves = {
 		culture = baluchi
 		religion = sunni
-		size = 1000
+		size = 1100
 	}	
 }
 #Khorramabad (64000/16000 POPS)
@@ -1105,13 +1105,13 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -1285,7 +1285,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 5000
+		size = 5500
 	}
 
 	soldiers = {
@@ -1383,7 +1383,7 @@
 	slaves = {
 		culture = sindi
 		religion = sunni
-		size = 1000
+		size = 1100
 	}	
 	
 }
@@ -1418,7 +1418,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -1610,7 +1610,7 @@
 	slaves = {
 		culture = baluchi
 		religion = sunni
-		size = 1000
+		size = 1100
 	}	
 	
 }
@@ -1707,7 +1707,7 @@
 	slaves = {
 		culture = shilluk
 		religion = animist
-		size = 1000
+		size = 1100
 	}	
 	
 }
@@ -1746,13 +1746,13 @@
 	slaves = {
 		culture = shilluk
 		religion = animist
-		size = 1000
+		size = 1100
 	}
 
 	slaves = {
 		culture = beja
 		religion = animist
-		size = 1000
+		size = 1100
 	}		
 	
 }
@@ -1906,7 +1906,7 @@
 	slaves = {
 		culture = nuba
 		religion = animist
-		size = 500
+		size = 550
 	}		
 	
 }
@@ -2004,7 +2004,7 @@
     slaves = {
         culture = persian
         religion = animist
-        size = 500
+        size = 550
     }
 
     slaves = {
@@ -2050,7 +2050,7 @@
     slaves = {
         culture = african_minor
         religion = sunni
-        size = 1000
+        size = 1100
     }	
 	
 }
@@ -2136,7 +2136,7 @@
     slaves = {
         culture = persian
         religion = animist
-        size = 1000
+        size = 1100
     }	
 }
 #Kangan (48000/12000 POPS)
@@ -2268,7 +2268,7 @@
     slaves = {
         culture = pashtun
         religion = shiite
-        size = 1000
+        size = 1100
     }	
 	
 }
@@ -2339,7 +2339,7 @@
     slaves = {
         culture = pashtun
         religion = shiite
-        size = 1000
+        size = 1100
     }
 
     slaves = {
@@ -2422,7 +2422,7 @@
     slaves = {
         culture = persian
         religion = shiite
-        size = 1000
+        size = 1100
     }
 
     slaves = {
@@ -2504,7 +2504,7 @@
     slaves = {
         culture = persian
         religion = shiite
-        size = 1000
+        size = 1100
     }
 
     slaves = {
@@ -2585,13 +2585,13 @@
     slaves = {
         culture = persian
         religion = shiite
-        size = 500
+        size = 550
     }
 
     slaves = {
         culture = persian
         religion = shiite
-        size = 1000
+        size = 1100
     }
 }
 
@@ -2668,7 +2668,7 @@
     slaves = {
         culture = persian
         religion = shiite
-        size = 1000
+        size = 1100
     }	
 	
 }
@@ -2908,7 +2908,7 @@
     slaves = {
         culture = pashtun
         religion = shiite
-        size = 500
+        size = 550
     }	
 	
 }
@@ -2943,7 +2943,7 @@
 	artisans = {
 		culture = persian
 		religion = sunni
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -3062,7 +3062,7 @@
     slaves = {
         culture = persian
         religion = shiite
-        size = 1000
+        size = 1100
     }
 
     slaves = {
@@ -3185,13 +3185,13 @@
     slaves = {
         culture = persian
         religion = shiite
-        size = 500
+        size = 550
     }
 
     slaves = {
         culture = russian
         religion = shiite
-        size = 1000
+        size = 1100
     }	
 
 }

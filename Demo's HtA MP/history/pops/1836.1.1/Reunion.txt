@@ -23,7 +23,7 @@
     artisans = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {

@@ -5,7 +5,7 @@
 	aristocrats = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -35,7 +35,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Sassandra (282000/47000 POPS)
@@ -55,7 +55,7 @@
 	artisans = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -109,7 +109,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 }
 #Grand Bassam (88000/22000 POPS)
@@ -283,7 +283,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Akoupe (92000/23000 POPS)

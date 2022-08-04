@@ -75,7 +75,7 @@
     craftsmen = {
         culture = bulgarian
         religion = orthodox
-        size = 10000
+        size = 11000
     }
 
     bureaucrats = {
@@ -185,7 +185,7 @@
     craftsmen = {
         culture = bulgarian
         religion = orthodox
-        size = 10000
+        size = 11000
     }
 
     clergymen = {
@@ -259,7 +259,7 @@
     craftsmen = {
         culture = bulgarian
         religion = orthodox
-        size = 10000
+        size = 11000
     }
 
     clergymen = {
@@ -445,7 +445,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 10000
+        size = 11000
     }
 
     farmers = {
@@ -515,7 +515,7 @@
     artisans = {
         culture = roman
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
@@ -605,7 +605,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 }
 #Stara Zagora (80000/20000 POPS)
@@ -667,7 +667,7 @@
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -835,7 +835,7 @@
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -847,7 +847,7 @@
     soldiers = {
         culture = tatar
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     farmers = {

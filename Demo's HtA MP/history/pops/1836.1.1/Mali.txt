@@ -237,7 +237,7 @@
 	artisans = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -612,7 +612,7 @@
 	artisans = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -647,7 +647,7 @@
 	clergymen = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	artisans = {
@@ -715,7 +715,7 @@
 	artisans = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -1216,7 +1216,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 }
 #Tessalit (16000/4000 POPS)
@@ -1294,7 +1294,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 }

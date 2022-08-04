@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = bakongo
 		religion = sunni
-		size= 500
+		size= 550
 
 	}
 
@@ -219,7 +219,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 }
 #Lindi (64000/16000 POPS)
@@ -232,7 +232,7 @@
 	aristocrats = {
 		culture = bakongo
 		religion = shiite
-		size = 500
+		size = 550
 	}
 	
 	bureaucrats = {

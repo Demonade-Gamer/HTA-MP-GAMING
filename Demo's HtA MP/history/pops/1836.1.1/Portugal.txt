@@ -10,7 +10,7 @@
     officers = {
         culture = portuguese
         religion = catholic
-        size = 500
+        size = 550
     }
 
     bureaucrats = {
@@ -28,7 +28,7 @@
     clergymen = {
         culture = galician
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -376,7 +376,7 @@
     aristocrats = {
         culture = portuguese
         religion = catholic
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -509,7 +509,7 @@
     artisans = {
         culture = norwegian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     soldiers = {

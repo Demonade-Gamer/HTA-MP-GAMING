@@ -220,7 +220,7 @@
 	soldiers = {
 		culture = armenian
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	farmers = {

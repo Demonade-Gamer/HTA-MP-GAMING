@@ -333,7 +333,7 @@
 	artisans = {
 		culture = azerbaijani
 		religion = shiite
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

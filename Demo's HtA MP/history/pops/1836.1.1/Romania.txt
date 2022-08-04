@@ -163,7 +163,7 @@
 	clergymen = {
 		culture = romanian
 		religion = orthodox
-		size = 500  
+		size = 550  
 	}
 
 	artisans = {
@@ -437,7 +437,7 @@
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 500   
+		size = 550   
 	}
 
 	artisans = {
@@ -566,7 +566,7 @@
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 1000  
+		size = 1100  
 	}
 
 	clergymen = {
@@ -618,7 +618,7 @@
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 500 
+		size = 550 
 	}
 
 	farmers = {
@@ -630,7 +630,7 @@
 	aristocrats = {
 		culture = hungarian
 		religion = catholic
-		size = 500   
+		size = 550   
 	}
 
 	bureaucrats = {
@@ -848,7 +848,7 @@
 	artisans = {
 		culture = hungarian
 		religion = protestant
-		size = 500     
+		size = 550     
 	}
 
 	soldiers = {
@@ -1476,7 +1476,7 @@
 	clergymen = {
 		culture = romanian
 		religion = orthodox
-		size = 500 
+		size = 550 
 	}
 
 	artisans = {
@@ -1918,7 +1918,7 @@
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {
@@ -2092,7 +2092,7 @@
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {
@@ -2137,7 +2137,7 @@
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {
@@ -2208,7 +2208,7 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 100000
+		size = 110000
 	}
 	
 	slaves = {
@@ -2337,7 +2337,7 @@
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {

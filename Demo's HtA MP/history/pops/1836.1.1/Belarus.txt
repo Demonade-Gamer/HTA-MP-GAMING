@@ -145,7 +145,7 @@
     soldiers = {
         culture = byelorussian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -291,7 +291,7 @@
     soldiers = {
         culture = byelorussian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -463,7 +463,7 @@
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     bureaucrats = {
@@ -913,7 +913,7 @@
     artisans = {
         culture = russian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -983,7 +983,7 @@
     aristocrats = {
         culture = byelorussian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     bureaucrats = {
@@ -1001,7 +1001,7 @@
     clergymen = {
         culture = byelorussian
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -1423,7 +1423,7 @@
     soldiers = {
         culture = byelorussian
         religion = orthodox
-        size = 1000
+        size = 1100
     }
 
     farmers = {

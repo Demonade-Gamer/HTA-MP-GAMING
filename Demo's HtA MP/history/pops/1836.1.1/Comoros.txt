@@ -133,7 +133,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 }

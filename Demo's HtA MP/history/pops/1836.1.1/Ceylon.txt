@@ -82,7 +82,7 @@
     artisans = {
         culture = marathi
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -186,13 +186,13 @@
     aristocrats = {
         culture = marathi
         religion = theravada
-        size = 500
+        size = 550
     }
 
     clergymen = {
         culture = marathi
         religion = theravada
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -204,7 +204,7 @@
     soldiers = {
         culture = marathi
         religion = theravada
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -234,7 +234,7 @@
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 500
+        size = 550
     }
 
     labourers = {
@@ -292,7 +292,7 @@
     artisans = {
         culture = marathi
         religion = theravada
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -322,7 +322,7 @@
     artisans = {
         culture = marathi
         religion = hindu
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -370,7 +370,7 @@
     artisans = {
         culture = marathi
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -468,6 +468,6 @@
     farmers = {
         culture = marathi
         religion = sunni
-        size = 10000
+        size = 11000
     }
 }

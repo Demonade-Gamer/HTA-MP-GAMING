@@ -89,7 +89,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 }
 #Mbarara (232000/53000 POPS) 
@@ -145,7 +145,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}	
 
 	soldiers = {
@@ -237,7 +237,7 @@
 	farmers = {
 		culture = bakongo
 		religion = animist
-		size = 1000
+		size = 1100
 	}	
 	
 	farmers = {

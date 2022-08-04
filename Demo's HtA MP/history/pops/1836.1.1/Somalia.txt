@@ -232,7 +232,7 @@
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 
@@ -245,7 +245,7 @@
 	slaves = {
 		culture = amhara
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Adal Region (244000)

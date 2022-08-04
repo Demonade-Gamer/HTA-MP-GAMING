@@ -125,7 +125,7 @@
 	artisans = {
 		culture = mellomsk
 		religion = protestant
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -143,19 +143,19 @@
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 500
+		size = 550
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 500
+		size = 550
 	}
 
 	farmers = {

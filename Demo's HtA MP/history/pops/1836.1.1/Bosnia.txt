@@ -233,7 +233,7 @@
 	aristocrats = {
 		culture = serb
 		religion = orthodox
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -369,7 +369,7 @@
 	artisans = {
 		culture = croat
 		religion = protestant
-		size = 500
+		size = 550
 	}
 
 	farmers = {

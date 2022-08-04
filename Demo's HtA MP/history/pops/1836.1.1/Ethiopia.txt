@@ -161,7 +161,7 @@
 	slaves = {
 		culture = amhara
 		religion = coptic
-		size = 10000
+		size = 11000
 	}
 
 	aristocrats = {
@@ -627,13 +627,13 @@
 	artisans = {
 		culture = amhara
 		religion = coptic
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
 		culture = amhara
 		religion = coptic
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -797,7 +797,7 @@
 	slaves = {
 		culture = amhara
 		religion = coptic
-		size = 10000
+		size = 11000
 	}
 }
 #Aselia (384000/96000 POPS)
@@ -867,13 +867,13 @@
 	farmers = {
 		culture = amhara
 		religion = coptic
-		size = 50000
+		size = 55000
 	}
 
 	slaves = {
 		culture = amhara
 		religion = coptic
-		size = 10000
+		size = 11000
 	}
 }
 #Sidamo-Welega Region (1628000)
@@ -1221,7 +1221,7 @@
 	aristocrats = {
 		culture = amhara
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -1252,7 +1252,7 @@
 	slaves = {
 		culture = amhara
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 
 	aristocrats = {

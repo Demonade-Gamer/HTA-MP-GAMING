@@ -65,7 +65,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 1000
+		size = 1100
 	}	
 	
 }
@@ -157,7 +157,7 @@
 	aristocrats = {
 		culture = slovene
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	clergymen = {

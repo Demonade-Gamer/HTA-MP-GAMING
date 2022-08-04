@@ -41,7 +41,7 @@
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

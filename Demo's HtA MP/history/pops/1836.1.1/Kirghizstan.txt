@@ -37,7 +37,7 @@
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 
@@ -267,7 +267,7 @@
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 

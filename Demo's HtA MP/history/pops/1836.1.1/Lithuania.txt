@@ -29,7 +29,7 @@
 	artisans = {
 		culture = lithuanian
 		religion = protestant
-		size = 5000
+		size = 5500
 	}
 
 	farmers = {
@@ -220,7 +220,7 @@
 	artisans = {
 		culture = prussian
 		religion = protestant
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
@@ -490,7 +490,7 @@
 	artisans = {
 		culture = lithuanian
 		religion = protestant
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -576,7 +576,7 @@
 	soldiers = {
 		culture = prussian
 		religion = protestant
-		size = 500
+		size = 550
 	}
 
 	farmers = {

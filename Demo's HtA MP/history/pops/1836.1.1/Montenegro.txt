@@ -41,7 +41,7 @@
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -67,7 +67,7 @@
     artisans = {
         culture = serb
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -97,7 +97,7 @@
     soldiers = {
         culture = croat
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -142,7 +142,7 @@
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -194,7 +194,7 @@
     soldiers = {
         culture = croat
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -228,7 +228,7 @@
     soldiers = {
         culture = croat
         religion = protestant
-        size = 500
+        size = 550
     }
 
     aristocrats = {
@@ -246,7 +246,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -264,7 +264,7 @@
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 500
+        size = 550
     }
 
     farmers = {

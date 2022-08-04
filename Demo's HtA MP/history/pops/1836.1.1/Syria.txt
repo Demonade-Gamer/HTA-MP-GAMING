@@ -310,7 +310,7 @@
 	artisans = {
 		culture = outremer
 		religion = catholic
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -347,7 +347,7 @@
 	artisans = {
 		culture = mashriqi
 		religion = shiite
-		size = 500
+		size = 550
 	}
 
 	farmers = {

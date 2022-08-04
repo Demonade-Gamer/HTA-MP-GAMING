@@ -23,7 +23,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -94,7 +94,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 }
 #Kasai Region (5456000)
@@ -348,7 +348,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -750,7 +750,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 }
 #Nsheng (660000/165000 POPS)
@@ -789,7 +789,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 }
 #Gemena (1232000/308000 POPS)

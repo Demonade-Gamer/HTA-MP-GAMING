@@ -693,7 +693,7 @@
 	clergymen = {
 		culture = thai
 		religion = theravada
-		size = 500
+		size = 550
 	}
 
 	artisans = {
@@ -1033,7 +1033,7 @@
 	artisans = {
 		culture = thai
 		religion = theravada
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

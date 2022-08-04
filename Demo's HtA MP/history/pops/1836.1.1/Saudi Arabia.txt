@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 
@@ -105,7 +105,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 
@@ -175,7 +175,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 
@@ -278,7 +278,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 
@@ -361,7 +361,7 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	bureaucrats = {
@@ -398,7 +398,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 
@@ -510,7 +510,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 1000
+		size= 1100
 
 	}
 

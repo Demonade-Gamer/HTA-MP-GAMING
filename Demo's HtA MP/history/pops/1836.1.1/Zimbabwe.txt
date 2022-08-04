@@ -255,7 +255,7 @@
 	aristocrats = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	bureaucrats = {
@@ -371,7 +371,7 @@
 	farmers = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 
 	aristocrats = {
@@ -389,7 +389,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

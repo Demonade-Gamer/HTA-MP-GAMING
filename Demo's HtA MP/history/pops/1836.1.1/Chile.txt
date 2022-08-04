@@ -340,7 +340,7 @@
 	bureaucrats = {
 		culture = south_andean
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	officers = {

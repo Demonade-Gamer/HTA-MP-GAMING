@@ -94,7 +94,7 @@
 	bureaucrats = {
 		culture = south_german
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	officers = {
@@ -118,7 +118,7 @@
 	soldiers = {
 		culture = croat
 		religion = protestant
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {
@@ -284,7 +284,7 @@
 	soldiers = {
 		culture = croat
 		religion = protestant
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {
@@ -520,7 +520,7 @@
 	artisans = {
 		culture = croat
 		religion = protestant
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
@@ -751,7 +751,7 @@
 	artisans = {
 		culture = croat
 		religion = protestant
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
@@ -924,7 +924,7 @@
 	artisans = {
 		culture = croat
 		religion = protestant
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

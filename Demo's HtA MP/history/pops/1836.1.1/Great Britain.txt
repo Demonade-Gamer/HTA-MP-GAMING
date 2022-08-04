@@ -10,13 +10,13 @@
     officers = {
         culture = scots
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
         culture = scots
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     artisans = {
@@ -54,7 +54,7 @@
     soldiers = {
         culture = scots
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     artisans = {
@@ -92,7 +92,7 @@
     soldiers = {
         culture = scots
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -179,7 +179,7 @@
     artisans = {
         culture = scots
         religion = catholic
-        size = 5000
+        size = 5500
     }
 
     farmers = {
@@ -279,7 +279,7 @@
     soldiers = {
         culture = scots
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -456,7 +456,7 @@
     soldiers = {
         culture = cymry
         religion = protestant
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -521,7 +521,7 @@
     officers = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     bureaucrats = {
@@ -663,7 +663,7 @@
     soldiers = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -702,7 +702,7 @@
     clergymen = {
         culture = scots
         religion = protestant
-        size = 500
+        size = 550
     }
 
     craftsmen = {
@@ -732,7 +732,7 @@
     soldiers = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -891,7 +891,7 @@
     officers = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     bureaucrats = {
@@ -965,7 +965,7 @@
     artisans = {
         culture = aenglisc
         religion = catholic
-        size = 5000
+        size = 5500
     }
 
     soldiers = {
@@ -1029,7 +1029,7 @@
     clergymen = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -1074,7 +1074,7 @@
     clergymen = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     capitalists = {
@@ -1144,7 +1144,7 @@
     clergymen = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -1189,7 +1189,7 @@
     clergymen = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -1201,7 +1201,7 @@
     soldiers = {
         culture = aenglisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1342,7 +1342,7 @@
     soldiers = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1357,13 +1357,13 @@
     aristocrats = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     officers = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     bureaucrats = {
@@ -1425,7 +1425,7 @@
     artisans = {
         culture = aenglisc
         religion = catholic
-        size = 5000
+        size = 5500
     }
 
     soldiers = {
@@ -1469,7 +1469,7 @@
     artisans = {
         culture = aenglisc
         religion = catholic
-        size = 5000
+        size = 5500
     }
 
     artisans = {
@@ -1481,7 +1481,7 @@
     soldiers = {
         culture = cornish
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1537,7 +1537,7 @@
     soldiers = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -1707,7 +1707,7 @@
     clergymen = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -1751,7 +1751,7 @@
     clergymen = {
         culture = aenglisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {

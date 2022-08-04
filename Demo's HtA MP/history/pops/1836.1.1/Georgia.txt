@@ -193,7 +193,7 @@
 	artisans = {
 		culture = georgian
 		religion = orthodox
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -409,7 +409,7 @@
 	aristocrats = {
 		culture = georgian
 		religion = orthodox
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -620,7 +620,7 @@
 	aristocrats = {
 		culture = georgian
 		religion = orthodox
-		size = 500
+		size = 550
 	}
 
 	clergymen = {

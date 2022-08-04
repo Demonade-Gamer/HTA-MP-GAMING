@@ -124,7 +124,7 @@
 	artisans = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -296,7 +296,7 @@
 	artisans = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -1037,7 +1037,7 @@
 	artisans = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -1253,7 +1253,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Abuja (64000/16000 POPS) #african_Minor includes Gwari and Chamba
@@ -1654,7 +1654,7 @@
 	clergymen = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	artisans = {

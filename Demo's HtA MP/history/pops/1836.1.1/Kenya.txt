@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = amhara
 		religion = animist
-		size= 500
+		size= 550
 
 	}
 
@@ -600,7 +600,7 @@
 	farmers = {
 		culture = amhara
 		religion = shiite
-		size = 500
+		size = 550
 	}
 
 	aristocrats = {
@@ -618,7 +618,7 @@
 	artisans = {
 		culture = amhara
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -657,7 +657,7 @@
 	artisans = {
 		culture = amhara
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

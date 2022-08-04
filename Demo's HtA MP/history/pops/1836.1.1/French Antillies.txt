@@ -29,7 +29,7 @@
     soldiers = {
         culture = spanish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -53,7 +53,7 @@
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -91,7 +91,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -115,7 +115,7 @@
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {

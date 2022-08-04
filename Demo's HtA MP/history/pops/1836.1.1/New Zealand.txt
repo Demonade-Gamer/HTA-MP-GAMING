@@ -62,7 +62,7 @@
 	soldiers = {
 		culture = berrian
 		religion = catholic
-		size = 1000
+		size = 1100
 	}
 	
 	farmers = {
@@ -125,7 +125,7 @@
 	soldiers = {
 		culture = berrian
 		religion = catholic
-		size = 500
+		size = 550
 	}
 	
 	farmers = {
@@ -187,7 +187,7 @@
 	soldiers = {
 		culture = berrian
 		religion = catholic
-		size = 500
+		size = 550
 	}
 	
 	farmers = {
@@ -307,7 +307,7 @@
 	artisans = {
 		culture = berrian
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -325,7 +325,7 @@
 	farmers = {
 		culture = berrian
 		religion = catholic
-		size = 500
+		size = 550
 	}
 }
 #Hokitikia (4000/1000 POPS)
@@ -345,7 +345,7 @@
 	artisans = {
 		culture = berrian
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -363,7 +363,7 @@
 	farmers = {
 		culture = berrian
 		religion = catholic
-		size = 500
+		size = 550
 	}
 }
 #Christchurch (4000/1000 POPS)
@@ -377,19 +377,19 @@
 	clergymen = {
 		culture = berrian
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	artisans = {
 		culture = berrian
 		religion = animist
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
 		culture = berrian
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	farmers = {
@@ -401,7 +401,7 @@
 	farmers = {
 		culture = berrian
 		religion = catholic
-		size = 500
+		size = 550
 	}
 }
 #Nelson (12000/3000 POPS)
@@ -439,6 +439,6 @@
 	farmers = {
 		culture = berrian
 		religion = catholic
-		size = 500
+		size = 550
 	}
 }

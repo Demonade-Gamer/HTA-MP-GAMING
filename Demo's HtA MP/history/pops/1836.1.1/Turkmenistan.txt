@@ -39,7 +39,7 @@
 	aristocrats = {
 		culture = turkmen
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	clergymen = {

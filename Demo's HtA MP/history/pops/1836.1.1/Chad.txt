@@ -5,7 +5,7 @@
 	aristocrats = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	bureaucrats = {
@@ -95,7 +95,7 @@
 	artisans = {
 		culture = yoruba
 		religion = animist
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
@@ -369,7 +369,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 
 	aristocrats = {
@@ -425,7 +425,7 @@
 	soldiers = {
 		culture = yoruba
 		religion = sunni
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {
@@ -585,7 +585,7 @@
 	clergymen = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	artisans = {
@@ -597,7 +597,7 @@
 	soldiers = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	farmers = {

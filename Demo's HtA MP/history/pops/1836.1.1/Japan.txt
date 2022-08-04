@@ -29,7 +29,7 @@
 	artisans = {
 		culture = japanese
 		religion = shinto
-		size = 10000
+		size = 11000
 	}
 
 	soldiers = {
@@ -118,7 +118,7 @@
 	aristocrats = {
 		culture = japanese
 		religion = shinto
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -256,7 +256,7 @@
 	artisans = {
 		culture = japanese
 		religion = shinto
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -281,7 +281,7 @@
 	artisans = {
 		culture = japanese
 		religion = shinto
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -961,7 +961,7 @@
 	aristocrats = {
 		culture = japanese
 		religion = shinto
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -1056,7 +1056,7 @@
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 50000
+		size = 55000
 	}
 }
 #Mito (588000/147000 POPS)
@@ -1185,7 +1185,7 @@
 	aristocrats = {
 		culture = japanese
 		religion = shinto
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -1956,7 +1956,7 @@
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size= 1000
+		size= 1100
 
 	}
 
@@ -2444,7 +2444,7 @@
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size= 1000
+		size= 1100
 
 	}
 

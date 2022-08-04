@@ -249,7 +249,7 @@
 	aristocrats = {
 		culture = platinean
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	clergymen = {

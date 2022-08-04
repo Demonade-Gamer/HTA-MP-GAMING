@@ -249,7 +249,7 @@
 	aristocrats = {
 		culture = tibetan
 		religion = gelugpa
-		size = 500
+		size = 550
 	}
 
 	clergymen = {

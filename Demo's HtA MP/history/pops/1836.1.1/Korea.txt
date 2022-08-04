@@ -140,7 +140,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 }
 #Chongjin (360000/90000 POPS)
@@ -218,7 +218,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 }
 #Kyonggi Region (2620000)
@@ -316,7 +316,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 }
 #Haeju (260000/65000 POPS)
@@ -355,7 +355,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 }
 #Sariwon (340000/85000 POPS)
@@ -394,7 +394,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 }
 #Inchon (560000/140000 POPS)
@@ -525,7 +525,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 }
 #Wonju (280000/70000 POPS)
@@ -564,7 +564,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 }
 #Kyongsang Region (1800000)
@@ -637,7 +637,7 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 
 	soldiers = {
@@ -656,7 +656,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 }
 #Pohang (640000/160000 POPS)
@@ -826,7 +826,7 @@
 	slaves = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 5500
 	}
 
 }

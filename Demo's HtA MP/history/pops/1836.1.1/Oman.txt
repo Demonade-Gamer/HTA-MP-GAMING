@@ -42,7 +42,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 1000
+		size= 1100
 
 	}
 
@@ -176,7 +176,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 1000
+		size= 1100
 
 	}
 
@@ -291,7 +291,7 @@
 	slaves = {
 		culture = african_minor
 		religion = animist
-		size = 1000
+		size = 1100
 	}
 }
 #Duqm (20000/5000 POPS)   
@@ -382,7 +382,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 1000
+		size= 1100
 
 	}
 

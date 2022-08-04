@@ -105,7 +105,7 @@
 	farmers = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}	
 	
 	farmers = {

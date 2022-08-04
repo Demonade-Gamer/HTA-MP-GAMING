@@ -751,13 +751,13 @@
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -787,7 +787,7 @@
     clergymen = {
         culture = korean
         religion = mahayana
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -799,7 +799,7 @@
     soldiers = {
         culture = korean
         religion = mahayana
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1611,25 +1611,25 @@
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -1725,13 +1725,13 @@
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -1767,7 +1767,7 @@
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 500
+        size = 550
     }
 }
 #Gongchang (2256000/554000 POPS)
@@ -1787,13 +1787,13 @@
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -1861,19 +1861,19 @@
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -1897,7 +1897,7 @@
     aristocrats = {
         culture = beifaren
         religion = sunni
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -2093,19 +2093,19 @@
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -2129,7 +2129,7 @@
     aristocrats = {
         culture = beifaren
         religion = sunni
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -7796,19 +7796,19 @@
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -7876,7 +7876,7 @@
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -7944,7 +7944,7 @@
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -8012,7 +8012,7 @@
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -10754,19 +10754,19 @@
     artisans = {
         culture = nanfaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = nanfaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
         culture = nanfaren
         religion = mahayana
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -10802,7 +10802,7 @@
     artisans = {
         culture = nanfaren
         religion = sunni
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -10862,7 +10862,7 @@
     artisans = {
         culture = nanfaren
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -10972,7 +10972,7 @@
     artisans = {
         culture = nanfaren
         religion = animist
-        size = 10000
+        size = 11000
     }
 
     artisans = {

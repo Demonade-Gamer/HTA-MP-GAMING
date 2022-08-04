@@ -47,7 +47,7 @@
     soldiers = {
         culture = yue
         religion = confucian
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -139,7 +139,7 @@
     soldiers = {
         culture = vietnamese
         religion = mahayana
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -225,7 +225,7 @@
     soldiers = {
         culture = yue
         religion = confucian
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -279,7 +279,7 @@
     soldiers = {
         culture = asian_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -311,7 +311,7 @@
     soldiers = {
         culture = vietnamese
         religion = mahayana
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -365,7 +365,7 @@
     soldiers = {
         culture = asian_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -397,7 +397,7 @@
     soldiers = {
         culture = yue
         religion = confucian
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -477,7 +477,7 @@
     soldiers = {
         culture = vietnamese
         religion = mahayana
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -535,7 +535,7 @@
     soldiers = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -621,7 +621,7 @@
     soldiers = {
         culture = vietnamese
         religion = mahayana
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -659,7 +659,7 @@
     clergymen = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -671,7 +671,7 @@
     soldiers = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -725,7 +725,7 @@
     soldiers = {
         culture = asian_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -775,7 +775,7 @@
     soldiers = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -819,7 +819,7 @@
     aristocrats = {
         culture = cham
         religion = sunni
-        size = 1000
+        size = 1100
     }
 
     bureaucrats = {
@@ -849,7 +849,7 @@
     soldiers = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -879,7 +879,7 @@
     soldiers = {
         culture = asian_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -925,13 +925,13 @@
     soldiers = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     farmers = {
         culture = cham
         religion = sunni
-        size = 100000
+        size = 110000
     }
 
     farmers = {
@@ -1029,7 +1029,7 @@
     soldiers = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1077,7 +1077,7 @@
     soldiers = {
         culture = vietnamese
         religion = mahayana
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1115,7 +1115,7 @@
     soldiers = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1139,7 +1139,7 @@
     soldiers = {
         culture = khmer
         religion = theravada
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1171,7 +1171,7 @@
     soldiers = {
         culture = cham
         religion = sunni
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1195,7 +1195,7 @@
     soldiers = {
         culture = khmer
         religion = theravada
-        size = 500
+        size = 550
     }
 
     farmers = {

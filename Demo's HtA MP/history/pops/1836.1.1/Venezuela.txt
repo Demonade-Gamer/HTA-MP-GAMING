@@ -383,7 +383,7 @@
 	farmers = {
 		culture = aenglisc
 		religion = catholic
-		size = 500
+		size = 550
 	}
 }
 #Barinas (32000/8000 POPS)
@@ -527,7 +527,7 @@
 	artisans = {
 		culture = aenglisc
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -675,7 +675,7 @@
 	artisans = {
 		culture = afro_caribbean
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

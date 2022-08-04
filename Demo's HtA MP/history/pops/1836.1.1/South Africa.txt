@@ -19,7 +19,7 @@
     soldiers = {
         culture = bakongo
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -43,7 +43,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -79,7 +79,7 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -569,7 +569,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -640,7 +640,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -684,7 +684,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -714,7 +714,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -746,7 +746,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -821,7 +821,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -854,7 +854,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -882,7 +882,7 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -918,7 +918,7 @@
     soldiers = {
         culture = steenkooler
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1139,7 +1139,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1177,7 +1177,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1221,7 +1221,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1262,7 +1262,7 @@
     soldiers = {
         culture = steenkooler
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1292,7 +1292,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1336,7 +1336,7 @@
     soldiers = {
         culture = steenkooler
         religion = catholic
-        size = 500
+        size = 550
     }
 
     aristocrats = {
@@ -1360,7 +1360,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1390,7 +1390,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1446,7 +1446,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1490,7 +1490,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1537,7 +1537,7 @@
     soldiers = {
         culture = steenkooler
         religion = catholic
-        size = 500
+        size = 550
     }
 
     aristocrats = {
@@ -1561,7 +1561,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1593,7 +1593,7 @@
     soldiers = {
         culture = steenkooler
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1623,7 +1623,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1656,7 +1656,7 @@
     soldiers = {
         culture = steenkooler
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1686,7 +1686,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1799,7 +1799,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1832,7 +1832,7 @@
     farmers = {
         culture = steenkooler
         religion = catholic
-        size = 500
+        size = 550
     }
 
     aristocrats = {
@@ -1856,7 +1856,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1913,7 +1913,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1943,7 +1943,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -1984,7 +1984,7 @@
     soldiers = {
         culture = steenkooler
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -2014,7 +2014,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -2044,7 +2044,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -2088,19 +2088,19 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -2144,37 +2144,37 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -2207,7 +2207,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -2219,7 +2219,7 @@
     aristocrats = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     bureaucrats = {
@@ -2243,7 +2243,7 @@
     soldiers = {
         culture = bakongo
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {

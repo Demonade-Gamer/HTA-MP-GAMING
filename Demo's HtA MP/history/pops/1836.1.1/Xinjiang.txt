@@ -92,7 +92,7 @@
 	artisans = {
 		culture = tajik
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	farmers = {
@@ -388,7 +388,7 @@
 	clergymen = {
 		culture = uighur
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	artisans = {
@@ -400,7 +400,7 @@
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 500
+		size= 550
 
 	}
 

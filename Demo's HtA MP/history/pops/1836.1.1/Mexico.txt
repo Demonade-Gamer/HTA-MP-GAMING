@@ -59,7 +59,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -91,7 +91,7 @@
     soldiers = {
         culture = califiano
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -121,7 +121,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -147,13 +147,13 @@
     artisans = {
         culture = meikan
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -183,7 +183,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -194,7 +194,7 @@
 }
 #Baja California Region (20000)
 #ruled by Califiana 1836
-#Loreto (4000/ 1000 POPS)
+#Loreto (4000/ 1100 POPS)
 2138 = {
     aristocrats = {
         culture = califiano
@@ -217,7 +217,7 @@
     soldiers = {
         culture = califiano
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -249,7 +249,7 @@
     soldiers = {
         culture = califiano
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -325,7 +325,7 @@
     soldiers = {
         culture = ginnaecerisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -355,7 +355,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -387,7 +387,7 @@
     soldiers = {
         culture = ginnaecerisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -419,7 +419,7 @@
     soldiers = {
         culture = ginnaecerisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -451,7 +451,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -481,7 +481,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -515,7 +515,7 @@
     soldiers = {
         culture = ginnaecerisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -559,7 +559,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -583,7 +583,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -615,7 +615,7 @@
     soldiers = {
         culture = ginnaecerisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -653,7 +653,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -677,7 +677,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -723,7 +723,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -747,7 +747,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -779,7 +779,7 @@
     soldiers = {
         culture = ginnaecerisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -811,7 +811,7 @@
     soldiers = {
         culture = ginnaecerisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -843,7 +843,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -877,7 +877,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -907,7 +907,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -939,7 +939,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -969,7 +969,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1013,7 +1013,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1045,7 +1045,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1091,7 +1091,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1115,7 +1115,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1147,7 +1147,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1179,7 +1179,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1203,7 +1203,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1237,7 +1237,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1261,7 +1261,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1305,7 +1305,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1317,7 +1317,7 @@
     clergymen = {
         culture = nahua
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -1329,7 +1329,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1361,7 +1361,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1385,7 +1385,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1419,7 +1419,7 @@
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -1431,7 +1431,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1455,7 +1455,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1473,13 +1473,13 @@
     artisans = {
         culture = native_american_minor
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = native_american_minor
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1511,7 +1511,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1535,7 +1535,7 @@
     soldiers = {
         culture = native_american_minor
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1567,7 +1567,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1591,7 +1591,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1623,7 +1623,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1647,7 +1647,7 @@
     soldiers = {
         culture = mayan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1699,7 +1699,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1723,7 +1723,7 @@
     soldiers = {
         culture = native_american_minor
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1755,7 +1755,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1779,7 +1779,7 @@
     soldiers = {
         culture = native_american_minor
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1813,7 +1813,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1845,7 +1845,7 @@
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -1857,7 +1857,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1881,7 +1881,7 @@
     soldiers = {
         culture = tarascan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1913,7 +1913,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1937,7 +1937,7 @@
     soldiers = {
         culture = tarascan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1995,7 +1995,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2025,7 +2025,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2057,7 +2057,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2081,7 +2081,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2115,7 +2115,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2139,7 +2139,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2183,7 +2183,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2207,7 +2207,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2253,7 +2253,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2277,7 +2277,7 @@
     soldiers = {
         culture = zapotec
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2309,7 +2309,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2333,7 +2333,7 @@
     soldiers = {
         culture = zapotec
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2379,7 +2379,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2403,7 +2403,7 @@
     soldiers = {
         culture = tarascan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2435,7 +2435,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2459,7 +2459,7 @@
     soldiers = {
         culture = tarascan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2505,7 +2505,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2529,7 +2529,7 @@
     soldiers = {
         culture = mayan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2561,7 +2561,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2619,7 +2619,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2643,7 +2643,7 @@
     soldiers = {
         culture = mayan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2675,7 +2675,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2699,7 +2699,7 @@
     soldiers = {
         culture = mayan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2731,7 +2731,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -2755,13 +2755,13 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 10000
+        size = 11000
     }
 
     farmers = {

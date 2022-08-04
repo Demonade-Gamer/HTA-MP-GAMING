@@ -12,13 +12,13 @@
 	clergymen = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	artisans = {
 		culture = yoruba
 		religion = sunni
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
@@ -38,7 +38,7 @@
 	aristocrats = {
 		culture = yoruba
 		religion = sunni
-		size = 1000
+		size = 1100
 	}
 
 	clergymen = {
@@ -114,7 +114,7 @@
 	aristocrats = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -132,7 +132,7 @@
 	soldiers = {
 		culture = yoruba
 		religion = animist
-		size = 1000
+		size = 1100
 	}
 
 
@@ -234,7 +234,7 @@
 	aristocrats = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -264,13 +264,13 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 
 	aristocrats = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -509,7 +509,7 @@
 	slaves = {
 		culture = yoruba
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Casamance Region (224000) #see Guinea Bissau.txt and Guinea.txt for balance of Region
@@ -557,7 +557,7 @@
 	aristocrats = {
 		culture = yoruba
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {

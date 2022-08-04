@@ -35,7 +35,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 
 	aristocrats = {
@@ -109,7 +109,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 
 	aristocrats = {
@@ -233,7 +233,7 @@
 	clergymen = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	artisans = {
@@ -522,7 +522,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Uncolonized in 1836
@@ -543,7 +543,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -689,7 +689,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -1095,13 +1095,13 @@
 	aristocrats = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	artisans = {

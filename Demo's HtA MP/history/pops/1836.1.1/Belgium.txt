@@ -10,7 +10,7 @@
     clerks = {
         culture = ashkenazi
         religion = jewish
-        size = 1000
+        size = 1100
     }
 
     craftsmen = {
@@ -76,7 +76,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -124,13 +124,13 @@
     craftsmen = {
         culture = wallonian
         religion = catholic
-        size = 5000
+        size = 5500
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -142,7 +142,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     labourers = {
@@ -168,7 +168,7 @@
     artisans = {
         culture = flemish
         religion = catholic
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -180,7 +180,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -206,7 +206,7 @@
     artisans = {
         culture = flemish
         religion = catholic
-        size = 10000
+        size = 11000
     }
 
     artisans = {
@@ -218,7 +218,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -242,7 +242,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 }
 #Antwerp (354000/88500 POPS)
@@ -280,13 +280,13 @@
     artisans = {
         culture = flemish
         religion = catholic
-        size = 10000
+        size = 11000
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -336,7 +336,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -399,13 +399,13 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     labourers = {
@@ -429,7 +429,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     labourers = {
@@ -467,7 +467,7 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -509,13 +509,13 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
         culture = wallonian
         religion = catholic
-        size = 50075
+        size = 55075
     }
 
     clergymen = {
@@ -527,7 +527,7 @@
     artisans = {
         culture = picard
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -583,7 +583,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -633,7 +633,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -671,7 +671,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -695,7 +695,7 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -728,7 +728,7 @@
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {

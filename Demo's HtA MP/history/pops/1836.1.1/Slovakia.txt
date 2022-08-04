@@ -229,7 +229,7 @@
     clergymen = {
         culture = slovak
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -265,7 +265,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -313,7 +313,7 @@
     artisans = {
         culture = silesian
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
@@ -399,7 +399,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -423,7 +423,7 @@
     soldiers = {
         culture = hungarian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -447,7 +447,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -471,7 +471,7 @@
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -497,7 +497,7 @@
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -545,7 +545,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -569,7 +569,7 @@
     soldiers = {
         culture = silesian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -603,13 +603,13 @@
     artisans = {
         culture = slovak
         religion = catholic
-        size = 5000
+        size = 5500
     }
 
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -627,7 +627,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     officers = {
@@ -651,7 +651,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -675,7 +675,7 @@
     soldiers = {
         culture = hungarian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -699,7 +699,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -711,7 +711,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -735,7 +735,7 @@
     soldiers = {
         culture = czech
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -765,7 +765,7 @@
     soldiers = {
         culture = ruthenian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -789,7 +789,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -815,7 +815,7 @@
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -845,7 +845,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -869,7 +869,7 @@
     soldiers = {
         culture = hungarian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -893,7 +893,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 550
     }
 
     farmers = {

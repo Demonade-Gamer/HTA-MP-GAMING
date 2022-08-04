@@ -628,7 +628,7 @@
 	artisans = {
 		culture = quechua
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

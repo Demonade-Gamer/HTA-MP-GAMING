@@ -97,7 +97,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
@@ -165,7 +165,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -443,7 +443,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -579,7 +579,7 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {

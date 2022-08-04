@@ -47,7 +47,7 @@
 	artisans = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -181,7 +181,7 @@
 	artisans = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -345,7 +345,7 @@
 	soldiers = {
 		culture = yoruba
 		religion = sunni
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {
@@ -461,7 +461,7 @@
 	clergymen = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	artisans = {
@@ -555,7 +555,7 @@
 	aristocrats = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -785,7 +785,7 @@
 	artisans = {
 		culture = yoruba
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -824,13 +824,13 @@
 	soldiers = {
 		culture = yoruba
 		religion = sunni
-		size = 1000
+		size = 1100
 	}
 
 	farmers = {
 		culture = yoruba
 		religion = sunni
-		size = 50000
+		size = 55000
 	}
 	
 	farmers = {

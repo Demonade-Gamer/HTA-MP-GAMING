@@ -23,7 +23,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -187,7 +187,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
@@ -255,7 +255,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 500
+        size = 550
     }
 
     clergymen = {

@@ -139,7 +139,7 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {

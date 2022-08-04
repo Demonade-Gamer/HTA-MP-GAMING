@@ -17,7 +17,7 @@
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -227,7 +227,7 @@
 	artisans = {
 		culture = outremer
 		religion = catholic
-		size = 500
+		size = 550
 	}
 
 	soldiers = {

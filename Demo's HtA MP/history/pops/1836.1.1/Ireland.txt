@@ -23,13 +23,13 @@
     clergymen = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -73,13 +73,13 @@
     aristocrats = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     craftsmen = {
@@ -117,7 +117,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -161,7 +161,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     labourers = {
@@ -195,7 +195,7 @@
     aristocrats = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -213,7 +213,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -251,7 +251,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     craftsmen = {
@@ -303,7 +303,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     craftsmen = {
@@ -361,7 +361,7 @@
     aristocrats = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -379,7 +379,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     craftsmen = {
@@ -412,7 +412,7 @@
     officers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -424,7 +424,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -468,7 +468,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     craftsmen = {
@@ -500,7 +500,7 @@
     soldiers = {
         culture = irish
         religion = catholic
-        size = 500
+        size = 550
     }
 
     craftsmen = {

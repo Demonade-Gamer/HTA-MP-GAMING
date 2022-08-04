@@ -85,7 +85,7 @@
 	artisans = {
 		culture = amazonian
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -315,7 +315,7 @@
 	artisans = {
 		culture = quechua
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -328,7 +328,7 @@
 	farmers = {
 		culture = quechua
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 
 	clergymen = {
@@ -759,7 +759,7 @@
 	artisans = {
 		culture = quechua
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 	
 	artisans = {
@@ -884,7 +884,7 @@
 	artisans = {
 		culture = quechua
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -922,7 +922,7 @@
 	farmers = {
 		culture = afro_caribeno
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	slaves = {

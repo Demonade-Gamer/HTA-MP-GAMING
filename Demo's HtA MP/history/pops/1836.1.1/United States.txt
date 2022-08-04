@@ -1952,7 +1952,7 @@
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -2914,7 +2914,7 @@
     clergymen = {
         culture = ginnaecerisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -2926,7 +2926,7 @@
     soldiers = {
         culture = ginnaecerisc
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -3032,7 +3032,7 @@
     artisans = {
         culture = ginnaecerisc
         religion = catholic
-        size = 5000
+        size = 5500
     }
 
     soldiers = {
@@ -3160,7 +3160,7 @@
     artisans = {
         culture = ginnaecerisc
         religion = catholic
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -5357,7 +5357,7 @@
     artisans = {
         culture = iroquois
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -5389,7 +5389,7 @@
     artisans = {
         culture = iroquois
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -5577,7 +5577,7 @@
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -5645,7 +5645,7 @@
     artisans = {
         culture = iroquois
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -6153,7 +6153,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -6229,7 +6229,7 @@
     clergymen = {
         culture = native_american_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     artisans = {
@@ -6467,7 +6467,7 @@
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -7423,7 +7423,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -7437,7 +7437,7 @@
     aristocrats = {
         culture = native_american_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -7523,7 +7523,7 @@
     aristocrats = {
         culture = cherokee
         religion = animist
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -7769,7 +7769,7 @@
     artisans = {
         culture = shawnee
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -7833,7 +7833,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 5000
+        size = 5500
     }
 
     farmers = {
@@ -7915,7 +7915,7 @@
     aristocrats = {
         culture = native_american_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -8037,7 +8037,7 @@
     artisans = {
         culture = shawnee
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -8069,7 +8069,7 @@
     artisans = {
         culture = cherokee
         religion = animist
-        size = 1000
+        size = 1100
     }
 
     soldiers = {
@@ -8111,7 +8111,7 @@
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 10000
+        size = 11000
     }
 
     clergymen = {
@@ -8123,7 +8123,7 @@
     artisans = {
         culture = shawnee
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -8151,7 +8151,7 @@
     bureaucrats = {
         culture = native_american_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     officers = {
@@ -8367,7 +8367,7 @@
     artisans = {
         culture = native_american_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -8391,7 +8391,7 @@
     artisans = {
         culture = shawnee
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -8572,7 +8572,7 @@
     artisans = {
         culture = native_american_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -8626,7 +8626,7 @@
     artisans = {
         culture = shawnee
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -8658,7 +8658,7 @@
     artisans = {
         culture = native_american_minor
         religion = animist
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -8712,7 +8712,7 @@
     artisans = {
         culture = shawnee
         religion = animist
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -8764,7 +8764,7 @@
     soldiers = {
         culture = vestlandic
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -8982,7 +8982,7 @@
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 500
+        size = 550
     }
 }
 #Pennsylvania Region (1536000)
@@ -9636,7 +9636,7 @@
     officers = {
         culture = vestlandic
         religion = protestant
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -9970,7 +9970,7 @@
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -10046,7 +10046,7 @@
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 500
+        size = 550
     }
 
     farmers = {
@@ -10128,7 +10128,7 @@
     craftsmen = {
         culture = vestlandic
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     artisans = {
@@ -10232,7 +10232,7 @@
     clergymen = {
         culture = vestlandic
         religion = protestant
-        size = 500
+        size = 550
     }
 
     artisans = {

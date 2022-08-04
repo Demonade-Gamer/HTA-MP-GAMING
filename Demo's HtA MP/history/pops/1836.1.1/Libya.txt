@@ -177,7 +177,7 @@
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -225,7 +225,7 @@
 	slaves = {
 		culture = maghrebi
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 
 	clergymen = {
@@ -369,7 +369,7 @@
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -875,7 +875,7 @@
 	slaves = {
 		culture = maghrebi
 		religion = animist
-		size = 500
+		size = 550
 	}
 }
 #Ghat (16000/4000 POPS)

@@ -17,7 +17,7 @@
 	farmers = {
 		culture = yue
 		religion = mahayana
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -85,7 +85,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -204,7 +204,7 @@
 	farmers = {
 		culture = yue
 		religion = mahayana
-		size = 500
+		size = 550
 	}
 }
 #Kuala Lumpur (68000/17000 POPS)
@@ -504,7 +504,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -564,7 +564,7 @@
 	farmers = {
 		culture = yue
 		religion = mahayana
-		size = 500
+		size = 550
 	}
 }
 #Bintulu (44000/11000 POPS)
@@ -700,7 +700,7 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 500
+		size = 550
 	}
 
 	farmers = {

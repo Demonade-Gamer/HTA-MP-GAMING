@@ -181,7 +181,7 @@
     artisans = {
         culture = estonian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -533,7 +533,7 @@
     artisans = {
         culture = ugrian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     soldiers = {
