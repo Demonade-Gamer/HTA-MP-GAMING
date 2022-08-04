@@ -108,30 +108,30 @@ army = {
 
 	regiment = {
 		name= "3.5-ya Pekhotnaya Diviziya"
-		type = artillery
+		type = infantry
 		home = 977
 	}
 
 	regiment = {
 		name= "1.6-ya Pekhotnaya Diviziya"
-		type = artillery
+		type = infantry
 		home = 977
 	}
 
 	regiment = {
 		name= "2.6-ya Pekhotnaya Diviziya"
-		type = artillery
+		type = infantry
 		home = 962
 	}
 
 	regiment = {
 		name= "3.6-ya Pekhotnaya Diviziya"
-		type = artillery
+		type = infantry
 		home = 978
 	}
 	regiment = {
 		name= "2.Chornomoriya Cossacks"
-		type = artillery
+		type = infantry
 		home = 1049
 	}
 }
@@ -141,60 +141,60 @@ army = {
 	location = 1037
 	regiment = {
 		name = "1.7-ya Pehkotnaya Diviziya"
-		type = infantry
+		type = cavalry
 		home = 943
 	}
 	
 	regiment = {
 		name = "2.7-ya Pehkotnaya Diviziya"
-		type = infantry
+		type = cavalry
 		home = 1018
 	}
 	
 	regiment = {
 		name = "3.7-ya Pehkotnaya Diviziya"
-		type = infantry
+		type = cavalry
 		home = 963
 	}
 	
 	regiment = {
 		name = "1.8-ya Pehkotnaya Diviziya"
-		type = infantry
+		type = cavalry
 		home = 977
 	}
 	
 	regiment = {
 		name = "2.8-ya Pehkotnaya Diviziya"
-		type = hussar
+		type = cavalry
 		home = 1021
 	}
 	
 	regiment = {
 		name = "3.8-ya Pehkotnaya Diviziya"
-		type = artillery
+		type = cavalry
 		home = 1039
 	}
 	
 	regiment = {
 		name = "1.9-ya Pehkotnaya Diviziya"
-		type = artillery
+		type = cavalry
 		home = 1039
 	}
 	
 	regiment = {
 		name = "2.9-ya Pehkotnaya Diviziya"
-		type = artillery
+		type = cavalry
 		home = 1042
 	}
 	
 	regiment = {
 		name = "3.9-ya Pehkotnaya Diviziya"
-		type = artillery
+		type = cavalry
 		home = 1035
 	}
 	regiment = {
 		name= "1.Chornomoriya Cossacks"
-		type = artillery
+		type = cavalry
 		home = 964
 	}
 }

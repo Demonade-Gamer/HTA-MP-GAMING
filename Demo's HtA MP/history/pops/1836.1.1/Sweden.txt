@@ -34,7 +34,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -66,7 +66,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -92,7 +92,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     labourers = {
@@ -124,7 +124,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     labourers = {
@@ -174,7 +174,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     labourers = {
@@ -249,13 +249,13 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -287,7 +287,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -319,7 +319,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -351,7 +351,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -383,7 +383,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -415,7 +415,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -447,7 +447,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -492,7 +492,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -524,7 +524,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -556,7 +556,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -588,7 +588,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -620,7 +620,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -658,7 +658,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
@@ -726,7 +726,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 0
+        size = 500
     }
 
     farmers = {
