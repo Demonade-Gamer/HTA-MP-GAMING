@@ -234,7 +234,7 @@ political_decisions = {
 		}
 	}
 # Integrate the Sorbs and Prusai
-	integrate_the_sorbs_and_prusai = {
+	integrate_the_sorbs_prusai_and_silesians = {
 		potential = {
 			tag = GER
 			NOT = { has_country_flag = srb_accepted }
@@ -248,6 +248,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = western_slavic
 			add_accepted_culture = prussian
+			add_accepted_culture = silesian
 			set_country_flag = srb_accepted
 			SLS = { all_core = { add_core = GER } }
 			PRS = { all_core = { add_core = GER } }

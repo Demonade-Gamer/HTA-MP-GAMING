@@ -1,0 +1,20 @@
+	sign_the_berne_treaty = {
+		picture = postal_union
+		potential = {
+			year = 1874
+		}
+		allow = {
+			civilized = yes
+		}
+		
+		effect = {
+			treasury = 3000
+			any_pop = {
+				consciousness = 1
+				money = 2500
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}

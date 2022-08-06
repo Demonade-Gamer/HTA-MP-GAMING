@@ -276,7 +276,7 @@ political_decisions = {
 	}
 
 	#Integrate the Bretons
-	FRA_embrace_bretons = {
+FRA_embrace_bretons = {
 		picture = genocide_minorities
 		potential = {
 			tag = FRA
