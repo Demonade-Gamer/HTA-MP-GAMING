@@ -551,7 +551,7 @@ invade_the_mexicans_scw = {
 			YUC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			MEX = { all_core = { limit = { NOT = { OR = { is_core = SKM is_core = GNC is_core = SCW } } } add_core = MEL } }
+			MEX = { all_core = { limit = { NOT = { OR = { is_core = SKM is_core = GNC } } } add_core = MEL } }
 			YUC = { all_core = { add_core = MEL } }
 			set_country_flag = north_invaded
 		}
