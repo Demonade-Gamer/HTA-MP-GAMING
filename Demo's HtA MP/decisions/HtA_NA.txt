@@ -348,7 +348,6 @@ invade_the_mexicans_scw = {
 			add_accepted_culture = french_canadian
 			add_accepted_culture = nieuwlander
 			add_accepted_culture = afro_american
-			inherit = VST
 			inherit = NHL
 			inherit = QUE
 			VST = { all_core = { add_core = NEU } }
@@ -573,7 +572,7 @@ invade_the_mexicans_scw = {
 			MEX = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			add_accepted_culture = mexican
+			add_accepted_culture = meikan
 			set_country_flag = mexicans_integrated
 			prestige = 12
 		}

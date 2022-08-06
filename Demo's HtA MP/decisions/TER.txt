@@ -29,4 +29,15 @@ political_decisions = {
 			set_country_flag = claim_interior
 		}
 	}
+	kill_NZ = {
+		potential = { 
+			tag = TER
+			NOT = { has_country_flag = killed_NZ }
+		}
+		allow = {
+			NFB = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			NFB = { all_core = { add_core = TER remove_core = NFB } }
+		}
 }	
