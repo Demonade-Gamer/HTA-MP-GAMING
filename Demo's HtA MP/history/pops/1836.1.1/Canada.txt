@@ -1552,7 +1552,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1576,7 +1576,7 @@
     soldiers = {
         culture = metis
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1608,7 +1608,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1632,7 +1632,7 @@
     soldiers = {
         culture = metis
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1664,7 +1664,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1688,7 +1688,7 @@
     soldiers = {
         culture = metis
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1720,7 +1720,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1744,7 +1744,7 @@
     soldiers = {
         culture = metis
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1778,7 +1778,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1822,7 +1822,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1884,7 +1884,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -1908,7 +1908,7 @@
     soldiers = {
         culture = metis
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2032,7 +2032,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2068,7 +2068,7 @@
     soldiers = {
         culture = french_canadian
         religion = catholic
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2100,7 +2100,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2130,7 +2130,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2160,7 +2160,7 @@
     soldiers = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2190,7 +2190,7 @@
     soldiers = {
         culture = french_canadian
         religion = catholic
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2222,7 +2222,7 @@
     soldiers = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2254,7 +2254,7 @@
     soldiers = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2286,7 +2286,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2348,7 +2348,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2411,7 +2411,7 @@
     soldiers = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2449,7 +2449,7 @@
     soldiers = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2481,13 +2481,13 @@
     artisans = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     soldiers = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2525,7 +2525,7 @@
     soldiers = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2549,7 +2549,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2587,7 +2587,7 @@
     soldiers = {
         culture = iroquois
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2611,7 +2611,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2651,7 +2651,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2689,7 +2689,7 @@
     soldiers = {
         culture = inuit
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2719,7 +2719,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2751,7 +2751,7 @@
     soldiers = {
         culture = inuit
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2781,7 +2781,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2813,7 +2813,7 @@
     soldiers = {
         culture = inuit
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2843,7 +2843,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2875,7 +2875,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2899,7 +2899,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2931,7 +2931,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2964,7 +2964,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -2994,7 +2994,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3026,7 +3026,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3106,7 +3106,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3138,7 +3138,7 @@
     soldiers = {
         culture = cree
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3162,7 +3162,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3188,7 +3188,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     labourers = {
@@ -3214,7 +3214,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3240,7 +3240,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3266,7 +3266,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     labourers = {
@@ -3300,7 +3300,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3332,7 +3332,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3360,7 +3360,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3394,7 +3394,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3432,7 +3432,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3464,7 +3464,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3498,7 +3498,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3524,7 +3524,7 @@
     soldiers = {
         culture = nieuwlander
         religion = protestant
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3556,7 +3556,7 @@
     soldiers = {
         culture = inuit
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {
@@ -3588,7 +3588,7 @@
     soldiers = {
         culture = inuit
         religion = animist
-        size = 1100
+        size = 0
     }
 
     farmers = {

@@ -13,7 +13,7 @@ political_decisions = {
 		effect = {
 			set_global_flag = host_nation_picked
 			set_country_flag = host_nation
-			CLN = {
+			GHO = {
 				country_event = 999990	
 			}
 		}

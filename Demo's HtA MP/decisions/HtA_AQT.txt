@@ -197,46 +197,6 @@ political_decisions = {
 			add_accepted_culture = north_italian
 		}
 	}
-	
-	#Prouvençal annexation
-	annex_provence = {
-		picture = negotiations
-		
-		potential = {
-			tag = AQT
-			PRE = {
-				vassal_of = AQT
-			}
-			year = 1845
-		}
-		
-		allow = {
-			PRE = {
-				vassal_of = THIS
-			}
-			prestige = 50
-			OR = {
-				is_greater_power = yes
-				is_secondary_power = yes
-			}
-			ideological_thought = 1
-		}
-		
-		effect = {
-			prestige = 3
-			badboy = 3
-			inherit = PRE
-			PRE = { all_core = { add_core = THIS } }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.85
-			}
-		}
-	}
 # Integrate the French
 #	integrate_the_french = {
 #		potential = {
