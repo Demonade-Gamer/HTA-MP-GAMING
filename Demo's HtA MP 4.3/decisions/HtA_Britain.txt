@@ -74,6 +74,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
+			nationalism_n_imperialism = 1
 		}
 		
 		effect = {
