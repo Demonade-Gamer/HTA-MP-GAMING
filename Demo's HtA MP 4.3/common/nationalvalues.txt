@@ -18,7 +18,6 @@ nv_equality = {
 
 nv_autocracy = {
 	ruling_party_support = 0.3
-	mobilisation_size = 0.025
 	leadership_modifier = 1
 }
 

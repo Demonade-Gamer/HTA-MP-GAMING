@@ -30,22 +30,6 @@ alliance = {
 	end_date = 1949.1.1
 }
 
-# Shawnee-Cherokee
-alliance = {
-	first = SHC
-	second = CHE
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
-
-# Shawnee-Iroquois
-alliance = {
-	first = SHC
-	second = IRO
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
-
 # Hispania-Navarra
 alliance = {
 	first = HIS

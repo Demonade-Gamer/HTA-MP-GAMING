@@ -108,18 +108,14 @@ political_decisions = {
 			set_country_flag = alba_reclaimed
 			prestige = 5
 			badboy = 5
-			SCO = { all_core = { add_core = AEN } }
+			ENG_266 = { add_core = AEN }
+			ENG_271 = { add_core = AEN }
 		}
 		ai_will_do = {
 			factor = 1
 			modifier = {
 				factor = 0
 				badboy = 0.8
-			}
-			modifier = {
-				factor = 0.1
-				alliance_with = SCO
-				NOT = { is_our_vassal = SCO }
 			}
 		}
 	}
@@ -199,10 +195,7 @@ political_decisions = {
 	overlord_eire = {
 		picture = map_eire
 		potential = {
-			OR = {
-				tag = AEN
-				tag = ABN
-			}
+			tag = ABN
 			has_country_flag = alba_reclaimed
 			NOT = { has_country_flag = overlordship_eire }
 			ai = no
@@ -210,6 +203,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
+			nationalism_n_imperialism = 1
 			ENG_266 = { owned_by = THIS }
 			ENG_271 = { owned_by = THIS }
 		}
@@ -218,7 +212,10 @@ political_decisions = {
 			set_country_flag = overlordship_eire
 			prestige = 5
 			badboy = 5
-			IRE = { all_core = { add_core = THIS } }
+			ENG_254 ={ add_core = ABN }
+			ENG_258 ={ add_core = ABN }
+			ENG_260 ={ add_core = ABN }
+			ENG_263 ={ add_core = ABN }
 		}
 	}
 
@@ -236,40 +233,21 @@ political_decisions = {
 		}
 		
 		allow = {
-			SCO = { exists = no }
 			war = no
-			IRE = {
-				OR = {
-					vassal_of = THIS
-					in_sphere = THIS
-					AND = {
-						is_greater_power = no
-						is_secondary_power = no
-						is_vassal = no
-						NOT = { alliance_with = AEN }
-					}
-				}
-			}
 		}
 		
 		effect = {
 			set_country_flag = overlordship_eire
 			prestige = 5
 			badboy = 5
-			release_vassal = IRE
-			relation = {
-				who = IRE
-				value = -200
-			}
-			leave_alliance = IRE
-			IRE = { all_core = { add_core = THIS } }
+			ENG_254 ={ add_core = ABN }
+			ENG_258 ={ add_core = ABN }
+			ENG_260 ={ add_core = ABN }
+			ENG_263 ={ add_core = ABN }
 		}
 	}
 	
-	
-#####################################
-#### Decisions for CLT expansion ####
-#####################################
+
 	
 #Claim Cymru and Kerno
 	claim_wales_cornwall = {
@@ -280,14 +258,12 @@ political_decisions = {
 		}
 		
 		allow = {
-			nationalism_n_imperialism = 1
+			idealism = 1
 		}
 		
 		effect = {
 			prestige = 5
 			ENG_273 = { add_core = CLT }
-			298 = { add_core = CLT } #Acmansbet
-			299 = { add_core = CLT } #Essa
 			add_accepted_culture = cymry
 			add_accepted_culture = cornish
 			set_country_flag = wales_cornwall_claimed
@@ -308,21 +284,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			prestige = 120
-			military_score = 90
-			OR = {
-				total_amount_of_ships = 30
-				BRT = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
+			revolution_n_counterrevolution = 1
 		} 
 		effect = {
 			prestige = 5
@@ -339,7 +301,6 @@ political_decisions = {
 			NOT = { has_country_flag = angles_trolled }
 		}
 		allow = {
-		military_score = 55
 		nationalism_n_imperialism = 1
 		}
 		effect = {
@@ -360,19 +321,8 @@ political_decisions = {
 		
 		allow = {
 			nationalism_n_imperialism = 1
-			prestige = 75
-			SCO = {
-				exists = no
-				all_core = { owned_by = THIS }
-			}
-			WHA = {
-				exists = no
-				all_core = { owned_by = THIS }
-			}
-			KER = {
-				exists = no
-				all_core = { owned_by = THIS }
-			}
+			ENG_266 = { owned_by = THIS }
+			ENG_271 = { owned_by = THIS }
 		}
 		
 		effect = {
@@ -380,7 +330,6 @@ political_decisions = {
 			prestige = 20
 			change_tag = ABN
 			add_accepted_culture = scots
-			SCO = { all_core = { add_core = ABN } }
 			AEN = { all_core = { add_core = ABN remove_core = AEN } }
 		}
 	}
@@ -396,25 +345,10 @@ political_decisions = {
 		
 		allow = {
 			nationalism_n_imperialism = 1
-			prestige = 75
-			SCO = {
-				exists = no
-				all_core = { owned_by = THIS }
-			}
-			WHA = {
-				exists = no
-				all_core = { owned_by = THIS }
-			}
-			KER = {
-				exists = no
-				all_core = { owned_by = THIS }
-			}
 		}
 		
 		effect = {
-			prestige = 20
 			change_tag = ABN
-			SCO = { all_core = { add_core = ABN } }
 			AEN = { all_core = { add_core = ABN remove_core = AEN } }
 		}
 	}
@@ -422,18 +356,16 @@ political_decisions = {
 	embrace_irish = {
 		picture = map_eire
 		potential = {
-			OR = {
-				tag = AEN
-				tag = ABN
-			}
-			NOT = { exists = IRE }
-			IRE = { all_core = { owned_by = THIS } }
+			tag = ABN
 			NOT = { has_country_flag = irish_accepted }
 		}
 		
 		allow = {
-			revolution_n_counterrevolution = 1
-			prestige = 100
+			nationalism_n_imperialism = 1
+			ENG_254 ={ owned_by = ABN }
+			ENG_258 ={ owned_by = ABN }
+			ENG_260 ={ owned_by = ABN }
+			ENG_263 ={ owned_by = ABN }
 		}
 		
 		effect = {

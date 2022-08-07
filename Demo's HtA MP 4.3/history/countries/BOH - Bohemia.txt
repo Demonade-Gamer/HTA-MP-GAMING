@@ -1,11 +1,10 @@
 capital = 625
 primary_culture = czech
 culture = slovak
-culture = hungarian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0
-nationalvalue = nv_might
+nationalvalue = nv_order
 literacy = 0.7
 civilized = yes
 is_releasable_vassal = no
