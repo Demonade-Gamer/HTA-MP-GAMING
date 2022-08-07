@@ -34,6 +34,7 @@ political_decisions = {
 			primary_culture = polish
 			NOT = { tag = POL }
 			NOT = { tag = SLS }
+			NOT = { tag = ZAC }
 			OR = {
 				exists = POL
 				exists = ZAC

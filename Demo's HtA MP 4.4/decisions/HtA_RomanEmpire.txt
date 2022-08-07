@@ -162,22 +162,4 @@ political_decisions = {
 			prestige = 25
 		}
 	}
-the_troll_reform = {
-	picture = map_aegean
-	potential = {
-		tag = BYZ
-		NOT = { has_country_flag = troll_reform }
-		NOT = { has_country_flag = roman_italy }
-	}
-	allow = {
-		year = 1860
-	}
-	effect = {
-		add_accepted_culture = bulgarian
-		add_accepted_culture = serb
-		add_accepted_culture = armenian
-		set_country_flag = troll_reform
-		prestige = 25
-	}
-}
 }
