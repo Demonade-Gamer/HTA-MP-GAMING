@@ -57,19 +57,6 @@ political_decisions = {
 		allow = {
 			state_n_government = 1
 			war = no
-			BRB = {
-				OR = {
-				vassal_of = THIS
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-							war = no
-						}
-					}
-				}
-			}
 			}
 	
 		}
@@ -116,24 +103,7 @@ political_decisions = {
 		}
 
 		effect = {
-			prestige = -10
-			any_pop = {
-				limit = {
-					OR = {
-						has_pop_culture = dutch
-						has_pop_culture = flemish
-					}
-				}
-				militancy = 2
-				consciousness = 3
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = wallonian
-				}
-				militancy = 2
-				consciousness = 3
-			}			
+			prestige = -10			
 			add_accepted_culture = wallonian			
 		}
 	}
