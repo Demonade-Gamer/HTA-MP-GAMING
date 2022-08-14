@@ -47,27 +47,6 @@ political_decisions = {
 	}
 
 #The following are from /gsg/Vickymod, moved here for purposes of consolidation
-
-	accepting_walloon_people = {
-		potential = {
-			tag = NET
-			NOT = { accepted_culture = wallonian }
-		}
-
-		allow = {
-			war = no
-			WLL = {
-				any_core = {
-					owned_by = THIS
-				}
-			}
-		}
-
-		effect = {
-			prestige = -10			
-			add_accepted_culture = wallonian			
-		}
-	}
 	
 	accepting_flemish_people = {
 		potential = {
