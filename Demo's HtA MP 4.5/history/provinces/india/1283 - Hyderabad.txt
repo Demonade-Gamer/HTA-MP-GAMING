@@ -3,6 +3,6 @@ controller = AGR
 add_core = AGR
 add_core = HYD
 add_core = HND
-trade_goods = cotton
+trade_goods = cattle
 life_rating = 32
 
