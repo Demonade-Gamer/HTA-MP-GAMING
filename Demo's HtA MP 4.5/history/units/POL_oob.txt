@@ -1,7 +1,7 @@
 SLS = {
 	value = 125
 	level = 4
-	influence_value = 15
+	influence_value = 5
 }
 LIT = {
 	value = 80
