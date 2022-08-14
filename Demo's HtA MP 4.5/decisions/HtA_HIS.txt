@@ -349,7 +349,7 @@ political_decisions = {
 			NOT = { has_country_flag = med_islands_claimed }
 		}
 		allow = {
-			SIC = { all_core = { owned_by = THIS } }
+			SIC = { all_core = { NOT = { province = 759 province = 760 } owned_by = THIS } }
 			SRD = { all_core = { owned_by = THIS } }
 		}
 		effect = {
