@@ -8,9 +8,12 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		tag = BYZ
-		owns = 873
-		owns = 878
+	OR = {
+			tag = ARM
+			tag = TCA
+		}
+		owns = 864
+		owns = 870
 	}
 	
 	mean_time_to_happen = {
