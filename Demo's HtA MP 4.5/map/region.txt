@@ -220,12 +220,12 @@ BEL_394 = { 392 393 394 395 396 398 } #Wallonia
 
 FRA_399 = { 399 400 401 402 2570 } #Picardie
 
-FRA_445 = { 403 404 405 } #Limousin/Årdene
+FRA_445 = { 403 404 405 408 } #Limousin/Årdene
 
 
 ### France
 
-FRA_404 = { 406 408 429 } #Champagne
+#FRA_404 = { 406 408 429 } #Champagne
 
 FRA_411 = { 411 412 413 414 407 } #Franche-Comté/Bar-Lorraine
 
@@ -235,9 +235,9 @@ FRA_418 = { 418 415 416 417 } #Normandie
 
 FRA_420 = { 420 421 422 423 424 } #Bretagne
 
-FRA_425 = { 425 426 427 } #Ile de France
+FRA_425 = { 425 426 427 406 } #Ile de France
 
-FRA_428 = { 428 430 431 432 433 } #Bourgogne
+FRA_428 = { 428 430 431 432 433 429 } #Bourgogne
 
 FRA_435 = { 434 435 436 437 } #Loire/Líger
 
@@ -311,9 +311,9 @@ PRU_554 = { 554 561 562 563 } #Thuringia
 
 SAX_558 = { 558 559 560 } #Saxony
 
-GER_565 = { 565 583 584 } #Hesse
+#GER_565 = { 565 583 584 } #Hesse
 
-GER_566 = { 564 566 567 568 } #Kassel
+GER_566 = { 564 566 567 568 565 583 584 } #Kassel
 
 PRU_570 = { 569 570 571 2560 } #Palatinate
 
@@ -362,7 +362,7 @@ AUS_633 = { 633 634 635 636 638 } #Slovakia
 
 AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
 
-AUS_652 = { 652 653 792 } #Banat
+#AUS_652 = { 652 653 792 } #Banat
 
 AUS_654 = { 654 655 656 661 651 647 } #Western Transylvania
 
@@ -415,13 +415,13 @@ MOL_676 = { 676 677 678 } #Besserabia
 
 AUS_768 = { 767 768 769 } #Slovenia
 
-AUS_771 = { 771 773 774 775 } #Croatia/Old Croatia
+AUS_771 = { 771 773 774 775 772 776 777 } #Croatia/Old Croatia
 
-AUS_777 = { 772 776 777 } #Slavonia
+#AUS_777 = { 772 776 777 } #Slavonia
 
 AUS_780 = { 780 781 782 2582 } #Dalmatia
 
-AUS_2538 = { 2538 779 791 793 } #Vojvodina/Syrm
+AUS_2538 = { 2538 779 791 793 652 653 792 } #Vojvodina/Syrm
 
 CRO_789 = { 789 784 785 788 } #Krajina
 
