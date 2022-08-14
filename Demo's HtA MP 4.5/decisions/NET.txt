@@ -62,8 +62,6 @@ political_decisions = {
 		effect = {
 			set_country_flag = form_greater_netherlands
 			prestige = 20
-			BRB = { all_core = { add_core = NET } }
-			inherit = BRB			
 			any_pop = {
 				dominant_issue = {
 					factor = 0.15
