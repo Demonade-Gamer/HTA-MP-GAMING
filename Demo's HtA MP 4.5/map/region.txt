@@ -301,7 +301,7 @@ PRU_536 = { 536 534 535 537 553 } #Magdeburg/Braunschweig
 
 HAN_540 = { 540 543 542 538 541 } #East Friesland
 
-PRU_544 = { 544 545 547 548 } #Mecklenburg
+PRU_544 = { 544 545 547 548 530 } #Mecklenburg
 
 PRU_546 = { 546 679 680 692 } #Pomerania
 
