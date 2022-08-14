@@ -30,7 +30,10 @@ foreign_weapons = yes_foreign_weapons
 
 
 flintlock_rifles = 1
-
+practical_steam_engine = 1
+mechanical_production = 1
+water_wheel_power = 1
+publishing_industry = 1
 ruling_party = BNG_conservative
 upper_house = {
 	fascist = 0

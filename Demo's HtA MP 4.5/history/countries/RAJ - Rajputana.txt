@@ -35,5 +35,8 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
+practical_steam_engine = 1
+mechanical_production = 1
+water_wheel_power = 1
+publishing_industry = 1
 oob = "RAJ_oob.txt"
