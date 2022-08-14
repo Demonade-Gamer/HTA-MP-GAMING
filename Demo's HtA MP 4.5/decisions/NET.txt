@@ -48,45 +48,10 @@ political_decisions = {
 
 #The following are from /gsg/Vickymod, moved here for purposes of consolidation
 
-	form_greater_netherlands = {
-		potential = {
-			tag = NET
-			NOT = { has_country_flag = form_greater_netherlands }
-		}
-
-		allow = {
-			state_n_government = 1
-			war = no
-		}
-
-		effect = {
-			set_country_flag = form_greater_netherlands
-			prestige = 20
-			any_pop = {
-				dominant_issue = {
-					factor = 0.15
-					value = jingoism
-				}
-				consciousness = 1
-			}
-			any_country = {
-				limit = {
-					NOT = { tag = THIS }
-					any_owned_province = { is_core = NET }
-				}
-				relation = {
-					who = THIS
-					value = -100
-				}
-			}			
-		}
-	}
-
 	accepting_walloon_people = {
 		potential = {
 			tag = NET
 			NOT = { accepted_culture = wallonian }
-			has_country_flag = form_greater_netherlands
 		}
 
 		allow = {
