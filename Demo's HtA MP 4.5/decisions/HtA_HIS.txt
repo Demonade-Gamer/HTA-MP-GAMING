@@ -69,8 +69,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = integrated_por
-			badboy = 10 
+			set_country_flag = integrated_por 
 			prestige = 15 
 			POR = {
 				all_core = { add_core = THIS }
@@ -349,7 +348,7 @@ political_decisions = {
 			NOT = { has_country_flag = med_islands_claimed }
 		}
 		allow = {
-			SIC = { all_core = { NOT = { province = 759 province = 760 } owned_by = THIS } }
+			SIC = { all_core = { limit = { NOT = { province = 759 province = 760 } } owned_by = THIS } }
 			SRD = { all_core = { owned_by = THIS } }
 		}
 		effect = {
