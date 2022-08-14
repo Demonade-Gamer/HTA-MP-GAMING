@@ -1,3 +1,3 @@
-name = "Demo's HtA MP 4.4"
-path = "mod/Demo's HtA MP 4.4"
-user_dir = "Demo's HtA MP 4.4"
+name = "Demo's HtA MP 4.5"
+path = "mod/Demo's HtA MP 4.5"
+user_dir = "Demo's HtA MP 4.5"
