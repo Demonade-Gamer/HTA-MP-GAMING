@@ -2,7 +2,10 @@ political_decisions = {
 	scaglia_decree = {
 		picture = the_rights_of_man
 		potential = {
-			tag = NPL
+			OR = {
+				tag = NPL
+				tag = ITA
+			}
 			NOT = { has_country_flag = cis_accepted }
 		}
 		
