@@ -264,9 +264,9 @@ FRA_467 = { 470 469 471 472 } #Provence/Prouvença
 
 SPA_474 = { 474 476 518 519 } #Galicia
 
-SPA_477 = { 477 486 475 482 } #León
+SPA_477 = { 477 486 475 482 481 483 480 478 479 } #León
 
-SPA_481 = { 481 483 480 478 479 } #Castilla
+#SPA_481 = { 481 483 480 478 479 } #Castilla
 
 SPA_487 = { 489 488 487 490 491 508 } #Castilla la Nueva
 
@@ -423,9 +423,9 @@ AUS_780 = { 780 781 782 2582 } #Dalmatia
 
 AUS_2538 = { 2538 779 791 793 652 653 792 } #Vojvodina/Syrm
 
-CRO_789 = { 789 784 785 788 } #Krajina
+#CRO_789 = { 789 784 785 788 } #Krajina
 
-TUR_788 = { 783 787 786 } #Bosnia
+TUR_788 = { 783 787 786 789 784 785 788 } #Bosnia
 
 #SER_794 = { 794 797 795 796 } #Northern Serbia
 
@@ -433,9 +433,9 @@ TUR_788 = { 783 787 786 } #Bosnia
 
 TUR_803 = { 803 804 798 802 799 794 797 795 796 } #Southern Serbia
 
-TUR_805 = { 805 819 820 821 822 } #Southern Macedonia/Thessalonikos
+TUR_805 = { 805 819 820 821 822 806 807 } #Southern Macedonia/Thessalonikos
 
-TUR_806 = { 806 807 } #Northern Macedonia/Makedonia
+#TUR_806 = { 806 807 } #Northern Macedonia/Makedonia
 
 TUR_809 = { 817 811 813 814 } #Eastern Rumelia/Paradounavon
 
@@ -1283,13 +1283,13 @@ ARG_2374 = { 2374 2375 2385 2386 2387 2388 } #Catamarca
 
 ARG_2377 = { 2364 2365 2366 2367 } #Chaco
 
-ARG_2384 = { 2384 2383 2382 2379 2381 2380 } #La Pampa
+#ARG_2384 = { 2384 2383 2382 2379 2381 2380 } #La Pampa
 
 ARG_2387 = { 2373 2376 2377 2378 } #Tucumán
 
 ARG_2391 = { 2391 2392 2394 2396 2397 } #Patagonia Septentrional
 
-ARG_2393 = { 2393 2395 2390 2389 } #Rio Negro
+ARG_2393 = { 2393 2395 2390 2389 2384 2383 2382 2379 2381 2380 2374 2375 2385 2386 2387 2388 } #Rio Negro
 
 ARG_2398 = { 2131 2398 2399 2400 } #Patagonia Meridional
 
