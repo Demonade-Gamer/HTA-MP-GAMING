@@ -2197,7 +2197,6 @@ demand_concession_casus_belli = {
 		any_owned_province = {
 			is_colonial = no
 		}
-		not = { any_owned_province = { is_capital = yes } }
 	}
 	
 	po_demand_state = yes
