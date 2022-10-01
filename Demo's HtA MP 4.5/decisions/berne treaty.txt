@@ -2,6 +2,7 @@
 		picture = postal_union
 		potential = {
 			year = 1874
+			NOT = { has_country_flag = berne_treaty_signed }
 		}
 		allow = {
 			civilized = yes
@@ -13,6 +14,7 @@
 				consciousness = 1
 				money = 2500
 			}
+			set_country_flag = berne_treaty_signed
 		}
 		ai_will_do = {
 			factor = 1
