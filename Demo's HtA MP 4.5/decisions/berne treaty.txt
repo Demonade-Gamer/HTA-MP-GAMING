@@ -1,20 +1,53 @@
+political_decisions = {
+	call_berne_conference = {
+		picture = postal_union
+		potential = {
+			ai = no 
+			NOT = {
+				has_global_flag = send_your_letters
+			}
+		}
+		allow = {
+			year = 1870
+		}
+		effect = {
+			add_country_modifier = {
+				name = universal_postal_union
+				duration = -1
+			}
+			set_global_flag = send_your_letters
+			prestige = 10
+			any_pop = {
+				consciousness = 1
+				money = 2000
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	sign_the_berne_treaty = {
 		picture = postal_union
 		potential = {
-			year = 1874
-			NOT = { has_country_flag = berne_treaty_signed }
+			has_global_flag = send_your_letters
+			NOT = {
+				has_country_modifier = universal_postal_union
+			}
 		}
 		allow = {
 			civilized = yes
 		}
 		
 		effect = {
-			treasury = 3000
+			add_country_modifier = {
+				name = universal_postal_union
+				duration = -1
+			}
 			any_pop = {
 				consciousness = 1
-				money = 2500
+				money = 2000
 			}
-			set_country_flag = berne_treaty_signed
 		}
 		ai_will_do = {
 			factor = 1
