@@ -11,13 +11,17 @@ country_event = {
 	OR = {
 			tag = ARM
 			tag = TCA
+			tag = BYZ
 		}
+		war = no
+		owns = 873
+		owns = 878
 		owns = 864
 		owns = 870
 	}
 	
 	mean_time_to_happen = {
-		days = 14
+		days = 7
 	}
 	
 	option = {

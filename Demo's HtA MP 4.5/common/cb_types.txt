@@ -1741,7 +1741,6 @@ demand_concession_casus_belli = {
 	can_use = {
 		NOT = { tag = LCT }
 		#NOT = { tag = CHI }
-		year = 1860
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -2590,8 +2589,7 @@ take_capital_earlygame = {
 				owner = { tag = THIS }
 			}
 		}
-	}
-}	
+	}	
 
 	po_demand_state = yes
 	
@@ -2604,7 +2602,7 @@ take_capital_earlygame = {
 			value = 0.25
 		}
 	}
-
+}
 
 acquire_treaty_port = {
 	sprite_index = 7

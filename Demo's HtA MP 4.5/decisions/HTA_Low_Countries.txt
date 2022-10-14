@@ -129,7 +129,6 @@ political_decisions = {
 		picture = support_biesterfelds
 		potential = {
 			tag = NET
-			has_country_flag = form_greater_netherlands
 			NOT = { has_country_flag = wallonia_integrated }
 		}
 		
@@ -147,6 +146,7 @@ political_decisions = {
 			prestige = 10
 			set_country_flag = wallonia_integrated
 			add_accepted_culture = wallonian
+			add_accepted_culture = picard
 		}
 		
 		ai_will_do = {
