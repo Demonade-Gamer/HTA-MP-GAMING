@@ -35,15 +35,12 @@ USR		= "countries/Uilscyr.txt"
 YUC		= "countries/Yucatan.txt"
 
 # North America
-CHE		= "countries/Cherokee.txt"
 CLF		= "countries/Califiana.txt"
 CUB		= "countries/Cuba.txt"
-DAK		= "countries/Dakota.txt"
 GNC		= "countries/Ginnaecer.txt"
 GRN		= "countries/Greenland.txt"
 HAI		= "countries/Haiti.txt"		
 HAW		= "countries/Hawaii.txt"
-IRO		= "countries/Iroquois.txt"
 JAM		= "countries/Jamaica.txt"
 LSK		= "countries/Alaska.txt"
 MEX		= "countries/Mexico.txt"
@@ -56,7 +53,7 @@ SKM		= "countries/Skamisc.txt"
 SOL		= "countries/Solelha.txt"
 TRS		= "countries/Tarasco.txt"
 VST		= "countries/Vestland.txt"
-NEU 		= "countries/North Eastern Union.txt"
+NEU 	= "countries/North Eastern Union.txt"
 
 # Northern Europe
 ABN		= "countries/Albina.txt"
@@ -463,9 +460,7 @@ YNN		= "countries/Yunnan.txt"
 
 # Japan
 AIN		= "countries/Ainu.txt"
-CHO		= "countries/Choshu.txt"
 RYU		= "countries/Ryukyu.txt"
-SAT		= "countries/Satsuma.txt"
 TKG		= "countries/Shogunate Japan.txt"
 TOS		= "countries/Tosa.txt"
 

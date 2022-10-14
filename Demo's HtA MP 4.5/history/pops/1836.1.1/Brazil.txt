@@ -1405,25 +1405,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 0
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 2750
     }
@@ -1541,25 +1541,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 0
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 930
     }
@@ -3111,31 +3111,31 @@
     }
 
     aristocrats = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 900
     }
@@ -3501,31 +3501,31 @@
     }
 
     aristocrats = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = animist
         size = 900
     }
@@ -3577,25 +3577,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1700
     }
@@ -3639,25 +3639,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1250
     }
@@ -3725,25 +3725,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1200
     }
@@ -3817,25 +3817,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1200
     }
@@ -3903,25 +3903,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 2075
     }
@@ -3965,25 +3965,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 2500
     }
@@ -4047,25 +4047,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size =  0
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 4175
     }
@@ -4109,25 +4109,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size =  0
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1200
     }
@@ -4171,25 +4171,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size =  0
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 1700
     }
@@ -4257,25 +4257,25 @@
     }
 
     clergymen = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size =  0
     }
 
     farmers = {
-        culture = tupinamba
+        culture = shawnee
         religion = catholic
         size = 2075
     }

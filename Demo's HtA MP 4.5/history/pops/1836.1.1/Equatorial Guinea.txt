@@ -33,25 +33,25 @@
     }
 
     artisans = {
-        culture = bakongo
+        culture = yoruba
         religion = protestant
         size = 120
     }
 
     soldiers = {
-        culture = bakongo
+        culture = yoruba
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = bakongo
+        culture = yoruba
         religion = protestant
         size = 1530
     }
 
     slaves = {
-        culture = bakongo
+        culture = yoruba
         religion = animist
         size = 1100
     }
@@ -60,31 +60,31 @@
 #Bata (132000/33000 POPS)
 1973 = {
     aristocrats = {
-        culture = bakongo
+        culture = yoruba
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = bakongo
+        culture = yoruba
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = bakongo
+        culture = yoruba
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = bakongo
+        culture = yoruba
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = bakongo
+        culture = yoruba
         religion = animist
         size = 31500
     }

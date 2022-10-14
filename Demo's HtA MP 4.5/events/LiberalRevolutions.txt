@@ -547,7 +547,7 @@ country_event = {
 	title = "EVTNAME10105"
 	desc = "EVTDESC10105"
 	id = 10105
-	picture = "Metis"
+	picture = "shawnee"
 
 	trigger = {
 		has_country_flag = liberal_revolution_in_progress

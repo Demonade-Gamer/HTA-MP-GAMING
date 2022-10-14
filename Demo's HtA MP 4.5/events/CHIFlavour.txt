@@ -467,7 +467,7 @@ province_event = {
 		months = 80
 		modifier = {
 			factor = 1.5
-			NOT = { culture = beifaren }
+			NOT = { culture = nanfaren }
 		}
 		modifier = {
 			factor = 0.8
@@ -535,7 +535,7 @@ province_event = {
 		months = 80
 		modifier = {
 			factor = 2
-			culture = beifaren
+			culture = nanfaren
 		}
 		modifier = {
 			factor = 0.8
@@ -745,7 +745,7 @@ province_event = {
 		months = 100
 		modifier = {
 			factor = 1.5
-			NOT = { culture = beifaren }
+			NOT = { culture = nanfaren }
 		}
 		modifier = {
 			factor = 2
@@ -896,7 +896,7 @@ province_event = {
 		months = 160
 		modifier = {
 			factor = 2
-			NOT = { culture = beifaren }
+			NOT = { culture = nanfaren }
 		}
 		modifier = {
 			factor = 0.8
@@ -1036,7 +1036,7 @@ province_event = {
 		months = 100
 		modifier = {
 			factor = 2
-			NOT = { culture = beifaren }
+			NOT = { culture = nanfaren }
 		}
 		modifier = {
 			factor = 0.8

@@ -293,31 +293,31 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 3000
     }

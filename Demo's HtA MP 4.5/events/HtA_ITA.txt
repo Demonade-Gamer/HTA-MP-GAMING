@@ -256,12 +256,12 @@ country_event = {
 	}
 }
 
-#Caserta Education Decree choice
+#Caserta Education Deshawnee choice
 country_event = {
 	id = 51852
 	title = "EVTNAME51852"
 	desc = "EVTDESC51852"
-	picture = "italian_decree"
+	picture = "italian_deshawnee"
 	
 	fire_only_once = yes
 	
@@ -269,12 +269,12 @@ country_event = {
 		tag = NPL
 		763 = { owned_by = THIS }
 		OR = {
-			has_country_flag = caserta_education_decree_made
+			has_country_flag = caserta_education_deshawnee_made
 			year = 1837
 		}
 		NOT = {
-			has_country_flag = ed_decree_neapolitan
-			has_country_flag = ed_decree_local
+			has_country_flag = ed_deshawnee_neapolitan
+			has_country_flag = ed_deshawnee_local
 		}
 	}
 	mean_time_to_happen = {
@@ -282,7 +282,7 @@ country_event = {
 	}
 	option = {
 		name = "Neapolitan, naturally."
-		set_country_flag = ed_decree_neapolitan
+		set_country_flag = ed_deshawnee_neapolitan
 		ai_chance = {
 			factor = 75
 			modifier = {
@@ -293,7 +293,7 @@ country_event = {
 	}
 	option = {
 		name = "Local speech makes the most sense."
-		set_country_flag = ed_decree_local
+		set_country_flag = ed_deshawnee_local
 		ai_chance = {
 			factor = 25
 			modifier = {

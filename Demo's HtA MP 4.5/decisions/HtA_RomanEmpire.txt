@@ -116,18 +116,20 @@ political_decisions = {
 		}
 		
 		allow = {
-			year = 1850
+			owns = 753
+			owns = 754
+			owns = 763
+			owns = 765
 		}
 		
 		effect = {
 			set_country_flag = roman_italy
 			badboy = 10
 			prestige = 10
-			ITA = {
-				all_core = {
-					add_core = THIS
-				}
-			}
+			SIC_753 = { add_core = THIS }
+			SIC_754 = { add_core = THIS }
+			SIC_763 = { add_core = THIS }
+			SAR_765 = { add_core = THIS }
 		}
 
 		ai_will_do = {
@@ -149,10 +151,10 @@ political_decisions = {
 
 		allow = {
 			year = 1865
-			ITA = { all_core = { owned_by = THIS } }
-			NOT = { exists = ITA }
-			NOT = { exists = NPL }
-			NOT = { exists = SIC }
+			owns = 753
+			owns = 754
+			owns = 763
+			owns = 765
 		}
 
 		effect = {

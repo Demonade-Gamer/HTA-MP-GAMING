@@ -10,12 +10,12 @@ state_building = {
 	building = steel_factory
 	upgrade = yes
 }
-#state_building = {
+state_building = {
 	level = 2 
 	building = ammunition_factory
 	upgrade = yes
 }
-#state_building = {
+state_building = {
 	level = 2 
 	building = small_arms_factory
 	upgrade = yes

@@ -35,7 +35,7 @@ political_decisions = {
 		}
 		effect = {
 			years_of_research = 0.1
-			add_accepted_culture = beifaren	
+			add_accepted_culture = nanfaren	
 			remove_accepted_culture = mongol
 			any_pop = {
 				limit = { has_pop_culture = manchu }
@@ -359,7 +359,6 @@ political_decisions = {
 			change_tag = KMT
 			set_country_flag = center_of_the_kuomintang
 			add_accepted_culture = nanfaren
-			add_accepted_culture = beifaren
 			add_country_modifier = {
 				name = taiping_draft
 				duration = 1095
@@ -864,7 +863,7 @@ political_decisions = {
 				owner = {
 					all_core = { remove_core = THIS }
 					change_tag = CHI
-					primary_culture = beifaren
+					primary_culture = nanfaren
 					add_accepted_culture = nanfaren
 				}
 			}
@@ -1082,7 +1081,7 @@ political_decisions = {
 				owner = {
 					all_core = { remove_core = THIS }
 					change_tag = CHI
-					primary_culture = beifaren
+					primary_culture = nanfaren
 					add_accepted_culture = nanfaren
 				}
 			}
@@ -1101,7 +1100,7 @@ political_decisions = {
 					all_core = { remove_core = THIS }
 					change_tag = KMT
 					primary_culture = nanfaren
-					add_accepted_culture = beifaren
+					add_accepted_culture = nanfaren
 				}
 			}
 			random_owned = {

@@ -1,6 +1,6 @@
-owner = CHE
-controller = CHE
-add_core = CHE
+owner = SHC
+controller = SHC
+add_core = SHC
 trade_goods = coal
 life_rating = 35
 

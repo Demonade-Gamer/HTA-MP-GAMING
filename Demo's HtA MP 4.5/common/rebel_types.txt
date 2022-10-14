@@ -961,7 +961,7 @@ nationalist_rebels = {
 		}
 		modifier = {
 			factor = 0
-			culture = beifaren
+			culture = nanfaren
 			country = { tag = CHI }
 		}
 		modifier = {
@@ -2699,7 +2699,7 @@ sioux_nation = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture = dakota 
+				culture = shawnee 
 			}
 		}
 		modifier = {
@@ -2755,7 +2755,7 @@ sioux_nation = {
 		}
 		any_pop = {
 			limit = {
-				culture = dakota 
+				culture = shawnee 
 			}
 			militancy = 10
 		}
@@ -2820,7 +2820,7 @@ apache = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture = native_american_minor
+				culture = shawnee
 			}
 		}
 		modifier = {
@@ -2881,7 +2881,7 @@ apache = {
 		}
 		any_pop = {
 			limit = {
-				culture = native_american_minor
+				culture = shawnee
 			}
 			militancy = 10
 		}
@@ -3016,14 +3016,14 @@ zombie_rebels = {
 	
 	demands_enforced_trigger = {
 		14 = { controlled_by = REB } #Columbia
-		37 = { controlled_by = REB } #Metis Confederacy
+		37 = { controlled_by = REB } #shawnee Confederacy
 		57 = { controlled_by = REB } #Canada
 		65 = { controlled_by = REB } #Quebec
 		74 = { controlled_by = REB } #Newfoundland
 		84 = { controlled_by = REB } #Californian Republic
 		97 = { controlled_by = REB } #Deseret	
 		133 = { controlled_by = REB } #Austin
-		143 = { controlled_by = REB } #Cherokee
+		143 = { controlled_by = REB } #shawnee
 		211 = { controlled_by = REB } #CSA
 		220 = { controlled_by = REB } #USA
 		232 = { controlled_by = REB } #Manhatten Commune

@@ -52,9 +52,9 @@ SKM_110 = { 110 112 122 124 } #Necen
 
 USA_116 = { 28 26 29 116 114 } #Montana/Firfede
 
-USA_118 = { 41 42 117 118 157 } #North Dakota/Hisananth
+USA_118 = { 41 42 117 118 157 } #North shawnee/Hisananth
 
-USA_121 = { 120 153 154 155 156 } #South Dakota/Lakotie
+USA_121 = { 120 153 154 155 156 } #South shawnee/Lakotie
 
 USA_124 = { } #Nebraska/Niraska
 
@@ -152,11 +152,7 @@ ENG_300 = { 300 294 301 302 303 } #South East England/Sudsaxe
 
 ### Scandinavia
 
-DEN_251 = { 251 2591 } #Greenland
-
-ICL_252 = { 252 2653 } #Iceland
-
-NOR_253 = { 253 419 3249 } #North Sea Islands
+DEN_251 = { 251 2591 252 2653 253 419 3249 } #Greenland
 
 SWE_308 = { 308 305 306 } #Nordnorge
 
@@ -170,9 +166,9 @@ SWE_322 = { 322 324 326 325 348 } #Stockholm
 
 SWE_329 = { 329 328 327 330 } #Goteburg
 
-SWE_332 = { 332 331 333 } #Småland
+SWE_332 = { 332 331 333 334 335 } #Småland
 
-SWE_334 = { 334 335 } #Malmo/Skåne
+#SWE_334 = { 334 335 } #Malmo/Skåne
 
 DEN_367 = { 367 366 368 2557 } #Jylland
 
@@ -193,17 +189,17 @@ RUS_345 = { 345 343 346 347 } #Turku/Suomi
 
 FIN_988 = { 995 988 992 993 2588 } #New Mexico(V)/ Ääninen
 
-RUS_349 = { 349 350 351 352 353 997 } #Estonia
+RUS_349 = { 349 350 351 352 353 997 354 355 356 357 358 359 } #Estonia
 
-RUS_354 = { 354 355 356 357 358 359 } #Latvia
+#RUS_354 = { 354 355 356 357 358 359 } #Latvia
 
 RUS_361 = { 361 362 363 364 365 360 698 } #Lithuania
 
-RUS_339 = { 339 340 341 344 } #Karelia
+RUS_339 = { 339 340 341 344 983 982 2587 } #Karelia
 
 RUS_994 = { 994 996 1003 1004 2580 } #Ingria/Ingeri
 
-RUS_2587 = { 983 982 2587 } #Kola/Kuollanta
+#RUS_2587 = { 983 982 2587 } #Kola/Kuollanta
 
 
 ### Low Countries

@@ -39,31 +39,31 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 143
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 460
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 8423
     }
@@ -101,31 +101,31 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 28
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 57
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 115
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 2070
     }
@@ -163,25 +163,25 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 2700
     }
@@ -253,31 +253,31 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 28
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 57
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 115
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 28
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 2070
     }
@@ -287,73 +287,73 @@
 #Chihuahua (100000/25000 POPS)
 2142 = {
     aristocrats = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 440
     }
 
     bureaucrats = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 50
     }
 
     officers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 15
     }
 
     clergymen = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 19945
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 2700
     }
@@ -361,31 +361,31 @@
 #Paso del Norte (12000/3000 POPS)
 2143 = {
     aristocrats = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 2700
     }
@@ -393,31 +393,31 @@
 #Delicias (8000/2000 POPS)
 2144 = {
     aristocrats = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1750
     }
@@ -455,31 +455,31 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 2700
     }
@@ -489,31 +489,31 @@
 #Morelos (12000/3000 POPS)
 2147 = {
     aristocrats = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 2700
     }
@@ -563,25 +563,25 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 2750
     }
@@ -589,37 +589,37 @@
 #Monclova (48000/12000 POPS)
 2152 = {
     aristocrats = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 65
     }
 
     artisans = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 3875
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = protestant
         size = 4575
     }
@@ -657,25 +657,25 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 2750
     }
@@ -727,25 +727,25 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 6500
     }
@@ -753,31 +753,31 @@
 #Reynosa (16000/4000 POPS)
 2148 = {
     aristocrats = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 3575
     }
@@ -785,31 +785,31 @@
 #Matamoros (28000/7000 POPS)
 2149 = {
     aristocrats = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = ginnaecerisc
+        culture = califiano
         religion = catholic
         size = 6325
     }
@@ -881,25 +881,25 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1800
     }
@@ -937,25 +937,25 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 1800
     }
@@ -1165,19 +1165,19 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = animist
         size = 3700
     }
@@ -1412,19 +1412,19 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 9350
     }
@@ -1462,19 +1462,19 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 16850
     }
@@ -1632,19 +1632,19 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 10275
     }
@@ -1682,19 +1682,19 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 650
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = shawnee
         religion = catholic
         size = 12125
     }
@@ -1766,19 +1766,19 @@
     }
 
     clergymen = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 1800
     }
 
     farmers = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 33650
     }
@@ -1810,25 +1810,25 @@
     }
 
     clergymen = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 7425
     }
@@ -2138,25 +2138,25 @@
     }
 
     clergymen = {
-        culture = zapotec
+        culture = nahua
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = zapotec
+        culture = nahua
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = zapotec
+        culture = nahua
         religion = catholic
         size = 0
     }
 
     farmers = {
-        culture = zapotec
+        culture = nahua
         religion = catholic
         size = 65450
     }
@@ -2194,25 +2194,25 @@
     }
 
     clergymen = {
-        culture = zapotec
+        culture = nahua
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = zapotec
+        culture = nahua
         religion = catholic
         size = 0
     }
 
     soldiers = {
-        culture = zapotec
+        culture = nahua
         religion = catholic
         size = 0
     }
 
     farmers = {
-        culture = zapotec
+        culture = nahua
         religion = catholic
         size = 18700
     }
@@ -2264,25 +2264,25 @@
     }
 
     clergymen = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 1050
     }
 
     soldiers = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 0
     }
 
     farmers = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 19625
     }
@@ -2320,25 +2320,25 @@
     }
 
     clergymen = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = tarascan
+        culture = nahua
         religion = catholic
         size = 10275
     }

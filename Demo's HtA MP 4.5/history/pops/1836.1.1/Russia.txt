@@ -12062,98 +12062,98 @@
         size = 230
     }
 }
-#Novo Mariinsk (2000/500 POPS) #inuit = chukchi   }
+#Novo Mariinsk (2000/500 POPS) #shawnee = chukchi   }
 2637 = {
     aristocrats = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 7
     }
 
     clergymen = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 450
     }
 }
-#Ugolniye (1000/250 POPS) #inuit = chukchi  }
+#Ugolniye (1000/250 POPS) #shawnee = chukchi  }
 2590 = {
     aristocrats = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 230
     }
 }
-#Pevek (600/150 POPS) #inuit = chukchi  }
+#Pevek (600/150 POPS) #shawnee = chukchi  }
 2666 = {
     aristocrats = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 4
     }
 
     soldiers = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = inuit
+        culture = shawnee
         religion = animist
         size = 135
     }

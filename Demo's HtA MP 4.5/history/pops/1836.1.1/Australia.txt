@@ -1025,7 +1025,7 @@
         size = 4500
     }
 }
-#Halls Creek (2000/500 POPS)
+#Halls shawneek (2000/500 POPS)
 2601 = {
     aristocrats = {
         culture = largano
@@ -1131,7 +1131,7 @@
         size = 22500
     }
 }
-#Tennant Creek (8000/2000 POPS)
+#Tennant shawneek (8000/2000 POPS)
 2506 = {
     aristocrats = {
         culture = largano

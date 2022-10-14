@@ -1,18 +1,4 @@
-leader = {
-	name = "Dost Mohammed"
-	type = land
-	date = 1836.1.1
-	personality = stalwart
-	background = debutante
-}
 
-leader = {
-	name = "Yar Mohammed"
-	type = land
-	date = 1836.1.1
-	personality = intuitive 
-	background = aristocrat
-}
 
 army = {
 	name = "Army of Dost Mohammed"

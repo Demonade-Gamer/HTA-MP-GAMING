@@ -21,7 +21,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = shawnee
 		religion = protestant
 		size = 1100
 	}
@@ -41,7 +41,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = shawnee
 		religion = protestant
 		size = 300
 	}

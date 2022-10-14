@@ -10,7 +10,7 @@ ai_boost = {
 		NOT = {
 		 	is_culture_group = east_asian
 			OR = { 
-				has_pop_culture = beifaren
+				has_pop_culture = nanfaren
 				has_pop_culture = nanfaren
 				has_pop_culture = yue 
 			}
@@ -139,7 +139,7 @@ own_suez_canal = {
 	}
 	icon = 9
 	tariff_efficiency_modifier = 0.1
-	tax_efficiency = 0.25
+	tax_efficiency = 0.1
 	prestige = 0.01
 }
 
@@ -152,7 +152,7 @@ own_panama_canal = {
 	}
 	icon = 9
 	tariff_efficiency_modifier = 0.2
-	tax_efficiency = 0.25
+	tax_efficiency = 0.1
 	prestige = 0.02
 }
 
@@ -458,5 +458,5 @@ chinese_rp_nerf = {
 		}
 		civilized = no
 	}
-	research_points_on_conquer = -70.0
+	research_points_on_conquer = -99.0
 }

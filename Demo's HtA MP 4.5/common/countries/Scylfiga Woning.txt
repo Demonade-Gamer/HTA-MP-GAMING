@@ -109,7 +109,7 @@ unit_names = {
 	}
 	
 	ironclad = {
-		"Tlingit" "Hayda" "Salish" "Tilamuk" "Cinuk" "Maca" "Nuxalk" "Cimakum" "Earn" "Hragra" "Leax" "Wyrm" "Sonora" "Pueblo" "Apacie" "Nawaho" "Yuma" "Mohave" "Comangge" "Wicita" "Apexe" "Sacaro" "Gesceaft" "Cynepise" "Draca"
+		"Tlingit" "Hayda" "Salish" "Tilamuk" "Cinuk" "Maca" "Nuxalk" "Cimakum" "Earn" "Hragra" "Leax" "Wyrm" "Sonora" "shawnee" "Apacie" "Nawaho" "Yuma" "Mohave" "Comangge" "Wicita" "Apexe" "Sacaro" "Gesceaft" "Cynepise" "Draca"
 	}
 	manowar = {
 		"Marlborough" "Frederick William" "Algiers" "Albion" "Aboukir" "Exmouth" "Saint Jean D'Acre" "Hannibal" "Caesar" "Vanguard" "Goliath" "Suberb" "Meeanee" "Collingwood" "Centurion" "Mars" "Lion" "Majestic" "Colossus" "Irresistible" "Brunswick" "Orion" "Hood" "Edgar" "Sans Pareil" "Boscawen" "Cumberland"

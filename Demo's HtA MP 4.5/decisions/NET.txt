@@ -76,7 +76,7 @@ political_decisions = {
 			set_country_flag = flemish_embraced
 		}
 	}
-	education_decree_1863 = {
+	education_deshawnee_1863 = {
 		picture = map_phillipines
 		potential = {
 			tag = NET
@@ -87,7 +87,7 @@ political_decisions = {
 				government = prussian_constitutionalism
 			}
 			NOT = {
-				has_country_flag = education_decree_1863
+				has_country_flag = education_deshawnee_1863
 				any_owned_province = {
 					is_core = PHL
 					has_province_modifier = colonial_recruitment
@@ -102,7 +102,7 @@ political_decisions = {
 		}
 
 		effect = {
-			set_country_flag = education_decree_1863
+			set_country_flag = education_deshawnee_1863
 			money = -50000
 			prestige = 5
 			any_pop = {

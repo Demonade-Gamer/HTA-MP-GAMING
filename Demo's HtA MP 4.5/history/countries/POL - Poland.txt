@@ -70,5 +70,3 @@ mechanized_mining = 1
 basic_chemistry = 1
 
 oob = "POL_oob.txt"
-
-decision = HtA_POL_setup

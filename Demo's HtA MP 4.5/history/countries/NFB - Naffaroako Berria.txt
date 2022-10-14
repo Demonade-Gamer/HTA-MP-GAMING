@@ -1,6 +1,5 @@
 capital = 2510
-primary_culture = berrian
-culture = largano
+primary_culture = largano
 religion = catholic
 government = democracy
 plurality = 0.1

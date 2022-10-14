@@ -28,7 +28,7 @@
 
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 5750
 	}	
@@ -184,38 +184,38 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 20
 	}
 	
 	bureaucrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 20
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size= 10
 
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 900
 	}
@@ -316,25 +316,25 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 20
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size= 10
 
@@ -477,25 +477,25 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size= 25
 
@@ -508,26 +508,26 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 50
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size= 25
 
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 900
 	}
@@ -566,63 +566,63 @@
 	}
 
 	aristocrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size= 75
 
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = sunni
 		size = 14325
 	}
 
 	bureaucrats = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 50
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 150
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size= 50
 
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 10750
 	}
@@ -749,7 +749,7 @@
 
 
 	farmers = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 250
 	}	

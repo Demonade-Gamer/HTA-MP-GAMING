@@ -1,47 +1,4 @@
 political_decisions = {
-	protect_iroquois = {
-		picture = "native_man"
-		potential = {
-			tag = SHC
-			exists = IRO
-			NOT = { has_country_flag = protect_IRO }
-		}
-		
-		allow = {
-			IRO = { vassal_of = THIS }
-		}
-		
-		effect = {
-			set_country_flag = protect_IRO
-			prestige = 5
-			badboy = 7
-			inherit = IRO
-			IRO = {	all_core = { add_core = THIS } }
-			add_accepted_culture = iroquois
-		}
-	}
-	
-	protect_cherokee = {
-		picture = "native_man"
-		potential = {
-			tag = SHC
-			exists = CHE
-			NOT = { has_country_flag = protect_CHE }
-		}
-		
-		allow = {
-			CHE = { vassal_of = THIS }
-		}
-		
-		effect = {
-			set_country_flag = protect_CHE
-			prestige = 5
-			badboy = 7
-			inherit = CHE
-			CHE = {	all_core = { add_core = THIS } }
-			add_accepted_culture = cherokee
-		}
-	}
 	sell_solelha = {
 		potential = {
 			tag = AQT
@@ -285,7 +242,6 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = skamisc
-			add_accepted_culture = ginnaecerisc
 			add_accepted_culture = margarian
 			add_accepted_culture = califiano
 			add_accepted_culture = afro_american
@@ -539,7 +495,6 @@ invade_the_mexicans_scw = {
 			GNC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			add_accepted_culture = ginnaecerisc
 			add_accepted_culture = califiano
 			set_country_flag = north_integrated
 		}

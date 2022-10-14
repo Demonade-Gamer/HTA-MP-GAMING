@@ -563,8 +563,7 @@ country_event = {
 	option = {
 		name = "We have little option."
 		set_country_flag = boxers_disbanded
-		treasury = -100000
-		relation = { who = FROM value = 200 }
+		treasury = -
 		any_greater_power = {
 			limit = { 
 				has_country_flag = intervened_boxer_war

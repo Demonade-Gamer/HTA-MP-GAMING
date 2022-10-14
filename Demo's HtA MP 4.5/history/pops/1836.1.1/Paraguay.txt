@@ -135,31 +135,31 @@
 	}
 
 	clergymen = {
-		culture = tupinamba
+		culture = shawnee
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = tupinamba
+		culture = shawnee
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = tupinamba
+		culture = shawnee
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = tupinamba
+		culture = shawnee
 		religion = catholic
 		size = 3150
 	}
 
 	slaves = {
-		culture = tupinamba
+		culture = shawnee
 		religion = catholic
 		size = 1500
 	}

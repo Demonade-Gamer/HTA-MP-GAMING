@@ -1,9 +1,8 @@
 capital = 474
 primary_culture = largano
-culture = berrian
 religion = catholic
 government = hms_government
-plurality = 0.0
+plurality = 15.0
 nationalvalue = nv_liberty
 literacy = 0.35
 civilized = yes

@@ -101,22 +101,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele Creek" Kodiak Bethel "Chena Ridge" Sterling Gateway
+	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele shawneek" Kodiak Bethel "Chena Ridge" Sterling Gateway
 	}
 	ironclad = {
-	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele Creek" Kodiak Bethel "Chena Ridge" Sterling Gateway
+	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele shawneek" Kodiak Bethel "Chena Ridge" Sterling Gateway
 	}
 	manowar = {
-	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele Creek" Kodiak Bethel "Chena Ridge" Sterling Gateway
+	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele shawneek" Kodiak Bethel "Chena Ridge" Sterling Gateway
 	}
 	cruiser = {
-	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele Creek" Kodiak Bethel "Chena Ridge" Sterling Gateway
+	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele shawneek" Kodiak Bethel "Chena Ridge" Sterling Gateway
 	}
 	frigate = {
-	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele Creek" Kodiak Bethel "Chena Ridge" Sterling Gateway
+	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele shawneek" Kodiak Bethel "Chena Ridge" Sterling Gateway
 	}
 	monitor = {
-	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele Creek" Kodiak Bethel "Chena Ridge" Sterling Gateway
+	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele shawneek" Kodiak Bethel "Chena Ridge" Sterling Gateway
 	}
 	clipper_transport = {
 		
@@ -125,6 +125,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele Creek" Kodiak Bethel "Chena Ridge" Sterling Gateway
+	Aleutia "Midnight Sun" Juneau Fairbanks Anchorage Badger Knik-Fairview Sitka Lakes Tanaina Ketchikan Kalifornsky Cicely Wasilla "Meadow Lakes" Kenai "Steele shawneek" Kodiak Bethel "Chena Ridge" Sterling Gateway
 	}
 }

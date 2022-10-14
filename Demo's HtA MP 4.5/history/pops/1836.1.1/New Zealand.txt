@@ -4,37 +4,37 @@
 #Auckland (17000/4250 POPS)
 2509 = {
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 400
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 8575
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 1250
 	}
@@ -42,61 +42,61 @@
 #New Plymouth (8000/2000 POPS)
 2510 = {
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 150
 	}
 	
 	bureaucrats = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 250
 	}
 		
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 850
 	}
 	
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 1100
 	}
 	
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 7250
 	}
 
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 4775
 	}
@@ -105,61 +105,61 @@
 #Napier (12000/3000 POPS)
 2511 = {
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 75
 	}
 	
 	bureaucrats = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 120
 	}
 		
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 450
 	}
 	
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 550
 	}
 	
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 3350
 	}
 	
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 5075
 	}
@@ -167,60 +167,60 @@
 #Wellington (12000/3000 POPS)
 2512 = {
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 75
 	}
 	
 	bureaucrats = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 120
 	}
 		
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 450
 	}
 	
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 550
 	}
 	
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 3350
 	}
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 8675
 	}
@@ -229,61 +229,61 @@
 2571 = {
 
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 45
 	}
 	
 	bureaucrats = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 60
 	}
 		
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 250
 	}
 	
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 200
 	}
 	
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 3050
 	}
 	
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 255
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 7675
 	}
@@ -293,37 +293,37 @@
 #Dunedin (4000/1000 POPS)
 2513 = {
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 550
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 9000
 	}
 	
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 550
 	}
@@ -331,37 +331,37 @@
 #Hokitikia (4000/1000 POPS)
 2514 = {
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 550
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 9000
 	}
 	
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 550
 	}
@@ -369,37 +369,37 @@
 #Christchurch (4000/1000 POPS)
 2515 = {
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 550
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 17750
 	}
 	
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 550
 	}
@@ -407,37 +407,37 @@
 #Nelson (12000/3000 POPS)
 2516 = {
 	aristocrats = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 750
 	}
 
 	artisans = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 750
 	}
 
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = animist
 		size = 26750
 	}
 	
 	farmers = {
-		culture = berrian
+		culture = largano
 		religion = catholic
 		size = 550
 	}

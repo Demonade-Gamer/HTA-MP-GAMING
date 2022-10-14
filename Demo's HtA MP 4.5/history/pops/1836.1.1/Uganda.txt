@@ -3,91 +3,91 @@
 #Entebbe (400000/100000 POPS) 
 2019 = {
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 1350
 	}
 
 	bureaucrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 50
 	}
 
 	officers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 725
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 2800
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 1700
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 53225
 	}
 
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 575
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 12500
 	}
 	
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 7325
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 7500
 	}		
 
 	slaves = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 11000
 	}
@@ -95,109 +95,109 @@
 #Mbarara (232000/53000 POPS) 
 2020 = {
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 175
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 5225
 	}
 
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 475
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 750
 	}
 	
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 550
 	}	
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 1250
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 20000
 	}
 	
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 1775
 	}	
 
 	slaves = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 12000
 	}
 
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 8550
 	}
@@ -205,79 +205,79 @@
 #Masindi (192000/48000 POPS) 
 2021 = {
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 550
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 1450
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 25000
 	}
 	
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 1100
 	}	
 	
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 400
 	}		
 
 	slaves = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 9000
 	}
 
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 775
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 8450
 	}
@@ -285,67 +285,67 @@
 #Kitgum (104000/26000 POPS) 
 2022 = {
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 775
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 14450
 	}
 
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 63075
 	}
 
 	slaves = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 3000
 	}
@@ -353,67 +353,67 @@
 #Jinja (208000/52000 POPS) 
 2023 = {
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 6850
 	}
 
 	aristocrats = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 375
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 1900
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 375
 	}
 
 	farmers = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 38400
 	}
 
 	slaves = {
-		culture = bakongo
+		culture = yoruba
 		religion = animist
 		size = 6000
 	}
