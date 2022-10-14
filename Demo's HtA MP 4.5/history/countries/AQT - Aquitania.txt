@@ -2,9 +2,9 @@ capital = 461
 primary_culture = aquitanian
 religion = catholic
 government = absolute_monarchy
-plurality = 0.1
+plurality = 20
 nationalvalue = nv_order
-literacy = 0.58
+literacy = 0.6
 civilized = yes
 
 #GP5

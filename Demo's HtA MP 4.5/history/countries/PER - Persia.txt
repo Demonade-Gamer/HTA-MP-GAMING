@@ -3,9 +3,9 @@ primary_culture = persian
 culture = hazara
 religion = sunni
 government = absolute_monarchy
-plurality = 0.0
-nationalvalue = nv_loyalty
-literacy = 0.20
+plurality = 10.0
+nationalvalue = nv_education
+literacy = 0.25
 non_state_culture_literacy = 0.05
 prestige = 15
 
