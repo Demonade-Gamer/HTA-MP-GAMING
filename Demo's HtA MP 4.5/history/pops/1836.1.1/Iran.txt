@@ -919,7 +919,7 @@
 	}
 
     slaves = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 4000
     }	
@@ -1062,7 +1062,7 @@
 	}
 
 	slaves = {
-		culture = sindi
+		culture = avadhi
 		religion = sunni
 		size = 3000
 	}
@@ -1302,7 +1302,7 @@
 	}
 
     slaves = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 3000
     }	
@@ -1381,7 +1381,7 @@
 	}
 	
 	slaves = {
-		culture = sindi
+		culture = avadhi
 		religion = sunni
 		size = 1100
 	}	
@@ -1705,7 +1705,7 @@
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = yoruba
 		religion = animist
 		size = 1100
 	}	
@@ -1744,13 +1744,13 @@
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = yoruba
 		religion = animist
 		size = 1100
 	}
 
 	slaves = {
-		culture = beja
+		culture = yoruba
 		religion = animist
 		size = 1100
 	}		
@@ -1826,7 +1826,7 @@
 	}
 
 	slaves = {
-		culture = oromo
+		culture = yoruba
 		religion = animist
 		size = 700
 	}	
@@ -1904,7 +1904,7 @@
 	}
 
 	slaves = {
-		culture = nuba
+		culture = yoruba
 		religion = animist
 		size = 550
 	}		
@@ -2088,7 +2088,7 @@
 	}
 
     slaves = {
-        culture = shona
+        culture = yoruba
         religion = sunni
         size = 550
     }	

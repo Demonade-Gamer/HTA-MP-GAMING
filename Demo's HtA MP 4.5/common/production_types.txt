@@ -1090,7 +1090,7 @@ artisan_aeroplane = {
 	value = 0.91			#100
 	
 	owner = {
-		poptype = artisans 
+		poptype = artisan
 		effect = output
 	}
 	

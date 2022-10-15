@@ -966,11 +966,6 @@ nationalist_rebels = {
 		}
 		modifier = {
 			factor = 0
-			culture = nanfaren
-			country = { tag = CHI }
-		}
-		modifier = {
-			factor = 0
 			OR = {
 				culture = catalan
 				culture = basque
@@ -1754,12 +1749,6 @@ boxer_rebels = {
 		any_pop = {
 			reduce_pop = 0.95
 		}
-		random_country = {
-			limit = {
-				is_greater_power = yes
-			}
-			country_event = { id=13356 days=0 }
-		}
 	}
 
 	# Country scope
@@ -1767,12 +1756,6 @@ boxer_rebels = {
 		any_owned_province = {
 			controlled_by = REB
 			province_control_days = 30
-		}
-	}
-	
-	demands_enforced_effect = {
-		any_greater_power = {
-			country_event = { id=13356 days=0 }
 		}
 	}
 }

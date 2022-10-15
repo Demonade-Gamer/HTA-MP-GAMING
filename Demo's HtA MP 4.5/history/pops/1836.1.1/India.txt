@@ -516,7 +516,7 @@
     }
 
     farmers = {
-        culture = kashmiri
+        culture = avadhi
         religion = sunni
         size = 12850
     }
@@ -6517,7 +6517,7 @@
     }
 
     artisans = {
-        culture = sindi
+        culture = avadhi
         religion = jewish
         size = 1100
     }
@@ -6541,79 +6541,79 @@
     }
 
     clergymen = {
-        culture = gujarati
+        culture = avadhi
         religion = animist
         size = 625
     }
 
     artisans = {
-        culture = gujarati
+        culture = avadhi
         religion = animist
         size = 8000
     }
 
     farmers = {
-        culture = gujarati
+        culture = avadhi
         religion = animist
         size = 38125
     }
 
     aristocrats = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 550
     }
 
     clergymen = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 1250
     }
 
     bureaucrats = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 550
     }
 
     artisans = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 11000
     }
 
     artisans = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 11000
     }
 
     soldiers = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 97250
     }
 
     clergymen = {
-        culture = sindi
+        culture = avadhi
         religion = shiite
         size = 50
     }
 
     artisans = {
-        culture = sindi
+        culture = avadhi
         religion = shiite
         size = 3875
     }
 
     farmers = {
-        culture = sindi
+        culture = avadhi
         religion = shiite
         size = 2075
     }
@@ -6651,31 +6651,31 @@
     }
 
     aristocrats = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = sindi
+        culture = avadhi
         religion = sunni
         size = 4775
     }

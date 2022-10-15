@@ -76,7 +76,7 @@ political_decisions = {
 			set_country_flag = flemish_embraced
 		}
 	}
-	education_deshawnee_1863 = {
+	education_decree_1863 = {
 		picture = map_phillipines
 		potential = {
 			tag = NET

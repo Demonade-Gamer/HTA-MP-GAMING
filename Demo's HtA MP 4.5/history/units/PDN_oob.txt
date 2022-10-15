@@ -3,8 +3,8 @@ leader = {
 	name = "Vincenzo di Moncalieri"
 	type = land
 	date = 1836.1.1
-	personality = attack_1.1
-	background = defence_3.1
+	personality = defence_3.1
+	background = attack_1.1
 }
 
 army = {

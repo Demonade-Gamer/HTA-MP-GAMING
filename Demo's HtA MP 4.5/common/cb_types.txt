@@ -64,7 +64,6 @@ dismantle_forts
 humiliate
 demand_concession_casus_belli
 demand_concession_casus_belli_china
-demand_concession_casus_belli_player
 demand_colonial_concession_casus_belli
 establish_protectorate_casus_belli
 establish_colonial_protectorate_casus_belli
@@ -661,10 +660,6 @@ acquire_state = {
 				}
 			 } 
 		}
-		AND = {
-		   year = 1836
-		   NOT = { year = 1870 }
-		}
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -686,6 +681,12 @@ acquire_state = {
 				civilized = no
 				THIS = {
 					civilized = no
+				}
+			}
+			AND = { 
+				civilized = no
+				THIS = {
+					civilized = yes
 				}
 			}
 		}
@@ -720,202 +721,6 @@ acquire_state = {
 		}
 	}
 }
-
-#Acquire State Midgame
-acquire_state_midgame = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 0
-	crisis = no
-
-	badboy_factor = 1.9
-	prestige_factor = 1
-	peace_cost_factor = 1.25
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	construction_speed = 0.5
-
-	can_use = {
-		NOT = { tag = LCT }
-		AND = {
-		   year = 1870
-		   NOT = { year = 1900 }
-		}
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		THIS = { NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			 } 
-		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-		number_of_states = 2 # annex if you want their last state
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-	}
-	
-	allowed_states = {
-		is_colonial = no
-		any_owned_province = {
-			not = {	is_core = THIS }
-			is_colonial = no
-		}
-		not = { any_owned_province = { is_capital = yes } }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}
-		
-
-	po_demand_state = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.00
-		}
-	}
-}
-
-#Acquire State Late
-acquire_state_late = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 0
-	crisis = no
-
-	badboy_factor = 1.75
-	prestige_factor = 1
-	peace_cost_factor = 1.2
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	construction_speed = 0.5
-
-	can_use = {
-		NOT = { tag = LCT }
-		AND = {
-		   year = 1900
-		}
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		THIS = { NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			 } 
-		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-		number_of_states = 2 # annex if you want their last state
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-	}
-	
-	allowed_states = {
-		is_colonial = no
-		any_owned_province = {
-			not = {	is_core = THIS }
-			is_colonial = no
-		}
-		not = { any_owned_province = { is_capital = yes } }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}
-		
-
-	po_demand_state = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.00
-		}
-	}
-}
-
 # Place in the Sun
 place_in_the_sun = {
 	sprite_index = 7
@@ -1811,7 +1616,10 @@ demand_concession_casus_belli_china = {
 
 	can_use = {
 		NOT = { tag = LCT }
-		tag = CHI
+		AND = { 
+			tag = CHI
+			ai = no
+		}
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1838,7 +1646,6 @@ demand_concession_casus_belli_china = {
 		any_owned_province = {
 			is_colonial = no
 		}
-#		not = { any_owned_province = { is_capital = yes } }
 	}
 	
 	po_demand_state = yes
@@ -2484,7 +2291,7 @@ conquest_low = {
 	war_name = WAR_CONQUEST_NAME
 }
 
-take_capital_earlygame = {
+take_capital = {
 	sprite_index = 6
 	is_triggered_only = yes
 	months = 9
@@ -2738,9 +2545,6 @@ negotiated_transfer = {
 	}
 	
 	allowed_states = {
-		#any_owned_province = {
-		#	not = { is_core = PRU }
-		#}
 		OR = {
 			is_colonial = yes
 			is_colonial = no
@@ -3135,76 +2939,5 @@ dismantle_factories = {
 	
 	on_po_accepted = {
 		country_event =	2652	# Territorial Loss event
-	}
-}
-
-# Demand Concession Early on Player
-demand_concession_casus_belli = {
-	sprite_index = 7
-	is_triggered_only = yes
-	months = 0
-	construction_speed = 0.5
-	crisis = no
-	
-	badboy_factor = 0.5
-	prestige_factor = 0.1
-	peace_cost_factor = 0.8
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 0
-	good_relation_infamy_factor = 0
-	good_relation_militancy_factor = 0
-
-	can_use = {
-		NOT = { tag = LCT }
-		ai = no
-		#NOT = { tag = CHI }
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		THIS = { NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			 } 
-		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-		THIS = {
-			civilized = yes
-		}
-		civilized = no
-		number_of_states = 2
-	}
-	
-	allowed_states = {
-		NOT = { any_owned_province = { is_core = CHI } }
-		any_owned_province = {
-			is_colonial = no
-		}
-		not = { any_owned_province = { is_capital = yes } }
-	}
-	
-	po_demand_state = yes
-	
-	war_name = WAR_CONCESSION_NAME
-
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.1
-		}
 	}
 }

@@ -1,7 +1,5 @@
 TKG = { value = 100 }
 TOS = { value = 100 }
-CHO = { value = 100 }
-SAT = { value = 100 }
 
 army = {
 	name = "Army of Ainu Mosir"

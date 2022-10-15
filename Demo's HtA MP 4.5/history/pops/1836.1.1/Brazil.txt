@@ -114,7 +114,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -146,7 +146,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -178,7 +178,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -210,7 +210,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -242,7 +242,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -274,7 +274,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -380,7 +380,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -436,7 +436,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -466,7 +466,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -523,7 +523,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -549,7 +549,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -579,7 +579,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -611,13 +611,13 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
         culture = aquitanian
         religion = catholic
-        size =  0
+        size =  200
     }
 
     clergymen = {
@@ -629,19 +629,19 @@
     artisans = {
         culture = afro_antillean
         religion = catholic
-        size = 0
+        size = 200
     }
 
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
         culture = afro_antillean
         religion = catholic
-        size = 0
+        size = 200
     }
 
     slaves = {
@@ -659,13 +659,13 @@
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 0
+        size = 200
     }
 
     soldiers = {
         culture = amazonian
         religion = catholic
-        size =  0
+        size =  200
     }
 
     slaves = {
@@ -691,13 +691,13 @@
     artisans = {
         culture = aquitanian
         religion = catholic
-        size = 0
+        size = 200
     }
 
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -721,13 +721,13 @@
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 0
+        size = 200
     }
 
     soldiers = {
         culture = amazonian
         religion = catholic
-        size =  0
+        size =  200
     }
 
     slaves = {
@@ -765,7 +765,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -795,7 +795,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -806,7 +806,7 @@
 }
 #Mato Grosso Region (108000)
 #Under the rule of Brazil 1836
-#Dourados (44000/ 00 POPS)
+#Dourados (44000/ 2000 POPS)
 2416 = {
     aristocrats = {
         culture = uilsc
@@ -841,7 +841,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -865,7 +865,7 @@
     soldiers = {
         culture = guarani
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -898,7 +898,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -924,7 +924,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -954,7 +954,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -984,7 +984,7 @@
     soldiers = {
         culture = guarani
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -1010,7 +1010,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -1040,7 +1040,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -1068,7 +1068,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -1098,7 +1098,7 @@
     soldiers = {
         culture = guarani
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -1144,7 +1144,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1168,7 +1168,7 @@
     soldiers = {
         culture = lutzan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1201,7 +1201,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1231,7 +1231,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1257,7 +1257,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1287,7 +1287,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1327,13 +1327,13 @@
     artisans = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1357,7 +1357,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1395,7 +1395,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1419,7 +1419,7 @@
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1451,7 +1451,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1475,7 +1475,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1487,7 +1487,7 @@
     slaves = {
         culture = afro_uilsc
         religion = catholic
-        size = 00
+        size = 2000
     }
 }
 #Oieras (44000/11000 POPS)
@@ -1513,7 +1513,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1555,7 +1555,7 @@
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1577,7 +1577,7 @@
     clergymen = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     artisans = {
@@ -1589,7 +1589,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1613,7 +1613,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1663,7 +1663,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1687,7 +1687,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1699,7 +1699,7 @@
     slaves = {
         culture = afro_uilsc
         religion = catholic
-        size = 00
+        size = 2000
     }
 }
 #Crato (52000/13000 POPS)
@@ -1725,7 +1725,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1749,7 +1749,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1787,7 +1787,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1811,7 +1811,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1863,7 +1863,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1887,7 +1887,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1899,7 +1899,7 @@
     slaves = {
         culture = afro_uilsc
         religion = catholic
-        size = 00
+        size = 2000
     }
 }
 #Cabrobo (80000/20000 POPS)
@@ -1925,7 +1925,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1949,7 +1949,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -1987,7 +1987,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2011,7 +2011,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2023,7 +2023,7 @@
     slaves = {
         culture = afro_uilsc
         religion = catholic
-        size = 00
+        size = 2000
     }
 }
 #Aracaju (120000/30000 POPS)
@@ -2049,7 +2049,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2073,7 +2073,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2125,7 +2125,7 @@
     artisans = {
         culture = lutzan
         religion = catholic
-        size = 00
+        size = 2000
     }
 
     artisans = {
@@ -2137,7 +2137,7 @@
     soldiers = {
         culture = lutzan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2167,7 +2167,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2205,7 +2205,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2229,7 +2229,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2267,7 +2267,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2291,7 +2291,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2323,13 +2323,13 @@
     artisans = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2353,7 +2353,7 @@
     soldiers = {
         culture = lutzan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2391,7 +2391,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2427,7 +2427,7 @@
     soldiers = {
         culture = tareconano
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2479,7 +2479,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2503,7 +2503,7 @@
     soldiers = {
         culture = lutzan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2541,7 +2541,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2565,7 +2565,7 @@
     soldiers = {
         culture = lutzan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2585,7 +2585,7 @@
     aristocrats = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     clergymen = {
@@ -2603,7 +2603,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2627,7 +2627,7 @@
     soldiers = {
         culture = lutzan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -4031,13 +4031,13 @@
     soldiers = {
         culture = platinean
         religion = catholic
-        size =  0
+        size =  200
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4061,7 +4061,7 @@
     soldiers = {
         culture = shawnee
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4099,7 +4099,7 @@
     soldiers = {
         culture = platinean
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4123,7 +4123,7 @@
     soldiers = {
         culture = shawnee
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4161,7 +4161,7 @@
     soldiers = {
         culture = platinean
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4185,7 +4185,7 @@
     soldiers = {
         culture = shawnee
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4215,7 +4215,7 @@
     soldiers = {
         culture = guarani
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4271,7 +4271,7 @@
     soldiers = {
         culture = shawnee
         religion = catholic
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4333,7 +4333,7 @@
     soldiers = {
         culture = guarani
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4367,7 +4367,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {
@@ -4399,7 +4399,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  0
+        size =  200
     }
 
     farmers = {

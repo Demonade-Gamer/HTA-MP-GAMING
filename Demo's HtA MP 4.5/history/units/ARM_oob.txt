@@ -2,6 +2,16 @@ BYZ = {
 	value = -50
 }
 
+leader = {
+	name = "The Armenian Gigachad"
+	picture = csa_gen_early
+	date = 1835.1.1
+	type = land
+	personality = defence_3.1
+	background = attack_5.1
+	prestige = 100
+}
+
 army = {
 	name = "Army of Hayastan"
 	location = 1098

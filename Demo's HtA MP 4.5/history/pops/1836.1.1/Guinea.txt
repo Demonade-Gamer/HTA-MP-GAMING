@@ -271,7 +271,7 @@
 	}
 
 	artisans = {
-		culture = mande
+		culture = yoruba
 		religion = sunni
 		size = 1875
 	}

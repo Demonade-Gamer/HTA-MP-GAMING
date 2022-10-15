@@ -11,7 +11,6 @@ ai_boost = {
 		 	is_culture_group = east_asian
 			OR = { 
 				has_pop_culture = nanfaren
-				has_pop_culture = nanfaren
 				has_pop_culture = yue 
 			}
 		}

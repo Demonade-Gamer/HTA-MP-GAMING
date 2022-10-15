@@ -37,7 +37,15 @@ MNT = {
 }
 
 SML = {	value = 50 }
-
+leader = {
+	name = "The Heir to Albania"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_4.1
+	background = attack_2.1
+	prestige = 50.1
+}
 army = {
 	name = "Guard of the Basileus"
 	location = 860

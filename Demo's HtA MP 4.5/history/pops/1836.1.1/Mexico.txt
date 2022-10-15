@@ -2014,7 +2014,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2082,7 +2082,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2152,7 +2152,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2202,13 +2202,13 @@
     artisans = {
         culture = nahua
         religion = catholic
-        size = 0
+        size = 200
     }
 
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2278,7 +2278,7 @@
     soldiers = {
         culture = nahua
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2404,7 +2404,7 @@
     soldiers = {
         culture = mayan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2494,7 +2494,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2518,7 +2518,7 @@
     soldiers = {
         culture = mayan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2574,7 +2574,7 @@
     soldiers = {
         culture = mayan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {
@@ -2630,7 +2630,7 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 0
+        size = 200
     }
 
     farmers = {

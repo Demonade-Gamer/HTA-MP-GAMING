@@ -76,9 +76,6 @@ political_decisions = {
 			AFG_1209 = {
 				add_core = PER
 			}
-			KOK_1210 = {
-				add_core = PER
-			}
 			add_accepted_culture = pashtun					
 		}
 		ai_will_do = {

@@ -39,7 +39,7 @@
 	}
 
 	artisans = {
-		culture = tamil
+		culture = avadhi
 		religion = hindu
 		size = 1100
 	}

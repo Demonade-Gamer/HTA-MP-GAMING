@@ -42,6 +42,15 @@ MEX = { value = -50 }
 FRA = { value = -50 }
 YUC = { value = -30 }
 NPL = { value = 5 }
+leader = {
+	name = "Minediamonds"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_5.1
+	background = attack_minus_1.1
+	prestige = 50.1
+}
 
 army = {
 	name = "Armada Reial"
