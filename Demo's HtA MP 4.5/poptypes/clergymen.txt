@@ -28,21 +28,21 @@ everyday_needs_income = {
 
 luxury_needs_income =
 {
-	type = education
+	type = reforms
 	weight = 0.5
 }
 
 luxury_needs = {
-	opium = 1
-	luxury_clothes = 2
-	luxury_furniture = 2
-	coffee = 2
-	telephones = 1
-	automobiles = 1
-	wine = 5
+	opium = 1.0
+	luxury_clothes = 1
+	luxury_furniture = 1
+	telephones = 1.25
+	automobiles = 1.0
+	wine = 10
 	aeroplanes = 0.4
 	radio = 1.0
 	fuel = 0.2
+	coffee = 2
 }
 
 everyday_needs = {
@@ -53,18 +53,16 @@ everyday_needs = {
 	paper = 5
 	glass = 1
 	tobacco = 3
-	tea = 3
-	cattle = 2.5
+	tea = 5
 }
 
 life_needs = {
 	cattle = 0.75
-	wool =  0.85
+	wool =  1
 	fish =  1
 	fruit =  1
 	grain =  2.5
 }
-
 
 country_migration_target =
 {

@@ -21,13 +21,14 @@ political_decisions = {
 			add_accepted_culture = north_italian
 			set_country_flag = cis_accepted
 			TUS_744 = { add_core = THIS }
+			RMG = { all_core = { add_core = THIS } }
 			PDN = { all_core = { add_core = THIS } }
 		}
 	}
 	law_of_guarantees = {
 		potential = {
 			tag = ITA
-			NOT = { has_country_flag = law_of_guarantees }
+			NOT = { has_country_flag = law_of_guarantees_flag }
 			any_owned_province = {
 				OR = {
 					is_core = NPL
@@ -41,7 +42,7 @@ political_decisions = {
 		}
 
 		effect = {
-			set_country_flag = law_of_guarantees
+			set_country_flag = law_of_guarantees_flag
 			capital = 749
 			prestige = 5
 			badboy = -2
@@ -66,9 +67,12 @@ political_decisions = {
 			tag = ITA
 			has_country_flag = law_of_guarantees
 			any_owned_province = {
-				is_core = THIS
 				OR = {
 					is_core = NPL
+					AND = { 
+						is_core = PDN
+						PDN = { exists = no }
+					}
 					is_core = SRD
 					is_core = DAU
 					is_core = MOD
@@ -110,6 +114,7 @@ political_decisions = {
 				remove_core = GEN
 				remove_core = VEN
 				remove_core = DLM
+				remove_core = PDN
 			}
 		}
 	}	
