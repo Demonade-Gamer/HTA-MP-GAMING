@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = azerbaijani
         religion = shiite
-        size = 1100
+        size = 550
     }
 
     officers = {
@@ -71,7 +71,7 @@
     soldiers = {
         culture = azerbaijani
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -145,7 +145,7 @@
     soldiers = {
         culture = azerbaijani
         religion = shiite
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -241,7 +241,7 @@
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -279,7 +279,7 @@
     soldiers = {
         culture = azerbaijani
         religion = shiite
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -339,7 +339,7 @@
     soldiers = {
         culture = azerbaijani
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -387,7 +387,7 @@
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -493,7 +493,7 @@
     soldiers = {
         culture = azerbaijani
         religion = shiite
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -517,13 +517,13 @@
     artisans = {
         culture = azerbaijani
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     soldiers = {
         culture = azerbaijani
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -553,7 +553,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -565,7 +565,7 @@
     slaves = {
         culture = tatar
         religion = orthodox
-        size = 11000
+        size = 5500
     }
 }
 #Gilan-Maznadaran Region (448000)
@@ -649,7 +649,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -687,7 +687,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -719,7 +719,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -755,7 +755,7 @@
     soldiers = {
         culture = turkmen
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -813,7 +813,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -855,7 +855,7 @@
     soldiers = {
         culture = kurdish
         religion = shiite
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -885,7 +885,7 @@
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -955,7 +955,7 @@
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -985,7 +985,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1023,7 +1023,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1093,7 +1093,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1161,7 +1161,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1255,7 +1255,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1293,7 +1293,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1325,7 +1325,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1389,7 +1389,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1477,7 +1477,7 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     clergymen = {
@@ -1495,7 +1495,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1527,7 +1527,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1591,7 +1591,7 @@
     soldiers = {
         culture = mashriqi
         religion = shiite
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1831,7 +1831,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1875,7 +1875,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
@@ -1921,7 +1921,7 @@
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     farmers = {
