@@ -339,8 +339,16 @@ political_decisions = {
 	calm_russians = {
 		picture = of_state_n_government
 		potential = {
-			tag = SML
-			NOT = { exists = RUS }
+			OR = {
+				AND = {
+					tag = SML
+					NOT = { exists = RUS }
+				}
+				AND = { 
+					tag = RUS 
+					NOT = { exists = SML } 
+				}
+				
 			1008 = { owned_by = THIS }#Moscow
 			NOT = { has_country_flag = russians_calmed }
 		}
@@ -350,17 +358,15 @@ political_decisions = {
 		}
 		effect = {
 			prestige = -5
+			set_country_flag = russians_calmed
 			any_pop = {
 				limit = {
 					location = {
-						has_province_modifier = utility_modifier
+						culture = russian
 					}
 				}
 				militancy = -4
 				consciousness = -4
-			}
-			any_owned = {
-				remove_province_modifier = utility_modifier
 			}
 		}
 	}
