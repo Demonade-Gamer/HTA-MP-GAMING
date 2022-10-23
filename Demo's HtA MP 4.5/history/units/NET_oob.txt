@@ -7,8 +7,76 @@ SCO = { value = 35 }
 HIS = { value = 50 }
 
 army = {
-	name = "1e Divisie"
+	name = "2nd gamer stack"
 	location = 375 
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = infantry
+		home = 538
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 542
+	}
+
+	regiment = {
+		name = "2e Infanterie Brigade"
+		type = infantry
+		home = 542
+	}
+
+	regiment = {
+		name = "2e Infanterie Brigade"
+		type = infantry
+		home = 542
+	}
+	
+	regiment = {
+		name = "3e Infanterie Brigade"
+		type = infantry
+		home = 542
+	}
+	regiment = {
+		name= "4e Afrika Brigade"
+		type = hussar
+		home = 541
+	}
+	regiment = {
+		name = "1e Artillerie Brigade"
+		type = artillery
+		home = 541
+	}
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = artillery
+		home = 541
+	}
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = artillery
+		home = 541
+	}
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 543
+	}
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 543
+	}
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 543
+	}
+}
+army = {
+	name = "1e Divisie"
+	location = 382
 	regiment = {
 		name= "1e Cavalerie Brigade"
 		type = infantry
@@ -27,6 +95,12 @@ army = {
 		home = 385
 	}
 
+	regiment = {
+		name = "2e Infanterie Brigade"
+		type = infantry
+		home = 538
+	}
+	
 	regiment = {
 		name = "3e Infanterie Brigade"
 		type = infantry
@@ -61,6 +135,11 @@ army = {
 		name = "6e Infanterie Brigade"
 		type = artillery
 		home = 383
+	}
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 538
 	}
 }
 army = {

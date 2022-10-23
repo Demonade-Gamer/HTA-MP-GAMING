@@ -13,6 +13,128 @@ leader = {
 }
 
 army = {
+	name = "3rd'Armée de France"
+	location = 411
+	regiment = {
+		name = "1er Régiment d'Infanterie"
+		type = infantry
+		home = 425
+	}
+	regiment = {
+		name = "2e Régiment d'Infanterie"
+		type = infantry
+		home = 426
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 427
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 416
+	}
+	regiment = {
+		name = "1er Régiment d'Artillerie"
+		type = hussar
+		home = 415
+	}
+	regiment = {
+		name = "2e Régiment d'Artillerie"
+		type = artillery
+		home = 417
+	}
+	regiment = {
+		name = "1er Régiment de Hussards"
+		type = artillery
+		home = 418
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 435
+	}
+	
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 436
+	}
+	
+	regiment = {
+		name = "1e Regiment d'Infanterie"
+		type = artillery
+		home = 440
+	}
+	regiment = {
+		name = "2e Regiment d'Infanterie"
+		type = artillery
+		home = 434
+	}
+}
+army = {
+	name = "2nd'Armée de France"
+	location = 425
+	regiment = {
+		name = "1er Régiment d'Infanterie"
+		type = infantry
+		home = 414
+	}
+	regiment = {
+		name = "2e Régiment d'Infanterie"
+		type = infantry
+		home = 411
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 413
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 413
+	}
+	regiment = {
+		name = "1er Régiment d'Artillerie"
+		type = hussar
+		home = 412
+	}
+	regiment = {
+		name = "2e Régiment d'Artillerie"
+		type = artillery
+		home = 412
+	}
+	regiment = {
+		name = "1er Régiment de Hussards"
+		type = artillery
+		home = 412
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 433
+	}
+	
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 446
+	}
+	
+	regiment = {
+		name = "1e Regiment d'Infanterie"
+		type = artillery
+		home = 439
+	}
+	regiment = {
+		name = "2e Regiment d'Infanterie"
+		type = artillery
+		home = 441
+	}
+}
+army = {
 	name = "L'Armée de France"
 	location = 428
 	regiment = {
@@ -31,6 +153,11 @@ army = {
 		home = 432
 	}
 	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 428
+	}
+	regiment = {
 		name = "1er Régiment d'Artillerie"
 		type = hussar
 		home = 431
@@ -45,6 +172,12 @@ army = {
 		type = artillery
 		home = 432
 	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 428
+	}
+	
 	regiment = {
 		name = "2e Régiment de Hussards"
 		type = artillery

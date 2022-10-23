@@ -37,6 +37,35 @@ army = {
 	}
 }
 army = {
+	name = "larp"
+	location = 720
+	regiment = {
+		name = "1. Fanteria di Linea"
+		type = infantry
+		home = 722
+	}
+	regiment = {
+		name = "2. Fanteria di Linea"
+		type = infantry
+		home = 720
+	}
+	regiment = {
+		name = "3. Fanteria di Linea"
+		type = hussar
+		home = 721
+	}
+	regiment = {
+		name = "1. Artigleria"
+		type = artillery
+		home = 740
+	}
+	regiment = {
+		name = "2. Artigleria"
+		type = artillery
+		home = 739
+	}
+}
+army = {
 	name = "Armada di Venezia"
 	location = 729
 	regiment = {

@@ -9,12 +9,12 @@ leader = {
 	type = land
 	personality = defence_3.1
 	background = attack_5.1
-	prestige = 100
+	prestige = 0.100
 }
 
 army = {
 	name = "Army of Hayastan"
-	location = 1098
+	location = 894
 	regiment = {
 		name= "1-1 Hayastan Guard"
 		type = infantry
@@ -69,7 +69,7 @@ army = {
 
 army = {
 	name = "Army of Trapizon"
-	location = 888
+	location = 895
 	regiment = {
 		name= "1-1 Line Infantry"
 		type = infantry
@@ -123,16 +123,36 @@ army = {
 }
 
 army = {
-	name = "The 2 spare arty brigades"
-	location = 878
+	name = "cavmaxxers unite"
+	location = 875
 	regiment = {
 		name= "5. Cavalry Guards"
-		type = artillery
+		type = cavalry
 		home = 875
 	}
 	regiment = {
 		name= "6. Cavalry Guards"
-		type = artillery
+		type = cavalry
+		home = 876
+	}
+	regiment = {
+		name= "5. Cavalry Guards"
+		type = cavalry
+		home = 875
+	}
+	regiment = {
+		name= "6. Cavalry Guards"
+		type = cavalry
+		home = 876
+	}
+	regiment = {
+		name= "5. Cavalry Guards"
+		type = cavalry
+		home = 875
+	}
+	regiment = {
+		name= "6. Cavalry Guards"
+		type = cavalry
 		home = 876
 	}
 }

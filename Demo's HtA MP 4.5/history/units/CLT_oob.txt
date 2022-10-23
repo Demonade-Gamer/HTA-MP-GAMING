@@ -61,7 +61,7 @@ army = {
 
 army = {
 	name = "Arm na hGhuisearait"
-	location = 1291
+	location = 1403
 	regiment = {
 		name = "4. An Cor Coisithe"
 		type = infantry

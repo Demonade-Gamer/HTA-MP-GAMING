@@ -49,7 +49,7 @@ leader = {
 	type = land
 	personality = defence_5.1
 	background = attack_minus_1.1
-	prestige = 50.1
+	prestige = 0.501
 }
 
 army = {
@@ -104,6 +104,61 @@ army = {
 		name = "2. Enfantaria"
 		type = artillery
 		home = 472
+	}
+}
+
+army = {
+	name = "Armada Real"
+	location = 467
+	regiment = {
+		name= "Palace Guards"
+		type = infantry
+		home = 467
+	}
+	regiment = {
+		name= "1. Enfantaria"
+		type = infantry
+		home = 468
+	}
+	regiment = {
+		name= "2. Enfantaria"
+		type = infantry
+		home = 469
+	}
+	regiment = {
+		name= "3. Enfantaria"
+		type = infantry
+		home = 471
+	}
+	regiment = {
+		name= "1. Artilharia"
+		type = hussar
+		home = 454
+	}
+	regiment = {
+		name= "2. Artilharia"
+		type = artillery
+		home = 453
+	}
+	regiment = {
+		name= "1. Cavalaria"
+		type = artillery
+		home = 452
+	}
+	regiment = {
+		name= "2. Cavalaria"
+		type = artillery
+		home = 451
+	}
+	regiment = {
+		name = "1. Enfantaria"
+		type = artillery
+		home = 449
+	}
+	regiment = {
+		name = "2. Enfantaria"
+		type = artillery
+		home = 450
 	}
 }
 

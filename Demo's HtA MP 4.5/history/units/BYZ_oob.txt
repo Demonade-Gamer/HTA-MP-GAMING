@@ -44,7 +44,7 @@ leader = {
 	type = land
 	personality = defence_4.1
 	background = attack_2.1
-	prestige = 50.1
+	prestige = 0.501
 }
 army = {
 	name = "Guard of the Basileus"

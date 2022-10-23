@@ -84,9 +84,44 @@ army = {
 		home = 299
 	}
 	regiment = {
+		name = "3. Fedehere"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Fedehere"
+		type = infantry
+		home = 301
+	}
+	regiment = {
+		name = "3. Fedehere"
+		type = infantry
+		home = 302
+	}
+	regiment = {
 		name = "2. Radehere"
 		type = hussar
 		home = 300
+	}
+	regiment = {
+		name = "3. Fedehere"
+		type = artillery
+		home = 303
+	}
+	regiment = {
+		name = "3. Fedehere"
+		type = artillery
+		home = 298
+	}
+	regiment = {
+		name = "3. Fedehere"
+		type = artillery
+		home = 291
+	}
+	regiment = {
+		name = "3. Fedehere"
+		type = artillery
+		home = 287
 	}
 	regiment = {
 		name = "3. Fedehere"
@@ -127,11 +162,60 @@ navy = {
 		name = "Ret"
 		type = frigate
 	}
+	location = 303
+	ship = {
+		name = "Anmedla"
+		type = manowar
+	}
+	ship = {
+		name = "Andett"
+		type = manowar
+	}
+	ship = {
+		name = "Orlscip"
+		type = manowar
+	}
+	ship = {
+		name = "Gumcyst"
+		type = manowar
+	}
+	ship = {
+		name = "Renc"
+		type = manowar
+	}
+	ship = {
+		name = "Are"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
 }
 
 navy = {
 	name = "Aescflota"
 	location = 303
+	ship = {
+		name = "1. Sciplest"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Sciplest"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Sciplest"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Sciplest"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Sciplest"
+		type = clipper_transport
+	}
 	ship = {
 		name = "1. Sciplest"
 		type = clipper_transport
