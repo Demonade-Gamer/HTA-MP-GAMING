@@ -2359,19 +2359,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 6725
 	}
@@ -2423,19 +2423,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 9650
 	}
@@ -2515,19 +2515,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 5875
 	}
@@ -2609,19 +2609,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 11875
 	}
@@ -2713,19 +2713,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 800
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 19225
 	}
@@ -3149,7 +3149,7 @@
 	}
 	
 	farmers = {
-		culture = assyrian
+		culture = mashriqi
 		religion = catholic
 		size = 6550
 	}	

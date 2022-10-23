@@ -515,31 +515,31 @@
 #Hue (1080000/270000 POPS)
 1375 = {
     aristocrats = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 2750
     }
 
     clergymen = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 1850
     }
 
     artisans = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 6475
     }
 
     soldiers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 54900
     }
@@ -651,31 +651,31 @@
 #Tourane (276000/69000 POPS)
 1377 = {
     aristocrats = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 800
     }
 
     clergymen = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     artisans = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 2300
     }
 
     soldiers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 43775
     }
@@ -755,31 +755,31 @@
 #Pleiku (148000 37000 POPS)
 1378 = {
     aristocrats = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 700
     }
 
     clergymen = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 425
     }
 
     artisans = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 3700
     }
 
     soldiers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 22925
     }
@@ -817,43 +817,43 @@
 #Quinhon (120000/30000 POPS)
 1379 = {
     aristocrats = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 1100
     }
 
     bureaucrats = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 1700
     }
 
     officers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 825
     }
 
     clergymen = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 1200
     }
 
     artisans = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 13100
     }
 
     soldiers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 195425
     }
@@ -893,43 +893,43 @@
 #Saigon (848000/212000 POPS)
 1380 = {
     aristocrats = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 3600
     }
 
     bureaucrats = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 325
     }
 
     officers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 1775
     }
 
     artisans = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 7500
     }
 
     soldiers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 110000
     }
@@ -1009,31 +1009,31 @@
 #Dongquai (244000/61000 POPS)
 1381 = {
     aristocrats = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 900
     }
 
     clergymen = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 475
     }
 
     artisans = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 2400
     }
 
     soldiers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 40000
     }
@@ -1101,25 +1101,25 @@
     }
 
     clergymen = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 700
     }
 
     soldiers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 12725
     }
@@ -1157,25 +1157,25 @@
     }
 
     clergymen = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 700
     }
 
     soldiers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = cham
+        culture = khmer
         religion = sunni
         size = 11875
     }

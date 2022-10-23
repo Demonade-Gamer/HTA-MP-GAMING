@@ -543,31 +543,31 @@
 #Kyzylorda/Aq Mechet (108000/27000 POPS)
 1193 = {
     aristocrats = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 550
     }
 
     clergymen = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 250
     }
 
     artisans = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 1400
     }
 
     soldiers = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 1300
     }
 
     farmers = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 25775
     }
@@ -671,31 +671,31 @@
 #Shymkent (180000/45000 POPS) #now part of Kazakhstan
 1197 = {
     aristocrats = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 750
     }
 
     soldiers = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 13725
     }

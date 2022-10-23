@@ -84,31 +84,31 @@
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 550
 	}
 
 	farmers = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 1450
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 975
 	}

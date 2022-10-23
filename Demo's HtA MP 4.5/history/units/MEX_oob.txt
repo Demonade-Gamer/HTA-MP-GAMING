@@ -7,11 +7,11 @@ leader = {
 }
 
 leader = {
-	name = "Martin de Cos"
+	name = "Vanxé Benigiola"
 	type = land
 	date="1836.1.1"
-	personality = impulsive
-	background = aristocrat
+	personality = defence_5.1
+	background = attack_minus_5.1
 }
 
 army = {
@@ -19,19 +19,19 @@ army = {
 	location = 2146
 	regiment = {
 		name= "1.Division Cos"
-		type = irregular
+		type = cavalry
 		home = 2174
 	}
 
 	regiment = {
 		name= "2.Division Cos"
-		type = irregular
+		type = cavalry
 		home = 2174
 	}
 
 	regiment = {
 		name= "3.Division Cos"
-		type = irregular
+		type = cavalry
 		home = 2174
 	}
 
@@ -42,19 +42,19 @@ army = {
 	location = 2177
 	regiment = {
 		name= "1.Oajaca y Tlaxcala"
-		type = irregular
+		type = cavalry
 		home = 2177
 	}
 
 	regiment = {
 		name= "2.Oajaca y Tlaxcala"
-		type = irregular
+		type = cavalry
 		home = 2177
 	}
 
 	regiment = {
 		name= "3.Oajaca y Tlaxcala"
-		type = irregular
+		type = cavalry
 		home = 2177
 	}
 
@@ -71,13 +71,13 @@ army = {
 
 	regiment = {
 		name= "2.Division Comonfort"
-		type = irregular
+		type = cavalry
 		home = 2176
 	}
 
 	regiment = {
 		name= "3.Division Comonfort"
-		type = irregular
+		type = cavalry
 		home = 2176
 	}
 

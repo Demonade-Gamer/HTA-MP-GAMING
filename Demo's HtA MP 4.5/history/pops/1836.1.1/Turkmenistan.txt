@@ -150,31 +150,31 @@
 #Merv (132000/33000 POPS)   
 1206 = {
 	aristocrats = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 1825
 	}

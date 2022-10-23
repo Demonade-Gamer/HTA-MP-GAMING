@@ -53,7 +53,7 @@
 	}
 	
 	farmers = {
-		culture = cham
+		culture = khmer
 		religion = sunni
 		size = 15025
 	}	
@@ -116,7 +116,7 @@
 	}
 	
 	farmers = {
-		culture = cham
+		culture = khmer
 		religion = sunni
 		size = 3150
 	}	
@@ -179,32 +179,32 @@
 	}	
 
 	aristocrats = {
-		culture = cham
+		culture = khmer
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = cham
+		culture = khmer
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = cham
+		culture = khmer
 		religion = sunni
 		size = 125
 	}
 
 	soldiers = {
-		culture = cham
+		culture = khmer
 		religion = sunni
 		size= 25
 
 	}
 
 	farmers = {
-		culture = cham
+		culture = khmer
 		religion = sunni
 		size = 3750
 	}

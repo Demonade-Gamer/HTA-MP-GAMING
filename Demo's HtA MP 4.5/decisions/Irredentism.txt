@@ -12,8 +12,8 @@ political_decisions = {
 		}
 
 		effect = {
-			badboy = 14
-			prestige = 20
+			badboy = 4
+			prestige = 10
 			set_country_flag = claim_greater_persia
 			any_pop = {
 				dominant_issue = {
@@ -29,6 +29,9 @@ political_decisions = {
 				add_core = PER
 			}
 			RUS_1098 = {
+				add_core = PER
+			}
+			PER_1112 = {
 				add_core = PER
 			}
 			RUS_1102 = {
@@ -70,7 +73,7 @@ political_decisions = {
 		}
 
 		effect = {
-			badboy = 16
+			badboy = 5
 			prestige = 20
 			set_country_flag = claim_pashtun_regions
 			AFG_1209 = {
