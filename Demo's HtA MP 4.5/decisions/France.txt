@@ -21,29 +21,6 @@ political_decisions = {
 		}
 	}
 
-# Return to the sea! (Reclaim interior cores, regain cores on the Normandy coast)
-	return_to_the_sea = {
-		picture = valparaiso_harbor
-		potential = {
-			tag = FRA
-			NOT = { has_country_flag = FRA_man_and_the_sea }
-		}
-		
-		allow = {
-			OR = {
-				all_core = { owned_by = THIS }
-				NRM = { all_core = { owned_by = THIS } }
-			}
-			war = no
-		}
-		
-		effect = {
-			prestige = 5
-			FRA_418 = { add_core = FRA }
-			set_country_flag = FRA_man_and_the_sea
-		}
-	}
-
 # Demand our colonies back (BRT and whoever else - when coast reclaimed, buy/intimidate colonies back)
 
 	FRA_return_our_colonies = {
