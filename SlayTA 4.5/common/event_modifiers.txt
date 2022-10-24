@@ -37,7 +37,7 @@ liberal_agitation = {
 }
 
 springtime_of_nations = {
-	global_pop_militancy_modifier = 0.3
+	global_pop_militancy_modifier = 0.03
 	icon = 8
 }
 
@@ -195,8 +195,7 @@ loyal_askaris = {
 }
 
 muhammad_alis_reforms = {
-	research_points_modifier = 0.5
-	pop_consciousness_modifier = 0.05
+	research_points_modifier = 0.2
 	icon = 5
 }
 
@@ -779,7 +778,7 @@ the_walhalla = {
 }
 
  dar_al_funun = {
-	research_points_modifier = 0.2
+	research_points_modifier = 0.05
 	icon = 3
 }
 

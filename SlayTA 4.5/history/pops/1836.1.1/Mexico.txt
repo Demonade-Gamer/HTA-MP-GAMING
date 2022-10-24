@@ -657,25 +657,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 2750
     }
@@ -727,25 +727,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 6500
     }
@@ -881,25 +881,25 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 1800
     }
@@ -937,25 +937,25 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 1800
     }
@@ -1165,19 +1165,19 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 3700
     }
@@ -1412,19 +1412,19 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 9350
     }
@@ -1462,19 +1462,19 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 16850
     }
@@ -1632,19 +1632,19 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 10275
     }
@@ -1682,19 +1682,19 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 650
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = catholic
         size = 12125
     }
