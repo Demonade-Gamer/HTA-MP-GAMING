@@ -3,37 +3,37 @@
 #Hermosillo (76000/19000 POPS)
 2137 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 276
     }
 
     bureaucrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 40
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 115
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 632
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size =1000
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 11413
     }
@@ -71,31 +71,31 @@
 #Nogales (12000/3000 POPS)
 2140 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 28
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 23
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 57
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1029
     }
@@ -191,31 +191,31 @@
 #Loreto (4000/ 1100 POPS)
 2138 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 28
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 23
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 57
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1029
     }
@@ -223,31 +223,31 @@
 #Rosarito (16000/4000 POPS)
 2139 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 80
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 57
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 115
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 2012
     }
@@ -287,43 +287,43 @@
 #Chihuahua (100000/25000 POPS)
 2142 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 440
     }
 
     bureaucrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 50
     }
 
     officers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 15
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 19945
     }
@@ -361,31 +361,31 @@
 #Paso del Norte (12000/3000 POPS)
 2143 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 2700
     }
@@ -393,31 +393,31 @@
 #Delicias (8000/2000 POPS)
 2144 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1750
     }
@@ -489,31 +489,31 @@
 #Morelos (12000/3000 POPS)
 2147 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 2700
     }
@@ -589,31 +589,31 @@
 #Monclova (48000/12000 POPS)
 2152 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 65
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 3875
     }
@@ -753,31 +753,31 @@
 #Reynosa (16000/4000 POPS)
 2148 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 3575
     }
@@ -785,31 +785,31 @@
 #Matamoros (28000/7000 POPS)
 2149 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 6325
     }

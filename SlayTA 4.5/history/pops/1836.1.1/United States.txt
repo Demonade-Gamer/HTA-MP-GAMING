@@ -679,31 +679,31 @@
 #San Francisco (9600/2400 POPS)
 84 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 57
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 57
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 115
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 57
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 2357
     }
@@ -817,37 +817,37 @@
 #Monterey (6400/1600 POPS)
 87 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 138
     }
 
     bureaucrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 34
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 172
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 402
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 115
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 6037
     }
@@ -917,31 +917,31 @@
 #Los Angeles (12000/3000 POPS)
 89 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 575
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1380
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 2875
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1150
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 46000
     }
@@ -979,31 +979,31 @@
 #San Diego (12000/3000 POPS)
 90 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 115
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 287
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 575
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 172
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 10350
     }
@@ -1343,31 +1343,31 @@
 #Phoenix (12000/3000 POPS)
 100 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 57
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 40
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 115
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 63
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1610
     }
@@ -1498,37 +1498,37 @@
     }
 
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 11
     }
 
     bureaucrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 5
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 28
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 69
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 28
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1408
     }
@@ -2894,43 +2894,43 @@
 #Austin (14000/3500 POPS)
 133 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 750
     }
 
     officers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 8220
     }
@@ -2974,31 +2974,31 @@
 #Arviat (3200/800 POPS) Now in Ginnaecer, called Welric
 43 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 55
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 185
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 220
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 120
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 5725
     }
@@ -3018,31 +3018,31 @@
 #San Antonio (10000/2500 POPS)
 137 = {
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 950
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 1250
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 5500
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 45575
     }
@@ -3146,31 +3146,31 @@
     }
 
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 9000
     }
@@ -3179,25 +3179,25 @@
 #Dallas (4400/1100 POPS)
 134 = {
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 750
     }
@@ -3303,31 +3303,31 @@
     }
 
     aristocrats = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 20
     }
 
     clergymen = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 30
     }
 
     artisans = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = califiano
+        culture = skamisc
         religion = catholic
         size = 2250
     }
