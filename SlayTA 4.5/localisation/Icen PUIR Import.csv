@@ -18,16 +18,6 @@ insane_empire2; Large Insane Empire;L'Empire de fou;Das wahnsinnig Reich;;El Imp
 #############################################;;;;;;;;;;;;;;x
 take_capital;Take Capital;;;;;;;;;;;;;x
 take_capital_desc;Take the Capital region of a 即country劬 and force them to move their capital elsewhere;;;;;;;;;;;;;x
-take_capital_setup;Take Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;x
-take_capital_short;Takes Capital from $RECIPIENT$;;;;;;;;;;;;;x
-take_capital_midgame;Take Capital Midgame;;;;;;;;;;;;;x
-take_capital_midgame_desc;Take the Capital region of a 即country劬 and force them to move their capital elsewhere for 33% less warscore.;;;;;;;;;;;;;x
-take_capital_midgame_setup;Take Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;x
-take_capital_midgame_short;Takes Capital from $RECIPIENT$;;;;;;;;;;;;;x
-take_capital_late;Take Capital Lategame;;;;;;;;;;;;;x
-take_capital_late_desc;Take the Capital region of a 即country劬 and force them to move their capital elsewhere for 55% less warscore.;;;;;;;;;;;;;x
-take_capital_late_setup;Take Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;x
-take_capital_late_short;Takes Capital from $RECIPIENT$;;;;;;;;;;;;;x
 minor_conquest;Minor Conquest;;;;;;;;;;;;;x
 minor_conquest_desc;Annex a 即country劬 of small size and population by conquest;;;;;;;;;;;;;x
 minor_conquest_setup;Annex minor nation of $RECIPIENT$;;;;;;;;;;;;;x
@@ -46,18 +36,10 @@ negotiated_transfer_short;$RECIPIENT$ receives $STATE$ from us;;;;;;;;;;;;;x
 negotiated_transfer_setup;Transfer $STATE$ from our country to $RECIPIENT$;;;;;;;;;;;;x
 NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;;;;;;;;;x
 AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;;;;;;;;;x
-acquire_state;Acquire State Earlygame;;;;;;;;;;;;;x
+acquire_state;Acquire State;;;;;;;;;;;;;x
 acquire_state_short;Acquire $STATE$;;;;;;;;;;;;;x
 acquire_state_desc;Acquire an enemy 即state劬.;;;;;;;;;;;;;x
 acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-acquire_state_midgame;Acquire State Midgame;;;;;;;;;;;;;x
-acquire_state_midgame_short;Acquire $STATE$;;;;;;;;;;;;;x
-acquire_state_midgame_desc;Acquire an enemy 即state劬 for 33% less warscore;;;;;;;;;;;;;x
-acquire_state_midgame_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-acquire_state_late;Acquire State Lategame;;;;;;;;;;;;;x
-acquire_state_late_short;Acquire $STATE$;;;;;;;;;;;;;x
-acquire_state_late_desc;Acquire an enemy 即state劬 for 55% less warscore.;;;;;;;;;;;;;x
-acquire_state_late_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
 demand_concession_casus_belli_player_early_for_puppet;Demand Concession Early for Puppet;Demande de concession;Konzession verlangen;;;;;;;;;;;
 demand_concession_casus_belli_player_early_for_puppet_short;Demand $STATE$ for a puppet for 100% more warscore.;Demander $STATE$;Fordern Sie $STATE$;;;;;;;;;;;
 demand_concession_casus_belli_player_early_for_puppet_desc;Force the 即uncivilized country劬 to secede territory to your puppet for 100% more warscore.;Obligez un 即pays non civilis擏W ?faire s嶰ession d'un territoire pour former une concession coloniale.;Zwingen Sie ein 即unzivilisiertes Land劬, Gebiete zur Gr�ndung einer Kolonialkonzession abzuspalten.;;;;;;;;;;;
