@@ -3,5 +3,4 @@
 add_core = MLI
 add_core = MAS
 trade_goods = cotton
-life_rating = 35
-
+life_rating = 15
