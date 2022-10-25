@@ -183,7 +183,7 @@ DEN_372 = { 372 373 374 3250 } #Sjaelland
 
 FIN_307 = { 338 307 320 321 } #Helsinki(V)/Lapland
 
-RUS_336 = { 336 337 342 984 } #Northern Finland/Savo
+RUS_336 = { 336 337 342 984 983 982 2587 } #Northern Finland/Savo
 
 RUS_345 = { 345 343 346 347 } #Turku/Suomi
 
@@ -197,7 +197,7 @@ RUS_361 = { 361 362 363 364 365 360 698 } #Lithuania
 
 #RUS_339 = { 339 340 341 344 983 982 2587 } #Karelia
 
-RUS_994 = { 994 996 1003 1004 2580 339 340 341 344 983 982 2587 } #Ingria/Ingeri
+RUS_994 = { 994 996 1003 1004 2580 339 340 341 344 } #Ingria/Ingeri
 
 #RUS_2587 = { 983 982 2587 } #Kola/Kuollanta
 
