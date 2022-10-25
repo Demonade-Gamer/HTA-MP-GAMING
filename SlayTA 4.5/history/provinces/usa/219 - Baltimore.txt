@@ -4,4 +4,4 @@ add_core = VST
 trade_goods = tobacco
 life_rating = 35
 naval_base = 1
-
+state_building = {	level = 2 	building = steel_factory	upgrade = yes}
