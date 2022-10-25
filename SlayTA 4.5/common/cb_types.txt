@@ -89,7 +89,7 @@ gunboat = {
 	crisis = no
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -149,7 +149,7 @@ status_quo = {
 	can_use = {
 		NOT = { is_our_vassal = THIS }
 		always = no
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 	}
 
 	break_truce_prestige_factor = 5
@@ -183,7 +183,7 @@ conquest = {
 	crisis = no
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		total_pops = 400000
 		NOT = { is_our_vassal = THIS }
 		# only one state or unciv
@@ -266,7 +266,7 @@ civil_war = {
 	crisis = no
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { is_our_vassal = THIS }
 		always = no
 	}
@@ -323,7 +323,7 @@ add_to_sphere = {
 	construction_speed = 0.5
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -386,7 +386,7 @@ take_from_sphere = {
 	construction_speed = 0.5
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -450,7 +450,7 @@ acquire_core_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -513,7 +513,7 @@ annex_core_country = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -575,7 +575,7 @@ acquire_substate_region = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -646,7 +646,7 @@ acquire_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -744,7 +744,7 @@ place_in_the_sun = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -858,7 +858,7 @@ colonial_competition = {
 #	war_name = WAR_NAME
 #	
 #	can_use = {
-#		NOT = { tag = LCT }
+#		NOT = { tag = SIK }
 #		NOT = { 
 #			OR = { 
 #				has_country_modifier = neutrality
@@ -912,7 +912,7 @@ demand_reperations = {
 	war_name = WAR_NAME
 	
 	can_use = {
-	NOT = { tag = LCT }
+	NOT = { tag = SIK }
 	NOT = { has_country_modifier = no_more_war_reperations }
 	NOT = { 
 			OR = { 
@@ -952,7 +952,7 @@ cut_down_to_size_boxer = {
 	crisis = no
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { is_our_vassal = THIS }
 		is_disarmed = no
 	}
@@ -1009,7 +1009,7 @@ free_peoples = {
 	
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -1115,7 +1115,7 @@ liberate_country = {
 	
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -1232,7 +1232,7 @@ dismantle_forts = {
 	
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1298,7 +1298,7 @@ release_puppet = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		num_of_vassals_no_substates = 1
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
@@ -1352,7 +1352,7 @@ make_puppet = {
 	good_relation_militancy_factor = 1
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1365,10 +1365,6 @@ make_puppet = {
 					has_country_modifier = generic_neutrality
 				}
 			 } 
-		}
-		OR = {
-			ai = yes
-			year = 1880
 		}
 		NOT = { is_our_vassal = THIS }
 		NOT = { number_of_states = 10 }
@@ -1430,7 +1426,7 @@ become_independent = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		is_our_vassal = THIS
 		has_recently_lost_war = no
 	}
@@ -1494,7 +1490,7 @@ humiliate = {
 	war_name = WAR_HUMILIATE_NAME
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -1544,7 +1540,7 @@ demand_concession_casus_belli = {
 	always = no
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		#NOT = { tag = CHI }
 		NOT = { 
 			OR = { 
@@ -1615,7 +1611,7 @@ demand_concession_casus_belli_china = {
 	always = no
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		AND = { 
 			tag = CHI
 			ai = no
@@ -1686,7 +1682,7 @@ establish_protectorate_casus_belli = {
 	always = no
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = {
 			OR = {
 				is_culture_group = west_african
@@ -1768,7 +1764,7 @@ unification_humiliate_cb = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		THIS = {
 			culture_has_union_tag = yes
 			nationalism_n_imperialism = 1
@@ -1818,7 +1814,7 @@ unification_release_puppet_cb = {
 	good_relation_militancy_factor = 1
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		num_of_vassals_no_substates = 1
 		THIS = {
 			culture_has_union_tag = yes
@@ -1876,7 +1872,7 @@ unification_casus_belli = {
 	good_relation_militancy_factor = 1
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		THIS = {
 			culture_has_union_tag = yes
 			nationalism_n_imperialism = 1
@@ -1943,7 +1939,7 @@ unification_annex_casus_belli = {
 	good_relation_militancy_factor = 1
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		THIS = {
 			culture_has_union_tag = yes
 			nationalism_n_imperialism = 1
@@ -2000,7 +1996,7 @@ rude_boy = {
 	good_relation_militancy_factor = 0
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { is_our_vassal = THIS }
 		badboy = 1
 	}
@@ -2044,7 +2040,7 @@ install_communist_gov_cb = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -2138,7 +2134,7 @@ uninstall_communist_gov_cb = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		THIS = {
 			# If actor ruling party is not communist
 			NOT = {
@@ -2195,7 +2191,7 @@ great_war_penalty_cb = {
 	war_name = WAR_NAME
 	
 	#can_use = {
-	#	NOT = { tag = LCT }
+	#	NOT = { tag = SIK }
 	#	NOT = { is_our_vassal = THIS }
 	#	is_disarmed = no
 	#}
@@ -2312,7 +2308,7 @@ take_capital = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -2435,7 +2431,7 @@ acquire_treaty_port = {
 	always = no
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -2537,7 +2533,7 @@ negotiated_transfer = {
 	construction_speed = 2.0
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		number_of_states = 2 # annex if you want their last state
 		ai = no
 		THIS = { ai = no }
@@ -2595,7 +2591,7 @@ establish_colonial_protectorate_casus_belli = {
 	always = no
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		OR = {
 			is_culture_group = west_african
 			is_culture_group = central_african
@@ -2675,7 +2671,7 @@ demand_colonial_concession_casus_belli = {
 	always = no
 
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { is_culture_group = arab }
 		continent = africa
 		NOT = {
@@ -2745,7 +2741,7 @@ make_puppet_small = {
 	good_relation_militancy_factor = 1
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		NOT = { is_our_vassal = THIS }
 		is_greater_power = no
 		is_vassal = no
@@ -2815,7 +2811,7 @@ make_puppet_large = {
 	good_relation_militancy_factor = 1
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		OR = {
 			total_pops = 3000000
 			number_of_states = 10
@@ -2901,7 +2897,7 @@ dismantle_factories = {
 	
 	
 	can_use = {
-		NOT = { tag = LCT }
+		NOT = { tag = SIK }
 		year = 1900
 		NOT = {
 			has_country_modifier = neutrality

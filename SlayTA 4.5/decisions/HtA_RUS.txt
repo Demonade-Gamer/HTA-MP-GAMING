@@ -348,7 +348,7 @@ political_decisions = {
 					tag = RUS 
 					NOT = { exists = SML } 
 				}
-				
+			}
 			1008 = { owned_by = THIS }#Moscow
 			NOT = { has_country_flag = russians_calmed }
 		}

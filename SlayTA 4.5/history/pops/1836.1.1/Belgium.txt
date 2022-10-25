@@ -124,7 +124,7 @@
     craftsmen = {
         culture = wallonian
         religion = catholic
-        size = 5500
+        size = 15500
     }
 
     artisans = {

@@ -234,6 +234,11 @@
         size = 15000
     }
 
+    craftsmen = {
+        culture = swedish
+        religion = protestant
+        size = 25000
+    }
     artisans = {
         culture = swedish
         religion = protestant

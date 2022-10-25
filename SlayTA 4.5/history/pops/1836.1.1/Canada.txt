@@ -2997,6 +2997,12 @@
         size = 200
     }
 
+    craftsmen = {
+        culture = nieuwlander
+        religion = protestant
+        size = 5000
+    }
+	
     farmers = {
         culture = nieuwlander
         religion = protestant

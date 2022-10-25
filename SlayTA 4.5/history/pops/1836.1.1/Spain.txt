@@ -643,7 +643,7 @@
     craftsmen = {
         culture = spanish
         religion = catholic
-        size = 5500
+        size = 15500
     }
 
     soldiers = {
@@ -1455,7 +1455,7 @@
     craftsmen = {
         culture = spanish
         religion = catholic
-        size = 1975
+        size = 8000
     }
 
     soldiers = {

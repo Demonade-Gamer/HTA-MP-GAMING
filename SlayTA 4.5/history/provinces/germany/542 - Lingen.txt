@@ -3,6 +3,6 @@ controller = NET
 add_core = BRA
 add_core = GER
 trade_goods = cattle
-life_rating = 40
+life_rating = 38
 
 add_core = NET

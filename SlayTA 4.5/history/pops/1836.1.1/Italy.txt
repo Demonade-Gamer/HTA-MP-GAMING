@@ -59,7 +59,7 @@
     craftsmen = {
         culture = north_italian
         religion = catholic
-        size = 12900
+        size = 19900
     }
 
     clergymen = {
@@ -1585,6 +1585,11 @@
         size = 6250
     }
 
+    craftsmen = {
+        culture = south_italian
+        religion = catholic
+        size = 10000
+    }
     soldiers = {
         culture = south_italian
         religion = catholic

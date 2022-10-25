@@ -1405,25 +1405,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 2750
     }
@@ -1541,25 +1541,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 930
     }
@@ -1597,7 +1597,11 @@
         religion = catholic
         size = 36425
     }
-
+    craftsmen = {
+        culture = lutzan
+        religion = catholic
+        size = 8000
+    }
     clergymen = {
         culture = uilsc
         religion = protestant
@@ -3111,31 +3115,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 900
     }
@@ -3501,31 +3505,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = animist
         size = 900
     }
@@ -3577,25 +3581,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1700
     }
@@ -3639,25 +3643,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1250
     }
@@ -3725,25 +3729,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1200
     }
@@ -3817,25 +3821,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1200
     }
@@ -3903,25 +3907,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 2075
     }
@@ -3965,25 +3969,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 2500
     }
@@ -4047,25 +4051,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size =  200
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 4175
     }
@@ -4109,25 +4113,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size =  200
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1200
     }
@@ -4171,25 +4175,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size =  200
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 1700
     }
@@ -4257,25 +4261,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size =  200
     }
 
     farmers = {
-        culture = shawnee
+        culture = amazonian
         religion = catholic
         size = 2075
     }

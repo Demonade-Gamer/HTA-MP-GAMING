@@ -85,7 +85,7 @@
     craftsmen = {
         culture = irish
         religion = catholic
-        size = 4000
+        size = 20000
     }
 
     farmers = {
@@ -129,7 +129,7 @@
     craftsmen = {
         culture = irish
         religion = catholic
-        size = 4000
+        size = 15000
     }
 
     labourers = {

@@ -68,21 +68,4 @@ political_decisions = {
 			}
 		}
 	}
-	unite_crowns_BHN = {
-		picture = enact_dual_monarchy
-		potential = {
-			tag = BOH
-			NOT = { has_country_flag = BHN }
-			any_owned_province = { is_core = HUN }
-		}
-		
-		allow = {
-			year = 1850
-		}
-		
-		effect = {
-			add_accepted_culture = hungarian
-			set_country_flag = BHN
-		}
-	}
 }

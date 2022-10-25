@@ -2061,6 +2061,12 @@
 		size = 1575
 	}
 
+    craftsmen = {
+        culture = armenian
+        religion = sunni
+        size = 8000
+    }
+	
 	farmers = {
 		culture = armenian
 		religion = sunni

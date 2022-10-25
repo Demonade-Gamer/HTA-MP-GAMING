@@ -343,7 +343,11 @@
         religion = protestant
         size = 4500
     }
-
+    craftsmen = {
+        culture = finnish
+        religion = protestant
+        size = 25000
+    }
     farmers = {
         culture = finnish
         religion = protestant

@@ -5,25 +5,25 @@
     bureaucrats = {
         culture = skamisc
         religion = protestant
-        size = 2
+        size = 100
     }
 
     clergymen = {
         culture = skamisc
         religion = protestant
-        size = 11
+        size = 678
     }
 
     artisans = {
         culture = skamisc
         religion = protestant
-        size = 34
+        size = 975
     }
 
     soldiers = {
         culture = skamisc
         religion = protestant
-        size = 11
+        size = 1100
     }
 
     farmers = {
@@ -31,7 +31,13 @@
         religion = protestant
         size = 575
     }
-
+	
+    craftsmen = {
+        culture = skamisc
+        religion = protestant
+        size = 8000
+    }
+	
     aristocrats = {
         culture = shawnee
         religion = animist
@@ -119,7 +125,13 @@
         religion = animist
         size = 10
     }
-
+	
+    craftsmen = {
+        culture = skamisc
+        religion = protestant
+        size = 8000
+    }
+	
     farmers = {
         culture = shawnee
         religion = animist
@@ -8737,6 +8749,11 @@
         size = 525
     }
 
+    craftsmen = {
+        culture = vestlandic
+        religion = protestant
+        size = 20000
+    }
     bureaucrats = {
         culture = vestlandic
         religion = protestant

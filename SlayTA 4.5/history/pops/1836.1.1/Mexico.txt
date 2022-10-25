@@ -1842,7 +1842,11 @@
         religion = catholic
         size = 1650
     }
-
+    craftsmen = {
+        culture = meikan
+        religion = catholic
+        size = 16000
+    }
     bureaucrats = {
         culture = meikan
         religion = catholic
