@@ -70,7 +70,9 @@ finance_reform = finance_reform_two
 # Technologies
 flintlock_rifles = 1
 post_nelsonian_thought = 1
-
+military_staff_system = 1
+private_banks = 1
+malthusian_thought = 1
 # Inventions
 
 }

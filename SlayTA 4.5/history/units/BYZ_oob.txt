@@ -48,7 +48,7 @@ leader = {
 }
 army = {
 	name = "Guard of the Basileus"
-	location = 860
+	location = 828
 	regiment = {
 		name = "I. Scholai"
 		type = infantry
@@ -106,6 +106,60 @@ army = {
 	}
 }
 
+army = {
+	name = "Emperor Condor's Guard"
+	location = 860
+	regiment = {
+		name = "I. Scholai"
+		type = infantry
+		home = 870
+	}
+	regiment = {
+		name = "II. Scholai"
+		type = infantry
+		home = 869
+	}
+	regiment = {
+		name = "III. Scholai"
+		type = infantry
+		home = 838
+	}
+	regiment = {
+		name = "IV. Scholai"
+		type = hussar
+		home = 822
+	}
+	regiment = {
+		name = "V. Scholai"
+		type = hussar
+		home = 823
+	}
+	regiment = {
+		name = "I. Pyrovolikos B."
+		type = hussar
+		home = 829
+	}
+	regiment = {
+		name = "II. Pyrovolikos B."
+		type = hussar
+		home = 860
+	}
+	regiment = {
+		name = "III. Pyrovolikos B."
+		type = artillery
+		home = 859
+	}
+	regiment = {
+		name = "IV. Pyrovolikos B."
+		type = artillery
+		home = 806
+	}
+	regiment = {
+		name = "I. Koursouses"
+		type = artillery
+		home = 821
+	}
+}
 army = {
 	name = "Stereas Army"
 	location = 821
