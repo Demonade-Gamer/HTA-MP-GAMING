@@ -104,14 +104,10 @@ promotion_chance =
 				is_slave = yes
 			}
 	}	
-modifier = {
-        factor = -100
-        OR = {
-            { location = { total_pops = 500 } } #change this to the min number of pops you want the province to have
-            not = { location = { controlled_by = owner } } #stops them from leaving entirely if its controlled by someone else in a war
-            not = { location = { province_control_days = 365 } } #stops them from leaving till the new owner has controlled it for 365 days to give them time to get re-employed
-        }
-    }
+	modifier = {
+		factor = -100
+		location = { NOT = { controlled_by = owner } }
+	}
 	
 }
 
@@ -1373,7 +1369,7 @@ assimilation_chance = {
 			has_culture_core = no
 		}
 	}
-	group = {
+	group =
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.2

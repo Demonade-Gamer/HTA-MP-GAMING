@@ -11,8 +11,8 @@ everyday_needs = {
 	liquor = 3
 	regular_clothes = 1.2
 	furniture = 1.1
-	fertilizer = 0.5 #0
-	grain = 2.5
+	fertilizer = 0.75 #0
+	cattle = 2.5
 }
 
 life_needs = {
@@ -636,7 +636,7 @@ promote_to =
 			AND = { 
 				OR = { 
 					culture = nanfaren
-					culture = nanfaren
+					culture = beifaren
 					culture = yue
 					culture = min
 					is_culture_group = south_asian
