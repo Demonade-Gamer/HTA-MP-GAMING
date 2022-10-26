@@ -495,7 +495,7 @@ invade_the_mexicans_scw = {
 			GNC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			add_accepted_culture = califiano
+			add_accepted_culture = skamisc
 			set_country_flag = north_integrated
 		}
 	}
