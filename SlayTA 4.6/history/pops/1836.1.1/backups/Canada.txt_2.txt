@@ -242,61 +242,61 @@
     aristocrats = {
         culture = skamisc
         religion = protestant
-        size = 513
+        size = 171
     }
 
     soldiers = {
         culture = skamisc
         religion = protestant
-        size = 2583
+        size = 861
     }
 
     clergymen = {
         culture = skamisc
         religion = protestant
-        size = 1242
+        size = 414
     }
 
     artisans = {
         culture = skamisc
         religion = protestant
-        size = 1548
+        size = 516
     }
 
     farmers = {
         culture = skamisc
         religion = protestant
-        size = 15003
+        size = 5001
     }
 
     aristocrats = {
         culture = shawnee
         religion = animist
-        size = 513
+        size = 171
     }
 
     clergymen = {
         culture = shawnee
         religion = animist
-        size = 774
+        size = 258
     }
 
     artisans = {
         culture = shawnee
         religion = animist
-        size = 1548
+        size = 516
     }
 
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 1000
+        size = 3300
     }
 
     farmers = {
         culture = shawnee
         religion = animist
-        size = 27945
+        size = 9315
     }
 }
 #Vancouver Island (8000/2000 POPS)
@@ -304,61 +304,61 @@
     aristocrats = {
         culture = skamisc
         religion = protestant
-        size = 306
+        size = 102
     }
 
     soldiers = {
         culture = skamisc
         religion = protestant
-        size = 1548
+        size = 516
     }
 
     clergymen = {
         culture = skamisc
         religion = protestant
-        size = 1134
+        size = 378
     }
 
     artisans = {
         culture = skamisc
         religion = protestant
-        size = 927
+        size = 309
     }
 
     farmers = {
         culture = skamisc
         religion = protestant
-        size = 12420
+        size = 4140
     }
 
     aristocrats = {
         culture = shawnee
         religion = animist
-        size = 252
+        size = 84
     }
 
     clergymen = {
         culture = shawnee
         religion = animist
-        size = 513
+        size = 171
     }
 
     artisans = {
         culture = shawnee
         religion = animist
-        size = 1035
+        size = 345
     }
 
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 1000
+        size = 3300
     }
 
     farmers = {
         culture = shawnee
         religion = animist
-        size = 18108
+        size = 6036
     }
 }
 #Prince Rupert (8000/2000 POPS)
@@ -366,43 +366,43 @@
     aristocrats = {
         culture = skamisc
         religion = protestant
-        size = 207
+        size = 69
     }
 
     farmers = {
         culture = skamisc
         religion = protestant
-        size = 5688
+        size = 1896
     }
 
     aristocrats = {
         culture = shawnee
         religion = animist
-        size = 252
+        size = 84
     }
 
     clergymen = {
         culture = shawnee
         religion = animist
-        size = 513
+        size = 171
     }
 
     artisans = {
         culture = shawnee
         religion = animist
-        size = 1035
+        size = 345
     }
 
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 1000
+        size = 3300
     }
 
     farmers = {
         culture = shawnee
         religion = animist
-        size = 18108
+        size = 6036
     }
 }
 #Glenora (4000/1000 POPS)
@@ -410,37 +410,37 @@
     farmers = {
         culture = skamisc
         religion = protestant
-        size = 3618
+        size = 1206
     }
 
     aristocrats = {
         culture = shawnee
         religion = animist
-        size = 99
+        size = 33
     }
 
     clergymen = {
         culture = shawnee
         religion = animist
-        size = 252
+        size = 84
     }
 
     artisans = {
         culture = shawnee
         religion = animist
-        size = 513
+        size = 171
     }
 
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 1000
+        size = 3300
     }
 
     farmers = {
         culture = shawnee
         religion = animist
-        size = 9315
+        size = 3105
     }
 }
 #Atlin (4000/1000 POPS)
@@ -512,49 +512,49 @@
     aristocrats = {
         culture = skamisc
         religion = protestant
-        size = 252
+        size = 84
     }
 
     clergymen = {
         culture = skamisc
         religion = protestant
-        size = 513
+        size = 171
     }
 
     farmers = {
         culture = skamisc
         religion = protestant
-        size = 6723
+        size = 2241
     }
 
     aristocrats = {
         culture = shawnee
         religion = animist
-        size = 252
+        size = 84
     }
 
     clergymen = {
         culture = shawnee
         religion = animist
-        size = 513
+        size = 171
     }
 
     artisans = {
         culture = shawnee
         religion = animist
-        size = 1035
+        size = 345
     }
 
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 1000
+        size = 3300
     }
 
     farmers = {
         culture = shawnee
         religion = animist
-        size = 18108
+        size = 6036
     }
 }
 #Kelowna (8000/2000 POPS)
@@ -562,43 +562,43 @@
     clergymen = {
         culture = skamisc
         religion = protestant
-        size = 513
+        size = 171
     }
 
     farmers = {
         culture = skamisc
         religion = protestant
-        size = 8793
+        size = 2931
     }
 
     aristocrats = {
         culture = shawnee
         religion = animist
-        size = 252
+        size = 84
     }
 
     clergymen = {
         culture = shawnee
         religion = animist
-        size = 513
+        size = 171
     }
 
     artisans = {
         culture = shawnee
         religion = animist
-        size = 1035
+        size = 345
     }
 
     soldiers = {
         culture = shawnee
         religion = animist
-        size = 1000
+        size = 3300
     }
 
     farmers = {
         culture = shawnee
         religion = animist
-        size = 18108
+        size = 6036
     }
 }
 #Vernon (8000/2000 POPS)

@@ -1,9 +1,61 @@
 army = {
-	name = "I prefer margaria myself but have it your way"
-	location = 89
+	name = "You've been buffed!"
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 19
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 13
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 1
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 14
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 15
+	}
+}
+army = {
+	name = "Now you've had your way"
+	location = 87
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 2137
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 2137
+	}
 		regiment = {
 		name= "1. Brigada de Infantería"
 		type = hussar
 		home = 89
 	}
-}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 81
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 78
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 14
+	}
