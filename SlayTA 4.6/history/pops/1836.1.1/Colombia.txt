@@ -75,25 +75,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 5550
     }
@@ -161,25 +161,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 37
     }
 
     artisans = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 37
     }
 
     farmers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 2775
     }
@@ -217,25 +217,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 375
     }
 
     soldiers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 7050
     }
@@ -305,25 +305,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 375
     }
 
     soldiers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 6975
     }
@@ -393,25 +393,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 37
     }
 
     artisans = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 225
     }
 
     soldiers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 37
     }
 
     farmers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 4200
     }
@@ -739,25 +739,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 225
     }
 
     soldiers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 37
     }
 
     farmers = {
-        culture = shawnee
+        culture = mellomsk
         religion = animist
         size = 4162
     }

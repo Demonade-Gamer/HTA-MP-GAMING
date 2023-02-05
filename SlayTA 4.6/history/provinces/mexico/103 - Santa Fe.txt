@@ -1,5 +1,12 @@
+owner = GNC
+controller = GNC
+
+
 trade_goods = fruit
 life_rating = 35
 
 
 
+
+
+add_core = GNC

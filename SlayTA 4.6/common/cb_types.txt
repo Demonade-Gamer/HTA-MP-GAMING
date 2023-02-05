@@ -2354,45 +2354,7 @@ take_capital = {
 			is_colonial = no
 		}
 		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
 	}		
-
-	po_demand_state = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-
-	
-	allowed_states = {
-		is_colonial = no
-		any_owned_province = {
-			not = {	is_core = THIS }
-			is_colonial = no
-		}
-		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}	
 
 	po_demand_state = yes
 	
@@ -2870,70 +2832,5 @@ make_puppet_large = {
 			to = pro_military
 			value = 0.25
 		}
-	}
-}
-
-# Dismantle factories
-dismantle_factories = {
-	sprite_index = 16
-	is_triggered_only = yes
-	months = 9
-	
-	construction_speed = 0.5
-
-	badboy_factor = 1.2
-	prestige_factor = 2.5
-	peace_cost_factor = 1
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	
-	can_use = {
-		NOT = { tag = SIK }
-		year = 1900
-		NOT = {
-			has_country_modifier = neutrality
-			has_country_modifier = generic_neutrality
-		}
-		THIS = {
-			civilized = yes
-			NOT = { has_country_modifier = neutrality }
-			NOT = { has_country_modifier = generic_neutrality }
-		}
-	}
-
-	allowed_countries = {
-		FROM = { tag = CIV }
-	}
-
-	allowed_states = {
-		has_building = factory
-		NOT = {
-			any_owned_province = { is_capital = yes }
-		}
-	}
-
-	po_transfer_provinces = yes
-
-	war_name = WAR_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-	
-	on_po_accepted = {
-		country_event =	2652	# Territorial Loss event
 	}
 }

@@ -16,7 +16,7 @@ political_decisions = {
 		
 		allow = {
 			SLS = { in_sphere = THIS }
-			nationalism_n_imperialism = 1
+			year = 1840
 		}
 		
 		effect = {

@@ -430,9 +430,9 @@ invade_the_mexicans_scw = {
 		}
 		allow = {
 			YUC = { all_core = { owned_by = THIS } }
-			year = 1850
 		}
 		effect = {
+			badboy = 20
 			MEL = { all_core = { add_core = MEX } }
 			HOY = { all_core = { add_core = MEX } }
 			MDT = { all_core = { add_core = MEX } }
@@ -469,10 +469,11 @@ invade_the_mexicans_scw = {
 			NOT = { has_country_flag = north_invaded_mex }
 		}
 		allow = {
-			GNC = { any_core = { owned_by = THIS } }
-			year = 1850
+			USA_138 = { owned_by = THIS }
+			MEX_2142 = { owned_by = THIS }
 		}
 		effect = {
+			badboy = 20
 			GNC = { all_core = { add_core = MEX } }
 			MEX_85 = { add_core = MEX }
 			MEX_2138 = { add_core = MEX }

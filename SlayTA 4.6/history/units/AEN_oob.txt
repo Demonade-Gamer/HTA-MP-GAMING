@@ -162,7 +162,6 @@ navy = {
 		name = "Ret"
 		type = frigate
 	}
-	location = 303
 	ship = {
 		name = "Anmedla"
 		type = manowar
@@ -236,18 +235,4 @@ navy = {
 		name = "5. Sciplest"
 		type = clipper_transport
 	}
-}
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = balanced
-
-	threat = { id="SCO" value=75 }
-
-	antagonize = { id="SCO" value=75 }
-
-	rival = { id="HIS" value=50 }
 }

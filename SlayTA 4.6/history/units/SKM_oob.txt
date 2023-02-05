@@ -1,5 +1,6 @@
 army = {
 	name = "You've been buffed!"
+	location = 84
 		regiment = {
 		name= "1. Brigada de Infantería"
 		type = hussar
@@ -59,3 +60,4 @@ army = {
 		type = hussar
 		home = 14
 	}
+}

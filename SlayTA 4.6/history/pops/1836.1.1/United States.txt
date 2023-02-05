@@ -32,12 +32,6 @@
         size = 1725
     }
 
-    craftsmen = {
-        culture = skamisc
-        religion = protestant
-        size = 24000
-    }
-
     aristocrats = {
         culture = shawnee
         religion = animist
@@ -366,7 +360,12 @@
         religion = animist
         size = 258
     }
-
+	
+    craftsmen = {
+        culture = skamisc
+        religion = protestant
+        size = 24000
+    }
     artisans = {
         culture = shawnee
         religion = animist
@@ -412,7 +411,7 @@
     farmers = {
         culture = skamisc
         religion = protestant
-        size = 30876
+        size = 60876
     }
 }
 #Spokane (4000/1000 POPS)

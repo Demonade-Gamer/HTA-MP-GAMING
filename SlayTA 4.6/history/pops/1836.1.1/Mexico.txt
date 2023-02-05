@@ -163,25 +163,25 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 2700
     }
@@ -455,31 +455,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 2700
     }
@@ -563,25 +563,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = shawnee
+        culture = nahua
         religion = animist
         size = 2750
     }
@@ -619,7 +619,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = skamisc
         religion = protestant
         size = 13725
     }

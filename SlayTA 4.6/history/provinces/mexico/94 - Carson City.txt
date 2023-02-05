@@ -1,3 +1,7 @@
+owner = SKM
+controller = SKM
 trade_goods = iron
 life_rating = 25
 
+
+add_core = SKM

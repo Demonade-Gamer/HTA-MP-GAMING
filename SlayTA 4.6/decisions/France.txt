@@ -75,7 +75,7 @@ political_decisions = {
 			badboy = 5
 		}
 		
-		ai_will_do = {#Maybe mod this a bit? Ideology = jingoism or something?
+		ai_will_do = {
 			factor = 1
 			modifier = {
 				factor = 0
@@ -247,7 +247,6 @@ political_decisions = {
 		}
 		
 		effect = {
-			prestige = -2
 			add_accepted_culture = wallonian
 		}
 	}

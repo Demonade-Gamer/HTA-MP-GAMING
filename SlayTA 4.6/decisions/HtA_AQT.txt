@@ -7,7 +7,7 @@ political_decisions = {
 		}		
 		allow = {
 			war = no
-			nationalism_n_imperialism = 1
+			state_n_government = 1
 			CAT = {
 				all_core = {
 					OR = {
@@ -64,13 +64,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			NOT = {
-				relation = {
-					who = PDN
-					value = 50
-				}
-			}
-			nationalism_n_imperialism = 1
+			ideological_thought = 1
 		}
 		
 		effect = {
@@ -86,7 +80,6 @@ political_decisions = {
 			465 = { add_core = AQT }
 			466 = { add_core = AQT }
 			607 = { add_core = AQT }
-			PDN = { country_event = 51604 }
 			clr_country_flag = claim_rose
 		}
 	}
@@ -129,49 +122,6 @@ political_decisions = {
 			money = -5000
 			research_points = 500
 			prestige = 1
-			NPL = {
-				clr_country_flag = potenza_earthquake
-				relation = {
-					who = THIS
-					value = 5
-				}
-			}
-		}
-	}
-	
-	further_the_revolution_in_DAU = {
-		picture = names_of_the_rev
-		potential = {
-			tag = AQT
-			government = democracy
-			is_our_vassal = DAU
-			DAU = {
-				OR = {
-					government = absolute_monarchy
-					government = prussian_constitutionalism
-					government = hms_government
-				}
-				any_owned_province = {
-					controlled_by = REB
-				}
-			}
-			NOT = { has_country_flag = further_revolution_in_DAU }
-		}
-		
-		allow = {
-			military_score = 20
-			money = 5000
-		}
-		
-		effect = {
-			money = -5000
-			set_country_flag = further_revolution_in_DAU
-			DAU = {
-				country_event = {
-					id = 51600 #See HtA_DAU events file for code
-					days = 15
-				}
-			}
 		}
 	}
 	
