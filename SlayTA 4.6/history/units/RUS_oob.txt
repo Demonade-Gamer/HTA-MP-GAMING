@@ -1,3 +1,22 @@
+
+POL = {
+	truce_until = 1837.1.1
+}
+BYZ = {
+	truce_until = 1837.1.1
+}
+ARM = {
+	truce_until = 1837.1.1
+}
+BOH = {
+	truce_until = 1837.1.1
+}
+SWE = {
+	truce_until = 1837.1.1
+}
+FIN = {
+	truce_until = 1837.1.1
+}
 SML = {
 	value = -180
 	level = 0
@@ -9,7 +28,7 @@ POL = {
 
 army = {
 	name = "Army Corps of the Guard"
-	location = 1008
+	location = 998
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
@@ -73,7 +92,7 @@ army = {
 
 army = {
 	name = "1st Line Corps"
-	location = 1026
+	location = 1000
 	regiment = {
 		name = "1.1-ya Pekhotnaya Divisiya"
 		type = infantry
@@ -137,7 +156,7 @@ army = {
 
 army = {
 	name = "1. Cavalry Corps"
-	location = 999
+	location = 1005
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = cavalry

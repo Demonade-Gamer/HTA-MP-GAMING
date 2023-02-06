@@ -119,6 +119,7 @@
         religion = animist
         size = 10
     }
+
     farmers = {
         culture = shawnee
         religion = animist
@@ -360,12 +361,13 @@
         religion = animist
         size = 258
     }
-	
+
     craftsmen = {
         culture = skamisc
         religion = protestant
         size = 24000
     }
+
     artisans = {
         culture = shawnee
         religion = animist
@@ -615,7 +617,7 @@
         religion = protestant
         size = 1896
     }
-	
+
     craftsmen = {
         culture = skamisc
         religion = protestant
@@ -5584,7 +5586,6 @@
         size = 2500
     }
 
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -5780,19 +5781,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 50
+        size = 112
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 200
+        size = 450
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2750
+        size = 6187
     }
 }
 #Marietta (160000/40000 POPS)
@@ -5876,19 +5877,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 75
+        size = 168
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 250
+        size = 562
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 4675
+        size = 10518
     }
 
     aristocrats = {
@@ -5998,19 +5999,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 100
+        size = 225
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 800
+        size = 1800
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2850
+        size = 6412
     }
 }
 #Bowling Green (144000/36000 POPS)
@@ -6072,19 +6073,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 100
+        size = 225
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 700
+        size = 1575
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1700
+        size = 3825
     }
 }
 #Paducah (108000/27000 POPS)
@@ -6146,19 +6147,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 50
+        size = 112
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 350
+        size = 787
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 550
+        size = 1237
     }
 
     farmers = {
@@ -6252,19 +6253,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 125
+        size = 280
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 850
+        size = 1912
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 325
+        size = 730
     }
 
     farmers = {
@@ -6460,19 +6461,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 75
+        size = 168
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 550
+        size = 1237
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1350
+        size = 3037
     }
 }
 #Chattanooga (132000/33000 POPS)
@@ -6552,19 +6553,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 50
+        size = 112
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 350
+        size = 787
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2400
+        size = 5400
     }
 
     aristocrats = {
@@ -7306,7 +7307,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 7825
+        size = 17605
     }
 
     farmers = {
@@ -7422,7 +7423,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1100
+        size = 2475
     }
 
     farmers = {
@@ -7508,7 +7509,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 8225
+        size = 18505
     }
 
     farmers = {
@@ -7576,7 +7577,7 @@
     farmers = {
         culture = afro_american
         religion = animist
-        size = 1290
+        size = 2902
     }
 
     farmers = {
@@ -7664,7 +7665,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 6010
+        size = 13522
     }
 
     farmers = {
@@ -7774,7 +7775,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2500
+        size = 5625
     }
 
     farmers = {
@@ -7832,7 +7833,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 5500
+        size = 12375
     }
 
     farmers = {
@@ -7900,7 +7901,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1400
+        size = 3150
     }
 
     farmers = {
@@ -7986,7 +7987,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 4500
+        size = 10125
     }
 
     farmers = {
@@ -8042,7 +8043,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2500
+        size = 5625
     }
 
     farmers = {
@@ -8128,7 +8129,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1500
+        size = 3375
     }
 
     farmers = {
@@ -8198,7 +8199,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2125
+        size = 4780
     }
 
     farmers = {
@@ -8254,7 +8255,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 625
+        size = 1405
     }
 
     farmers = {
@@ -8310,7 +8311,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1400
+        size = 3150
     }
 
     farmers = {
@@ -8396,7 +8397,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 3225
+        size = 7255
     }
 
     farmers = {
@@ -8452,7 +8453,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1250
+        size = 2812
     }
 
     farmers = {
@@ -8538,7 +8539,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2250
+        size = 5062
     }
 
     farmers = {
@@ -8631,7 +8632,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 1425
+        size = 3205
     }
 
     farmers = {
@@ -8717,7 +8718,7 @@
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2425
+        size = 5455
     }
 
     farmers = {
@@ -8899,19 +8900,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 50
+        size = 112
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 300
+        size = 675
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2650
+        size = 5962
     }
 
     farmers = {
@@ -9269,19 +9270,19 @@
     clergymen = {
         culture = afro_american
         religion = protestant
-        size = 50
+        size = 112
     }
 
     artisans = {
         culture = afro_american
         religion = protestant
-        size = 150
+        size = 337
     }
 
     farmers = {
         culture = afro_american
         religion = protestant
-        size = 2800
+        size = 6300
     }
 }
 #Erie (108000/27000 POPS)

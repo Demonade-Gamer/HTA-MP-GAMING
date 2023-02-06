@@ -1,3 +1,11 @@
+leader = {
+	name = "Vané Viola"
+	type = land
+	date="1836.1.1"
+	personality = defence_minus_1.1
+	background = attack_4.1
+}
+
 army = {
 	name = "Ejército de Buenos Aires"
 	location = 2349
@@ -15,14 +23,89 @@ army = {
 
 	regiment = {
 		name= "3. División de Infantería"
-		type = infantry
+		type = hussar
 		home = 2348
 	}
 
 	regiment = {
 		name= "4. División de Infantería"
+		type = artillery
+		home = 2349
+	}
+
+	regiment = {
+		name= "4. División de Infantería"
+		type = artillery
+		home = 2460
+	}
+	
+}
+
+army = {
+	name = "Ejército de Buenos Aires"
+	location = 2351
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2379
+	}
+
+	regiment = {
+		name= "2. División de Infantería"
 		type = infantry
 		home = 2349
+	}
+
+	regiment = {
+		name= "3. División de Infantería"
+		type = hussar
+		home = 2345
+	}
+
+	regiment = {
+		name= "4. División de Infantería"
+		type = artillery
+		home = 2344
+	}
+	
+	regiment = {
+		name= "4. División de Infantería"
+		type = artillery
+		home = 2460
+	}
+
+}
+army = {
+	name = "Ejército de Buenos Aires"
+	location = 2348
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2347
+	}
+
+	regiment = {
+		name= "2. División de Infantería"
+		type = infantry
+		home = 2467
+	}
+
+	regiment = {
+		name= "3. División de Infantería"
+		type = hussar
+		home = 2466
+	}
+
+	regiment = {
+		name= "4. División de Infantería"
+		type = artillery
+		home = 2459
+	}
+	
+	regiment = {
+		name= "4. División de Infantería"
+		type = artillery
+		home = 2379
 	}
 
 }

@@ -101,7 +101,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			badboy = 10
+			badboy = 15
 			GNC = { all_core = { add_core = THIS } }
 			set_country_flag = annex_ginnaecer
 		}
@@ -147,7 +147,7 @@ political_decisions = {
 
 		}		
 		effect = {
-			badboy = 10
+			badboy = 15
 			SKM = { all_core = { add_core = THIS } }
 			set_country_flag = annex_skamisc
 		}
@@ -193,7 +193,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			badboy = 10
+			badboy = 15
 			MRG = { all_core = { add_core = THIS } }
 			set_country_flag = annex_margaria
 		}
@@ -257,8 +257,9 @@ invade_the_mexicans_scw = {
 			SCW = { all_core = { owned_by = SCW } }
 		}
 		effect = {
-			MEX = { all_core = { limit = { NOT = { is_core = HOY is_core = MDT is_core = MNK } } add_core = THIS } } 
-			YUC = { all_core = { add_core = SCW } }
+			add_accepted_culture = meikan
+			add_accepted_culture = nahua
+			add_accepted_culture = mellomsk
 			set_country_flag = mexico_invaded_scw
 		}
 	}
@@ -432,35 +433,12 @@ invade_the_mexicans_scw = {
 			YUC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			badboy = 20
-			MEL = { all_core = { add_core = MEX } }
-			HOY = { all_core = { add_core = MEX } }
+			badboy = 15
+			add_accepted_culture = mellomsk
 			MDT = { all_core = { add_core = MEX } }
 			MNK = { all_core = { add_core = MEX } }
 			YUC = { all_core = { add_core = MEX } }
 			set_country_flag = south_invaded
-		}
-	}
-	integrate_the_southern_europeans = {
-		potential = {
-			tag = MEX
-			has_country_flag = south_invaded
-			NOT = { has_country_flag = south_integrated }
-		}
-		allow = {
-			OR = {
-				MEL = { all_core = { owned_by = THIS } }
-				AND = {
-					HOY = { all_core = { owned_by = THIS } }
-					MDT = { all_core = { owned_by = THIS } }
-					MNK = { all_core = { owned_by = THIS } }
-				}
-			}
-		}
-		effect = {
-			add_accepted_culture = mellomsk
-			add_accepted_culture = mayan
-			set_country_flag = south_integrated
 		}
 	}
 	invade_the_north_mex = {
@@ -473,8 +451,9 @@ invade_the_mexicans_scw = {
 			MEX_2142 = { owned_by = THIS }
 		}
 		effect = {
-			badboy = 20
-			GNC = { all_core = { add_core = MEX } }
+			badboy = 15
+			add_accepted_culture = skamisc
+			add_accepted_culture = margarian
 			MEX_85 = { add_core = MEX }
 			MEX_2138 = { add_core = MEX }
 			100 = { add_core = MEX }
@@ -482,24 +461,7 @@ invade_the_mexicans_scw = {
 			set_country_flag = north_invaded_mex
 		}
 	}
-	integrate_the_north_mex = {
-		potential = {
-			tag = MEX
-			has_country_flag = north_invaded_mex
-			NOT = { has_country_flag = north_integrated }
-		}
-		allow = {
-			MEX_85 = { owned_by = THIS }
-			MEX_2138 = { owned_by = THIS }
-			100 = { owned_by = THIS }
-			102 = { owned_by = THIS }
-			GNC = { all_core = { owned_by = THIS } }
-		}
-		effect = {
-			add_accepted_culture = skamisc
-			set_country_flag = north_integrated
-		}
-	}
+
 	invade_the_north = {
 		potential = {
 			tag = MEL
@@ -509,30 +471,12 @@ invade_the_mexicans_scw = {
 			YUC = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			MEX = { all_core = { limit = { NOT = { OR = { is_core = SKM is_core = GNC } } } add_core = MEL } }
+			add_accepted_culture = meikan
+			add_accepted_culture = nahua
+			add_accepted_culture = skamisc
+			add_accepted_culture = margarian
 			YUC = { all_core = { add_core = MEL } }
 			set_country_flag = north_invaded
-		}
-	}
-	integrate_the_mexicans = {
-		potential = {
-			OR = {
-				has_country_flag = north_invaded
-				has_country_flag = mexicans_invaded
-			}
-			OR = {
-				tag = MEL
-				tag = SCW
-			}
-			NOT = { has_country_flag = mexicans_integrated }
-		}
-		allow = {
-			MEX = { all_core = { owned_by = THIS } }
-		}
-		effect = {
-			add_accepted_culture = meikan
-			set_country_flag = mexicans_integrated
-			prestige = 12
 		}
 	}
 }

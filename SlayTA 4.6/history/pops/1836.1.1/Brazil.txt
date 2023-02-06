@@ -63,7 +63,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  1100
+        size = 1100
     }
 
     farmers = {
@@ -114,7 +114,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -146,7 +146,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -178,7 +178,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -210,7 +210,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -242,7 +242,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -256,31 +256,31 @@
     aristocrats = {
         culture = amazonian
         religion = animist
-        size = 10
+        size = 30
     }
 
     clergymen = {
         culture = amazonian
         religion = animist
-        size = 25
+        size = 75
     }
 
     artisans = {
         culture = amazonian
         religion = animist
-        size = 50
+        size = 150
     }
 
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = amazonian
         religion = animist
-        size = 900
+        size = 2700
     }
 }
 #Para Region (128000)
@@ -320,7 +320,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  1100
+        size = 1100
     }
 
     farmers = {
@@ -344,7 +344,7 @@
     soldiers = {
         culture = lutzan
         religion = catholic
-        size =  1100
+        size = 1100
     }
 
     farmers = {
@@ -380,7 +380,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -412,7 +412,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  1100
+        size = 1100
     }
 
     farmers = {
@@ -436,7 +436,7 @@
     soldiers = {
         culture = lutzan
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -466,7 +466,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -493,7 +493,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  1100
+        size = 1100
     }
 
     farmers = {
@@ -523,7 +523,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -549,7 +549,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -579,7 +579,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -611,13 +611,13 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = aquitanian
         religion = catholic
-        size =  200
+        size = 200
     }
 
     clergymen = {
@@ -635,7 +635,7 @@
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -665,7 +665,7 @@
     soldiers = {
         culture = amazonian
         religion = catholic
-        size =  200
+        size = 200
     }
 
     slaves = {
@@ -697,7 +697,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -727,7 +727,7 @@
     soldiers = {
         culture = amazonian
         religion = catholic
-        size =  200
+        size = 200
     }
 
     slaves = {
@@ -765,7 +765,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -795,7 +795,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -841,7 +841,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -865,7 +865,7 @@
     soldiers = {
         culture = guarani
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -898,7 +898,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -924,7 +924,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -954,7 +954,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -984,7 +984,7 @@
     soldiers = {
         culture = guarani
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -1010,7 +1010,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -1040,7 +1040,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -1068,7 +1068,7 @@
     soldiers = {
         culture = uilsc
         religion = protestant
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -1098,7 +1098,7 @@
     soldiers = {
         culture = guarani
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -1597,11 +1597,13 @@
         religion = catholic
         size = 36425
     }
+
     craftsmen = {
         culture = lutzan
         religion = catholic
         size = 8000
     }
+
     clergymen = {
         culture = uilsc
         religion = protestant
@@ -3541,31 +3543,31 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 875
+        size = 1093
     }
 
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 200
+        size = 250
     }
 
     officers = {
         culture = platinean
         religion = catholic
-        size = 125
+        size = 156
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 400
+        size = 500
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 1525
+        size = 1906
     }
 
     soldiers = {
@@ -3577,19 +3579,19 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 33875
+        size = 42343
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 250
+        size = 312
     }
 
     soldiers = {
@@ -3601,13 +3603,13 @@
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 1700
+        size = 2125
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 3000
+        size = 3750
     }
 }
 #Garapuava (40000/10000 POPS)
@@ -3615,21 +3617,21 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = platinean
-        religion = catholic
         size = 250
     }
 
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 93
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 312
+    }
+
     soldiers = {
         culture = platinean
         religion = catholic
@@ -3639,19 +3641,19 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 5400
+        size = 6750
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 25
+        size = 31
     }
 
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 150
+        size = 187
     }
 
     soldiers = {
@@ -3663,25 +3665,25 @@
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 1250
+        size = 1562
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 1750
+        size = 2187
     }
 
     clergymen = {
         culture = guarani
         religion = animist
-        size = 25
+        size = 31
     }
 
     artisans = {
         culture = guarani
         religion = animist
-        size = 50
+        size = 62
     }
 
     soldiers = {
@@ -3693,7 +3695,7 @@
     farmers = {
         culture = guarani
         religion = animist
-        size = 910
+        size = 1137
     }
 }
 #Lajes (60000/15000 POPS)
@@ -3701,46 +3703,46 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 225
+        size = 281
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 75
+        size = 93
     }
 
     artisans = {
         culture = platinean
+        religion = catholic
+        size = 312
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 6718
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 5375
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
         culture = amazonian
         religion = catholic
         size = 1100
@@ -3749,31 +3751,31 @@
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 1200
+        size = 1500
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 2500
+        size = 3125
     }
 
     aristocrats = {
         culture = guarani
         religion = animist
-        size = 75
+        size = 93
     }
 
     clergymen = {
         culture = guarani
         religion = animist
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = guarani
         religion = animist
-        size = 250
+        size = 312
     }
 
     soldiers = {
@@ -3785,7 +3787,7 @@
     farmers = {
         culture = guarani
         religion = animist
-        size = 4575
+        size = 5718
     }
 }
 #Castro (72000/18000 POPS)
@@ -3793,19 +3795,19 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 375
+        size = 468
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 150
+        size = 187
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 525
+        size = 656
     }
 
     soldiers = {
@@ -3817,19 +3819,19 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 11825
+        size = 14781
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 200
+        size = 250
     }
 
     soldiers = {
@@ -3841,25 +3843,25 @@
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 1200
+        size = 1500
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 2500
+        size = 3125
     }
 
     clergymen = {
         culture = guarani
         religion = animist
-        size = 25
+        size = 31
     }
 
     artisans = {
         culture = guarani
         religion = animist
-        size = 50
+        size = 62
     }
 
     soldiers = {
@@ -3871,7 +3873,7 @@
     farmers = {
         culture = guarani
         religion = animist
-        size = 910
+        size = 1137
     }
 }
 #Desterro (88000/22000 POPS)
@@ -3879,19 +3881,19 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 450
+        size = 562
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 200
+        size = 250
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 650
+        size = 812
     }
 
     soldiers = {
@@ -3903,19 +3905,19 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 14525
+        size = 18156
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 300
+        size = 375
     }
 
     soldiers = {
@@ -3927,13 +3929,13 @@
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 2075
+        size = 2593
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 3500
+        size = 4375
     }
 }
 #Sao Miguel (80000/20000 POPS)
@@ -3941,19 +3943,19 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 425
+        size = 531
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 150
+        size = 187
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 525
+        size = 656
     }
 
     soldiers = {
@@ -3965,19 +3967,19 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 11775
+        size = 14718
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 75
+        size = 93
     }
 
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 350
+        size = 437
     }
 
     soldiers = {
@@ -3989,13 +3991,13 @@
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 2500
+        size = 3125
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 4000
+        size = 5000
     }
 }
 #Sao Pedro Region (532000)
@@ -4005,79 +4007,79 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 1025
+        size = 1281
     }
 
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 300
+        size = 375
     }
 
     officers = {
         culture = platinean
         religion = catholic
-        size = 225
+        size = 281
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 550
+        size = 687
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 2725
+        size = 3406
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size =  200
+        size = 200
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 32575
+        size = 40718
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 650
+        size = 812
     }
 
     soldiers = {
         culture = amazonian
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 4175
+        size = 5218
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 8000
+        size = 10000
     }
 }
 #Sao Pedro/Pelotas (44000/11000 POPS)
@@ -4085,61 +4087,61 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 225
+        size = 281
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 75
+        size = 93
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 300
+        size = 375
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 4000
+        size = 5000
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 50
+        size = 62
     }
 
     artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
         culture = amazonian
         religion = catholic
         size = 200
     }
 
-    soldiers = {
-        culture = amazonian
-        religion = catholic
-        size =  200
-    }
-
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 1200
+        size = 1500
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 2500
+        size = 3125
     }
 }
 #Passo Fundo (112000/28000 POPS)
@@ -4147,85 +4149,85 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 575
+        size = 718
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 250
+        size = 312
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 725
+        size = 906
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 14000
+        size = 17500
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 250
+        size = 312
     }
 
     soldiers = {
         culture = amazonian
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 1700
+        size = 2125
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 3000
+        size = 3750
     }
 
     clergymen = {
         culture = guarani
         religion = animist
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = guarani
         religion = animist
-        size = 250
+        size = 312
     }
 
     soldiers = {
         culture = guarani
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = guarani
         religion = animist
-        size = 4650
+        size = 5812
     }
 }
 #Santa Maria (88000/22000 POPS)
@@ -4233,19 +4235,19 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 450
+        size = 562
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 200
+        size = 250
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 650
+        size = 812
     }
 
     soldiers = {
@@ -4257,37 +4259,37 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 12000
+        size = 15000
     }
 
     clergymen = {
         culture = amazonian
         religion = catholic
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = amazonian
         religion = catholic
-        size = 300
+        size = 375
     }
 
     soldiers = {
         culture = amazonian
         religion = catholic
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 2075
+        size = 2593
     }
 
     slaves = {
         culture = afro_platinean
         religion = catholic
-        size = 3500
+        size = 4375
     }
 }
 #Alegrete (64000/16000 POPS)
@@ -4295,13 +4297,13 @@
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 75
+        size = 93
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 200
+        size = 250
     }
 
     soldiers = {
@@ -4313,37 +4315,37 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 2000
+        size = 2500
     }
 
     aristocrats = {
         culture = guarani
         religion = animist
-        size = 75
+        size = 93
     }
 
     clergymen = {
         culture = guarani
         religion = animist
-        size = 50
+        size = 62
     }
 
     artisans = {
         culture = guarani
         religion = animist
-        size = 250
+        size = 312
     }
 
     soldiers = {
         culture = guarani
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
         culture = guarani
         religion = animist
-        size = 4575
+        size = 5718
     }
 }
 #Beni Region (32000) #see Bolivia.txt for balance of region
@@ -4371,7 +4373,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {
@@ -4403,7 +4405,7 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size =  200
+        size = 200
     }
 
     farmers = {

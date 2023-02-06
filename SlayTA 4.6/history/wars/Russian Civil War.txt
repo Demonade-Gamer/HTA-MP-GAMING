@@ -1,0 +1,27 @@
+name = "Russian Civil War"
+
+1835.12.31 = {
+	add_attacker = SML
+	add_defender = RUS
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = civil_war
+		actor = SML
+		receiver = RUS
+	}
+
+	war_goal = {
+		casus_belli = civil_war
+		actor = RUS
+		receiver = SML
+	}
+}
+1836.6.6 = {
+	rem_attacker = SML
+	rem_defender = RUS
+}

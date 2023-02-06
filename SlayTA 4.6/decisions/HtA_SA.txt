@@ -25,7 +25,11 @@ political_decisions = {
 	hegemony_gidan = {
 		picture = banda_oriental
 		potential = {
-			tag = USR
+			OR = { 
+				tag = USR
+				tag = HOY
+				tag = MEL
+			}
 			NOT = { has_country_flag = establish_gidan_hegemony }
 		}
 		allow = {
@@ -44,6 +48,7 @@ political_decisions = {
 				who = GDN
 				value = -150
 			}
+			add_accepted_culture = afro_antillean
 			set_country_flag = establish_gidan_hegemony
 		}
 	}	
@@ -60,7 +65,6 @@ political_decisions = {
 		
 		allow = {
 			money = 5000
-			medicine = 1
 		}
 		
 		effect = {
@@ -161,6 +165,10 @@ political_decisions = {
 		effect = {
 		CHL = { all_core = { add_core = ARG remove_core = CHL } }
 		set_country_flag = dissolved_lonca
+		add_accepted_culture = south_andean
+		add_accepted_culture = lutzan
+		add_accepted_culture = uilsc
+		add_accepted_culture = guarani
 		}
 	}
 }

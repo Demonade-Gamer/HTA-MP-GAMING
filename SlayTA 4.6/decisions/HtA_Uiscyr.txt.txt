@@ -10,9 +10,9 @@ political_decisions = {
 				ideological_thought = 1
 			}
 			effect = {
-				add_accepted_culture = tareconano
 				add_accepted_culture = lutzan
 				add_accepted_culture = guarani
+				add_accepted_culture = platinean
 				prestige = 15
 				set_country_flag = tar_accepted 
 			}

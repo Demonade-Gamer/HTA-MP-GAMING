@@ -1,3 +1,9 @@
+RUS = {
+	truce_until = 1837.1.1
+}
+SML = {
+	truce_until = 1837.1.1
+}
 BYZ = {
 	value = -50
 }
@@ -41,27 +47,27 @@ army = {
 		home = 1098
 	}
 	regiment = {
-		name= "2-3 Hayastan Guard"
+		name= "1-1 Artillery Division"
 		type = artillery
 		home = 882
 	}
 	regiment = {
-		name= "2-1 Hayastan Guard"
+		name= "1-2 Artillery Division"
 		type = artillery
 		home = 887
 	}
 	regiment = {
-		name= "2. Cavalry Guards"
+		name= "1-3 Artillery Division"
 		type = artillery
 		home = 879
 	}
 	regiment = {
-		name= "3. Cavalry Guards"
+		name= "1-4 Artillery Division"
 		type = artillery
 		home = 878
 	}
 	regiment = {
-		name= "4. Cavalry Guards"
+		name= "1-5 Artillery Division"
 		type = artillery
 		home = 876
 	}
@@ -96,27 +102,27 @@ army = {
 		home = 879
 	}
 	regiment = {
-		name= "1-5 Line Infantry"
-		type = artillery
-		home = 873
-	}
-	regiment = {
-		name= "1-6 Line Infantry"
+		name= "1-1 Artillery Division"
 		type = artillery
 		home = 874
 	}
 	regiment = {
-		name= "1-1 Artillery Division"
+		name= "1-2 Artillery Division"
+		type = artillery
+		home = 874
+	}
+	regiment = {
+		name= "1-3 Artillery Division"
 		type = artillery
 		home = 888
 	}
 	regiment = {
-		name= "1-2 Artillery Division"
+		name= "1-4 Artillery Division"
 		type = artillery
 		home = 882
 	}
 	regiment = {
-		name= "1-3 Artillery Division"
+		name= "1-5 Artillery Division"
 		type = artillery
 		home = 884
 	}
@@ -156,7 +162,40 @@ army = {
 		home = 876
 	}
 }
-
+army = {
+	name = "cavmaxxers unite again "
+	location = 882
+	regiment = {
+		name= "5. Cavalry Guards"
+		type = cavalry
+		home = 875
+	}
+	regiment = {
+		name= "6. Cavalry Guards"
+		type = cavalry
+		home = 876
+	}
+	regiment = {
+		name= "5. Cavalry Guards"
+		type = cavalry
+		home = 875
+	}
+	regiment = {
+		name= "6. Cavalry Guards"
+		type = cavalry
+		home = 882
+	}
+	regiment = {
+		name= "5. Cavalry Guards"
+		type = cavalry
+		home = 875
+	}
+	regiment = {
+		name= "6. Cavalry Guards"
+		type = cavalry
+		home = 876
+	}
+}
 ai = {
 	initialized = yes
 	consolidate = yes

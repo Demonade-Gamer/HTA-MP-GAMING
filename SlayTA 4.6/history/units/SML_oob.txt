@@ -1,3 +1,22 @@
+
+POL = {
+	truce_until = 1837.1.1
+}
+BYZ = {
+	truce_until = 1837.1.1
+}
+ARM = {
+	truce_until = 1837.1.1
+}
+BOH = {
+	truce_until = 1837.1.1
+}
+SWE = {
+	truce_until = 1837.1.1
+}
+FIN = {
+	truce_until = 1837.1.1
+}
 RUS = {
 	value = -180
 }
@@ -10,7 +29,7 @@ POL = {
 
 army = {
 	name = "1. Line Corps"
-	location = 943
+	location = 1015
 	regiment = {
 		name= "1.1-ya Pekhotnaya Diviziya"
 		type = infantry
@@ -75,7 +94,7 @@ army = {
 
 army = {
 	name = "2. Line Corps"
-	location = 958
+	location = 1016
 	regiment = {
 		name= "1.4-ya Pekhotnaya Diviziya"
 		type = infantry
@@ -138,7 +157,7 @@ army = {
 
 army = {
 	name = "3. Line Corps"
-	location = 1037
+	location = 1017
 	regiment = {
 		name = "1.7-ya Pehkotnaya Diviziya"
 		type = cavalry
