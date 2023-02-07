@@ -1,0 +1,202 @@
+military_hospitals_idea_invention = {
+	limit = {
+		early_classical_theory_and_critique = 1
+		has_country_flag = military_hospitals_idea
+	}
+	chance = {
+		base = 0
+		modifier = {
+			factor = 100
+			has_country_flag = military_hospitals_idea
+		}
+	}
+	effect = {
+		soldier_to_pop_loss = 0.2
+	}
+}
+reinforce_rate_idea_invention = {
+	limit = {
+		early_classical_theory_and_critique = 1
+		has_country_flag = reinforce_rate_idea
+	}
+	chance = {
+		base = 0
+		modifier = {
+			factor = 100
+			has_country_flag = reinforce_rate_idea
+		}
+	}
+	effect = {
+		reinforce_rate = 0.15
+	}
+}
+consumer_goods_idea = {
+	limit = {
+		early_classical_theory_and_critique = 1
+		has_country_flag = consumer_goods_idea
+	}
+	chance = {
+		base = 0
+		modifier = {
+			factor = 100
+			has_country_flag = consumer_goods_idea
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			canned_food = 0.08
+			glass = 0.08
+			fertilizer = 0.08
+			explosives = 0.08
+			fabric = 0.08
+			lumber = 0.08
+			paper = 0.08
+			telephones = 0.08
+			wine = 0.08
+			liquor = 0.08
+			regular_clothes = 0.08
+			luxury_clothes = 0.08
+			furniture = 0.08
+			luxury_furniture = 0.08
+			radio = 0.08
+			pharmaceuticals = 0.08
+			cigarettes = 0.08
+			tea = 0.08
+			coffee = 0.08
+		}
+	}
+}
+industrial_goods_idea = {
+	limit = {
+		early_classical_theory_and_critique = 1
+		has_country_flag = industrial_goods_idea
+	}
+	chance = {
+		base = 0
+		modifier = {
+			factor = 100
+			has_country_flag = industrial_goods_idea
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			ammunition = 0.08
+			small_arms = 0.08
+			artillery = 0.08
+			barrels = 0.08
+			sulphur = 0.08
+			rubber = 0.08
+			oil = 0.08
+			steel = 0.08
+			cement = 0.08
+			machine_parts = 0.08
+			clipper_convoy = 0.08
+			steamer_convoy = 0.08
+			electric_gear = 0.08
+			automobiles = 0.08
+			aeroplanes = 0.08
+		}
+	}
+}
+#late_classical_theory
+#AP2 = {
+#	limit = { late_classical_theory = 1 }
+#	news = no
+#	chance = {
+#		base = 100
+#	}
+#	effect = {
+#	}
+#}
+national_idea1 = {
+	limit = { late_classical_theory = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+#collectivist_theory
+#AP3 = {
+#	limit = { collectivist_theory = 1 }
+#	news = no
+#	chance = {
+#		base = 100
+#	}
+#	effect = {
+#	}
+#}
+national_idea2 = {
+	limit = { collectivist_theory = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+#the_historical_theory
+#AP4 = {
+#	limit = { the_historical_theory = 1 }
+#	news = no
+#	chance = {
+#		base = 100
+#	}
+#	effect = {
+#	}
+#}
+national_idea3 = {
+	limit = { the_historical_theory = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+#neoclassical_theory
+#AP5 = {
+#	limit = { neoclassical_theory = 1 }
+#	news = no
+#	chance = {
+#		base = 100
+#	}
+#	effect = {
+#	}
+#}
+national_idea4 = {
+	limit = { neoclassical_theory = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+#keynesian_economics
+#AP6 = {
+#	limit = { keynesian_economics = 1 }
+#	news = no
+#	chance = {
+#		base = 100
+#	}
+#	effect = {
+#	}
+#}
+national_idea5 = {
+	limit = { keynesian_economics = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+#neoliberal_theory
+#AP7 = {
+#	limit = { neoliberal_theory = 1 }
+#	news = no
+#	chance = {
+#		base = 100
+#	}
+#	effect = {
+#	}
+#}
+national_idea6 = {
+	limit = { neoliberal_theory = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
