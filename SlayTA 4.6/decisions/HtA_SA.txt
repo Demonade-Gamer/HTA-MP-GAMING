@@ -49,6 +49,7 @@ political_decisions = {
 				value = -150
 			}
 			add_accepted_culture = afro_antillean
+			add_accepted_culture = afro_carbbean
 			set_country_flag = establish_gidan_hegemony
 		}
 	}	
