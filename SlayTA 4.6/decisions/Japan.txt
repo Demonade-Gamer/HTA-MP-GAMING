@@ -111,10 +111,11 @@ political_decisions = {
 			raider_group_doctrine = 1
 			iron_steamers = 1
 			weapon_platforms = 1
+			TER = { any_core = { owned_by = THIS } }
 		}
 		effect = {
-			badboy = 5
-			PHL = { all_core = { add_core = JAP } }
+			badboy = 15
+			add_accepted_culture = largano
 			prestige = 15
 			set_country_flag = expanded_into_pacific
 		}

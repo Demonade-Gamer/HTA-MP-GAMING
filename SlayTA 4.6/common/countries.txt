@@ -114,6 +114,7 @@ SLO		= "countries/Slovenia.txt"
 VOL		= "countries/Volasea.txt"
 WAL		= "countries/Wallachia.txt"
 YUG		= "countries/Yugoslavia.txt"
+RUM		= "countries/Rum.txt"
 
 # Western Europe
 ALS		= "countries/Elsass.txt"

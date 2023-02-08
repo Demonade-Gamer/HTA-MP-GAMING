@@ -1,8 +1,4 @@
 political_decisions = {
-#Mostly HtA stuff here
-	
-# reunification of Hispania
-		
 	hispania_by_sword = {
 		picture = military_parade
 		potential = {
@@ -94,8 +90,8 @@ political_decisions = {
 		
 		allow = {
 			nationalism_n_imperialism = 1
-			POR = { all_core = { OR = { owned_by = THIS in_sphere = THIS } }
-		}
+			POR = { all_core = { OR = { owned_by = THIS in_sphere = THIS } } }
+			}
 		
 		effect = {
 			add_accepted_culture = portuguese
@@ -335,5 +331,4 @@ political_decisions = {
 			factor = 1
 		}
 	}
-
 }

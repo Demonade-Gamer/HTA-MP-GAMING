@@ -130,6 +130,7 @@ political_decisions = {
 			SIC_754 = { add_core = THIS }
 			SIC_763 = { add_core = THIS }
 			SAR_765 = { add_core = THIS }
+			add_accepted_culture = bulgarian
 		}
 
 		ai_will_do = {
