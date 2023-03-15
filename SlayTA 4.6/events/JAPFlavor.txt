@@ -551,7 +551,7 @@ country_event = {
 	
 	option = {
 		name = "At last!"
-		prestige = 2
+		prestige = 20
 		any_owned = {
 			limit = {
 				is_core = KOR

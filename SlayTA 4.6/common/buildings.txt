@@ -8,20 +8,8 @@
 # cost = x #==> extra construction cost (added to goods cost estimations)
 # time = x #==> number of days to build.
 #
-####### PROVINCE SELECTOR #######
-province_selector = {
-	type = province_selector
-	goods_cost =
-	{
-	}
-	time = 1
-	visibility = no
-	onmap = no
-	max_level = 2
-	province = yes
-	one_per_state = yes
-	
-}
+
+
 
 ############# LATE GAME FACTORIES
 
@@ -38,7 +26,7 @@ aeroplane_factory = {
 		cement = 600
 		lumber = 600
 	}
-	time = 270
+	time = 180
 	visibility = yes
 	onmap = no
 
@@ -61,7 +49,7 @@ barrel_factory = {
 		lumber = 500
 	}
 
-	time = 270
+	time = 180
 	visibility = yes
 	onmap = no
 
@@ -83,7 +71,7 @@ automobile_factory = {
 		cement = 400
 		lumber = 400
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -106,7 +94,7 @@ radio_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -129,7 +117,7 @@ telephone_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -153,7 +141,7 @@ electric_gear_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -174,7 +162,7 @@ machine_parts_factory = {
 		iron = 200
 		timber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -196,7 +184,7 @@ synthetic_oil_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -218,7 +206,7 @@ synthetic_rubber_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -240,7 +228,7 @@ fuel_refinery = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -264,7 +252,7 @@ steamer_shipyard = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -285,7 +273,7 @@ clipper_shipyard = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -308,7 +296,7 @@ luxury_clothes_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -329,7 +317,7 @@ luxury_furniture_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -352,7 +340,7 @@ steel_factory = {
 		coal = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 	
@@ -373,7 +361,7 @@ artillery_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 180
 	visibility = yes
 	onmap = no
 
@@ -393,7 +381,7 @@ small_arms_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 180
 	visibility = yes
 	onmap = no
 
@@ -415,7 +403,7 @@ furniture_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -435,7 +423,7 @@ paper_mill = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 	
@@ -455,7 +443,7 @@ regular_clothes_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -475,7 +463,7 @@ explosives_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -498,7 +486,7 @@ ammunition_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 180
 	visibility = yes
 	onmap = no
 
@@ -519,32 +507,11 @@ canned_food_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 180
 	visibility = yes
 	onmap = no
 
 	production_type = canned_food_factory
-	pop_build_factory = yes
-}
-
-dye_factory = {
-	type = factory
-
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 99
-	goods_cost =
-	{
-		machine_parts = 80
-		iron = 200
-		cement = 200
-		lumber = 200
-	}
-	time = 270
-	visibility = yes
-	onmap = no
-
-	production_type = dye_factory
 	pop_build_factory = yes
 }
 
@@ -561,7 +528,7 @@ liquor_distillery = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 	
@@ -582,7 +549,7 @@ winery = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -604,7 +571,7 @@ lumber_mill = {
 		iron = 200
 		timber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -624,7 +591,7 @@ fabric_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -644,7 +611,7 @@ wool_fabric_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 		
@@ -664,7 +631,7 @@ leather_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 		
@@ -683,7 +650,7 @@ cement_factory = {
 		iron = 200
 		timber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
@@ -703,7 +670,7 @@ glass_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 	
@@ -724,12 +691,26 @@ fertilizer_factory = {
 		cement = 200
 		lumber = 200
 	}
-	time = 270
+	time = 120
 	visibility = yes
 	onmap = no
 
 	production_type = fertilizer_factory
 	pop_build_factory = yes
+}
+
+province_selector = {
+	type = province_selector
+	goods_cost =
+	{
+	}
+	time = 1
+	visibility = no
+	onmap = no
+	max_level = 2
+	province = yes
+	one_per_state = yes
+	
 }
 
 fort = {      
@@ -749,6 +730,28 @@ fort = {
 	max_level = 6
 	province = yes
 	fort_level = 1
+}
+
+railroad = {   
+	type = infrastructure
+	cost = 500
+	goods_cost =
+	{
+		lumber = 200
+		cement = 100
+		steel = 100
+	}
+	time = 720
+	visibility = yes
+	onmap = yes
+	max_level = 6
+	province = yes
+	
+	infrastructure = 0.16
+	movement_cost = -0.05
+	
+	pop_build_factory = yes
+	spawn_railway_track = yes
 }
 
 naval_base = {    
@@ -774,25 +777,4 @@ naval_base = {
 	one_per_state = yes
 	colonial_range = 50
 	local_ship_build = -0.05
-}
-       
-railroad = {   
-	type = infrastructure
-	goods_cost =
-	{
-		lumber = 200
-		cement = 100
-		steel = 100
-	}
-	time = 720
-	visibility = yes
-	onmap = yes
-	max_level = 6
-	province = yes
-	
-	infrastructure = 0.16
-	movement_cost = -0.05
-	
-	pop_build_factory = yes
-	spawn_railway_track = yes
 }

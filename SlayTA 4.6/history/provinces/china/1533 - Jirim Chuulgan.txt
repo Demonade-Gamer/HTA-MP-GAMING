@@ -1,6 +1,5 @@
-owner = QIN
-controller = QIN
-add_core = CHI
-add_core = MGL
+owner = MCK
+controller = MCK
+add_core = MCK
 trade_goods = timber
 life_rating = 32

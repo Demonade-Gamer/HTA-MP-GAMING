@@ -38,12 +38,6 @@ upper_house = {
 
  
 
-foreign_weapons = yes_foreign_weapons
-army_schools = yes_army_schools
-land_reform = yes_land_reform
-education_reform = yes_education_reform
-finance_reform = yes_finance_reform
-
 # Technologies
 flintlock_rifles = 1
 
@@ -54,10 +48,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "JAP_oob.txt"
-1861.1.1 = {
-	oob = "/1861/JAP_oob.txt"
-}
-1861.1.1 = {
 
 foreign_weapons = yes_foreign_weapons
 army_schools = yes_army_schools
@@ -70,9 +60,13 @@ finance_reform = finance_reform_two
 # Technologies
 flintlock_rifles = 1
 post_nelsonian_thought = 1
-military_staff_system = 1
 private_banks = 1
 malthusian_thought = 1
+military_staff_system = 1
+stock_exchange = 1
+clipper_design = 1
+early_classical_theory_and_critique = 1
+
 # Inventions
 
 }

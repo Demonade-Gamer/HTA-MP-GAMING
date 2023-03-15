@@ -472,8 +472,8 @@ NAL_liberal;Freden Parti;;;;;;;;;;;;;x
 NAL_reactionary;Rektig Parti;;;;;;;;;;;x                              
 NFB;Naffaroako Berria;;;;;;;;;;;;;x                                        
 NFB_ADJ; Berrian;;;;;;;;;;;;;x                                             
-NHL;New Holland;;;;;;;;;;;;;x                                              
-NHL_ADJ;New Holland;;;;;;;;;;;;;x                                          
+NHL;Heraldsland;;;;;;;;;;;;;x                                              
+NHL_ADJ;Heraldish;;;;;;;;;;;;;x                                          
 NHL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x; 
 NHL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;                     
 NHL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;x
@@ -558,8 +558,8 @@ QIN_prussian_constitutionalism;Chinese Empire;;;;;;;;;;;;x
 QIN_prussian_constitutionalism_ADJ;Chinese;;;;;;;;;;;;x
 QIN_hms_government;Chinese Empire;;;;;;;;;;;;x
 QIN_hms_government_ADJ;Chinese;;;;;;;;;;;;x
-QUE;Dabimon;;;;;;;;;;;;;;;;;;x
-QUE_ADJ;Dabimonais;;;;;;;;;;;;;;x
+QUE;Leifsland;;;;;;;;;;;;;;;;;;x
+QUE_ADJ;Leifer;;;;;;;;;;;;;;x
 RGS;Altallia;;;;;;;;;;;;;x                                                 
 RGS_ADJ;Altano;;;;;;;;;;;;;x
 RGS_conservative;Union para Altallia;;;;;;;;;;;;;;;x
@@ -761,15 +761,15 @@ YUC_communist;Partit Socialista Obrier;;;;;;;;;;;;;;;x
 YUC_fascist;Ascendencia Maia;;;;;;;;;;;;;;;x
 ZAC;Zachadia;;;;;;;;;;;x
 ZAC_ADJ;Zachad;;;;;;;;;;;;x
-NEU;North Eastern Union;;;;;;;;;;;;x
-NEU_ADJ;Unioner;;;;;;;;;;;;x
-NEU_liberal;Shitty party;;;;;;;;;;;;x
-NEU_conservative;Alright Party;;;;;;;;;;;;x
-NEU_reactionary;Fuck Reforms;;;;;;;;;;;;x
-NEU_anarcho_liberal;Just Why;;;;;;;;;;;;x
-NEU_socialist;The Left Party;;;;;;;;;;;;x
-NEU_communist;The Northeastern Peoples' Party;;;;;;;;;;;;x
-NEU_fascist;Fuck Everyone but Us;;;;;;;;;;;;x
+NEU;Helluland;;;;;;;;;;;;x
+NEU_ADJ;Hellulandic;;;;;;;;;;;;x
+NEU_liberal;Venstre;;;;;;;;;;;;x
+NEU_conservative;Det konservative partiet;;;;;;;;;;;;x
+NEU_reactionary;Eriksson vekkelsesfest;;;;;;;;;;;;x
+NEU_anarcho_liberal;Folkets frihetsparti;;;;;;;;;;;;x
+NEU_socialist;Sosialistisk parti;;;;;;;;;;;;x
+NEU_communist;Folkepartiet;;;;;;;;;;;;x
+NEU_fascist;Større folkefest;;;;;;;;;;;;x
 RUM;The Sultanate of Rum;;;;;;;;;;;;;x
 RUM_ADJ;Rumanian;;;;;;;;;;x   
 RUM_conservative;Bey Faction;Faction Bey;Bey-Fraktion;;Facci? bey;;;;;;;;;x;;;;

@@ -3,13 +3,13 @@
 #Belize (7200/1800 POPS)
 2190 = {
 	artisans = {
-		culture = nahua
+		culture = meikan
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = meikan
 		religion = catholic
 		size = 150
 	}
@@ -21,7 +21,7 @@
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = meikan
 		religion = catholic
 		size= 100
 	}
@@ -33,7 +33,7 @@
 	}
 
 	farmers = {
-		culture = nahua
+		culture = meikan
 		religion = catholic
 		size = 11000
 	}

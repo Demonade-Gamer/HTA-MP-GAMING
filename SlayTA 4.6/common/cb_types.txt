@@ -54,7 +54,6 @@ place_in_the_sun
 colonial_competition
 demand_reperations 
 cut_down_to_size_boxer
-cut_down_to_size 
 free_peoples
 liberate_country
 release_puppet
@@ -687,6 +686,12 @@ acquire_state = {
 				civilized = no
 				THIS = {
 					civilized = yes
+				}
+			}
+			AND = {
+				civilized = yes
+				THIS = { 
+					civilized = no
 				}
 			}
 		}
@@ -2272,7 +2277,6 @@ conquest_low = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	
-	construction_speed = 0.5
 	
 	on_add = {
 		move_issue_percentage = { 
