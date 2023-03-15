@@ -36,10 +36,7 @@ upper_house = {
 	communist = 0
 }
 
- 
 
-# Technologies
-flintlock_rifles = 1
 
 # Inventions
 
@@ -69,4 +66,3 @@ early_classical_theory_and_critique = 1
 
 # Inventions
 
-}
