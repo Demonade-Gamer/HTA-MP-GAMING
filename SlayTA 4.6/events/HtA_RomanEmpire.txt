@@ -11,6 +11,7 @@ country_event = {
 	OR = {
 			tag = ARM
 			tag = TCA
+			tag = RUM
 			tag = BYZ
 		}
 		war = no
