@@ -7,67 +7,56 @@
 		religion = sunni
 		size = 50
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 150
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
 		size = 25
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 2700
 	}
-
 	bureaucrats = {
 		culture = amhara
 		religion = sunni
 		size = 5
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
 		size = 20
 	}
-
 	aristocrats = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 200
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
 		size = 25
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
@@ -87,55 +76,46 @@
 		religion = sunni
 		size = 125
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 350
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 6375
 	}
-
 	aristocrats = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 200
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
 		size = 50
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
@@ -150,67 +130,56 @@
 		religion = coptic
 		size = 225
 	}
-
 	bureaucrats = {
 		culture = amhara
 		religion = coptic
 		size = 15
 	}
-
 	officers = {
 		culture = amhara
 		religion = coptic
 		size = 25
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = coptic
 		size = 125
 	}
-
 	artisans = {
 		culture = amhara
 		religion = coptic
 		size = 600
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = coptic
 		size = 125
 	}
-
 	farmers = {
 		culture = amhara
 		religion = coptic
 		size = 10825
 	}
-
 	aristocrats = {
 		culture = amhara
 		religion = sunni
 		size = 150
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 400
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
@@ -224,29 +193,24 @@
 		religion = coptic
 		size = 125
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = coptic
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = coptic
 		size = 350
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = coptic
 		size = 75
 	}
-
 	farmers = {
 		culture = amhara
 		religion = coptic
 		size = 6375
 	}
-
 }

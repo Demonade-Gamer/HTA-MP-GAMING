@@ -7,121 +7,101 @@
         religion = sunni
         size = 2750
     }
-
     bureaucrats = {
         culture = pashtun
         religion = sunni
         size = 825
     }
-
     officers = {
         culture = pashtun
         religion = sunni
         size = 625
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 1375
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 5400
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 113025
     }
-
     aristocrats = {
         culture = pashtun
         religion = sunni
         size = 2000
     }
-
     officers = {
         culture = pashtun
         religion = sunni
         size = 350
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 975
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 4900
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 88775
     }
-
     aristocrats = {
         culture = pashtun
         religion = shiite
         size = 250
     }
-
     clergymen = {
         culture = pashtun
         religion = shiite
         size = 138
     }
-
     artisans = {
         culture = pashtun
         religion = shiite
         size = 800
     }
-
     soldiers = {
         culture = pashtun
         religion = shiite
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = shiite
@@ -135,85 +115,71 @@
         religion = sunni
         size = 3200
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 1626
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 3300
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 152224
     }
-
     aristocrats = {
         culture = pashtun
         religion = sunni
         size = 1500
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 776
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 3800
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 69174
     }
-
     aristocrats = {
         culture = pashtun
         religion = shiite
         size = 300
     }
-
     clergymen = {
         culture = pashtun
         religion = shiite
         size = 176
     }
-
     artisans = {
         culture = pashtun
         religion = shiite
         size = 1100
     }
-
     soldiers = {
         culture = pashtun
         religion = shiite
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = shiite
@@ -227,79 +193,66 @@
         religion = sunni
         size = 1650
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 750
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 4100
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 69300
     }
-
     aristocrats = {
         culture = pashtun
         religion = sunni
         size = 100
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 476
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 29824
     }
-
     aristocrats = {
         culture = persian
         religion = sunni
         size = 1400
     }
-
     clergymen = {
         culture = persian
         religion = sunni
         size = 400
     }
-
     artisans = {
         culture = persian
         religion = sunni
         size = 4000
     }
-
     soldiers = {
         culture = persian
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = persian
         religion = sunni
@@ -313,115 +266,96 @@
         religion = sunni
         size = 650
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 350
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 1700
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 29300
     }
-
     aristocrats = {
         culture = pashtun
         religion = sunni
         size = 500
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 276
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 1400
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 23824
     }
-
     aristocrats = {
         culture = pashtun
         religion = shiite
         size = 2100
     }
-
     clergymen = {
         culture = pashtun
         religion = shiite
         size = 1100
     }
-
     artisans = {
         culture = pashtun
         religion = shiite
         size = 5400
     }
-
     soldiers = {
         culture = pashtun
         religion = shiite
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = shiite
         size = 98450
     }
-
     aristocrats = {
         culture = pashtun
         religion = sunni
         size = 700
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 376
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 1700
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
@@ -435,55 +369,46 @@
         religion = sunni
         size = 1100
     }
-
     clergymen = {
         culture = persian
         religion = sunni
         size = 576
     }
-
     artisans = {
         culture = persian
         religion = sunni
         size = 2800
     }
-
     soldiers = {
         culture = persian
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = persian
         religion = sunni
         size = 49524
     }
-
     aristocrats = {
         culture = pashtun
         religion = sunni
         size = 3450
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 1750
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 8800
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
@@ -497,55 +422,46 @@
         religion = sunni
         size = 1600
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 838
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 4050
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 72712
     }
-
     aristocrats = {
         culture = pashtun
         religion = shiite
         size = 175
     }
-
     clergymen = {
         culture = pashtun
         religion = shiite
         size = 100
     }
-
     artisans = {
         culture = pashtun
         religion = shiite
         size = 525
     }
-
     soldiers = {
         culture = pashtun
         religion = shiite
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = shiite
@@ -559,31 +475,26 @@
         religion = sunni
         size = 1300
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 675
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 3350
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
@@ -597,55 +508,46 @@
         religion = sunni
         size = 1350
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 688
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 3400
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni
         size = 61887
     }
-
     aristocrats = {
         culture = pashtun
         religion = shiite
         size = 200
     }
-
     clergymen = {
         culture = pashtun
         religion = shiite
         size = 113
     }
-
     artisans = {
         culture = pashtun
         religion = shiite
         size = 650
     }
-
     soldiers = {
         culture = pashtun
         religion = shiite
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = shiite
@@ -661,61 +563,51 @@
         religion = sunni
         size = 125
     }
-
     clergymen = {
         culture = turkmen
         religion = sunni
         size = 63
     }
-
     artisans = {
         culture = turkmen
         religion = sunni
         size = 350
     }
-
     soldiers = {
         culture = turkmen
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = turkmen
         religion = sunni
         size = 5512
     }
-
     aristocrats = {
         culture = pashtun
         religion = sunni
         size = 1650
     }
-
     clergymen = {
         culture = pashtun
         religion = sunni
         size = 775
     }
-
     artisans = {
         culture = pashtun
         religion = sunni
         size = 3750
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     soldiers = {
         culture = pashtun
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = pashtun
         religion = sunni

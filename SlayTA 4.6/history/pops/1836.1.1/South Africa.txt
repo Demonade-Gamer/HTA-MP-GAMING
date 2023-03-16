@@ -9,151 +9,126 @@
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = protestant
         size = 750
     }
-
     soldiers = {
         culture = steenkooler
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = protestant
         size = 9050
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 750
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 12050
     }
-
     aristocrats = {
         culture = dutch
         religion = protestant
         size = 20
     }
-
     clergymen = {
         culture = dutch
         religion = protestant
         size = 70
     }
-
     bureaucrats = {
         culture = dutch
         religion = protestant
         size = 120
     }
-
     artisans = {
         culture = dutch
         religion = protestant
         size = 1500
     }
-
     soldiers = {
         culture = dutch
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = dutch
         religion = protestant
         size = 4250
     }
-
     aristocrats = {
         culture = steenkooler
         religion = catholic
         size = 30
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 160
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 465
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 3550
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 2475
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 18425
     }
-
     aristocrats = {
         culture = steenkooler
         religion = obbite
         size = 20
     }
-
     clergymen = {
         culture = steenkooler
         religion = obbite
         size = 110
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = obbite
         size = 180
     }
-
     artisans = {
         culture = steenkooler
         religion = obbite
         size = 1800
     }
-
     soldiers = {
         culture = steenkooler
         religion = obbite
         size = 600
     }
-
     farmers = {
         culture = steenkooler
         religion = obbite
@@ -167,139 +142,116 @@
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = protestant
         size = 250
     }
-
     farmers = {
         culture = steenkooler
         religion = protestant
         size = 7600
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 6700
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 9650
     }
-
     clergymen = {
         culture = dutch
         religion = protestant
         size = 15
     }
-
     artisans = {
         culture = dutch
         religion = protestant
         size = 300
     }
-
     farmers = {
         culture = dutch
         religion = protestant
         size = 660
     }
-
     aristocrats = {
         culture = steenkooler
         religion = catholic
         size = 10
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 100
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 100
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 1200
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 5225
     }
-
     aristocrats = {
         culture = steenkooler
         religion = obbite
         size = 30
     }
-
     clergymen = {
         culture = steenkooler
         religion = obbite
         size = 130
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = obbite
         size = 220
     }
-
     artisans = {
         culture = steenkooler
         religion = obbite
         size = 2050
     }
-
     soldiers = {
         culture = steenkooler
         religion = obbite
         size = 720
     }
-
     farmers = {
         culture = steenkooler
         religion = obbite
@@ -313,115 +265,96 @@
         religion = protestant
         size = 75
     }
-
     artisans = {
         culture = steenkooler
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = steenkooler
         religion = protestant
         size = 6625
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 14675
     }
-
     clergymen = {
         culture = dutch
         religion = protestant
         size = 15
     }
-
     artisans = {
         culture = dutch
         religion = protestant
         size = 300
     }
-
     farmers = {
         culture = dutch
         religion = protestant
         size = 660
     }
-
     aristocrats = {
         culture = steenkooler
         religion = catholic
         size = 8
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 80
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 75
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 580
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 7425
     }
-
     aristocrats = {
         culture = steenkooler
         religion = obbite
         size = 15
     }
-
     clergymen = {
         culture = steenkooler
         religion = obbite
         size = 100
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = obbite
         size = 140
     }
-
     artisans = {
         culture = steenkooler
         religion = obbite
         size = 1700
     }
-
     soldiers = {
         culture = steenkooler
         religion = obbite
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = obbite
@@ -435,109 +368,91 @@
         religion = catholic
         size = 150
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 595
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 5575
     }
-
     clergymen = {
         culture = dutch
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = dutch
         religion = protestant
         size = 150
     }
-
     farmers = {
         culture = dutch
         religion = protestant
         size = 1800
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 35
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 2890
     }
-
     clergymen = {
         culture = steenkooler
         religion = protestant
         size = 25
     }
-
     artisans = {
         culture = steenkooler
         religion = protestant
         size = 100
     }
-
     farmers = {
         culture = steenkooler
         religion = protestant
         size = 1850
     }
-
     aristocrats = {
         culture = steenkooler
         religion = obbite
         size = 10
     }
-
     clergymen = {
         culture = steenkooler
         religion = obbite
         size = 50
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = obbite
         size = 100
     }
-
     artisans = {
         culture = steenkooler
         religion = obbite
         size = 800
     }
-
     soldiers = {
         culture = steenkooler
         religion = obbite
         size = 300
     }
-
     farmers = {
         culture = steenkooler
         religion = obbite
@@ -553,31 +468,26 @@
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 2750
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
@@ -594,55 +504,46 @@
         religion = catholic
         size = 10
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 40
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 75
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 170
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 250
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 2750
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -656,67 +557,56 @@
         religion = catholic
         size = 45
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 190
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 1525
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 2900
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -730,61 +620,51 @@
         religion = animist
         size = 50
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 5700
     }
-
     aristocrats = {
         culture = steenkooler
         religion = catholic
         size = 5
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 30
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 80
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 380
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 450
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
@@ -799,31 +679,26 @@
         religion = catholic
         size = 250
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 400
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 400
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1600
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -838,25 +713,21 @@
         religion = animist
         size = 50
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 200
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -872,139 +743,116 @@
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = dutch
         religion = protestant
         size = 300
     }
-
     soldiers = {
         culture = dutch
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = dutch
         religion = protestant
         size = 1650
     }
-
     aristocrats = {
         culture = steenkooler
         religion = catholic
         size = 50
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 200
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 280
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 2100
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 10500
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 80
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 70
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 200
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 7800
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 30
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 30
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 20
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 1990
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 5800
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
@@ -1018,97 +866,81 @@
         religion = catholic
         size = 20
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 150
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 145
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 675
     }
-
     officers = {
         culture = steenkooler
         religion = catholic
         size = 30
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 11025
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 3800
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 15
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 850
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1123,31 +955,26 @@
         religion = animist
         size = 200
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 200
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1100
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 17400
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
@@ -1161,31 +988,26 @@
         religion = animist
         size = 200
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 200
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1100
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 17400
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
@@ -1199,31 +1021,26 @@
         religion = animist
         size = 400
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = animist
         size = 200
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 400
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1800
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1240,61 +1057,51 @@
         religion = catholic
         size = 100
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 200
     }
-
     officers = {
         culture = steenkooler
         religion = catholic
         size = 30
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 240
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 2400
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 925
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 475
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 2375
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1308,91 +1115,76 @@
         religion = catholic
         size = 80
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 50
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 150
     }
-
     officers = {
         culture = steenkooler
         religion = catholic
         size = 20
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 800
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 350
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 225
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1100
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 18225
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 75
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 250
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1406,49 +1198,41 @@
         religion = catholic
         size = 50
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 80
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 80
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 690
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 400
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 200
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1025
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1462,37 +1246,31 @@
         religion = animist
         size = 1250
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = animist
         size = 250
     }
-
     officers = {
         culture = steenkooler
         religion = animist
         size = 250
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 650
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 3200
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1509,61 +1287,51 @@
         religion = catholic
         size = 200
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 170
     }
-
     officers = {
         culture = steenkooler
         religion = catholic
         size = 20
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 150
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 2400
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 650
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 350
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1350
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1577,55 +1345,46 @@
         religion = catholic
         size = 50
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 100
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 100
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 1200
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 425
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 250
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1250
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1640,79 +1399,66 @@
         religion = catholic
         size = 20
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 50
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 100
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 650
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 225
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 125
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1600
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 14925
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 275
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 600
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1729,79 +1475,66 @@
         religion = catholic
         size = 25
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 25
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 20
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 300
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 600
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 1250
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 7625
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 125
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 350
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1816,49 +1549,41 @@
         religion = catholic
         size = 20
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 25
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 50
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 225
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 125
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 650
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1873,79 +1598,66 @@
         religion = catholic
         size = 5
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 15
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 50
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 200
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 4700
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 75
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 175
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -1962,91 +1674,76 @@
         religion = catholic
         size = 10
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = catholic
         size = 25
     }
-
     clergymen = {
         culture = steenkooler
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = steenkooler
         religion = catholic
         size = 100
     }
-
     soldiers = {
         culture = steenkooler
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 420
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 400
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 7275
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 425
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 225
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1050
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -2060,49 +1757,41 @@
         religion = catholic
         size = 25
     }
-
     farmers = {
         culture = steenkooler
         religion = catholic
         size = 250
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 750
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 400
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1950
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -2116,67 +1805,56 @@
         religion = animist
         size = 1550
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = animist
         size = 200
     }
-
     officers = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 825
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 4000
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
@@ -2191,61 +1869,51 @@
         religion = animist
         size = 250
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 150
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 700
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist
         size = 12750
     }
-
     aristocrats = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     bureaucrats = {
         culture = steenkooler
         religion = animist
         size = 100
     }
-
     clergymen = {
         culture = steenkooler
         religion = animist
         size = 250
     }
-
     artisans = {
         culture = steenkooler
         religion = animist
         size = 1300
     }
-
     soldiers = {
         culture = steenkooler
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = steenkooler
         religion = animist

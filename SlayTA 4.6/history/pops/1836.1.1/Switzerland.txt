@@ -6,85 +6,71 @@
         religion = protestant
         size = 450
     }
-
     clergymen = {
         culture = south_german
         religion = protestant
         size = 1300
     }
-
     capitalists = {
         culture = south_german
         religion = protestant
         size = 100
     }
-
     clerks = {
         culture = south_german
         religion = protestant
         size = 1100
     }
-
     craftsmen = {
         culture = south_german
         religion = protestant
         size = 3500
     }
-
     artisans = {
         culture = south_german
         religion = protestant
         size = 3300
     }
-
     soldiers = {
         culture = south_german
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = protestant
         size = 82590
     }
-
     aristocrats = {
         culture = south_german
         religion = catholic
         size = 250
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     clerks = {
         culture = south_german
         religion = catholic
         size = 30
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 1900
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 48000
     }
-
     farmers = {
         culture = romansh
         religion = catholic
@@ -98,61 +84,51 @@
         religion = protestant
         size = 150
     }
-
     clergymen = {
         culture = south_german
         religion = protestant
         size = 275
     }
-
     artisans = {
         culture = south_german
         religion = protestant
         size = 2250
     }
-
     soldiers = {
         culture = south_german
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = protestant
         size = 33540
     }
-
     aristocrats = {
         culture = french
         religion = catholic
         size = 150
     }
-
     clergymen = {
         culture = french
         religion = catholic
         size = 250
     }
-
     artisans = {
         culture = french
         religion = catholic
         size = 1900
     }
-
     soldiers = {
         culture = french
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = french
         religion = catholic
         size = 11000
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -166,61 +142,51 @@
         religion = protestant
         size = 450
     }
-
     officers = {
         culture = south_german
         religion = protestant
         size = 350
     }
-
     bureaucrats = {
         culture = south_german
         religion = protestant
         size = 1600
     }
-
     clergymen = {
         culture = south_german
         religion = protestant
         size = 625
     }
-
     clerks = {
         culture = south_german
         religion = protestant
         size = 1075
     }
-
     capitalists = {
         culture = south_german
         religion = protestant
         size = 550
     }
-
     artisans = {
         culture = south_german
         religion = protestant
         size = 7500
     }
-
     soldiers = {
         culture = south_german
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = protestant
         size = 68000
     }
-
     farmers = {
         culture = french
         religion = protestant
         size = 5500
     }
-
     farmers = {
         culture = north_italian
         religion = catholic
@@ -234,31 +200,26 @@
         religion = catholic
         size = 175
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 350
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 3500
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 30975
     }
-
     farmers = {
         culture = romansh
         religion = catholic
@@ -273,115 +234,96 @@
         religion = catholic
         size = 175
     }
-
     aristocrats = {
         culture = south_german
         religion = protestant
         size = 25
     }
-
     bureaucrats = {
         culture = aquitanian
         religion = catholic
         size = 240
     }
-
     officers = {
         culture = aquitanian
         religion = catholic
         size = 60
     }
-
     clergymen = {
         culture = aquitanian
         religion = catholic
         size = 300
     }
-
     artisans = {
         culture = aquitanian
         religion = catholic
         size = 1100
     }
-
     artisans = {
         culture = french
         religion = catholic
         size = 2000
     }
-
     artisans = {
         culture = south_german
         religion = protestant
         size = 1100
     }
-
     soldiers = {
         culture = aquitanian
         religion = protestant
         size = 550
     }
-
     aristocrats = {
         culture = south_german
         religion = catholic
         size = 300
     }
-
     bureaucrats = {
         culture = south_german
         religion = catholic
         size = 160
     }
-
     officers = {
         culture = south_german
         religion = catholic
         size = 50
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 350
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 2000
     }
-
     artisans = {
         culture = north_italian
         religion = catholic
         size = 1100
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 22230
     }
-
     farmers = {
         culture = french
         religion = catholic
         size = 23230
     }
-
     farmers = {
         culture = aquitanian
         religion = catholic
         size = 20250
     }
-
     farmers = {
         culture = north_italian
         religion = catholic
@@ -395,37 +337,31 @@
         religion = catholic
         size = 150
     }
-
     clergymen = {
         culture = north_italian
         religion = catholic
         size = 175
     }
-
     artisans = {
         culture = north_italian
         religion = catholic
         size = 1100
     }
-
     soldiers = {
         culture = north_italian
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 7675
     }
-
     farmers = {
         culture = north_italian
         religion = catholic
         size = 4500
     }
-
     farmers = {
         culture = aquitanian
         religion = catholic
@@ -440,49 +376,41 @@
         religion = catholic
         size = 250
     }
-
     bureaucrats = {
         culture = north_italian
         religion = catholic
         size = 100
     }
-
     officers = {
         culture = north_italian
         religion = catholic
         size = 50
     }
-
     clergymen = {
         culture = north_italian
         religion = catholic
         size = 275
     }
-
     artisans = {
         culture = north_italian
         religion = catholic
         size = 1050
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 250
     }
-
     soldiers = {
         culture = north_italian
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = north_italian
         religion = catholic
         size = 24075
     }
-
     farmers = {
         culture = romansh
         religion = catholic
@@ -496,73 +424,61 @@
         religion = catholic
         size = 100
     }
-
     clergymen = {
         culture = romansh
         religion = catholic
         size = 175
     }
-
     artisans = {
         culture = romansh
         religion = catholic
         size = 450
     }
-
     soldiers = {
         culture = romansh
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = romansh
         religion = catholic
         size = 6275
     }
-
     aristocrats = {
         culture = south_german
         religion = protestant
         size = 150
     }
-
     clergymen = {
         culture = south_german
         religion = protestant
         size = 250
     }
-
     artisans = {
         culture = south_german
         religion = protestant
         size = 850
     }
-
     soldiers = {
         culture = south_german
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = protestant
         size = 550
     }
-
     artisans = {
         culture = north_italian
         religion = protestant
         size = 150
     }
-
     farmers = {
         culture = north_italian
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = romansh
         religion = protestant

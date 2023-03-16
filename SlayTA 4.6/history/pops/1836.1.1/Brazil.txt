@@ -39,7 +39,7 @@
     bureaucrats = {
         culture = uilsc
         religion = protestant
-        size = 10
+        size = 35
     }
 
     officers = {
@@ -296,7 +296,7 @@
     bureaucrats = {
         culture = uilsc
         religion = protestant
-        size = 125
+        size = 437
     }
 
     officers = {
@@ -817,7 +817,7 @@
     bureaucrats = {
         culture = uilsc
         religion = protestant
-        size = 10
+        size = 35
     }
 
     officers = {
@@ -1120,7 +1120,7 @@
     bureaucrats = {
         culture = uilsc
         religion = protestant
-        size = 10
+        size = 35
     }
 
     officers = {
@@ -1309,7 +1309,7 @@
     bureaucrats = {
         culture = uilsc
         religion = protestant
-        size = 125
+        size = 437
     }
 
     officers = {
@@ -1645,7 +1645,7 @@
     bureaucrats = {
         culture = lutzan
         religion = catholic
-        size = 150
+        size = 525
     }
 
     officers = {
@@ -1845,7 +1845,7 @@
     bureaucrats = {
         culture = lutzan
         religion = catholic
-        size = 200
+        size = 700
     }
 
     officers = {
@@ -2107,7 +2107,7 @@
     bureaucrats = {
         culture = lutzan
         religion = catholic
-        size = 350
+        size = 1225
     }
 
     officers = {
@@ -2461,7 +2461,7 @@
     bureaucrats = {
         culture = uilsc
         religion = protestant
-        size = 250
+        size = 875
     }
 
     officers = {
@@ -2847,7 +2847,7 @@
     bureaucrats = {
         culture = uilsc
         religion = protestant
-        size = 250
+        size = 875
     }
 
     officers = {
@@ -3157,7 +3157,7 @@
     bureaucrats = {
         culture = uilsc
         religion = protestant
-        size = 125
+        size = 437
     }
 
     officers = {
@@ -3549,7 +3549,7 @@
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 250
+        size = 375
     }
 
     officers = {
@@ -4013,7 +4013,7 @@
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 375
+        size = 562
     }
 
     officers = {

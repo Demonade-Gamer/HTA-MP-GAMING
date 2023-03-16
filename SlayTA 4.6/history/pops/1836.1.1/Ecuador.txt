@@ -7,61 +7,51 @@
 		religion = animist
 		size = 1550
 	}
-
 	bureaucrats = {
 		culture = quechua
 		religion = animist
 		size = 200
 	}
-
 	officers = {
 		culture = quechua
 		religion = animist
 		size = 150
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 600
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 5900
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 1100
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
 		size = 21600
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 175
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 4100
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 1100
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
@@ -75,49 +65,41 @@
 		religion = animist
 		size = 900
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 275
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 450
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 100
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
 		size = 7275
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 175
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 1750
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 1100
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
@@ -131,79 +113,66 @@
 		religion = animist
 		size = 100
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 150
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 50
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
 		size = 2625
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 25
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 100
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 25
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
 		size = 1850
 	}
-
 	aristocrats = {
 		culture = amazonian
 		religion = animist
 		size = 50
 	}
-
 	clergymen = {
 		culture = amazonian
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = amazonian
 		religion = animist
 		size = 150
 	}
-
 	soldiers = {
 		culture = amazonian
 		religion = animist
 		size = 25
 	}
-
 	farmers = {
 		culture = amazonian
 		religion = animist
@@ -219,67 +188,56 @@
 		religion = animist
 		size = 450
 	}
-
 	bureaucrats = {
 		culture = quechua
 		religion = animist
 		size = 100
 	}
-
 	officers = {
 		culture = quechua
 		religion = animist
 		size = 100
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 175
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 850
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 175
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
 		size = 15150
 	}
-
 	clergymen = {
 		culture = afro_caribeno
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = afro_caribeno
 		religion = animist
 		size = 150
 	}
-
 	soldiers = {
 		culture = afro_caribeno
 		religion = animist
 		size = 50
 	}
-
 	farmers = {
 		culture = afro_caribeno
 		religion = animist
 		size = 1800
 	}
-
 	slaves = {
 		culture = afro_caribeno
 		religion = animist
@@ -293,55 +251,46 @@
 		religion = animist
 		size = 450
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 175
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 350
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 75
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
 		size = 6800
 	}
-
 	clergymen = {
 		culture = afro_caribeno
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = afro_caribeno
 		religion = animist
 		size = 750
 	}
-
 	soldiers = {
 		culture = afro_caribeno
 		religion = animist
 		size = 150
 	}
-
 	farmers = {
 		culture = afro_caribeno
 		religion = animist
 		size = 6025
 	}
-
 	slaves = {
 		culture = afro_caribeno
 		religion = animist
@@ -355,49 +304,41 @@
 		religion = animist
 		size = 825
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 275
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 750
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 150
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
 		size = 13000
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 100
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 1250
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 250
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
@@ -413,29 +354,24 @@
 		religion = animist
 		size = 1
 	}
-
 	clergymen = {
 		culture = quechua
 		religion = animist
 		size = 1
 	}
-
 	artisans = {
 		culture = quechua
 		religion = animist
 		size = 3
 	}
-
 	soldiers = {
 		culture = quechua
 		religion = animist
 		size = 25
 	}
-
 	farmers = {
 		culture = quechua
 		religion = animist
 		size = 45
 	}
-
 }

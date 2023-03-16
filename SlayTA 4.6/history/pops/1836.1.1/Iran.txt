@@ -581,7 +581,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 200
+        size = 700
     }
 
     officers = {
@@ -789,7 +789,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 150
+        size = 525
     }
 
     officers = {
@@ -1057,7 +1057,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 650
+        size = 2275
     }
 
     officers = {
@@ -1359,7 +1359,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 350
+        size = 1225
     }
 
     officers = {
@@ -1609,7 +1609,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 175
     }
 
     officers = {
@@ -1897,7 +1897,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 150
+        size = 525
     }
 
     officers = {
@@ -2157,7 +2157,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 100
+        size = 350
     }
 
     officers = {
@@ -2603,7 +2603,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 175
     }
 
     officers = {
@@ -2833,7 +2833,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 300
+        size = 1050
     }
 
     officers = {

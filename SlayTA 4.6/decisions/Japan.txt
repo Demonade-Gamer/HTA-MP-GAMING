@@ -98,26 +98,4 @@ political_decisions = {
 			}
 		}
 	}
-
-	Expand_into_the_pacific = {
-		potential = {
-			tag = JAP
-			has_country_flag = settle_barbarians
-			has_country_flag = claimed_korea
-			has_country_flag = taiwan_administration
-			NOT = { has_country_flag = expanded_into_pacific }
-		}
-		allow = {
-			raider_group_doctrine = 1
-			iron_steamers = 1
-			weapon_platforms = 1
-			TER = { any_core = { owned_by = THIS } }
-		}
-		effect = {
-			badboy = 15
-			add_accepted_culture = largano
-			prestige = 15
-			set_country_flag = expanded_into_pacific
-		}
-	}
 }

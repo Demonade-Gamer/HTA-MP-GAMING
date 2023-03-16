@@ -7,113 +7,91 @@
 		religion = shiite
 		size = 150
 	}
-
 	bureaucrats = {
 		culture = bedouin
 		religion = shiite
 		size = 25
 	}
-
 	officers = {
 		culture = bedouin
 		religion = shiite
 		size = 50
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = shiite
 		size = 50
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = shiite
 		size = 400
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 3000
-
+		size = 3000
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = shiite
 		size = 2625
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = sunni
 		size = 25
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = sunni
 		size = 100
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = sunni
 		size = 2850
 	}
-
 	artisans = {
 		culture = baluchi
 		religion = sunni
 		size = 50
 	}
-
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = baluchi
 		religion = sunni
 		size = 925
 	}
-
 	clergymen = {
 		culture = persian
 		religion = shiite
 		size = 25
 	}
-
 	artisans = {
 		culture = persian
 		religion = shiite
 		size = 50
 	}
-
 	farmers = {
 		culture = persian
 		religion = shiite
 		size = 925
 	}
-
 	slaves = {
 		culture = african_minor
 		religion = animist
@@ -127,26 +105,21 @@
 		religion = shiite
 		size = 50
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = shiite
 		size = 75
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = shiite
 		size = 200
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = shiite
@@ -160,51 +133,41 @@
 		religion = shiite
 		size = 75
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = shiite
 		size = 50
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = shiite
 		size = 300
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = shiite
 		size = 3575
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = sunni
 		size = 15
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = sunni
 		size = 50
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 10
-
+		size = 10
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = sunni
@@ -218,76 +181,61 @@
 		religion = shiite
 		size = 25
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = shiite
 		size = 50
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = shiite
 		size = 100
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = shiite
 		size = 1800
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = sunni
 		size = 25
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = sunni
 		size = 100
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = sunni
 		size = 1850
 	}
-
 	artisans = {
 		culture = baluchi
 		religion = sunni
 		size = 50
 	}
-
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = baluchi
 		religion = sunni
 		size = 925
 	}
-
 	slaves = {
 		culture = african_minor
 		religion = animist
@@ -301,44 +249,36 @@
 		religion = shiite
 		size = 75
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = shiite
 		size = 75
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = shiite
 		size = 200
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = shiite
 		size = 3600
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = sunni
 		size = 25
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = sunni
 		size = 50
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = sunni
@@ -354,60 +294,49 @@
 		religion = shiite
 		size = 65
 	}
-
 	bureaucrats = {
 		culture = bedouin
 		religion = shiite
 		size = 5
 	}
-
 	officers = {
 		culture = bedouin
 		religion = shiite
 		size = 5
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = shiite
 		size = 75
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = shiite
 		size = 250
 	}
-
 	soldiers = {
 		culture = bedouin
 		religion = shiite
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = shiite
 		size = 3600
 	}
-
 	clergymen = {
 		culture = bedouin
 		religion = sunni
 		size = 25
 	}
-
 	artisans = {
 		culture = bedouin
 		religion = sunni
 		size = 50
 	}
-
 	farmers = {
 		culture = bedouin
 		religion = sunni
 		size = 925
 	}
-
 }

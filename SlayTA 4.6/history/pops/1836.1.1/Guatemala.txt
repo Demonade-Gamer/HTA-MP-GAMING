@@ -7,61 +7,51 @@
 		religion = catholic
 		size = 600
 	}
-
 	bureaucrats = {
 		culture = meikan
 		religion = catholic
 		size = 575
 	}
-
 	officers = {
 		culture = meikan
 		religion = catholic
 		size = 150
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 275
 	}
-
 	artisans = {
 		culture = meikan
 		religion = catholic
 		size = 1350
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
 		size = 1100
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
 		size = 23350
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 225
 	}
-
 	artisans = {
 		culture = meikan
 		religion = catholic
 		size = 2100
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
 		size = 425
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
@@ -75,49 +65,41 @@
 		religion = catholic
 		size = 175
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 75
 	}
-
 	artisans = {
 		culture = meikan
 		religion = catholic
 		size = 350
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
 		size = 1100
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
 		size = 5400
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 100
 	}
-
 	artisans = {
 		culture = meikan
 		religion = catholic
 		size = 1050
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
 		size = 225
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
@@ -131,49 +113,41 @@
 		religion = catholic
 		size = 150
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 50
 	}
-
 	artisans = {
 		culture = meikan
 		religion = catholic
 		size = 300
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
 		size = 475
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
 		size = 5425
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 50
 	}
-
 	artisans = {
 		culture = meikan
 		religion = catholic
 		size = 600
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
 		size = 125
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
@@ -187,53 +161,44 @@
 		religion = catholic
 		size = 15
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 25
 	}
-
 	artisans = {
 		culture = meikan
 		religion = catholic
 		size = 50
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
 		size = 100
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
 		size = 900
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 25
 	}
-
 	artisans = {
 		culture = meikan
 		religion = catholic
 		size = 150
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
 		size = 25
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
 		size = 2800
 	}
-
 }

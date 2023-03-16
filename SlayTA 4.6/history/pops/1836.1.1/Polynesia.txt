@@ -7,55 +7,46 @@
 		religion = protestant
 		size = 450
 	}
-
 	bureaucrats = {
 		culture = largano
 		religion = protestant
 		size = 75
 	}
-
 	officers = {
 		culture = largano
 		religion = protestant
 		size = 25
 	}
-
 	clergymen = {
 		culture = largano
 		religion = protestant
 		size = 250
 	}
-
 	artisans = {
 		culture = largano
 		religion = protestant
 		size = 1150
 	}
-
 	soldiers = {
 		culture = largano
 		religion = protestant
 		size = 1100
 	}
-
 	farmers = {
 		culture = largano
 		religion = protestant
 		size = 20025
 	}
-
 	clergymen = {
 		culture = largano
 		religion = catholic
 		size = 25
 	}
-
 	artisans = {
 		culture = largano
 		religion = catholic
 		size = 100
 	}
-
 	farmers = {
 		culture = largano
 		religion = catholic
@@ -80,25 +71,21 @@
 		religion = animist
 		size = 5
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 5
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 10
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 5
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -122,25 +109,21 @@
 		religion = animist
 		size = 50
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 150
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 25
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -155,25 +138,21 @@
 		religion = animist
 		size = 8
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 12
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 25
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 5
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -187,25 +166,21 @@
 		religion = animist
 		size = 15
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 15
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 35
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 10
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -220,25 +195,21 @@
 		religion = animist
 		size = 100
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 325
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 75
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -252,25 +223,21 @@
 		religion = animist
 		size = 10
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 25
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 50
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 15
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -286,25 +253,21 @@
 		religion = animist
 		size = 25
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 35
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 75
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 15
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -318,25 +281,21 @@
 		religion = animist
 		size = 3
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 5
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 12
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 5
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -350,25 +309,21 @@
 		religion = animist
 		size = 3
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 3
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 5
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 2
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -382,25 +337,21 @@
 		religion = animist
 		size = 5
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 10
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 25
 	}
-
 	soldiers = {
 		culture = polynesian
 		religion = animist
 		size = 5
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -416,25 +367,21 @@
 		religion = animist
 		size = 75
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 225
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 50
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -448,25 +395,21 @@
 		religion = animist
 		size = 25
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 25
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 60
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 15
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -480,25 +423,21 @@
 		religion = animist
 		size = 25
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 35
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 75
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 15
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -512,13 +451,11 @@
 		religion = protestant
 		size = 1
 	}
-
 	artisans = {
 		culture = largano
 		religion = protestant
 		size = 4
 	}
-
 	farmers = {
 		culture = largano
 		religion = protestant
@@ -534,29 +471,24 @@
 		religion = animist
 		size = 15
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 15
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 35
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 10
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
 		size = 875
 	}
-
 }

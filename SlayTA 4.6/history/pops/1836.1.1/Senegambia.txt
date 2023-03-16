@@ -8,25 +8,21 @@
 		religion = sunni
 		size = 250
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 550
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 1100
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 250
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
@@ -40,31 +36,26 @@
 		religion = sunni
 		size = 1100
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 550
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 2150
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 1300
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
 		size = 41000
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -78,31 +69,26 @@
 		religion = sunni
 		size = 400
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 200
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 900
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 250
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
 		size = 16250
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -116,62 +102,51 @@
 		religion = animist
 		size = 550
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 300
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 1350
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 1100
 	}
-
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 18350
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 8000
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = sunni
 		size = 250
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 100
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 650
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 100
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
@@ -185,43 +160,36 @@
 		religion = sunni
 		size = 650
 	}
-
 	bureaucrats = {
 		culture = yoruba
 		religion = sunni
 		size = 50
 	}
-
 	officers = {
 		culture = yoruba
 		religion = sunni
 		size = 100
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 350
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 1450
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 1400
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
 		size = 18000
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -236,61 +204,51 @@
 		religion = sunni
 		size = 550
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 750
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 1500
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 250
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
 		size = 27000
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 11000
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = sunni
 		size = 550
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 750
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 1500
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 250
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
@@ -305,55 +263,46 @@
 		religion = sunni
 		size = 350
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 200
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 950
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 200
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
 		size = 17300
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 150
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 400
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
@@ -369,43 +318,36 @@
 		religion = sunni
 		size = 1650
 	}
-
 	bureaucrats = {
 		culture = yoruba
 		religion = sunni
 		size = 75
 	}
-
 	officers = {
 		culture = yoruba
 		religion = sunni
 		size = 150
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 900
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 3525
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 1700
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
 		size = 64000
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -419,31 +361,26 @@
 		religion = sunni
 		size = 975
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 525
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 2175
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 1325
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
 		size = 34000
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -457,55 +394,46 @@
 		religion = sunni
 		size = 575
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = sunni
 		size = 300
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = sunni
 		size = 1175
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = sunni
 		size = 300
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = sunni
 		size = 21650
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 300
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 5575
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -521,31 +449,26 @@
 		religion = animist
 		size = 1150
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 600
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 2400
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 1100
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 40750
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -559,35 +482,29 @@
 		religion = animist
 		size = 550
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 250
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 1050
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 275
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 19925
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 4000
 	}
-
 }

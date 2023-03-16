@@ -8,31 +8,26 @@
 		religion = animist
 		size = 150
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 225
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 800
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 400
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
 		size = 8575
 	}
-
 	farmers = {
 		culture = largano
 		religion = catholic
@@ -70,37 +65,31 @@
 		religion = catholic
 		size = 7250
 	}
-
 	aristocrats = {
 		culture = largano
 		religion = animist
 		size = 75
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 150
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 300
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 150
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
 		size = 4775
 	}
-
 }
 #Napier (12000/3000 POPS)
 2511 = {
@@ -139,25 +128,21 @@
 		religion = animist
 		size = 50
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 150
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 300
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 150
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -200,25 +185,21 @@
 		religion = animist
 		size = 75
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 225
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 450
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 275
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -227,7 +208,6 @@
 }
 #Tauranga (12000/3000 POPS)
 2571 = {
-
 	aristocrats = {
 		culture = largano
 		religion = catholic
@@ -263,31 +243,26 @@
 		religion = animist
 		size = 75
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 225
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 450
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 255
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
 		size = 7675
 	}
-
 }
 #South Island Region (24000)
 #Dunedin (4000/1000 POPS)
@@ -297,25 +272,21 @@
 		religion = animist
 		size = 100
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 250
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 550
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 150
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -335,25 +306,21 @@
 		religion = animist
 		size = 100
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 250
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 550
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 150
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -373,25 +340,21 @@
 		religion = animist
 		size = 250
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 550
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 1100
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 550
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist
@@ -411,25 +374,21 @@
 		religion = animist
 		size = 250
 	}
-
 	clergymen = {
 		culture = largano
 		religion = animist
 		size = 750
 	}
-
 	artisans = {
 		culture = largano
 		religion = animist
 		size = 1500
 	}
-
 	soldiers = {
 		culture = largano
 		religion = animist
 		size = 750
 	}
-
 	farmers = {
 		culture = largano
 		religion = animist

@@ -7,55 +7,46 @@
         religion = catholic
         size = 300
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 150
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 75
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 1050
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
         size = 300
     }
-
     clergymen = {
         culture = afro_caribbean
         religion = catholic
         size = 225
     }
-
     artisans = {
         culture = afro_caribbean
         religion = catholic
         size = 2100
     }
-
     soldiers = {
         culture = afro_caribbean
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = afro_caribbean
         religion = catholic
@@ -69,25 +60,21 @@
         religion = animist
         size = 30
     }
-
     clergymen = {
         culture = amazonian
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = amazonian
         religion = animist
         size = 150
     }
-
     soldiers = {
         culture = amazonian
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = amazonian
         religion = animist
@@ -101,49 +88,41 @@
         religion = catholic
         size = 150
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 75
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 300
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
         size = 150
     }
-
     clergymen = {
         culture = afro_caribbean
         religion = catholic
         size = 225
     }
-
     artisans = {
         culture = afro_caribbean
         religion = catholic
         size = 900
     }
-
     soldiers = {
         culture = afro_caribbean
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = afro_caribbean
         religion = catholic
@@ -157,25 +136,21 @@
         religion = animist
         size = 30
     }
-
     clergymen = {
         culture = amazonian
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = amazonian
         religion = animist
         size = 150
     }
-
     soldiers = {
         culture = amazonian
         religion = animist
         size = 550
     }
-
     farmers = {
         culture = amazonian
         religion = animist

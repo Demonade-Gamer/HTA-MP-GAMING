@@ -7,35 +7,30 @@
 		religion = protestant
 		size = 550
 	}
-
 	bureaucrats = {
 		culture = croat
 		religion = protestant
 		size = 205
 	}
-
 	officers = {
 		culture = croat
 		religion = protestant
 		size = 175
 	}
-
 	clergymen = {
 		culture = croat
 		religion = protestant
 		size = 160
 	}
-
 	artisans = {
 		culture = croat
 		religion = protestant
 		size = 3000
 	}
-
 	soldiers = {
 		culture = croat
 		religion = protestant
-		size= 800
+		size = 800
 	}
 	
 	farmers = {
@@ -43,23 +38,20 @@
 		religion = protestant
 		size = 13075
 	}
-
 	clergymen = {
 		culture = serb
 		religion = orthodox
 		size = 200
 	}
-
 	artisans = {
 		culture = serb
 		religion = orthodox
 		size = 2750
 	}
-
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size= 450
+		size = 450
 	}	
 	
 	farmers = {
@@ -67,31 +59,26 @@
 		religion = orthodox
 		size = 11000
 	}
-
 	clergymen = {
 		culture = croat
 		religion = catholic
 		size = 75
 	}
-
 	artisans = {
 		culture = croat
 		religion = catholic
 		size = 475
 	}
-
 	farmers = {
 		culture = croat
 		religion = catholic
 		size = 3450
 	}
-
 	clergymen = {
 		culture = sephardic
 		religion = jewish
 		size = 25
 	}
-
 	artisans = {
 		culture = sephardic
 		religion = jewish
@@ -105,55 +92,46 @@
 		religion = protestant
 		size = 400
 	}
-
 	clergymen = {
 		culture = croat
 		religion = protestant
 		size = 175
 	}
-
 	artisans = {
 		culture = croat
 		religion = protestant
 		size = 750
 	}
-
 	farmers = {
 		culture = croat
 		religion = protestant
 		size = 16675
 	}
-
 	clergymen = {
 		culture = serb
 		religion = orthodox
 		size = 75
 	}
-
 	artisans = {
 		culture = serb
 		religion = orthodox
 		size = 300
 	}
-
 	farmers = {
 		culture = serb
 		religion = orthodox
 		size = 3625
 	}
-
 	clergymen = {
 		culture = croat
 		religion = catholic
 		size = 50
 	}
-
 	artisans = {
 		culture = croat
 		religion = catholic
 		size = 200
 	}
-
 	farmers = {
 		culture = croat
 		religion = catholic
@@ -167,31 +145,26 @@
 		religion = protestant
 		size = 1250
 	}
-
 	clergymen = {
 		culture = croat
 		religion = catholic
 		size = 125
 	}
-
 	artisans = {
 		culture = croat
 		religion = catholic
 		size = 2000
 	}
-
 	farmers = {
 		culture = croat
 		religion = catholic
 		size = 12650
 	}
-
 	clergymen = {
 		culture = croat
 		religion = protestant
 		size = 450
 	}
-
 	artisans = {
 		culture = croat
 		religion = protestant
@@ -203,25 +176,21 @@
 		religion = protestant
 		size = 1350
 	}
-
 	farmers = {
 		culture = croat
 		religion = protestant
 		size = 45325
 	}
-
 	clergymen = {
 		culture = serb
 		religion = orthodox
 		size = 200
 	}
-
 	artisans = {
 		culture = serb
 		religion = orthodox
 		size = 450
 	}
-
 	farmers = {
 		culture = serb
 		religion = orthodox
@@ -235,55 +204,46 @@
 		religion = orthodox
 		size = 550
 	}
-
 	clergymen = {
 		culture = croat
 		religion = protestant
 		size = 175
 	}
-
 	artisans = {
 		culture = croat
 		religion = protestant
 		size = 1050
 	}
-
 	farmers = {
 		culture = croat
 		religion = protestant
 		size = 19975
 	}
-
 	clergymen = {
 		culture = serb
 		religion = orthodox
 		size = 145
 	}
-
 	artisans = {
 		culture = serb
 		religion = orthodox
 		size = 800
 	}
-
 	farmers = {
 		culture = serb
 		religion = orthodox
 		size = 15725
 	}
-
 	clergymen = {
 		culture = croat
 		religion = catholic
 		size = 75
 	}
-
 	artisans = {
 		culture = croat
 		religion = catholic
 		size = 250
 	}
-
 	farmers = {
 		culture = croat
 		religion = catholic
@@ -297,37 +257,31 @@
 		religion = orthodox
 		size = 400
 	}
-
 	clergymen = {
 		culture = serb
 		religion = orthodox
 		size = 150
 	}
-
 	artisans = {
 		culture = serb
 		religion = orthodox
 		size = 600
 	}
-
 	farmers = {
 		culture = serb
 		religion = orthodox
 		size = 13925
 	}
-
 	clergymen = {
 		culture = croat
 		religion = protestant
 		size = 75
 	}
-
 	artisans = {
 		culture = croat
 		religion = protestant
 		size = 550
 	}
-
 	farmers = {
 		culture = croat
 		religion = protestant
@@ -341,55 +295,46 @@
 		religion = protestant
 		size = 450
 	}
-
 	clergymen = {
 		culture = croat
 		religion = catholic
 		size = 50
 	}
-
 	artisans = {
 		culture = croat
 		religion = catholic
 		size = 600
 	}
-
 	farmers = {
 		culture = croat
 		religion = catholic
 		size = 3900
 	}
-
 	clergymen = {
 		culture = croat
 		religion = protestant
 		size = 125
 	}
-
 	artisans = {
 		culture = croat
 		religion = protestant
 		size = 550
 	}
-
 	farmers = {
 		culture = croat
 		religion = protestant
 		size = 14375
 	}
-
 	clergymen = {
 		culture = serb
 		religion = orthodox
 		size = 95
 	}
-
 	artisans = {
 		culture = serb
 		religion = orthodox
 		size = 350
 	}
-
 	farmers = {
 		culture = serb
 		religion = orthodox
@@ -403,59 +348,49 @@
 		religion = protestant
 		size = 350
 	}
-
 	clergymen = {
 		culture = croat
 		religion = catholic
 		size = 25
 	}
-
 	artisans = {
 		culture = croat
 		religion = catholic
 		size = 250
 	}
-
 	farmers = {
 		culture = croat
 		religion = catholic
 		size = 1400
 	}
-
 	clergymen = {
 		culture = croat
 		religion = protestant
 		size = 325
 	}
-
 	artisans = {
 		culture = croat
 		religion = protestant
 		size = 800
 	}
-
 	farmers = {
 		culture = croat
 		religion = protestant
 		size = 21075
 	}
-
 	clergymen = {
 		culture = serb
 		religion = orthodox
 		size = 150
 	}
-
 	artisans = {
 		culture = serb
 		religion = orthodox
 		size = 650
 	}
-
 	farmers = {
 		culture = serb
 		religion = orthodox
 		size = 9300
 	}
-
 }

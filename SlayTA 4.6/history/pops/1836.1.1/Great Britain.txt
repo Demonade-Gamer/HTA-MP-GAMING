@@ -6,31 +6,26 @@
         religion = protestant
         size = 750
     }
-
     officers = {
         culture = scots
         religion = protestant
         size = 1100
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 1100
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 16900
     }
-
     labourers = {
         culture = scots
         religion = protestant
         size = 62000
     }
-
     farmers = {
         culture = scots
         religion = catholic
@@ -44,25 +39,21 @@
         religion = protestant
         size = 200
     }
-
     clergymen = {
         culture = scots
         religion = protestant
         size = 250
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 1100
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 4000
     }
-
     farmers = {
         culture = scots
         religion = protestant
@@ -76,25 +67,21 @@
         religion = protestant
         size = 300
     }
-
     bureaucrats = {
         culture = scots
         religion = protestant
         size = 2200
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 8000
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 1100
     }
-
     farmers = {
         culture = scots
         religion = protestant
@@ -109,85 +96,71 @@
         religion = protestant
         size = 1500
     }
-
     officers = {
         culture = scots
         religion = protestant
         size = 1200
     }
-
     clergymen = {
         culture = scots
         religion = protestant
         size = 1375
     }
-
     capitalists = {
         culture = scots
         religion = protestant
         size = 550
     }
-
     bureaucrats = {
         culture = scots
         religion = protestant
         size = 4200
     }
-
     clerks = {
         culture = scots
         religion = protestant
         size = 100
     }
-
     craftsmen = {
         culture = scots
         religion = protestant
         size = 8000
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 6000
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 2500
     }
-
     farmers = {
         culture = scots
         religion = protestant
         size = 51175
     }
-
     clergymen = {
         culture = scots
         religion = catholic
         size = 100
     }
-
     craftsmen = {
         culture = scots
         religion = catholic
         size = 1500
     }
-
     artisans = {
         culture = scots
         religion = catholic
         size = 5500
     }
-
     farmers = {
         culture = scots
         religion = catholic
         size = 26400
     }
-
     artisans = {
         culture = irish
         religion = catholic
@@ -201,31 +174,26 @@
         religion = protestant
         size = 200
     }
-
     clergymen = {
         culture = scots
         religion = protestant
         size = 200
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 6500
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 1100
     }
-
     farmers = {
         culture = scots
         religion = protestant
         size = 79100
     }
-
     farmers = {
         culture = scots
         religion = catholic
@@ -239,67 +207,56 @@
         religion = protestant
         size = 800
     }
-
     clergymen = {
         culture = scots
         religion = protestant
         size = 1500
     }
-
     clerks = {
         culture = scots
         religion = protestant
         size = 10850
     }
-
     craftsmen = {
         culture = scots
         religion = protestant
         size = 15000
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 11000
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 11000
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 12000
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 1100
     }
-
     farmers = {
         culture = scots
         religion = protestant
         size = 83150
     }
-
     clergymen = {
         culture = scots
         religion = catholic
         size = 100
     }
-
     farmers = {
         culture = scots
         religion = catholic
         size = 4900
     }
-
     craftsmen = {
         culture = irish
         religion = catholic
@@ -313,31 +270,26 @@
         religion = protestant
         size = 300
     }
-
     clergymen = {
         culture = scots
         religion = protestant
         size = 300
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 12000
     }
-
     farmers = {
         culture = scots
         religion = protestant
         size = 111800
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 2600
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -352,55 +304,46 @@
         religion = protestant
         size = 950
     }
-
     capitalists = {
         culture = cymry
         religion = protestant
         size = 100
     }
-
     bureaucrats = {
         culture = cymry
         religion = protestant
         size = 2050
     }
-
     officers = {
         culture = cymry
         religion = protestant
         size = 350
     }
-
     clergymen = {
         culture = cymry
         religion = protestant
         size = 575
     }
-
     clerks = {
         culture = cymry
         religion = protestant
         size = 50
     }
-
     craftsmen = {
         culture = cymry
         religion = protestant
         size = 1100
     }
-
     artisans = {
         culture = cymry
         religion = protestant
         size = 3500
     }
-
     soldiers = {
         culture = cymry
         religion = protestant
         size = 1200
     }
-
     labourers = {
         culture = cymry
         religion = protestant
@@ -414,25 +357,21 @@
         religion = protestant
         size = 250
     }
-
     clergymen = {
         culture = cymry
         religion = protestant
         size = 225
     }
-
     soldiers = {
         culture = cymry
         religion = protestant
         size = 1100
     }
-
     artisans = {
         culture = cymry
         religion = protestant
         size = 2000
     }
-
     farmers = {
         culture = cymry
         religion = protestant
@@ -446,25 +385,21 @@
         religion = protestant
         size = 250
     }
-
     clergymen = {
         culture = cymry
         religion = protestant
         size = 350
     }
-
     soldiers = {
         culture = cymry
         religion = protestant
         size = 550
     }
-
     artisans = {
         culture = cymry
         religion = protestant
         size = 2250
     }
-
     farmers = {
         culture = cymry
         religion = protestant
@@ -478,31 +413,26 @@
         religion = protestant
         size = 250
     }
-
     clergymen = {
         culture = cymry
         religion = protestant
         size = 350
     }
-
     soldiers = {
         culture = cymry
         religion = protestant
         size = 750
     }
-
     craftsmen = {
         culture = cymry
         religion = protestant
         size = 3000
     }
-
     artisans = {
         culture = cymry
         religion = protestant
         size = 3100
     }
-
     farmers = {
         culture = cymry
         religion = protestant
@@ -517,79 +447,66 @@
         religion = catholic
         size = 1100
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 3100
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 1100
     }
-
     capitalists = {
         culture = aenglisc
         religion = catholic
         size = 1250
     }
-
     clerks = {
         culture = aenglisc
         religion = catholic
         size = 275
     }
-
     craftsmen = {
         culture = aenglisc
         religion = catholic
         size = 22000
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 13600
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 3000
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
         size = 158850
     }
-
     clergymen = {
         culture = scots
         religion = protestant
         size = 25
     }
-
     craftsmen = {
         culture = scots
         religion = protestant
         size = 450
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 1075
     }
-
     farmers = {
         culture = scots
         religion = protestant
@@ -603,37 +520,31 @@
         religion = catholic
         size = 1500
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 1100
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 4250
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
         size = 11900
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 2000
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 2000
     }
-
     labourers = {
         culture = scots
         religion = protestant
@@ -647,31 +558,26 @@
         religion = catholic
         size = 250
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 250
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 4000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
         size = 46000
     }
-
     farmers = {
         culture = scots
         religion = protestant
@@ -686,67 +592,56 @@
         religion = catholic
         size = 300
     }
-
     aristocrats = {
         culture = scots
         religion = protestant
         size = 800
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 250
     }
-
     clergymen = {
         culture = scots
         religion = protestant
         size = 550
     }
-
     craftsmen = {
         culture = aenglisc
         religion = catholic
         size = 20000
     }
-
     craftsmen = {
         culture = scots
         religion = protestant
         size = 24000
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 11000
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 5900
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 1500
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
         size = 44850
     }
-
     labourers = {
         culture = scots
         religion = protestant
@@ -760,25 +655,21 @@
         religion = catholic
         size = 1100
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 750
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 12300
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1200
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
@@ -792,31 +683,26 @@
         religion = catholic
         size = 750
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 625
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 11750
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1550
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
         size = 92625
     }
-
     labourers = {
         culture = scots
         religion = protestant
@@ -830,49 +716,41 @@
         religion = catholic
         size = 2050
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 1250
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 4300
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 1100
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 875
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 11750
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 2500
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
         size = 122825
     }
-
     labourers = {
         culture = scots
         religion = protestant
@@ -887,61 +765,51 @@
         religion = catholic
         size = 1650
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 5050
     }
-
     capitalists = {
         culture = aenglisc
         religion = catholic
         size = 350
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 1625
     }
-
     clerks = {
         culture = aenglisc
         religion = catholic
         size = 125
     }
-
     craftsmen = {
         culture = aenglisc
         religion = catholic
         size = 8550
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 13000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 3000
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
         size = 138900
     }
-
     labourers = {
         culture = cymry
         religion = catholic
@@ -955,31 +823,26 @@
         religion = catholic
         size = 750
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 625
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 5500
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1700
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
         size = 82625
     }
-
     artisans = {
         culture = cymry
         religion = catholic
@@ -993,25 +856,21 @@
         religion = catholic
         size = 550
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 375
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 4250
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 600
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
@@ -1025,25 +884,21 @@
         religion = catholic
         size = 1100
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 3000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1680
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -1058,43 +913,36 @@
         religion = catholic
         size = 750
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 1100
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 1500
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     capitalists = {
         culture = aenglisc
         religion = catholic
         size = 100
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 3000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1850
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
@@ -1108,25 +956,21 @@
         religion = catholic
         size = 250
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 375
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 6000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 400
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -1140,25 +984,21 @@
         religion = catholic
         size = 550
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 6500
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 400
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
@@ -1173,37 +1013,31 @@
         religion = catholic
         size = 550
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 250
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 3500
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 5500
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1100
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -1217,25 +1051,21 @@
         religion = catholic
         size = 1500
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 1100
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 8500
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 2500
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -1249,25 +1079,21 @@
         religion = catholic
         size = 550
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 375
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 7500
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1500
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -1282,37 +1108,31 @@
         religion = catholic
         size = 750
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 250
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 2150
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 1500
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 6000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1500
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -1326,25 +1146,21 @@
         religion = catholic
         size = 950
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 1500
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 4000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -1359,49 +1175,41 @@
         religion = catholic
         size = 550
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 3100
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 1625
     }
-
     capitalists = {
         culture = aenglisc
         religion = catholic
         size = 250
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 9000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 900
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
         size = 63275
     }
-
     labourers = {
         culture = cymry
         religion = catholic
@@ -1415,25 +1223,21 @@
         religion = catholic
         size = 1100
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 625
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 5500
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 750
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
@@ -1447,49 +1251,41 @@
         religion = catholic
         size = 1550
     }
-
     aristocrats = {
         culture = cornish
         religion = catholic
         size = 250
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 1625
     }
-
     clergymen = {
         culture = cornish
         religion = catholic
         size = 625
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 5500
     }
-
     artisans = {
         culture = cornish
         religion = catholic
         size = 2000
     }
-
     soldiers = {
         culture = cornish
         religion = catholic
         size = 1100
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
         size = 40625
     }
-
     farmers = {
         culture = cornish
         religion = catholic
@@ -1503,61 +1299,51 @@
         religion = catholic
         size = 1200
     }
-
     aristocrats = {
         culture = cornish
         religion = catholic
         size = 300
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 450
     }
-
     clergymen = {
         culture = cornish
         religion = catholic
         size = 850
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 1500
     }
-
     artisans = {
         culture = cornish
         religion = catholic
         size = 4000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = cornish
         religion = catholic
         size = 1600
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
         size = 66250
     }
-
     farmers = {
         culture = cornish
         religion = catholic
         size = 126250
     }
-
     farmers = {
         culture = cymry
         religion = catholic
@@ -1572,91 +1358,76 @@
         religion = catholic
         size = 5500
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 2500
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 8000
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 4250
     }
-
     capitalists = {
         culture = aenglisc
         religion = catholic
         size = 2500
     }
-
     clerks = {
         culture = aenglisc
         religion = catholic
         size = 2540
     }
-
     craftsmen = {
         culture = aenglisc
         religion = catholic
         size = 23200
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 64500
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 12000
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
         size = 245250
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 8000
     }
-
     clerks = {
         culture = aenglisc
         religion = jewish
         size = 100
     }
-
     craftsmen = {
         culture = aenglisc
         religion = jewish
         size = 3000
     }
-
     artisans = {
         culture = aenglisc
         religion = jewish
         size = 3400
     }
-
     craftsmen = {
         culture = cymry
         religion = catholic
         size = 8000
     }
-
     artisans = {
         culture = cymry
         religion = catholic
@@ -1671,25 +1442,21 @@
         religion = catholic
         size = 750
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 625
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 4000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1050
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
@@ -1703,25 +1470,21 @@
         religion = catholic
         size = 750
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 12350
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1640
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
@@ -1735,37 +1498,31 @@
         religion = catholic
         size = 780
     }
-
     officers = {
         culture = aenglisc
         religion = catholic
         size = 1100
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 1500
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 6000
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 1300
     }
-
     labourers = {
         culture = aenglisc
         religion = catholic
@@ -1780,37 +1537,31 @@
         religion = protestant
         size = 100
     }
-
     bureaucrats = {
         culture = scots
         religion = protestant
         size = 50
     }
-
     clergymen = {
         culture = scots
         religion = protestant
         size = 125
     }
-
     artisans = {
         culture = scots
         religion = protestant
         size = 3250
     }
-
     soldiers = {
         culture = scots
         religion = protestant
         size = 100
     }
-
     farmers = {
         culture = scots
         religion = protestant
         size = 7600
     }
-
     farmers = {
         culture = scots
         religion = catholic
@@ -1825,49 +1576,41 @@
         religion = protestant
         size = 40
     }
-
     bureaucrats = {
         culture = norwegian
         religion = protestant
         size = 35
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 55
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 600
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 50
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
         size = 2175
     }
-
     clergymen = {
         culture = scots
         religion = catholic
         size = 40
     }
-
     artisans = {
         culture = scots
         religion = catholic
         size = 250
     }
-
     farmers = {
         culture = scots
         religion = catholic

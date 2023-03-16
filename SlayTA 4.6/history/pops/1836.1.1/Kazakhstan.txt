@@ -7,61 +7,51 @@
         religion = orthodox
         size = 120
     }
-
     clergymen = {
         culture = russian
         religion = orthodox
         size = 15
     }
-
     artisans = {
         culture = russian
         religion = orthodox
         size = 35
     }
-
     soldiers = {
         culture = russian
         religion = orthodox
         size = 15
     }
-
     farmers = {
         culture = russian
         religion = orthodox
         size = 665
     }
-
     aristocrats = {
         culture = kazak
         religion = sunni
         size = 75
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 75
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 200
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 25
     }
-
     farmers = {
         culture = kazak
         religion = sunni
         size = 3625
     }
-
     farmers = {
         culture = tatar
         religion = sunni
@@ -75,25 +65,21 @@
         religion = sunni
         size = 75
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 50
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 250
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 50
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -107,49 +93,41 @@
         religion = orthodox
         size = 30
     }
-
     artisans = {
         culture = russian
         religion = orthodox
         size = 45
     }
-
     soldiers = {
         culture = russian
         religion = orthodox
         size = 25
     }
-
     farmers = {
         culture = tatar
         religion = orthodox
         size = 1150
     }
-
     aristocrats = {
         culture = kazak
         religion = sunni
         size = 25
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 25
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 100
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 25
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -163,25 +141,21 @@
         religion = sunni
         size = 75
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 50
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 250
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 50
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -197,25 +171,21 @@
         religion = sunni
         size = 225
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 125
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 650
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 125
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -229,55 +199,46 @@
         religion = orthodox
         size = 300
     }
-
     clergymen = {
         culture = russian
         religion = orthodox
         size = 75
     }
-
     artisans = {
         culture = russian
         religion = orthodox
         size = 150
     }
-
     soldiers = {
         culture = russian
         religion = orthodox
         size = 25
     }
-
     farmers = {
         culture = russian
         religion = orthodox
         size = 2700
     }
-
     aristocrats = {
         culture = kazak
         religion = sunni
         size = 425
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 200
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 1100
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 225
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -291,25 +252,21 @@
         religion = sunni
         size = 1200
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 700
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 4000
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 3900
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -323,25 +280,21 @@
         religion = sunni
         size = 700
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 350
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 1900
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 3200
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -355,25 +308,21 @@
         religion = sunni
         size = 325
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 175
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 850
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 175
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -388,25 +337,21 @@
         religion = sunni
         size = 450
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 300
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 2100
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 2700
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -420,55 +365,46 @@
         religion = sunni
         size = 300
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 150
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 800
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 1175
     }
-
     farmers = {
         culture = kazak
         religion = sunni
         size = 14575
     }
-
     aristocrats = {
         culture = uighur
         religion = sunni
         size = 200
     }
-
     clergymen = {
         culture = uighur
         religion = sunni
         size = 100
     }
-
     artisans = {
         culture = uighur
         religion = sunni
         size = 550
     }
-
     soldiers = {
         culture = uighur
         religion = sunni
         size = 1125
     }
-
     farmers = {
         culture = uighur
         religion = sunni
@@ -483,55 +419,46 @@
         religion = sunni
         size = 200
     }
-
     clergymen = {
         culture = kirgiz
         religion = sunni
         size = 100
     }
-
     artisans = {
         culture = kirgiz
         religion = sunni
         size = 600
     }
-
     soldiers = {
         culture = kirgiz
         religion = sunni
         size = 550
     }
-
     farmers = {
         culture = kirgiz
         religion = sunni
         size = 10975
     }
-
     aristocrats = {
         culture = kazak
         religion = sunni
         size = 600
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 300
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 1600
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 2425
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -547,55 +474,46 @@
         religion = sunni
         size = 550
     }
-
     clergymen = {
         culture = turkmen
         religion = sunni
         size = 250
     }
-
     artisans = {
         culture = turkmen
         religion = sunni
         size = 1400
     }
-
     soldiers = {
         culture = turkmen
         religion = sunni
         size = 1300
     }
-
     farmers = {
         culture = turkmen
         religion = sunni
         size = 25775
     }
-
     aristocrats = {
         culture = kazak
         religion = sunni
         size = 550
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 250
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 1200
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 2250
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -609,25 +527,21 @@
         religion = sunni
         size = 150
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 75
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 350
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 75
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -641,25 +555,21 @@
         religion = sunni
         size = 100
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 50
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 350
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 75
     }
-
     farmers = {
         culture = kazak
         religion = sunni
@@ -675,55 +585,46 @@
         religion = sunni
         size = 250
     }
-
     clergymen = {
         culture = turkmen
         religion = sunni
         size = 125
     }
-
     artisans = {
         culture = turkmen
         religion = sunni
         size = 750
     }
-
     soldiers = {
         culture = turkmen
         religion = sunni
         size = 150
     }
-
     farmers = {
         culture = turkmen
         religion = sunni
         size = 13725
     }
-
     aristocrats = {
         culture = kazak
         religion = sunni
         size = 550
     }
-
     clergymen = {
         culture = kazak
         religion = sunni
         size = 250
     }
-
     artisans = {
         culture = kazak
         religion = sunni
         size = 1500
     }
-
     soldiers = {
         culture = kazak
         religion = sunni
         size = 250
     }
-
     farmers = {
         culture = kazak
         religion = sunni

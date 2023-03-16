@@ -7,37 +7,31 @@
 		religion = animist
 		size = 2450
 	}
-
 	bureaucrats = {
 		culture = yoruba
 		religion = animist
 		size = 25
 	}
-
 	officers = {
 		culture = yoruba
 		religion = animist
 		size = 125
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 1750
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 6200
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 1250
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
@@ -65,37 +59,31 @@
 		religion = animist
 		size = 2175
 	}
-
 	bureaucrats = {
 		culture = yoruba
 		religion = animist
 		size = 15
 	}
-
 	officers = {
 		culture = yoruba
 		religion = animist
 		size = 110
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 1125
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 5600
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 1125
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
@@ -113,5 +101,4 @@
 		religion = animist
 		size = 1850
 	}	
-
 }

@@ -1046,7 +1046,7 @@
     bureaucrats = {
         culture = north_italian
         religion = catholic
-        size = 425
+        size = 1487
     }
 
     officers = {
@@ -1487,7 +1487,7 @@
     bureaucrats = {
         culture = south_italian
         religion = catholic
-        size = 225
+        size = 787
     }
 
     officers = {
@@ -1564,7 +1564,7 @@
     bureaucrats = {
         culture = south_italian
         religion = catholic
-        size = 175
+        size = 612
     }
 
     officers = {
@@ -1590,6 +1590,7 @@
         religion = catholic
         size = 10000
     }
+
     soldiers = {
         culture = south_italian
         religion = catholic
@@ -1615,7 +1616,7 @@
     bureaucrats = {
         culture = south_italian
         religion = catholic
-        size = 825
+        size = 2887
     }
 
     officers = {
@@ -1737,7 +1738,7 @@
     bureaucrats = {
         culture = south_italian
         religion = catholic
-        size = 475
+        size = 1662
     }
 
     officers = {
@@ -1877,13 +1878,13 @@
     bureaucrats = {
         culture = south_italian
         religion = catholic
-        size = 375
+        size = 1312
     }
 
     bureaucrats = {
         culture = sicilian
         religion = catholic
-        size = 100
+        size = 350
     }
 
     officers = {
@@ -2047,13 +2048,13 @@
     bureaucrats = {
         culture = sicilian
         religion = catholic
-        size = 525
+        size = 1837
     }
 
     bureaucrats = {
         culture = south_italian
         religion = catholic
-        size = 305
+        size = 1067
     }
 
     officers = {

@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 80
+        size = 120
     }
 
     clergymen = {
@@ -47,7 +47,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 490
+        size = 735
     }
 
     officers = {
@@ -139,7 +139,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 20
+        size = 30
     }
 
     artisans = {
@@ -305,7 +305,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 200
+        size = 300
     }
 
     officers = {
@@ -371,7 +371,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 10
+        size = 15
     }
 
     officers = {
@@ -447,13 +447,13 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 1200
+        size = 1800
     }
 
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 120
+        size = 180
     }
 
     officers = {
@@ -555,7 +555,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 350
+        size = 525
     }
 
     officers = {
@@ -731,7 +731,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 130
+        size = 195
     }
 
     clergymen = {
@@ -829,7 +829,7 @@
     bureaucrats = {
         culture = czech
         religion = protestant
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -1089,7 +1089,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 1400
+        size = 2100
     }
 
     artisans = {
@@ -1225,7 +1225,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 1100
+        size = 1650
     }
 
     artisans = {
@@ -1353,7 +1353,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 1200
+        size = 1800
     }
 
     clergymen = {
@@ -1469,7 +1469,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 1200
+        size = 1800
     }
 
     clergymen = {
@@ -1505,7 +1505,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 70
+        size = 105
     }
 
     clergymen = {

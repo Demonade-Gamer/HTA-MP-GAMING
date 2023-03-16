@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 125
+        size = 187
     }
 
     officers = {
@@ -85,7 +85,7 @@
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 25
+        size = 37
     }
 
     clergymen = {
@@ -123,7 +123,7 @@
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 12
+        size = 18
     }
 
     clergymen = {
@@ -185,7 +185,7 @@
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 12
+        size = 18
     }
 
     clergymen = {

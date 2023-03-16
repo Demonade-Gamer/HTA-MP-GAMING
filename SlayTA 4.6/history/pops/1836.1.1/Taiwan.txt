@@ -2,7 +2,6 @@
 #under the rule of China in 1836  
 #Taipei (1452000/363000 POPS) #91000 gaoshan  
 1485 = {
-
 	aristocrats = {
 		culture = min
 		religion = animist
@@ -14,37 +13,31 @@
 		religion = animist
 		size = 1100
 	}
-
 	officers = {
 		culture = min
 		religion = animist
 		size = 725
 	}
-
 	artisans = {
 		culture = min
 		religion = animist
 		size = 6150
 	}
-
 	farmers = {
 		culture = min
 		religion = mahayana
 		size = 10625
 	}
-
 	aristocrats = {
 		culture = min
 		religion = animist
 		size = 3000
 	}
-
 	clergymen = {
 		culture = min
 		religion = animist
 		size = 2400
 	}
-
 	artisans = {
 		culture = min
 		religion = animist
@@ -56,13 +49,11 @@
 		religion = animist
 		size = 2000
 	}
-
 	soldiers = {
 		culture = min
 		religion = animist
-		size= 3650
+		size = 3650
 	}
-
 	farmers = {
 		culture = min
 		religion = animist
@@ -82,19 +73,16 @@
 		religion = animist
 		size = 6600
 	}
-
 	aristocrats = {
 		culture = min
 		religion = animist
 		size = 3500
 	}
-
 	clergymen = {
 		culture = min
 		religion = animist
 		size = 2500
 	}
-
 	artisans = {
 		culture = min
 		religion = animist
@@ -106,13 +94,11 @@
 		religion = animist
 		size = 2500
 	}
-
 	soldiers = {
 		culture = min
 		religion = animist
-		size= 3900
+		size = 3900
 	}
-
 	farmers = {
 		culture = min
 		religion = animist
@@ -124,11 +110,9 @@
 		religion = animist
 		size = 129000
 	}
-
 	farmers = {
 		culture = min
 		religion = mahayana
 		size = 12625
 	}
-
 }

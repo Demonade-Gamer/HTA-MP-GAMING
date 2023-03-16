@@ -77,7 +77,7 @@
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 250
+        size = 375
     }
 
     officers = {

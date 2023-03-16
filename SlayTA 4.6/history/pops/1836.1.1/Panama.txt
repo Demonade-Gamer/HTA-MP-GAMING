@@ -7,55 +7,46 @@
         religion = protestant
         size = 150
     }
-
     clergymen = {
         culture = mellomsk
         religion = protestant
         size = 187
     }
-
     artisans = {
         culture = mellomsk
         religion = protestant
         size = 375
     }
-
     soldiers = {
         culture = mellomsk
         religion = protestant
         size = 75
     }
-
     farmers = {
         culture = mellomsk
         religion = protestant
         size = 5842
     }
-
     clergymen = {
         culture = afro_caribeno
         religion = protestant
         size = 375
     }
-
     artisans = {
         culture = afro_caribeno
         religion = protestant
         size = 600
     }
-
     soldiers = {
         culture = afro_caribeno
         religion = protestant
         size = 187
     }
-
     farmers = {
         culture = afro_caribeno
         religion = protestant
         size = 9487
     }
-
     slaves = {
         culture = afro_caribeno
         religion = protestant
@@ -69,67 +60,56 @@
         religion = protestant
         size = 637
     }
-
     bureaucrats = {
         culture = mellomsk
         religion = protestant
         size = 82
     }
-
     officers = {
         culture = mellomsk
         religion = protestant
         size = 150
     }
-
     clergymen = {
         culture = mellomsk
         religion = protestant
         size = 300
     }
-
     artisans = {
         culture = mellomsk
         religion = protestant
         size = 1425
     }
-
     soldiers = {
         culture = mellomsk
         religion = protestant
         size = 300
     }
-
     farmers = {
         culture = mellomsk
         religion = protestant
         size = 25575
     }
-
     clergymen = {
         culture = afro_caribeno
         religion = protestant
         size = 262
     }
-
     artisans = {
         culture = afro_caribeno
         religion = protestant
         size = 750
     }
-
     soldiers = {
         culture = afro_caribeno
         religion = protestant
         size = 225
     }
-
     farmers = {
         culture = afro_caribeno
         religion = protestant
         size = 8512
     }
-
     slaves = {
         culture = afro_caribeno
         religion = protestant
@@ -143,55 +123,46 @@
         religion = protestant
         size = 900
     }
-
     clergymen = {
         culture = mellomsk
         religion = protestant
         size = 750
     }
-
     artisans = {
         culture = mellomsk
         religion = protestant
         size = 4500
     }
-
     soldiers = {
         culture = mellomsk
         religion = protestant
         size = 1125
     }
-
     farmers = {
         culture = mellomsk
         religion = protestant
         size = 80625
     }
-
     clergymen = {
         culture = afro_caribeno
         religion = protestant
         size = 300
     }
-
     artisans = {
         culture = afro_caribeno
         religion = protestant
         size = 750
     }
-
     soldiers = {
         culture = afro_caribeno
         religion = protestant
         size = 150
     }
-
     farmers = {
         culture = afro_caribeno
         religion = protestant
         size = 10050
     }
-
     slaves = {
         culture = afro_caribeno
         religion = protestant
@@ -205,55 +176,46 @@
         religion = protestant
         size = 675
     }
-
     clergymen = {
         culture = mellomsk
         religion = protestant
         size = 225
     }
-
     artisans = {
         culture = mellomsk
         religion = protestant
         size = 1125
     }
-
     soldiers = {
         culture = mellomsk
         religion = protestant
         size = 225
     }
-
     farmers = {
         culture = mellomsk
         religion = protestant
         size = 20250
     }
-
     clergymen = {
         culture = afro_caribeno
         religion = protestant
         size = 150
     }
-
     artisans = {
         culture = afro_caribeno
         religion = protestant
         size = 375
     }
-
     soldiers = {
         culture = afro_caribeno
         religion = protestant
         size = 75
     }
-
     farmers = {
         culture = afro_caribeno
         religion = protestant
         size = 4905
     }
-
     slaves = {
         culture = afro_caribeno
         religion = protestant
@@ -267,55 +229,46 @@
         religion = protestant
         size = 90
     }
-
     clergymen = {
         culture = mellomsk
         religion = protestant
         size = 112
     }
-
     artisans = {
         culture = mellomsk
         religion = protestant
         size = 225
     }
-
     soldiers = {
         culture = mellomsk
         religion = protestant
         size = 45
     }
-
     farmers = {
         culture = mellomsk
         religion = protestant
         size = 4492
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 75
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 150
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 300
     }
-
     farmers = {
         culture = shawnee
         religion = animist

@@ -6,175 +6,146 @@
         religion = theravada
         size = 800
     }
-
     bureaucrats = {
         culture = marathi
         religion = theravada
         size = 300
     }
-
     clergymen = {
         culture = marathi
         religion = theravada
         size = 750
     }
-
     artisans = {
         culture = marathi
         religion = theravada
         size = 800
     }
-
     soldiers = {
         culture = marathi
         religion = theravada
         size = 750
     }
-
     farmers = {
         culture = marathi
         religion = theravada
         size = 67750
     }
-
     aristocrats = {
         culture = marathi
         religion = hindu
         size = 125
     }
-
     bureaucrats = {
         culture = marathi
         religion = hindu
         size = 200
     }
-
     clergymen = {
         culture = marathi
         religion = hindu
         size = 125
     }
-
     artisans = {
         culture = marathi
         religion = hindu
         size = 750
     }
-
     soldiers = {
         culture = marathi
         religion = hindu
         size = 100
     }
-
     labourers = {
         culture = marathi
         religion = hindu
         size = 9800
     }
-
     clergymen = {
         culture = marathi
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = marathi
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = marathi
         religion = catholic
         size = 50
     }
-
     labourers = {
         culture = marathi
         religion = catholic
         size = 6400
     }
-
     clergymen = {
         culture = marathi
         religion = protestant
         size = 25
     }
-
     artisans = {
         culture = marathi
         religion = protestant
         size = 750
     }
-
     soldiers = {
         culture = marathi
         religion = protestant
         size = 25
     }
-
     labourers = {
         culture = marathi
         religion = protestant
         size = 1200
     }
-
     aristocrats = {
         culture = maghrebi
         religion = sunni
         size = 25
     }
-
     clergymen = {
         culture = maghrebi
         religion = sunni
         size = 75
     }
-
     artisans = {
         culture = maghrebi
         religion = sunni
         size = 1500
     }
-
     soldiers = {
         culture = maghrebi
         religion = sunni
         size = 25
     }
-
     labourers = {
         culture = maghrebi
         religion = sunni
         size = 3375
     }
-
     aristocrats = {
         culture = marathi
         religion = sunni
         size = 25
     }
-
     clergymen = {
         culture = marathi
         religion = sunni
         size = 25
     }
-
     artisans = {
         culture = marathi
         religion = sunni
         size = 1100
     }
-
     soldiers = {
         culture = marathi
         religion = sunni
         size = 50
     }
-
     farmers = {
         culture = marathi
         religion = sunni
@@ -188,55 +159,46 @@
         religion = theravada
         size = 550
     }
-
     clergymen = {
         culture = marathi
         religion = theravada
         size = 550
     }
-
     artisans = {
         culture = marathi
         religion = theravada
         size = 4000
     }
-
     soldiers = {
         culture = marathi
         religion = theravada
         size = 550
     }
-
     farmers = {
         culture = marathi
         religion = theravada
         size = 42500
     }
-
     aristocrats = {
         culture = marathi
         religion = hindu
         size = 250
     }
-
     clergymen = {
         culture = marathi
         religion = hindu
         size = 250
     }
-
     artisans = {
         culture = marathi
         religion = hindu
         size = 2000
     }
-
     soldiers = {
         culture = marathi
         religion = hindu
         size = 550
     }
-
     labourers = {
         culture = marathi
         religion = hindu
@@ -250,25 +212,21 @@
         religion = theravada
         size = 750
     }
-
     clergymen = {
         culture = marathi
         religion = theravada
         size = 750
     }
-
     artisans = {
         culture = marathi
         religion = theravada
         size = 4000
     }
-
     soldiers = {
         culture = marathi
         religion = theravada
         size = 750
     }
-
     farmers = {
         culture = marathi
         religion = theravada
@@ -282,157 +240,131 @@
         religion = theravada
         size = 250
     }
-
     clergymen = {
         culture = marathi
         religion = theravada
         size = 225
     }
-
     artisans = {
         culture = marathi
         religion = theravada
         size = 550
     }
-
     soldiers = {
         culture = marathi
         religion = theravada
         size = 200
     }
-
     farmers = {
         culture = marathi
         religion = theravada
         size = 19825
     }
-
     aristocrats = {
         culture = marathi
         religion = hindu
         size = 250
     }
-
     clergymen = {
         culture = marathi
         religion = hindu
         size = 250
     }
-
     artisans = {
         culture = marathi
         religion = hindu
         size = 550
     }
-
     soldiers = {
         culture = marathi
         religion = hindu
         size = 250
     }
-
     labourers = {
         culture = marathi
         religion = hindu
         size = 18750
     }
-
     clergymen = {
         culture = marathi
         religion = protestant
         size = 25
     }
-
     artisans = {
         culture = marathi
         religion = protestant
         size = 250
     }
-
     soldiers = {
         culture = marathi
         religion = protestant
         size = 25
     }
-
     labourers = {
         culture = marathi
         religion = protestant
         size = 700
     }
-
     clergymen = {
         culture = marathi
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = marathi
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = marathi
         religion = catholic
         size = 25
     }
-
     labourers = {
         culture = marathi
         religion = catholic
         size = 1475
     }
-
     clergymen = {
         culture = marathi
         religion = sunni
         size = 25
     }
-
     artisans = {
         culture = marathi
         religion = sunni
         size = 250
     }
-
     soldiers = {
         culture = marathi
         religion = sunni
         size = 50
     }
-
     labourers = {
         culture = marathi
         religion = sunni
         size = 675
     }
-
     aristocrats = {
         culture = maghrebi
         religion = sunni
         size = 25
     }
-
     clergymen = {
         culture = maghrebi
         religion = sunni
         size = 50
     }
-
     artisans = {
         culture = maghrebi
         religion = sunni
         size = 750
     }
-
     soldiers = {
         culture = maghrebi
         religion = sunni
         size = 25
     }
-
     labourers = {
         culture = maghrebi
         religion = sunni
@@ -446,25 +378,21 @@
         religion = sunni
         size = 125
     }
-
     clergymen = {
         culture = marathi
         religion = sunni
         size = 150
     }
-
     artisans = {
         culture = marathi
         religion = sunni
         size = 1500
     }
-
     soldiers = {
         culture = marathi
         religion = sunni
         size = 150
     }
-
     farmers = {
         culture = marathi
         religion = sunni

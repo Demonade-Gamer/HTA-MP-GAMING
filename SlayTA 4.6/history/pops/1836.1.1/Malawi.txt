@@ -7,91 +7,76 @@
 		religion = animist
 		size = 550
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = animist
 		size = 300
 	}
-
 	artisans = {
 		culture = amhara
 		religion = animist
 		size = 1450
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = animist
 		size = 300
 	}
-
 	farmers = {
 		culture = amhara
 		religion = animist
 		size = 26400
 	}
-
 	slaves = {
 		culture = amhara
 		religion = animist
 		size = 3000
 	}
-
 	aristocrats = {
 		culture = amhara
 		religion = animist
 		size = 275
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = animist
 		size = 150
 	}
-
 	artisans = {
 		culture = amhara
 		religion = animist
 		size = 750
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = animist
 		size = 150
 	}
-
 	farmers = {
 		culture = amhara
 		religion = animist
 		size = 13675
 	}
-
 	aristocrats = {
 		culture = amhara
 		religion = animist
 		size = 125
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = animist
 		size = 400
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = animist
 		size = 100
 	}
-
 	farmers = {
 		culture = amhara
 		religion = animist
@@ -105,65 +90,54 @@
 		religion = animist
 		size = 350
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = animist
 		size = 200
 	}
-
 	artisans = {
 		culture = amhara
 		religion = animist
 		size = 950
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = animist
 		size = 200
 	}
-
 	farmers = {
 		culture = amhara
 		religion = animist
 		size = 17300
 	}
-
 	slaves = {
 		culture = amhara
 		religion = animist
 		size = 4000
 	}
-
 	aristocrats = {
 		culture = amhara
 		religion = animist
 		size = 400
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = animist
 		size = 200
 	}
-
 	artisans = {
 		culture = amhara
 		religion = animist
 		size = 850
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = animist
 		size = 225
 	}
-
 	farmers = {
 		culture = amhara
 		religion = animist
 		size = 15125
 	}
-
 }

@@ -7,25 +7,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -39,25 +35,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -75,25 +67,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -107,25 +95,21 @@
         religion = animist
         size = 5
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -139,25 +123,21 @@
         religion = animist
         size = 5
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 20
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -172,25 +152,21 @@
         religion = animist
         size = 15
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 37
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 75
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -204,31 +180,26 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 35
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 630
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
@@ -244,55 +215,46 @@
         religion = protestant
         size = 513
     }
-
     soldiers = {
         culture = skamisc
         religion = protestant
         size = 2583
     }
-
     clergymen = {
         culture = skamisc
         religion = protestant
         size = 1242
     }
-
     artisans = {
         culture = skamisc
         religion = protestant
         size = 1548
     }
-
     farmers = {
         culture = skamisc
         religion = protestant
         size = 15003
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 513
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 774
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 1548
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1000
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -306,55 +268,46 @@
         religion = protestant
         size = 306
     }
-
     soldiers = {
         culture = skamisc
         religion = protestant
         size = 1548
     }
-
     clergymen = {
         culture = skamisc
         religion = protestant
         size = 1134
     }
-
     artisans = {
         culture = skamisc
         religion = protestant
         size = 927
     }
-
     farmers = {
         culture = skamisc
         religion = protestant
         size = 12420
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 252
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 513
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 1035
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1000
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -368,37 +321,31 @@
         religion = protestant
         size = 207
     }
-
     farmers = {
         culture = skamisc
         religion = protestant
         size = 5688
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 252
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 513
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 1035
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1000
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -412,31 +359,26 @@
         religion = protestant
         size = 3618
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 99
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 252
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 513
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1000
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -450,25 +392,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -482,25 +420,21 @@
         religion = animist
         size = 15
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 30
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -514,43 +448,36 @@
         religion = protestant
         size = 252
     }
-
     clergymen = {
         culture = skamisc
         religion = protestant
         size = 513
     }
-
     farmers = {
         culture = skamisc
         religion = protestant
         size = 6723
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 252
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 513
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 1035
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1000
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -564,37 +491,31 @@
         religion = protestant
         size = 513
     }
-
     farmers = {
         culture = skamisc
         religion = protestant
         size = 8793
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 252
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 513
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 1035
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1000
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -608,25 +529,21 @@
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 100
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -640,25 +557,21 @@
         religion = animist
         size = 5
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 20
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -674,79 +587,66 @@
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 100
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -760,25 +660,21 @@
         religion = animist
         size = 20
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 60
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -792,25 +688,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -824,25 +716,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -856,49 +744,41 @@
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -912,49 +792,41 @@
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -968,49 +840,41 @@
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1024,25 +888,21 @@
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 100
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1056,25 +916,21 @@
         religion = animist
         size = 15
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 20
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 40
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1090,49 +946,41 @@
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 100
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 1750
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1146,25 +994,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1178,49 +1022,41 @@
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1234,49 +1070,41 @@
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1290,49 +1118,41 @@
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1346,25 +1166,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1380,73 +1196,61 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     clergymen = {
         culture = shawnee
         religion = protestant
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = protestant
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = protestant
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = protestant
@@ -1460,37 +1264,31 @@
         religion = catholic
         size = 15
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
         size = 125
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1504,25 +1302,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1536,49 +1330,41 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1592,49 +1378,41 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1648,49 +1426,41 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1704,49 +1474,41 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1762,25 +1524,21 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 35
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -1794,67 +1552,56 @@
         religion = catholic
         size = 20
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
         size = 235
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 35
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 80
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 1440
     }
-
     aristocrats = {
         culture = french_canadian
         religion = catholic
         size = 55
     }
-
     clergymen = {
         culture = french_canadian
         religion = catholic
         size = 120
     }
-
     artisans = {
         culture = french_canadian
         religion = catholic
         size = 300
     }
-
     soldiers = {
         culture = french_canadian
         religion = catholic
         size = 1100
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
@@ -1868,79 +1615,66 @@
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 100
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 1750
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 910
     }
-
     aristocrats = {
         culture = french_canadian
         religion = catholic
         size = 25
     }
-
     clergymen = {
         culture = french_canadian
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = french_canadian
         religion = catholic
         size = 125
     }
-
     soldiers = {
         culture = french_canadian
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
@@ -1954,55 +1688,46 @@
         religion = catholic
         size = 115
     }
-
     clergymen = {
         culture = french_canadian
         religion = catholic
         size = 250
     }
-
     artisans = {
         culture = french_canadian
         religion = catholic
         size = 700
     }
-
     soldiers = {
         culture = french_canadian
         religion = catholic
         size = 1370
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
         size = 12750
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 55
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 75
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 180
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2016,61 +1741,51 @@
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 100
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 1750
     }
-
     farmers = {
         culture = shawnee
         religion = catholic
         size = 5500
     }
-
     aristocrats = {
         culture = french_canadian
         religion = catholic
         size = 195
     }
-
     clergymen = {
         culture = french_canadian
         religion = catholic
         size = 450
     }
-
     artisans = {
         culture = french_canadian
         religion = catholic
         size = 2500
     }
-
     soldiers = {
         culture = french_canadian
         religion = catholic
         size = 200
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
@@ -2084,115 +1799,96 @@
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 90
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 325
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 450
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 4900
     }
-
     aristocrats = {
         culture = french_canadian
         religion = catholic
         size = 125
     }
-
     clergymen = {
         culture = french_canadian
         religion = catholic
         size = 200
     }
-
     artisans = {
         culture = french_canadian
         religion = catholic
         size = 600
     }
-
     soldiers = {
         culture = french_canadian
         religion = catholic
         size = 200
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
@@ -2206,25 +1902,21 @@
         religion = animist
         size = 75
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 150
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 300
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2238,25 +1930,21 @@
         religion = animist
         size = 40
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 100
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2270,55 +1958,46 @@
         religion = animist
         size = 5
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 10
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 265
     }
-
     aristocrats = {
         culture = french_canadian
         religion = catholic
         size = 25
     }
-
     clergymen = {
         culture = french_canadian
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = french_canadian
         religion = catholic
         size = 125
     }
-
     soldiers = {
         culture = french_canadian
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
@@ -2332,55 +2011,46 @@
         religion = animist
         size = 25
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 35
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 80
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 1445
     }
-
     aristocrats = {
         culture = french_canadian
         religion = catholic
         size = 15
     }
-
     clergymen = {
         culture = french_canadian
         religion = catholic
         size = 40
     }
-
     artisans = {
         culture = french_canadian
         religion = catholic
         size = 95
     }
-
     soldiers = {
         culture = french_canadian
         religion = catholic
         size = 200
     }
-
     farmers = {
         culture = french_canadian
         religion = catholic
@@ -2395,31 +2065,26 @@
         religion = animist
         size = 250
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 250
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 2500
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 39000
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2433,31 +2098,26 @@
         religion = animist
         size = 100
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 150
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 550
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 32350
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2471,31 +2131,26 @@
         religion = animist
         size = 45
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 25700
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2509,55 +2164,46 @@
         religion = animist
         size = 400
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 550
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 3250
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 33925
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 25
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 250
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 1700
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2571,55 +2217,46 @@
         religion = animist
         size = 200
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 250
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 900
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 19550
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 50
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 3700
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2635,31 +2272,26 @@
         religion = animist
         size = 15
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 22
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 52
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 945
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -2673,55 +2305,46 @@
         religion = animist
         size = 7
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 30
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 540
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 3
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 4
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2735,55 +2358,46 @@
         religion = animist
         size = 3
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 4
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 270
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 7
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 30
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2797,55 +2411,46 @@
         religion = animist
         size = 7
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 30
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 540
     }
-
     aristocrats = {
         culture = shawnee
         religion = animist
         size = 3
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 4
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2859,49 +2464,41 @@
         religion = animist
         size = 22
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 37
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 45
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 780
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 112
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 187
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -2915,25 +2512,21 @@
         religion = animist
         size = 22
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 60
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 180
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -2948,61 +2541,51 @@
         religion = protestant
         size = 300
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 187
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 6000
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
         size = 20137
     }
-
     bureaucrats = {
         culture = nieuwlander
         religion = protestant
         size = 150
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 750
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 9000
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     craftsmen = {
         culture = nieuwlander
         religion = protestant
         size = 5000
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3016,49 +2599,41 @@
         religion = protestant
         size = 172
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 180
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 2572
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 525
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 7650
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 1100
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3072,49 +2647,41 @@
         religion = protestant
         size = 165
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 187
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 525
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 1100
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 4350
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 337
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 675
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3128,49 +2695,41 @@
         religion = protestant
         size = 75
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 187
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 375
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
         size = 2850
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 112
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 1125
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3184,19 +2743,16 @@
         religion = protestant
         size = 412
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 6150
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     labourers = {
         culture = nieuwlander
         religion = protestant
@@ -3210,19 +2766,16 @@
         religion = protestant
         size = 750
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 9000
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3236,19 +2789,16 @@
         religion = protestant
         size = 375
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 8100
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3262,19 +2812,16 @@
         religion = protestant
         size = 375
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 2625
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     labourers = {
         culture = nieuwlander
         religion = protestant
@@ -3290,25 +2837,21 @@
         religion = protestant
         size = 262
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 412
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 5625
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3322,25 +2865,21 @@
         religion = protestant
         size = 7762
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 225
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 900
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3356,19 +2895,16 @@
         religion = protestant
         size = 75
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 2250
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3384,37 +2920,31 @@
         religion = protestant
         size = 300
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 450
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 10500
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
         size = 44400
     }
-
     labourers = {
         culture = nieuwlander
         religion = protestant
         size = 4500
     }
-
     labourers = {
         culture = afro_american
         religion = protestant
@@ -3428,25 +2958,21 @@
         religion = protestant
         size = 225
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 1650
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
         size = 22612
     }
-
     labourers = {
         culture = nieuwlander
         religion = protestant
@@ -3460,19 +2986,16 @@
         religion = protestant
         size = 135
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 675
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3488,25 +3011,21 @@
         religion = protestant
         size = 135
     }
-
     clergymen = {
         culture = nieuwlander
         religion = protestant
         size = 187
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 3750
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3520,19 +3039,16 @@
         religion = protestant
         size = 187
     }
-
     artisans = {
         culture = nieuwlander
         religion = protestant
         size = 750
     }
-
     soldiers = {
         culture = nieuwlander
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = nieuwlander
         religion = protestant
@@ -3546,25 +3062,21 @@
         religion = animist
         size = 7
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 15
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 37
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -3578,25 +3090,21 @@
         religion = animist
         size = 37
     }
-
     clergymen = {
         culture = shawnee
         religion = animist
         size = 37
     }
-
     artisans = {
         culture = shawnee
         religion = animist
         size = 112
     }
-
     soldiers = {
         culture = shawnee
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = shawnee
         religion = animist
@@ -3612,49 +3120,41 @@
         religion = protestant
         size = 5
     }
-
     bureaucrats = {
         culture = dutch
         religion = protestant
         size = 10
     }
-
     clergymen = {
         culture = dutch
         religion = protestant
         size = 15
     }
-
     artisans = {
         culture = dutch
         religion = protestant
         size = 45
     }
-
     aristocrats = {
         culture = japanese
         religion = shinto
         size = 300
     }
-
     clergymen = {
         culture = japanese
         religion = shinto
         size = 700
     }
-
     artisans = {
         culture = japanese
         religion = shinto
         size = 1800
     }
-
     soldiers = {
         culture = japanese
         religion = shinto
         size = 400
     }
-
     farmers = {
         culture = japanese
         religion = shinto

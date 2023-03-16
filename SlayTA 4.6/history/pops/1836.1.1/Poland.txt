@@ -923,7 +923,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 2300
+        size = 3450
     }
 
     officers = {
@@ -1401,7 +1401,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 1400
+        size = 2100
     }
 
     officers = {
@@ -1714,7 +1714,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 400
+        size = 600
     }
 
     clergymen = {
@@ -1930,7 +1930,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 450
+        size = 675
     }
 
     officers = {
@@ -2071,7 +2071,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 550
+        size = 825
     }
 
     officers = {
@@ -2322,7 +2322,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 1050
+        size = 1575
     }
 
     officers = {
@@ -2646,7 +2646,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 1100
+        size = 1650
     }
 
     officers = {

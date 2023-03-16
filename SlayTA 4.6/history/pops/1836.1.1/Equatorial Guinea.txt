@@ -7,49 +7,41 @@
         religion = protestant
         size = 4
     }
-
     bureaucrats = {
         culture = finnish
         religion = protestant
         size = 3
     }
-
     clergymen = {
         culture = finnish
         religion = protestant
         size = 7
     }
-
     artisans = {
         culture = finnish
         religion = protestant
         size = 7
     }
-
     soldiers = {
         culture = finnish
         religion = protestant
         size = 7
     }
-
     artisans = {
         culture = yoruba
         religion = protestant
         size = 120
     }
-
     soldiers = {
         culture = yoruba
         religion = protestant
         size = 50
     }
-
     farmers = {
         culture = yoruba
         religion = protestant
         size = 1530
     }
-
     slaves = {
         culture = yoruba
         religion = animist
@@ -64,25 +56,21 @@
         religion = animist
         size = 350
     }
-
     clergymen = {
         culture = yoruba
         religion = animist
         size = 300
     }
-
     artisans = {
         culture = yoruba
         religion = animist
         size = 1500
     }
-
     soldiers = {
         culture = yoruba
         religion = animist
         size = 350
     }
-
     farmers = {
         culture = yoruba
         religion = animist

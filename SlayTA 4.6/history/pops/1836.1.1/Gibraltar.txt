@@ -7,25 +7,21 @@
         religion = jewish
         size = 1600
     }
-
     clergymen = {
         culture = spanish
         religion = catholic
         size = 200
     }
-
     artisans = {
         culture = spanish
         religion = catholic
         size = 12000
     }
-
     soldiers = {
         culture = spanish
         religion = catholic
         size = 50
     }
-
     farmers = {
         culture = spanish
         religion = catholic

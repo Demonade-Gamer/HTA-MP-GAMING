@@ -7,45 +7,36 @@
 		religion = theravada
 		size = 2000
 	}
-
 	bureaucrats = {
 		culture = khmer
 		religion = theravada
 		size = 150
 	}
-
 	officers = {
 		culture = khmer
 		religion = theravada
 		size = 200
 	}
-
 	clergymen = {
 		culture = khmer
 		religion = theravada
 		size = 1125
 	}
-
 	artisans = {
 		culture = khmer
 		religion = theravada
 		size = 5500
 	}
-
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size= 3000
-
+		size = 3000
 	}
-
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = khmer
 		religion = theravada
@@ -57,25 +48,21 @@
 		religion = sunni
 		size = 15025
 	}	
-
 	slaves = {
 		culture = khmer
 		religion = theravada
 		size = 2000
 	}
-
 	clergymen = {
 		culture = yue
 		religion = mahayana
 		size = 75
 	}
-
 	artisans = {
 		culture = yue
 		religion = mahayana
 		size = 1250
 	}
-
 	farmers = {
 		culture = yue
 		religion = mahayana
@@ -89,26 +76,21 @@
 		religion = theravada
 		size = 725
 	}
-
 	clergymen = {
 		culture = khmer
 		religion = theravada
 		size = 375
 	}
-
 	artisans = {
 		culture = khmer
 		religion = theravada
 		size = 1750
 	}
-
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = khmer
 		religion = theravada
@@ -120,19 +102,16 @@
 		religion = sunni
 		size = 3150
 	}	
-
 	clergymen = {
 		culture = yue
 		religion = mahayana
 		size = 25
 	}
-
 	artisans = {
 		culture = yue
 		religion = mahayana
 		size = 550
 	}
-
 	farmers = {
 		culture = yue
 		religion = mahayana
@@ -146,26 +125,21 @@
 		religion = theravada
 		size = 300
 	}
-
 	clergymen = {
 		culture = khmer
 		religion = theravada
 		size = 175
 	}
-
 	artisans = {
 		culture = khmer
 		religion = theravada
 		size = 900
 	}
-
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size= 175
-
+		size = 175
 	}
-
 	farmers = {
 		culture = khmer
 		religion = theravada
@@ -177,32 +151,26 @@
 		religion = mahayana
 		size = 4000
 	}	
-
 	aristocrats = {
 		culture = khmer
 		religion = sunni
 		size = 50
 	}
-
 	clergymen = {
 		culture = khmer
 		religion = sunni
 		size = 50
 	}
-
 	artisans = {
 		culture = khmer
 		religion = sunni
 		size = 125
 	}
-
 	soldiers = {
 		culture = khmer
 		religion = sunni
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = khmer
 		religion = sunni
@@ -217,104 +185,84 @@
 		religion = theravada
 		size = 25
 	}
-
 	bureaucrats = {
 		culture = thai
 		religion = theravada
 		size = 50
 	}
-
 	officers = {
 		culture = thai
 		religion = theravada
 		size = 75
 	}
-
 	clergymen = {
 		culture = thai
 		religion = theravada
 		size = 25
 	}
-
 	artisans = {
 		culture = thai
 		religion = theravada
 		size = 50
 	}
-
 	soldiers = {
 		culture = thai
 		religion = theravada
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = thai
 		religion = theravada
 		size = 725
 	}
-
 	aristocrats = {
 		culture = khmer
 		religion = theravada
 		size = 750
 	}
-
 	clergymen = {
 		culture = khmer
 		religion = theravada
 		size = 400
 	}
-
 	artisans = {
 		culture = khmer
 		religion = theravada
 		size = 2000
 	}
-
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size= 425
-
+		size = 425
 	}
-
 	farmers = {
 		culture = khmer
 		religion = theravada
 		size = 39425
 	}
-
 	slaves = {
 		culture = khmer
 		religion = theravada
 		size = 1100
 	}
-
 	clergymen = {
 		culture = yue
 		religion = mahayana
 		size = 50
 	}
-
 	artisans = {
 		culture = yue
 		religion = mahayana
 		size = 750
 	}
-
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = yue
 		religion = mahayana
 		size = 2150
 	}
-
 }

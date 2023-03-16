@@ -7,37 +7,31 @@
         religion = protestant
         size = 600
     }
-
     bureaucrats = {
         culture = mellomsk
         religion = protestant
         size = 150
     }
-
     officers = {
         culture = mellomsk
         religion = protestant
         size = 75
     }
-
     clergymen = {
         culture = mellomsk
         religion = protestant
         size = 382
     }
-
     artisans = {
         culture = mellomsk
         religion = protestant
         size = 2025
     }
-
     soldiers = {
         culture = mellomsk
         religion = protestant
         size = 1687
     }
-
     farmers = {
         culture = mellomsk
         religion = protestant
@@ -51,25 +45,21 @@
         religion = protestant
         size = 675
     }
-
     clergymen = {
         culture = mellomsk
         religion = protestant
         size = 375
     }
-
     artisans = {
         culture = mellomsk
         religion = protestant
         size = 1875
     }
-
     soldiers = {
         culture = mellomsk
         religion = protestant
         size = 375
     }
-
     farmers = {
         culture = mellomsk
         religion = protestant
@@ -83,25 +73,21 @@
         religion = protestant
         size = 450
     }
-
     clergymen = {
         culture = mellomsk
         religion = protestant
         size = 750
     }
-
     artisans = {
         culture = mellomsk
         religion = protestant
         size = 2250
     }
-
     soldiers = {
         culture = mellomsk
         religion = protestant
         size = 375
     }
-
     farmers = {
         culture = mellomsk
         religion = protestant

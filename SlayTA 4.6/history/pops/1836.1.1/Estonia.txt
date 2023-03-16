@@ -7,133 +7,111 @@
         religion = protestant
         size = 1150
     }
-
     clergymen = {
         culture = estonian
         religion = protestant
         size = 525
     }
-
     artisans = {
         culture = estonian
         religion = protestant
         size = 1150
     }
-
     soldiers = {
         culture = estonian
         religion = protestant
         size = 1400
     }
-
     farmers = {
         culture = estonian
         religion = protestant
         size = 43225
     }
-
     farmers = {
         culture = north_german
         religion = protestant
         size = 550
     }
-
     aristocrats = {
         culture = north_german
         religion = protestant
         size = 375
     }
-
     bureaucrats = {
         culture = north_german
         religion = protestant
         size = 75
     }
-
     officers = {
         culture = north_german
         religion = protestant
         size = 125
     }
-
     clergymen = {
         culture = north_german
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = north_german
         religion = protestant
         size = 1825
     }
-
     soldiers = {
         culture = north_german
         religion = protestant
         size = 250
     }
-
     clergymen = {
         culture = finnish
         religion = protestant
         size = 37
     }
-
     artisans = {
         culture = finnish
         religion = protestant
         size = 450
     }
-
     soldiers = {
         culture = finnish
         religion = protestant
         size = 37
     }
-
     farmers = {
         culture = finnish
         religion = protestant
         size = 600
     }
-
     aristocrats = {
         culture = finnish
         religion = protestant
         size = 562
     }
-
     bureaucrats = {
         culture = finnish
         religion = protestant
         size = 37
     }
-
     officers = {
         culture = finnish
         religion = protestant
         size = 75
     }
-
     clergymen = {
         culture = finnish
         religion = protestant
         size = 37
     }
-
     artisans = {
         culture = finnish
         religion = protestant
         size = 562
     }
-
     soldiers = {
         culture = finnish
         religion = protestant
         size = 75
     }
-
     farmers = {
         culture = finnish
         religion = protestant
@@ -147,67 +125,56 @@
         religion = protestant
         size = 425
     }
-
     artisans = {
         culture = estonian
         religion = protestant
         size = 2300
     }
-
     soldiers = {
         culture = estonian
         religion = protestant
         size = 450
     }
-
     farmers = {
         culture = estonian
         religion = protestant
         size = 35725
     }
-
     clergymen = {
         culture = finnish
         religion = protestant
         size = 75
     }
-
     artisans = {
         culture = finnish
         religion = protestant
         size = 150
     }
-
     soldiers = {
         culture = finnish
         religion = protestant
         size = 75
     }
-
     farmers = {
         culture = finnish
         religion = protestant
         size = 4650
     }
-
     clergymen = {
         culture = north_german
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = north_german
         religion = protestant
         size = 100
     }
-
     soldiers = {
         culture = north_german
         religion = protestant
         size = 50
     }
-
     farmers = {
         culture = north_german
         religion = protestant
@@ -221,73 +188,61 @@
         religion = protestant
         size = 250
     }
-
     bureaucrats = {
         culture = north_german
         religion = protestant
         size = 225
     }
-
     artisans = {
         culture = north_german
         religion = protestant
         size = 550
     }
-
     soldiers = {
         culture = north_german
         religion = protestant
         size = 250
     }
-
     farmers = {
         culture = north_german
         religion = protestant
         size = 550
     }
-
     clergymen = {
         culture = estonian
         religion = protestant
         size = 400
     }
-
     artisans = {
         culture = estonian
         religion = protestant
         size = 600
     }
-
     soldiers = {
         culture = estonian
         religion = protestant
         size = 200
     }
-
     farmers = {
         culture = estonian
         religion = protestant
         size = 20000
     }
-
     clergymen = {
         culture = finnish
         religion = protestant
         size = 217
     }
-
     artisans = {
         culture = finnish
         religion = protestant
         size = 225
     }
-
     soldiers = {
         culture = finnish
         religion = protestant
         size = 300
     }
-
     farmers = {
         culture = finnish
         religion = protestant
@@ -301,73 +256,61 @@
         religion = protestant
         size = 50
     }
-
     bureaucrats = {
         culture = north_german
         religion = protestant
         size = 225
     }
-
     artisans = {
         culture = north_german
         religion = protestant
         size = 1550
     }
-
     soldiers = {
         culture = north_german
         religion = protestant
         size = 50
     }
-
     farmers = {
         culture = north_german
         religion = protestant
         size = 1100
     }
-
     clergymen = {
         culture = estonian
         religion = protestant
         size = 350
     }
-
     artisans = {
         culture = estonian
         religion = protestant
         size = 1300
     }
-
     soldiers = {
         culture = estonian
         religion = protestant
         size = 350
     }
-
     farmers = {
         culture = estonian
         religion = protestant
         size = 32300
     }
-
     clergymen = {
         culture = finnish
         religion = protestant
         size = 112
     }
-
     artisans = {
         culture = finnish
         religion = protestant
         size = 300
     }
-
     soldiers = {
         culture = finnish
         religion = protestant
         size = 195
     }
-
     farmers = {
         culture = finnish
         religion = protestant
@@ -381,55 +324,46 @@
         religion = protestant
         size = 10
     }
-
     bureaucrats = {
         culture = north_german
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = north_german
         religion = protestant
         size = 50
     }
-
     soldiers = {
         culture = north_german
         religion = protestant
         size = 10
     }
-
     clergymen = {
         culture = estonian
         religion = protestant
         size = 150
     }
-
     artisans = {
         culture = estonian
         religion = protestant
         size = 450
     }
-
     soldiers = {
         culture = estonian
         religion = protestant
         size = 225
     }
-
     farmers = {
         culture = estonian
         religion = protestant
         size = 10575
     }
-
     clergymen = {
         culture = finnish
         religion = protestant
         size = 135
     }
-
     farmers = {
         culture = finnish
         religion = protestant

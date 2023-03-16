@@ -7,43 +7,36 @@
 		religion = orthodox
 		size = 550
 	}
-
 	clergymen = {
 		culture = roman
 		religion = orthodox
 		size = 175
 	}
-
 	artisans = {
 		culture = roman
 		religion = orthodox
 		size = 1450
 	}
-
 	soldiers = {
 		culture = roman
 		religion = orthodox
 		size = 275
 	}
-
 	farmers = {
 		culture = roman
 		religion = orthodox
 		size = 21150
 	}
-
 	clergymen = {
 		culture = greek
 		religion = orthodox
 		size = 125
 	}
-
 	artisans = {
 		culture = greek
 		religion = orthodox
 		size = 900
 	}
-
 	farmers = {
 		culture = greek
 		religion = orthodox
@@ -57,67 +50,56 @@
 		religion = orthodox
 		size = 550
 	}
-
 	bureaucrats = {
 		culture = roman
 		religion = orthodox
 		size = 150
 	}
-
 	officers = {
 		culture = roman
 		religion = orthodox
 		size = 100
 	}
-
 	soldiers = {
 		culture = roman
 		religion = orthodox
 		size = 1500
 	}
-
 	clergymen = {
 		culture = roman
 		religion = orthodox
 		size = 555
 	}
-
 	artisans = {
 		culture = roman
 		religion = orthodox
 		size = 2300
 	}
-
 	farmers = {
 		culture = roman
 		religion = orthodox
 		size = 37525
 	}
-
 	clergymen = {
 		culture = greek
 		religion = orthodox
 		size = 320
 	}
-
 	artisans = {
 		culture = greek
 		religion = orthodox
 		size = 1250
 	}
-
 	farmers = {
 		culture = greek
 		religion = orthodox
 		size = 2750
 	}
-
 	clergymen = {
 		culture = sephardic
 		religion = jewish
 		size = 100
 	}
-
 	artisans = {
 		culture = sephardic
 		religion = jewish
@@ -131,43 +113,36 @@
 		religion = orthodox
 		size = 400
 	}
-
 	clergymen = {
 		culture = roman
 		religion = orthodox
 		size = 75
 	}
-
 	artisans = {
 		culture = roman
 		religion = orthodox
 		size = 800
 	}
-
 	soldiers = {
 		culture = roman
 		religion = orthodox
 		size = 300
 	}
-
 	farmers = {
 		culture = roman
 		religion = orthodox
 		size = 14525
 	}
-
 	clergymen = {
 		culture = greek
 		religion = orthodox
 		size = 150
 	}
-
 	artisans = {
 		culture = greek
 		religion = orthodox
 		size = 300
 	}
-
 	farmers = {
 		culture = greek
 		religion = orthodox
@@ -179,5 +154,4 @@
 		religion = catholic
 		size = 400
 	}	
-
 }

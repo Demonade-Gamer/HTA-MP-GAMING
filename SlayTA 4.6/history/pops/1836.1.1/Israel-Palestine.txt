@@ -99,7 +99,7 @@
     bureaucrats = {
         culture = mashriqi
         religion = catholic
-        size = 100
+        size = 350
     }
 
     officers = {

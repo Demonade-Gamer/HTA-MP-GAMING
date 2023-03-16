@@ -5,13 +5,13 @@
     bureaucrats = {
         culture = slovak
         religion = catholic
-        size = 250
+        size = 375
     }
 
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 900
+        size = 1350
     }
 
     officers = {
@@ -77,7 +77,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 600
+        size = 900
     }
 
     officers = {
@@ -173,7 +173,7 @@
     bureaucrats = {
         culture = south_german
         religion = catholic
-        size = 550
+        size = 825
     }
 
     officers = {
@@ -585,7 +585,7 @@
     bureaucrats = {
         culture = slovak
         religion = catholic
-        size = 150
+        size = 225
     }
 
     officers = {
@@ -627,7 +627,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 1100
+        size = 1650
     }
 
     officers = {
@@ -711,7 +711,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 550
+        size = 825
     }
 
     clergymen = {
@@ -905,7 +905,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 200
+        size = 300
     }
 
     clergymen = {

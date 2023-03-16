@@ -6,37 +6,31 @@
         religion = protestant
         size = 900
     }
-
     bureaucrats = {
         culture = norwegian
         religion = protestant
         size = 900
     }
-
     officers = {
         culture = norwegian
         religion = protestant
         size = 150
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 450
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 9750
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 6000
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -50,37 +44,31 @@
         religion = protestant
         size = 150
     }
-
     aristocrats = {
         culture = norwegian
         religion = protestant
         size = 300
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 2250
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 300
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
         size = 37650
     }
-
     farmers = {
         culture = sami
         religion = protestant
         size = 3000
     }
-
     farmers = {
         culture = finnish
         religion = protestant
@@ -94,43 +82,36 @@
         religion = protestant
         size = 360
     }
-
     clergymen = {
         culture = finnish
         religion = protestant
         size = 180
     }
-
     artisans = {
         culture = finnish
         religion = protestant
         size = 1350
     }
-
     soldiers = {
         culture = finnish
         religion = protestant
         size = 225
     }
-
     farmers = {
         culture = finnish
         religion = protestant
         size = 6750
     }
-
     farmers = {
         culture = finnish
         religion = protestant
         size = 42750
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 900
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -144,25 +125,21 @@
         religion = protestant
         size = 600
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 225
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 3300
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 300
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -177,37 +154,31 @@
         religion = protestant
         size = 1200
     }
-
     bureaucrats = {
         culture = norwegian
         religion = protestant
         size = 1500
     }
-
     officers = {
         culture = norwegian
         religion = protestant
         size = 300
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 600
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 15000
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 6000
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -221,25 +192,21 @@
         religion = protestant
         size = 1800
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 525
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 6000
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 3300
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -253,25 +220,21 @@
         religion = protestant
         size = 300
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 225
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 2250
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 300
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -285,25 +248,21 @@
         religion = protestant
         size = 900
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 375
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 6000
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 750
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -318,55 +277,46 @@
         religion = protestant
         size = 1800
     }
-
     bureaucrats = {
         culture = norwegian
         religion = protestant
         size = 2100
     }
-
     officers = {
         culture = norwegian
         religion = protestant
         size = 1050
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 2850
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 45000
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 10500
     }
-
     labourers = {
         culture = norwegian
         religion = protestant
         size = 38025
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
         size = 157612
     }
-
     capitalists = {
         culture = norwegian
         religion = protestant
         size = 300
     }
-
     craftsmen = {
         culture = norwegian
         religion = protestant
@@ -380,25 +330,21 @@
         religion = protestant
         size = 600
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 300
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 3300
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 450
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -412,25 +358,21 @@
         religion = protestant
         size = 600
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 375
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 3750
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 600
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -444,25 +386,21 @@
         religion = protestant
         size = 450
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 225
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 2250
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 450
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
@@ -476,25 +414,21 @@
         religion = protestant
         size = 75
     }
-
     clergymen = {
         culture = norwegian
         religion = protestant
         size = 375
     }
-
     artisans = {
         culture = norwegian
         religion = protestant
         size = 712
     }
-
     soldiers = {
         culture = norwegian
         religion = protestant
         size = 112
     }
-
     farmers = {
         culture = norwegian
         religion = protestant

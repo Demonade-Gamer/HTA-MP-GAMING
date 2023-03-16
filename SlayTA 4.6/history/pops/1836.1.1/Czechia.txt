@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 4500
+        size = 6750
     }
 
     officers = {
@@ -409,7 +409,7 @@
     bureaucrats = {
         culture = czech
         religion = catholic
-        size = 1400
+        size = 2100
     }
 
     officers = {

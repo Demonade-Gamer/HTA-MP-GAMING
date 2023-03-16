@@ -7,19 +7,16 @@
 		religion = catholic
 		size = 20
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = catholic
 		size = 30
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = catholic
 		size = 75
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = catholic

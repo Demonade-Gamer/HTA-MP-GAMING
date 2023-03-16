@@ -7,26 +7,21 @@
 		religion = sunni
 		size = 1100
 	}
-
 	bureaucrats = {
 		culture = uighur
 		religion = sunni
 		size = 250
 	}
-
 	officers = {
 		culture = uighur
 		religion = sunni
 		size = 325
 	}
-
 	clergymen = {
 		culture = uighur
 		religion = sunni
 		size = 525
 	}
-
-
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
@@ -38,75 +33,61 @@
 		religion = sunni
 		size = 2600
 	}
-
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 2525
-
+		size = 2525
 	}
-
 	farmers = {
 		culture = uighur
 		religion = sunni
 		size = 61775
 	}
-
 	aristocrats = {
 		culture = kirgiz
 		religion = animist
 		size = 225
 	}
-
 	clergymen = {
 		culture = kirgiz
 		religion = animist
 		size = 125
 	}
-
 	artisans = {
 		culture = kirgiz
 		religion = animist
 		size = 575
 	}
-
 	soldiers = {
 		culture = kirgiz
 		religion = animist
-		size= 100
-
+		size = 100
 	}
-
 	farmers = {
 		culture = kirgiz
 		religion = animist
 		size = 10975
 	}
-
 	clergymen = {
 		culture = pashtun
 		religion = sunni
 		size = 50
 	}
-
 	artisans = {
 		culture = pashtun
 		religion = sunni
 		size = 550
 	}
-
 	farmers = {
 		culture = pashtun
 		religion = sunni
 		size = 1450
 	}
-
 	clergymen = {
 		culture = turkmen
 		religion = sunni
 		size = 25
 	}
-
 	artisans = {
 		culture = turkmen
 		religion = sunni
@@ -126,63 +107,51 @@
 		religion = sunni
 		size = 150
 	}
-
 	clergymen = {
 		culture = uighur
 		religion = sunni
 		size = 300
 	}
-
 	artisans = {
 		culture = uighur
 		religion = sunni
 		size = 1500
 	}
-
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 300
-
+		size = 300
 	}
-
 	farmers = {
 		culture = uighur
 		religion = sunni
 		size = 27325
 	}
-
 	aristocrats = {
 		culture = kazak
 		religion = sunni
 		size = 100
 	}
-
 	clergymen = {
 		culture = kazak
 		religion = sunni
 		size = 50
 	}
-
 	artisans = {
 		culture = kazak
 		religion = sunni
 		size = 300
 	}
-
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 75
-
+		size = 75
 	}
-
 	farmers = {
 		culture = kazak
 		religion = sunni
 		size = 5475
 	}
-
 	aristocrats = {
 		culture = nanfaren
 		religion = sunni
@@ -194,57 +163,46 @@
 		religion = sunni
 		size = 100
 	}
-
 	clergymen = {
 		culture = nanfaren
 		religion = sunni
 		size = 20
 	}
-
 	artisans = {
 		culture = nanfaren
 		religion = sunni
 		size = 50
 	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = sunni
-		size= 10
-
+		size = 10
 	}
-
 	farmers = {
 		culture = nanfaren
 		religion = sunni
 		size = 900
 	}
-
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
 		size = 100
 	}
-
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
 		size = 50
 	}
-
 	artisans = {
 		culture = mongol
 		religion = gelugpa
 		size = 250
 	}
-
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = mongol
 		religion = gelugpa
@@ -258,119 +216,96 @@
 		religion = sunni
 		size = 125
 	}
-
 	clergymen = {
 		culture = uighur
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = uighur
 		religion = sunni
 		size = 350
 	}
-
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 75
-
+		size = 75
 	}
-
 	farmers = {
 		culture = mongol
 		religion = sunni
 		size = 6375
 	}
-
 	aristocrats = {
 		culture = kazak
 		religion = sunni
 		size = 125
 	}
-
 	clergymen = {
 		culture = kazak
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = kazak
 		religion = sunni
 		size = 350
 	}
-
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 75
-
+		size = 75
 	}
-
 	farmers = {
 		culture = kazak
 		religion = sunni
 		size = 6375
 	}
-
 	aristocrats = {
 		culture = nanfaren
 		religion = sunni
 		size = 20
 	}
-
 	clergymen = {
 		culture = nanfaren
 		religion = sunni
 		size = 20
 	}
-
 	artisans = {
 		culture = nanfaren
 		religion = sunni
 		size = 50
 	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = sunni
-		size= 10
-
+		size = 10
 	}
-
 	farmers = {
 		culture = mongol
 		religion = sunni
 		size = 900
 	}
-
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
 		size = 125
 	}
-
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
 		size = 75
 	}
-
 	artisans = {
 		culture = mongol
 		religion = gelugpa
 		size = 350
 	}
-
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size= 75
-
+		size = 75
 	}
-
 	farmers = {
 		culture = mongol
 		religion = gelugpa
@@ -384,26 +319,21 @@
 		religion = sunni
 		size = 950
 	}
-
 	clergymen = {
 		culture = uighur
 		religion = sunni
 		size = 550
 	}
-
 	artisans = {
 		culture = uighur
 		religion = sunni
 		size = 2400
 	}
-
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 550
-
+		size = 550
 	}
-
 	farmers = {
 		culture = uighur
 		religion = sunni
@@ -417,26 +347,21 @@
 		religion = sunni
 		size = 425
 	}
-
 	clergymen = {
 		culture = uighur
 		religion = sunni
 		size = 225
 	}
-
 	artisans = {
 		culture = uighur
 		religion = sunni
 		size = 1100
 	}
-
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 225
-
+		size = 225
 	}
-
 	farmers = {
 		culture = uighur
 		religion = sunni
@@ -450,82 +375,66 @@
 		religion = sunni
 		size = 850
 	}
-
 	clergymen = {
 		culture = uighur
 		religion = sunni
 		size = 425
 	}
-
 	artisans = {
 		culture = uighur
 		religion = sunni
 		size = 2150
 	}
-
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 425
-
+		size = 425
 	}
-
 	farmers = {
 		culture = uighur
 		religion = sunni
 		size = 19200
 	}
-
 	aristocrats = {
 		culture = nanfaren
 		religion = sunni
 		size = 50
 	}
-
 	clergymen = {
 		culture = nanfaren
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = nanfaren
 		religion = sunni
 		size = 150
 	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = sunni
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = mongol
 		religion = sunni
 		size = 22700
 	}
-
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
 		size = 25
 	}
-
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
 		size = 50
 	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
@@ -539,150 +448,121 @@
 		religion = sunni
 		size = 1200
 	}
-
 	clergymen = {
 		culture = mongol
 		religion = sunni
 		size = 600
 	}
-
 	artisans = {
 		culture = mongol
 		religion = sunni
 		size = 3300
 	}
-
 	soldiers = {
 		culture = mongol
 		religion = sunni
-		size= 1675
-
+		size = 1675
 	}
-
 	farmers = {
 		culture = uighur
 		religion = sunni
 		size = 20225
 	}
-
 	aristocrats = {
 		culture = nanfaren
 		religion = sunni
 		size = 125
 	}
-
 	clergymen = {
 		culture = nanfaren
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = nanfaren
 		religion = sunni
 		size = 400
 	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = sunni
-		size= 75
-
+		size = 75
 	}
-
 	farmers = {
 		culture = nanfaren
 		religion = sunni
 		size = 14325
 	}
-
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
 		size = 50
 	}
-
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
 		size = 50
 	}
-
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
 		size = 150
 	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
 		size = 10750
 	}
-
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
 		size = 25
 	}
-
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
 		size = 50
 	}
-
 	artisans = {
 		culture = mongol
 		religion = gelugpa
 		size = 100
 	}
-
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = mongol
 		religion = gelugpa
 		size = 61800
 	}
-
 	aristocrats = {
 		culture = kazak
 		religion = sunni
 		size = 75
 	}
-
 	clergymen = {
 		culture = kazak
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = kazak
 		religion = sunni
 		size = 200
 	}
-
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = kazak
 		religion = sunni
@@ -696,58 +576,46 @@
 		religion = sunni
 		size = 75
 	}
-
 	clergymen = {
 		culture = uighur
 		religion = sunni
 		size = 50
 	}
-
 	artisans = {
 		culture = uighur
 		religion = sunni
 		size = 250
 	}
-
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = uighur
 		religion = sunni
 		size = 4575
 	}
-
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
 		size = 50
 	}
-
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
 		size = 75
 	}
-
 	artisans = {
 		culture = mongol
 		religion = gelugpa
 		size = 150
 	}
-
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size= 25
-
+		size = 25
 	}
-
-
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
@@ -759,5 +627,4 @@
 		religion = gelugpa
 		size = 2450
 	}
-
 }

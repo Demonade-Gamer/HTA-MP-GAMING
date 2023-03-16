@@ -7,43 +7,36 @@
         religion = orthodox
         size = 50
     }
-
     bureaucrats = {
         culture = serb
         religion = orthodox
         size = 20
     }
-
     artisans = {
         culture = serb
         religion = orthodox
         size = 400
     }
-
     farmers = {
         culture = serb
         religion = orthodox
         size = 7550
     }
-
     clergymen = {
         culture = serb
         religion = orthodox
         size = 25
     }
-
     artisans = {
         culture = serb
         religion = orthodox
         size = 50
     }
-
     soldiers = {
         culture = serb
         religion = orthodox
         size = 550
     }
-
     farmers = {
         culture = serb
         religion = orthodox
@@ -57,49 +50,41 @@
         religion = orthodox
         size = 100
     }
-
     bureaucrats = {
         culture = serb
         religion = orthodox
         size = 50
     }
-
     artisans = {
         culture = serb
         religion = orthodox
         size = 550
     }
-
     farmers = {
         culture = serb
         religion = orthodox
         size = 11400
     }
-
     aristocrats = {
         culture = croat
         religion = protestant
         size = 250
     }
-
     clergymen = {
         culture = croat
         religion = protestant
         size = 25
     }
-
     artisans = {
         culture = croat
         religion = protestant
         size = 75
     }
-
     soldiers = {
         culture = croat
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = croat
         religion = protestant
@@ -114,37 +99,31 @@
         religion = orthodox
         size = 100
     }
-
     bureaucrats = {
         culture = serb
         religion = orthodox
         size = 100
     }
-
     officers = {
         culture = serb
         religion = orthodox
         size = 25
     }
-
     clergymen = {
         culture = serb
         religion = orthodox
         size = 275
     }
-
     artisans = {
         culture = serb
         religion = orthodox
         size = 1300
     }
-
     soldiers = {
         culture = serb
         religion = orthodox
         size = 550
     }
-
     farmers = {
         culture = serb
         religion = orthodox
@@ -160,43 +139,36 @@
         religion = orthodox
         size = 75
     }
-
     artisans = {
         culture = serb
         religion = orthodox
         size = 250
     }
-
     farmers = {
         culture = serb
         religion = orthodox
         size = 8175
     }
-
     aristocrats = {
         culture = croat
         religion = protestant
         size = 250
     }
-
     clergymen = {
         culture = croat
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = croat
         religion = protestant
         size = 400
     }
-
     soldiers = {
         culture = croat
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = croat
         religion = protestant
@@ -212,61 +184,51 @@
         religion = protestant
         size = 50
     }
-
     farmers = {
         culture = croat
         religion = protestant
         size = 3900
     }
-
     artisans = {
         culture = croat
         religion = protestant
         size = 440
     }
-
     soldiers = {
         culture = croat
         religion = protestant
         size = 550
     }
-
     aristocrats = {
         culture = north_italian
         religion = catholic
         size = 200
     }
-
     artisans = {
         culture = north_italian
         religion = catholic
         size = 1100
     }
-
     soldiers = {
         culture = north_italian
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = north_italian
         religion = catholic
         size = 700
     }
-
     clergymen = {
         culture = serb
         religion = orthodox
         size = 100
     }
-
     soldiers = {
         culture = serb
         religion = orthodox
         size = 550
     }
-
     farmers = {
         culture = serb
         religion = orthodox

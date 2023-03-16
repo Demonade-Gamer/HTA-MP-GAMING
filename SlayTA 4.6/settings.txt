@@ -6,7 +6,7 @@ graphics=
 {
 
 refreshRate=60
-fullScreenn=no
+fullScreen=no
 borderless=yes
 shadows=no
 shadowSize=2048

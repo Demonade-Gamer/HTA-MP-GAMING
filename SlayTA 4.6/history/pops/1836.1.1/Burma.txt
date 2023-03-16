@@ -7,54 +7,45 @@
 		religion = theravada
 		size = 200
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 250
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1200
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 250
-
+		size = 250
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 22000
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 850
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 5500
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 2100
+		size = 2100
 	}
 	
 	farmers = {
@@ -62,39 +53,31 @@
 		religion = theravada
 		size = 44550
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 400
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 425
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 2150
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 700
-
+		size = 700
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 700
-
+		size = 700
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
@@ -108,54 +91,45 @@
 		religion = theravada
 		size = 600
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 2700
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 49775
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 1100
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 3000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1800
+		size = 1800
 	}
 	
 	farmers = {
@@ -171,54 +145,45 @@
 		religion = theravada
 		size = 300
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 425
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1800
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 400
-
+		size = 400
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 34200
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 9500
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 2000
+		size = 2000
 	}
 	
 	farmers = {
@@ -226,50 +191,41 @@
 		religion = theravada
 		size = 38540
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	bureaucrats = {
 		culture = burmese
 		religion = theravada
 		size = 400
 	}
-
 	officers = {
 		culture = burmese
 		religion = theravada
 		size = 300
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 2500
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1500
-
+		size = 1500
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1100
+		size = 1100
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
@@ -283,38 +239,31 @@
 		religion = theravada
 		size = 300
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 325
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1600
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 350
-
+		size = 350
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 29425
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
@@ -344,25 +293,21 @@
 		religion = theravada
 		size = 550
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 2250
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1800
+		size = 1800
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 38750
 	}
-
 }
 #Kyaukse Region (1072000)
 #Under rule of Burma in 1836
@@ -373,94 +318,76 @@
 		religion = theravada
 		size = 550
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 2400
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 3000
-
+		size = 3000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 39600
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = animist
 		size = 50
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = burmese
 		religion = animist
 		size = 250
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = animist
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = burmese
 		religion = animist
 		size = 5600
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 75
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 75
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 350
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 75
+		size = 75
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
@@ -474,76 +401,61 @@
 		religion = theravada
 		size = 1150
 	}
-
 	bureaucrats = {
 		culture = burmese
 		religion = theravada
 		size = 425
 	}
-
 	officers = {
 		culture = burmese
 		religion = theravada
 		size = 300
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 1125
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 5500
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 3000
-
+		size = 3000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 100500
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 50
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 50
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 250
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
@@ -557,25 +469,21 @@
 		religion = theravada
 		size = 325
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 600
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 3000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 2200
+		size = 2200
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
@@ -589,32 +497,26 @@
 		religion = theravada
 		size = 625
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 625
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 3000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1500
-
+		size = 1500
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 54850
 	}
-
 }
 #Shan Region (680000)
 #Under Burma rule 1836
@@ -625,80 +527,66 @@
 		religion = theravada
 		size = 900
 	}
-
 	bureaucrats = {
 		culture = burmese
 		religion = theravada
 		size = 225
 	}
-
 	officers = {
 		culture = burmese
 		religion = theravada
 		size = 175
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 850
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 4250
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 2850
+		size = 2850
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 74750
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 150
 	}
-
 	bureaucrats = {
 		culture = burmese
 		religion = theravada
 		size = 100
 	}
-
 	officers = {
 		culture = burmese
 		religion = theravada
 		size = 25
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 200
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1100
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 225
-
+		size = 225
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
@@ -712,88 +600,71 @@
 		religion = theravada
 		size = 550
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 550
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 2500
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 550
-
+		size = 550
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 46000
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = animist
 		size = 100
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = animist
 		size = 100
 	}
-
 	artisans = {
 		culture = burmese
 		religion = animist
 		size = 550
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = animist
-		size= 150
-
+		size = 150
 	}
-
 	farmers = {
 		culture = burmese
 		religion = animist
 		size = 10100
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 75
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 350
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 100
-
+		size = 100
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 6475
 	}
-
 }
 #Kachin Region (868000)
 #Under rule of Burma 1836
@@ -804,54 +675,45 @@
 		religion = theravada
 		size = 90
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 90
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 350
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 6650
 	}
-
 	aristocrats = {
 		culture = burmese #Chin
 		religion = animist
 		size = 300
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = animist
 		size = 300
 	}
-
 	artisans = {
 		culture = burmese
 		religion = animist
 		size = 2000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = animist
-		size= 300
+		size = 300
 	}
 	
 	farmers = {
@@ -859,31 +721,26 @@
 		religion = animist
 		size = 2500
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = animist
 		size = 75
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = animist
 		size = 350
 	}
-
 	artisans = {
 		culture = burmese
 		religion = animist
 		size = 800
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = animist
-		size= 200
+		size = 200
 	}
-
 	farmers = {
 		culture = burmese
 		religion = animist
@@ -897,26 +754,21 @@
 		religion = animist
 		size = 550
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = animist
 		size = 550
 	}
-
 	artisans = {
 		culture = burmese
 		religion = animist
 		size = 2500
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = animist
-		size= 550
-
+		size = 550
 	}
-
 	farmers = {
 		culture = burmese
 		religion = animist
@@ -930,107 +782,86 @@
 		religion = animist
 		size = 400
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = animist
 		size = 400
 	}
-
 	artisans = {
 		culture = burmese
 		religion = animist
 		size = 2000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = animist
-		size= 400
-
+		size = 400
 	}
-
 	farmers = {
 		culture = burmese
 		religion = animist
 		size = 37800
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 250
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 250
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1200
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 250
-
+		size = 250
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 21050
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 300
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 300
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1350
 	}
-
 	bureaucrats = {
 		culture = burmese
 		religion = theravada
 		size = 100
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 3000
-
+		size = 3000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 20950
 	}
-
 }
 #Tenasserim Region - 604000
 #Under rule of Britain 1836
@@ -1041,63 +872,51 @@
 		religion = theravada
 		size = 400
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 350
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1100
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 900
-
+		size = 900
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 30950
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 300
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 275
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 4500
 	}
-
 	bureaucrats = {
 		culture = burmese
 		religion = theravada
 		size = 300
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 450
-
+		size = 450
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
@@ -1111,190 +930,153 @@
 		religion = theravada
 		size = 400
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 375
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1100
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 400
-
+		size = 400
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 34825
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 100
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 200
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 1250
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 200
-
+		size = 200
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 17250
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 350
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 300
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 2000
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 300
-
+		size = 300
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 24050
 	}
-
 }
 #Arakan Region : 176000
 #Sittwe (176000/44000 POPS)
 1345 = {
-
 	aristocrats = {
 		culture = burmese
 		religion = sunni
 		size = 100
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = sunni
 		size = 125
 	}
-
 	artisans = {
 		culture = burmese
 		religion = sunni
 		size = 2750
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = sunni
-		size= 150
-
+		size = 150
 	}
-
 	farmers = {
 		culture = burmese
 		religion = sunni
 		size = 11875
 	}
-
 	aristocrats = {
 		culture = burmese
 		religion = theravada
 		size = 250
 	}
-
 	bureaucrats = {
 		culture = burmese
 		religion = theravada
 		size = 50
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = theravada
 		size = 375
 	}
-
 	artisans = {
 		culture = burmese
 		religion = theravada
 		size = 6250
 	}
-
 	soldiers = {
 		culture = burmese
 		religion = theravada
-		size= 1250
-
+		size = 1250
 	}
-
 	farmers = {
 		culture = burmese
 		religion = theravada
 		size = 28825
 	}
-
 	clergymen = { 
 		culture = burmese #Chin
 		religion = animist
 		size = 25
 	}
-
 	farmers = {
 		culture = burmese
 		religion = animist
 		size = 950
 	}
-
 	clergymen = {
 		culture = burmese
 		religion = sunni
 		size = 50
 	}
-
 	farmers = {
 		culture = burmese
 		religion = sunni
 		size = 1950
 	}
-
 }
-

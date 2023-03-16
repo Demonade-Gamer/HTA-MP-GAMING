@@ -7,32 +7,26 @@
 		religion = animist
 		size = 1750
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 1100
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 4000
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 72250
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -46,32 +40,26 @@
 		religion = animist
 		size = 750
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 550
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 1750
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
-		size= 550
-
+		size = 550
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 26500
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -91,32 +79,26 @@
 		religion = animist
 		size = 400
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 750
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 3250
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 53500
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -131,26 +113,21 @@
 		religion = animist
 		size = 125
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 350
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
-		size= 75
-
+		size = 75
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
@@ -164,30 +141,24 @@
 		religion = animist
 		size = 150
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 400
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
-		size= 75
-
+		size = 75
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 7300
 	}
-
 }

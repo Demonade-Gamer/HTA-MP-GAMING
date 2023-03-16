@@ -7,49 +7,41 @@
 		religion = catholic
 		size = 300
 	}
-
 	clergymen = {
 		culture = caribeno
 		religion = catholic
 		size = 125
 	}
-
 	artisans = {
 		culture = caribeno
 		religion = catholic
 		size = 350
 	}
-
 	soldiers = {
 		culture = caribeno
 		religion = catholic
 		size = 75
 	}
-
 	farmers = {
 		culture = caribeno
 		religion = catholic
 		size = 6150
 	}
-
 	clergymen = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
-
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 550
 	}
-
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 100
 	}
-
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
@@ -63,53 +55,44 @@
 		religion = catholic
 		size = 250
 	}
-
 	clergymen = {
 		culture = caribeno
 		religion = catholic
 		size = 100
 	}
-
 	artisans = {
 		culture = caribeno
 		religion = catholic
 		size = 400
 	}
-
 	soldiers = {
 		culture = caribeno
 		religion = catholic
 		size = 75
 	}
-
 	farmers = {
 		culture = caribeno
 		religion = catholic
 		size = 7175
 	}
-
 	clergymen = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 50
 	}
-
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 300
 	}
-
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 75
 	}
-
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 5575
 	}
-
 }

@@ -7,25 +7,21 @@
         religion = catholic
         size = 10
     }
-
     clergymen = {
         culture = spanish
         religion = catholic
         size = 25
     }
-
     soldiers = {
         culture = spanish
         religion = catholic
         size = 20
     }
-
     artisans = {
         culture = spanish
         religion = catholic
         size = 50
     }
-
     farmers = {
         culture = spanish
         religion = catholic
@@ -39,7 +35,6 @@
         religion = protestant
         size = 10
     }
-
     farmers = {
         culture = dutch
         religion = protestant

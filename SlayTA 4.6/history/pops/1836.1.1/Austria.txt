@@ -7,49 +7,41 @@
         religion = catholic
         size = 750
     }
-
     bureaucrats = {
         culture = south_german
         religion = catholic
         size = 2750
     }
-
     officers = {
         culture = south_german
         religion = catholic
         size = 1250
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 2750
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     craftsmen = {
         culture = south_german
         religion = catholic
         size = 20000
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -63,25 +55,21 @@
         religion = catholic
         size = 450
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 650
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 3250
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -95,31 +83,26 @@
         religion = catholic
         size = 400
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 300
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 1500
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 24700
     }
-
     farmers = {
         culture = romansh
         religion = catholic
@@ -133,25 +116,21 @@
         religion = catholic
         size = 175
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 125
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 600
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -167,37 +146,31 @@
         religion = catholic
         size = 1550
     }
-
     bureaucrats = {
         culture = south_german
         religion = catholic
         size = 2850
     }
-
     officers = {
         culture = south_german
         religion = catholic
         size = 275
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 1025
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 11000
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -211,31 +184,26 @@
         religion = catholic
         size = 700
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 450
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 2250
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -249,49 +217,41 @@
         religion = catholic
         size = 450
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 325
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 1550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 25675
     }
-
     clergymen = {
         culture = slovene
         religion = catholic
         size = 175
     }
-
     artisans = {
         culture = slovene
         religion = catholic
         size = 950
     }
-
     soldiers = {
         culture = slovene
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = slovene
         religion = catholic
@@ -307,127 +267,106 @@
         religion = catholic
         size = 4250
     }
-
     craftsmen = {
         culture = south_german
         religion = catholic
         size = 35000
     }
-
     clerks = {
         culture = south_german
         religion = catholic
         size = 5500
     }
-
     bureaucrats = {
         culture = south_german
         religion = catholic
         size = 6200
     }
-
     officers = {
         culture = south_german
         religion = catholic
         size = 600
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 2750
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 11000
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 11000
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 11000
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 11000
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 5500
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 175550
     }
-
     clergymen = {
         culture = czech
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = czech
         religion = catholic
         size = 5950
     }
-
     clergymen = {
         culture = hungarian
         religion = catholic
         size = 20
     }
-
     artisans = {
         culture = hungarian
         religion = catholic
         size = 980
     }
-
     clergymen = {
         culture = south_german
         religion = jewish
         size = 5
     }
-
     artisans = {
         culture = south_german
         religion = jewish
@@ -441,25 +380,21 @@
         religion = catholic
         size = 375
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 250
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 1200
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -473,25 +408,21 @@
         religion = catholic
         size = 925
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 625
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 3100
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -505,43 +436,36 @@
         religion = catholic
         size = 2300
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 3200
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 7650
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
@@ -557,67 +481,56 @@
         religion = catholic
         size = 700
     }
-
     clergymen = {
         culture = south_german
         religion = catholic
         size = 475
     }
-
     artisans = {
         culture = south_german
         religion = catholic
         size = 2450
     }
-
     soldiers = {
         culture = south_german
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 33000
     }
-
     farmers = {
         culture = croat
         religion = protestant
         size = 7375
     }
-
     clergymen = {
         culture = hungarian
         religion = catholic
         size = 60
     }
-
     soldiers = {
         culture = hungarian
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = hungarian
         religion = catholic
         size = 2765
     }
-
     clergymen = {
         culture = hungarian
         religion = protestant
         size = 35
     }
-
     soldiers = {
         culture = hungarian
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = hungarian
         religion = protestant

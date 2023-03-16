@@ -13,55 +13,46 @@
 		religion = catholic
 		size = 250
 	}
-
 	clergymen = {
 		culture = south_german
 		religion = catholic
 		size = 50 
 	}
-
 	artisans = {
 		culture = south_german
 		religion = catholic
 		size = 1100
 	}
-
 	soldiers = {
 		culture = south_german
 		religion = catholic
 		size = 50 
 	}
-
 	farmers = {
 		culture = south_german
 		religion = catholic
 		size = 3150
 	}
-
 	clergymen = {
 		culture = slovene
 		religion = catholic
 		size = 450
 	}
-
 	artisans = {
 		culture = slovene
 		religion = catholic
 		size = 1600
 	}
-
 	soldiers = {
 		culture = slovene
 		religion = catholic
 		size = 450 
 	}
-
 	farmers = {
 		culture = slovene
 		religion = catholic
 		size = 42500
 	}
-
 	farmers = {
 		culture = hungarian
 		religion = catholic
@@ -73,7 +64,6 @@
 #under the rule of Austria in 1836  
 #Ljubljana (280000/70000 POPS) 
 768 = {
-
 	aristocrats = {
 		culture = south_german
 		religion = catholic
@@ -85,67 +75,56 @@
 		religion = catholic
 		size = 50
 	}
-
 	clergymen = {
 		culture = south_german
 		religion = catholic
 		size = 25 
 	}
-
 	artisans = {
 		culture = south_german
 		religion = catholic
 		size = 200
 	}
-
 	soldiers = {
 		culture = south_german
 		religion = catholic
 		size = 50 
 	}
-
 	farmers = {
 		culture = south_german
 		religion = catholic
 		size = 1050
 	}
-
 	aristocrats = {
 		culture = slovene
 		religion = catholic
 		size = 825
 	}
-
 	bureaucrats = {
 		culture = slovene
 		religion = catholic
 		size = 225
 	}
-
 	officers = {
 		culture = slovene
 		religion = catholic
 		size = 100
 	}
-
 	clergymen = {
 		culture = slovene
 		religion = catholic
 		size = 700
 	}
-
 	artisans = {
 		culture = slovene
 		religion = catholic
 		size = 4000
 	}
-
 	soldiers = {
 		culture = slovene
 		religion = catholic
 		size = 1100
 	}
-
 	farmers = {
 		culture = slovene
 		religion = catholic
@@ -159,41 +138,34 @@
 		religion = catholic
 		size = 550
 	}
-
 	clergymen = {
 		culture = slovene
 		religion = catholic
 		size = 425
 	}
-
 	artisans = {
 		culture = slovene
 		religion = catholic
 		size = 2100
 	}
-
 	soldiers = {
 		culture = slovene
 		religion = catholic
 		size = 425
 	}
-
 	farmers = {
 		culture = slovene
 		religion = catholic
 		size = 39575
 	}
-
 	clergymen = {
 		culture = south_german
 		religion = catholic
 		size = 25
 	}
-
 	farmers = {
 		culture = south_german
 		religion = catholic
 		size = 1975
 	}
-
 }

@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = mellomsk
         religion = protestant
-        size = 337
+        size = 1179
     }
 
     officers = {
@@ -489,7 +489,7 @@
     bureaucrats = {
         culture = mellomsk
         religion = protestant
-        size = 225
+        size = 787
     }
 
     officers = {
@@ -675,7 +675,7 @@
     bureaucrats = {
         culture = mellomsk
         religion = protestant
-        size = 150
+        size = 525
     }
 
     officers = {
@@ -1043,7 +1043,7 @@
     bureaucrats = {
         culture = mellomsk
         religion = protestant
-        size = 37
+        size = 129
     }
 
     officers = {

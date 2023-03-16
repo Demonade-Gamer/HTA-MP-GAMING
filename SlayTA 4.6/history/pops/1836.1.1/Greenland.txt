@@ -7,19 +7,16 @@
 		religion = protestant
 		size = 25
 	}
-
 	clergymen = {
 		culture = icelandic
 		religion = protestant
 		size = 15
 	}
-
 	artisans = {
 		culture = icelandic
 		religion = protestant
 		size = 15
 	}
-
 	farmers = {
 		culture = shawnee
 		religion = protestant
@@ -33,13 +30,11 @@
 		religion = protestant
 		size = 4
 	}
-
 	artisans = {
 		culture = icelandic
 		religion = protestant
 		size = 4
 	}
-
 	farmers = {
 		culture = shawnee
 		religion = protestant

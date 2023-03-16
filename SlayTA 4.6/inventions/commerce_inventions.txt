@@ -441,7 +441,8 @@ nassau_william_sr = {
 		}
 	}
 	effect = {
-		activate_building = paper_mill 
+		activate_building = paper_mill
+		activate_building = lumber_mill 		
 	}
 }
 james_mill = {

@@ -7,127 +7,106 @@
 		religion = catholic
 		size = 150
 	}
-
 	clergymen = {
 		culture = portuguese
 		religion = catholic
 		size = 50
 	}
-
 	bureaucrats = {
 		culture = portuguese
 		religion = catholic
 		size = 50
 	}
-
 	artisans = {
 		culture = portuguese
 		religion = catholic
 		size = 550
 	}
-
 	soldiers = {
 		culture = portuguese
 		religion = catholic
 		size = 50
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = catholic
 		size = 50
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = catholic
 		size = 150
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = catholic
 		size = 3000
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = catholic
 		size = 250
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = catholic
 		size = 11550
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 100
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 100
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 550
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 100
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 5200
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 7000
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 100
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 100
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 100
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 100
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 7600
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -142,97 +121,81 @@
 		religion = catholic
 		size = 100
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = catholic
 		size = 50
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = catholic
 		size = 400
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = catholic
 		size = 100
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = catholic
 		size = 7350
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 200
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 150
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 1100
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 1200
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 12450
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 4000
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 200
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 150
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 700
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 200
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 13250
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -246,37 +209,31 @@
 		religion = animist
 		size = 300
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 250
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 1200
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 300
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 21950
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 6000
 	}
-
 }
 #Congo Region (116000) #see Congo-Zaire.txt for balance of region 
 #uncolonized in 1836/tradepost for Portugal
@@ -287,74 +244,61 @@
 		religion = animist
 		size = 125
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 350
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 6375
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 5500
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = catholic
 		size = 425
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = catholic
 		size = 225
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = catholic
 		size = 900
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = catholic
 		size = 225
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = catholic
 		size = 15225
 	}
-
 }
-
 #Angola - Mbundu (440000)
 #Brand new Norwegian colony in 1836
 #Benguela (116000/29000 POPS)
 2003 = {
-
 	aristocrats = {
 		culture = norwegian
 		religion = protestant
@@ -384,31 +328,26 @@
 		religion = animist
 		size = 300
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 300
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 1500
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 300
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 20800
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -417,7 +356,6 @@
 }
 #Mocamedes (116000/29000 POPS)
 2004 = {
-
 	aristocrats = {
 		culture = norwegian
 		religion = protestant
@@ -447,31 +385,26 @@
 		religion = animist
 		size = 300
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 600
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 750
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 300
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 21250
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -485,37 +418,31 @@
 		religion = animist
 		size = 600
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 550
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 2600
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 600
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 36650
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 11000
 	}
-
 }
 #Angola - Bihe (264000)
 #Uncolonized in 1836
@@ -526,31 +453,26 @@
 		religion = animist
 		size = 350
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 350
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 1800
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 400
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 26700
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -564,67 +486,56 @@
 		religion = animist
 		size = 50
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 2400
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 1350
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 175
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 175
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 800
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 200
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 11450
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -638,73 +549,61 @@
 		religion = animist
 		size = 30
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 60
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 30
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 2205
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 600
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 300
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 4275
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 1250
 	}
-
 }
 #Angola - Kwango (232000)
 #Uncolonized in 1836
@@ -715,103 +614,86 @@
 		religion = animist
 		size = 75
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 250
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 4350
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 1200
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 30
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 60
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 75
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 60
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 2175
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 600
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 25
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 100
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 25
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 1400
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -825,67 +707,56 @@
 		religion = animist
 		size = 250
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 250
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 1250
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 250
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 14000
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 8000
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 200
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 2850
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
@@ -899,71 +770,59 @@
 		religion = animist
 		size = 150
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 125
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 750
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 150
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 8125
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 4700
 	}
-
 	aristocrats = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	clergymen = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = yoruba
 		religion = animist
 		size = 250
 	}
-
 	soldiers = {
 		culture = yoruba
 		religion = animist
 		size = 50
 	}
-
 	farmers = {
 		culture = yoruba
 		religion = animist
 		size = 3600
 	}
-
 	slaves = {
 		culture = yoruba
 		religion = animist
 		size = 1100
 	}
-
 }

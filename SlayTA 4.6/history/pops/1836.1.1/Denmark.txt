@@ -37,7 +37,7 @@
     bureaucrats = {
         culture = danish
         religion = protestant
-        size = 525
+        size = 787
     }
 
     officers = {
@@ -196,7 +196,7 @@
     bureaucrats = {
         culture = danish
         religion = protestant
-        size = 300
+        size = 450
     }
 
     clergymen = {
@@ -327,7 +327,7 @@
     bureaucrats = {
         culture = danish
         religion = protestant
-        size = 750
+        size = 1125
     }
 
     officers = {

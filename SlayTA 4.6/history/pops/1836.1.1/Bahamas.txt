@@ -1,3 +1,4 @@
+
 #The Bahamas Region - 23000
 #Ruled by Aengland 1836
 #The Bahamas (20000/5000 POPS)
@@ -7,55 +8,46 @@
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = afro_caribbean
         religion = catholic
         size = 100
     }
-
     soldiers = {
         culture = afro_caribbean
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = afro_caribbean
         religion = catholic
         size = 4050
     }
-
     aristocrats = {
         culture = aenglisc
         religion = catholic
         size = 15
     }
-
     bureaucrats = {
         culture = aenglisc
         religion = catholic
         size = 10
     }
-
     clergymen = {
         culture = aenglisc
         religion = catholic
         size = 15
     }
-
     artisans = {
         culture = aenglisc
         religion = catholic
         size = 150
     }
-
     soldiers = {
         culture = aenglisc
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = aenglisc
         religion = catholic
@@ -70,31 +62,26 @@
         religion = protestant
         size = 10
     }
-
     clergymen = {
         culture = afro_caribbean
         religion = protestant
         size = 50
     }
-
     artisans = {
         culture = afro_caribbean
         religion = protestant
         size = 100
     }
-
     soldiers = {
         culture = afro_caribbean
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = norwegian
         religion = protestant
         size = 150
     }
-
     farmers = {
         culture = afro_caribbean
         religion = protestant

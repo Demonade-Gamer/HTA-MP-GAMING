@@ -7,26 +7,21 @@
 		religion = animist
 		size = 225
 	}
-
 	clergymen = {
 		culture = malay
 		religion = animist
 		size = 125
 	}
-
 	artisans = {
 		culture = malay
 		religion = animist
 		size = 600
 	}
-
 	soldiers = {
 		culture = malay
 		religion = animist
-		size= 125
-
+		size = 125
 	}
-
 	farmers = {
 		culture = malay
 		religion = animist
@@ -40,26 +35,21 @@
 		religion = animist
 		size = 25
 	}
-
 	clergymen = {
 		culture = malay
 		religion = animist
 		size = 35
 	}
-
 	artisans = {
 		culture = malay
 		religion = animist
 		size = 75
 	}
-
 	soldiers = {
 		culture = malay
 		religion = animist
-		size= 15
-
+		size = 15
 	}
-
 	farmers = {
 		culture = malay
 		religion = animist

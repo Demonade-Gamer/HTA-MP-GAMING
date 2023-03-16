@@ -7677,7 +7677,7 @@
     bureaucrats = {
         culture = marathi
         religion = catholic
-        size = 10
+        size = 35
     }
 
     clergymen = {

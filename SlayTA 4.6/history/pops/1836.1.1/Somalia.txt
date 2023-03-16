@@ -8,44 +8,36 @@
 		religion = sunni
 		size = 1050
 	}
-
 	bureaucrats = {
 		culture = amhara
 		religion = sunni
 		size = 100
 	}
-
 	officers = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 550
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 2175
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 1125
-
+		size = 1125
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 43000
 	}
-
 	slaves = {
 		culture = amhara
 		religion = animist
@@ -59,63 +51,51 @@
 		religion = sunni
 		size = 275
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 150
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 650
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 150
-
+		size = 150
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 13775
 	}
-
 	aristocrats = {
 		culture = amhara
 		religion = animist
 		size = 75
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = animist
 		size = 50
 	}
-
 	artisans = {
 		culture = amhara
 		religion = animist
 		size = 250
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = animist
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = amhara
 		religion = animist
 		size = 4575
 	}
-
 	slaves = {
 		culture = amhara
 		religion = animist
@@ -130,26 +110,21 @@
 		religion = sunni
 		size = 450
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 225
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 1150
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 1175
-
+		size = 1175
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
@@ -165,32 +140,26 @@
 		religion = sunni
 		size = 350
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 175
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 775
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 200
-
+		size = 200
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 15500
 	}
-
 	slaves = {
 		culture = amhara
 		religion = animist
@@ -204,44 +173,36 @@
 		religion = sunni
 		size = 540
 	}
-
 	bureaucrats = {
 		culture = amhara
 		religion = sunni
 		size = 50
 	}
-
 	officers = {
 		culture = amhara
 		religion = sunni
 		size = 50
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 275
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 1175
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 1100
-
+		size = 1100
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 20950
 	}
-
 	slaves = {
 		culture = amhara
 		religion = animist
@@ -257,50 +218,41 @@
 		religion = sunni
 		size = 890
 	}
-
 	bureaucrats = {
 		culture = amhara
 		religion = sunni
 		size = 10
 	}
-
 	officers = {
 		culture = amhara
 		religion = sunni
 		size = 50
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 450
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 1850
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 1750
-
+		size = 1750
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 32000
 	}
-
 	slaves = {
 		culture = amhara
 		religion = animist
 		size = 7000
 	}
-
 	slaves = {
 		culture = amhara
 		religion = animist
@@ -314,26 +266,21 @@
 		religion = sunni
 		size = 150
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 400
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 75
-
+		size = 75
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
@@ -347,61 +294,49 @@
 		religion = sunni
 		size = 50
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 150
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 25
-
+		size = 25
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 2700
 	}
-
 	aristocrats = {
 		culture = amhara
 		religion = sunni
 		size = 50
 	}
-
 	clergymen = {
 		culture = amhara
 		religion = sunni
 		size = 75
 	}
-
 	artisans = {
 		culture = amhara
 		religion = sunni
 		size = 200
 	}
-
 	soldiers = {
 		culture = amhara
 		religion = sunni
-		size= 50
-
+		size = 50
 	}
-
 	farmers = {
 		culture = amhara
 		religion = sunni
 		size = 3625
 	}
-
 }

@@ -74,6 +74,61 @@ army = {
 }
 
 army = {
+	name = "2nd Army of Hayastan"
+	location = 873
+	regiment = {
+		name= "1-5 Hayastan Guard"
+		type = infantry
+		home = 873
+	}
+	regiment = {
+		name= "1-6 Hayastan Guard"
+		type = infantry
+		home = 873
+	}
+	regiment = {
+		name= "1-7 Hayastan Guard"
+		type = infantry
+		home = 877
+	}
+	regiment = {
+		name= "1-8 Hayastan Guard"
+		type = infantry
+		home = 877
+	}
+	regiment = {
+		name= "2-3 Hayastan Guard"
+		type = hussar
+		home = 878
+	}
+	regiment = {
+		name= "2-1 Artillery Division"
+		type = artillery
+		home = 878
+	}
+	regiment = {
+		name= "2-2 Artillery Division"
+		type = artillery
+		home = 879
+	}
+	regiment = {
+		name= "2-3 Artillery Division"
+		type = artillery
+		home = 879
+	}
+	regiment = {
+		name= "2-4 Artillery Division"
+		type = artillery
+		home = 894
+	}
+	regiment = {
+		name= "2-5 Artillery Division"
+		type = artillery
+		home = 882
+	}
+}
+
+army = {
 	name = "Army of Trapizon"
 	location = 895
 	regiment = {

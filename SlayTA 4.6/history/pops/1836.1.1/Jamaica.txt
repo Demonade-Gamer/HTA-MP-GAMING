@@ -7,55 +7,46 @@
         religion = protestant
         size = 100
     }
-
     bureaucrats = {
         culture = dutch
         religion = protestant
         size = 170
     }
-
     clergymen = {
         culture = dutch
         religion = protestant
         size = 75
     }
-
     artisans = {
         culture = dutch
         religion = protestant
         size = 2500
     }
-
     soldiers = {
         culture = dutch
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = dutch
         religion = protestant
         size = 2190
     }
-
     clergymen = {
         culture = afro_caribbean
         religion = protestant
         size = 625
     }
-
     artisans = {
         culture = afro_caribbean
         religion = protestant
         size = 2000
     }
-
     soldiers = {
         culture = afro_caribbean
         religion = protestant
         size = 550
     }
-
     farmers = {
         culture = afro_caribbean
         religion = protestant
@@ -69,13 +60,11 @@
         religion = protestant
         size = 5
     }
-
     artisans = {
         culture = afro_caribbean
         religion = protestant
         size = 15
     }
-
     farmers = {
         culture = afro_caribbean
         religion = protestant

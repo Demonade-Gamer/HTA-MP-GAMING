@@ -7,35 +7,29 @@
 		religion = catholic
 		size = 250
 	}
-
 	clergymen = {
 		culture = meikan
 		religion = catholic
 		size = 150
 	}
-
 	artisans = {
 		culture = afro_caribbean
 		religion = catholic
 		size = 1100
 	}
-
 	soldiers = {
 		culture = meikan
 		religion = catholic
-		size= 100
+		size = 100
 	}
-
 	farmers = {
 		culture = afro_caribbean
 		religion = catholic
 		size = 4000
 	}
-
 	farmers = {
 		culture = meikan
 		religion = catholic
 		size = 11000
 	}
-
 }

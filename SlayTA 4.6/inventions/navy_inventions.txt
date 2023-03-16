@@ -468,7 +468,7 @@ steamer_automatic_construction_plants = {
 steamer_transports = {
 	limit = { steamers = 1 }
 	chance = {
-		base = 5
+		base = 100
 		modifier = {
 			factor = 2
 			mechanical_production = 1
@@ -485,7 +485,7 @@ steamer_transports = {
 commerce_raiders = {
 	limit = { steamers = 1 }
 	chance = {
-		base = 10
+		base = 100
 		modifier = {
 			factor = 10
 			fire_control_systems = 1
@@ -523,7 +523,7 @@ commerce_raiders = {
 ironclads = {
 	limit = { iron_steamers = 1 }
 	chance = {
-		base = 1
+		base = 100
 		modifier = {
 			factor = 4
 			invention = monitors
@@ -556,7 +556,7 @@ ironclads = {
 monitors = {
 	limit = { iron_steamers = 1 }
 	chance = {
-		base = 1
+		base = 100
 		modifier = {
 			factor = 4
 			invention = ironclads
@@ -589,7 +589,7 @@ monitors = {
 torpedo_boats = {
 	limit = { iron_steamers = 1 }
 	chance = {
-		base = 1
+		base = 10
 		modifier = {
 			factor = 59
 			invention = self_propelled_torpedoes
@@ -618,7 +618,7 @@ torpedo_boats = {
 protected_cruisers = {
 	limit = { steel_steamers = 1 }
 	chance = {
-		base = 1
+		base = 100
 		modifier = {
 			factor = 2
 			cheap_steel = 1
@@ -687,7 +687,7 @@ protected_cruisers = {
 pre_dreadnought = {
 	limit = { steel_steamers = 1 }
 	chance = {
-		base = 1
+		base = 100
 		modifier = {
 			factor = 2
 			cheap_steel = 1
@@ -737,7 +737,7 @@ pre_dreadnought = {
 dreadnoughts = {
 	limit = { steam_turbine_ships = 1 }
 	chance = {
-		base = 1
+		base = 100
 		modifier = {
 			factor = 4
 			electric_furnace = 1
@@ -782,7 +782,7 @@ dreadnoughts = {
 light_cruisers = {
 	limit = { steam_turbine_ships = 1 }
 	chance = {
-		base = 5
+		base = 100
 		modifier = {
 			factor = 2
 			invention = ironclads
@@ -847,7 +847,7 @@ light_cruisers = {
 advanced_cruisers = {
 	limit = { oil_driven_ships = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			naval_directionism = 1
@@ -869,7 +869,7 @@ advanced_cruisers = {
 modern_cruisers = {
 	limit = { oil_driven_ships = 1 }
 	chance = {
-		base = 1
+		base = 100
 		modifier = {
 			factor = 2
 			invention = advanced_cruisers
@@ -907,7 +907,7 @@ modern_cruisers = {
 advanced_battleships = {
 	limit = { oil_driven_ships = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = dreadnoughts
@@ -936,7 +936,7 @@ advanced_battleships = {
 modern_battleships = {
 	limit = { oil_driven_ships = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = advanced_battleships
@@ -1021,7 +1021,7 @@ modern_battleships = {
 optical_rangefinders = {
 	limit = { fire_control_systems = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 1
 			mechanical_production = 1
@@ -1046,7 +1046,7 @@ optical_rangefinders = {
 gyrostabilized_fire_control = {
 	limit = { fire_control_systems = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 1
 			naval_professionalism = 1
@@ -1089,7 +1089,7 @@ torpedo_gyroscope = {
 rifled_guns = {
 	limit = { weapon_platforms = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = precision_work
@@ -1123,7 +1123,7 @@ self_propelled_torpedoes = {
 		year = 1860 
 	}
 	chance = {
-		base = 0
+		base = 60
 		modifier = {
 			factor = 10
 			invention = torpedo_gyroscope
@@ -1148,7 +1148,7 @@ self_propelled_torpedoes = {
 armour_piercing_projectiles = {
 	limit = { weapon_platforms = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 1
 			iron_breech_loaded_artillery = 1
@@ -1173,7 +1173,7 @@ armour_piercing_projectiles = {
 armour_piercing_exploding_projectiles = {
 	limit = { weapon_platforms = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = armour_piercing_projectiles
@@ -1199,7 +1199,7 @@ armour_piercing_exploding_projectiles = {
 armoured_turrets = {
 	limit = { weapon_platforms = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = ironclads
@@ -1239,7 +1239,7 @@ armoured_turrets = {
 bomb_guns = {
 	limit = { main_armament = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = armour_piercing_exploding_projectiles
@@ -1270,7 +1270,7 @@ bomb_guns = {
 quick_firing_guns = {
 	limit = { main_armament = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = rifled_guns
@@ -1333,7 +1333,7 @@ quick_firing_guns = {
 heavy_caliber_guns = {
 	limit = { main_armament = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = rifled_guns
@@ -1356,7 +1356,7 @@ heavy_caliber_guns = {
 on_board_recon_aircraft = {
 	limit = { advanced_naval_design = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = wright_n_langleys_aeroplanes
@@ -1375,7 +1375,7 @@ on_board_recon_aircraft = {
 gun_hydraulics = {
 	limit = { advanced_naval_design = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			electricity = 1
@@ -1397,7 +1397,7 @@ gun_hydraulics = {
 heavy_armour_plates = {
 	limit = { advanced_naval_design = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			cheap_steel = 1
@@ -1420,7 +1420,7 @@ heavy_armour_plates = {
 large_hull_form = {
 	limit = { advanced_naval_design = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 1
 			invention = fordism
@@ -1462,7 +1462,7 @@ wireless = {
 advanced_fire_control = {
 	limit = { modern_naval_design = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 1
 			modern_naval_training = 1
@@ -1485,7 +1485,7 @@ advanced_fire_control = {
 15_inch_main_armament = {
 	limit = { modern_naval_design = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 1
 			advanced_metallurgy = 1

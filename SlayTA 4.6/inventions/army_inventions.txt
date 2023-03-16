@@ -131,7 +131,7 @@ field_fortifications = {
 railroad_transport_groups = {
 	limit = { strategic_mobility = 1 }
 	chance = {
-		base = 0
+		base = 110
 		modifier = {
 			factor = 2
 			experimental_railroad = 1
@@ -319,7 +319,7 @@ synchronized_heavy_support = {
 staff_command_support = {
 	limit = { point_defense_system = 1 }
 	chance = {
-		base = 3
+		base = 100
 		modifier = {
 			factor = 2
 			military_staff_system = 1
@@ -1832,7 +1832,7 @@ mobilization_time_tables = {
 		civilized = yes 
 	}
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 1
 			invention = telegraph_coordination
@@ -1853,7 +1853,7 @@ personnel_category_tables = {
 		civilized = yes 
 	}
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			invention = mobilization_time_tables

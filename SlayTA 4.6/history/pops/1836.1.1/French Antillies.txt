@@ -7,61 +7,51 @@
         religion = catholic
         size = 750
     }
-
     bureaucrats = {
         culture = spanish
         religion = catholic
         size = 200
     }
-
     clergymen = {
         culture = spanish
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = spanish
         religion = catholic
         size = 900
     }
-
     soldiers = {
         culture = spanish
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = spanish
         religion = catholic
         size = 400
     }
-
     clergymen = {
         culture = afro_antillean
         religion = catholic
         size = 125
     }
-
     artisans = {
         culture = afro_antillean
         religion = catholic
         size = 1250
     }
-
     soldiers = {
         culture = afro_antillean
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = afro_antillean
         religion = catholic
         size = 3400
     }
-
     slaves = {
         culture = afro_antillean
         religion = catholic
@@ -75,55 +65,46 @@
         religion = catholic
         size = 850
     }
-
     clergymen = {
         culture = aquitanian
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = aquitanian
         religion = catholic
         size = 1300
     }
-
     soldiers = {
         culture = aquitanian
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = aquitanian
         religion = catholic
         size = 600
     }
-
     clergymen = {
         culture = afro_antillean
         religion = catholic
         size = 150
     }
-
     artisans = {
         culture = afro_antillean
         religion = catholic
         size = 1500
     }
-
     soldiers = {
         culture = afro_antillean
         religion = catholic
         size = 550
     }
-
     farmers = {
         culture = afro_antillean
         religion = catholic
         size = 3050
     }
-
     slaves = {
         culture = afro_antillean
         religion = catholic
