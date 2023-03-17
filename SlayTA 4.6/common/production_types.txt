@@ -930,12 +930,16 @@ RGO_template_labourers = {
 			effect = output
 			amount = 1
 		}
+		{ 
+			poptype = bankers 
+			effect = output
+			amount = 1
+		}
 	}
 	
 	type = rgo
 	workforce = 40000
 }
-
 
 cattle_ranch = {
 	template = RGO_template_farmers

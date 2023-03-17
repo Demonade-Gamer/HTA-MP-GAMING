@@ -2248,3 +2248,20 @@ east_african = {
 		}
 	}
 }
+bears = {
+	leader = polar_bear
+	is_overseas = no
+	unit = EuropeanGC
+	polar_bears = {
+		color = { 200 200 200}
+		first_names = { Nanuk Ursus Isbjorn Grrrowr Bjorn Grrgrrr Rawr Bamse }
+		
+		last_names = { Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet }
+	}
+	illuminati = {
+		color = { 200 200 200}
+		first_names = {  }
+		
+		last_names = {  }
+	}
+}

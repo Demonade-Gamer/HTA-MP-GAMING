@@ -43,9 +43,9 @@
 }
 #Tristan da Cunha (100/25 POPS) - Hispania
 2132 = {
-    farmers = {
+    bankers = {
         culture = spanish
         religion = catholic
-        size = 25
+        size = 25000
     }
 }

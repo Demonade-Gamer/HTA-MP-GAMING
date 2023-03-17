@@ -149,7 +149,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+50% Army Morale"
+		name = "+25% Army Morale"
 		owner = { set_country_flag = choosing_army_morale }
 		ai_chance = {
 			factor = 10
@@ -406,7 +406,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+50% Army Morale"
+		name = "+25% Army Morale"
 		owner = { set_country_flag = choosing_army_morale }
 		ai_chance = {
 			factor = 10
@@ -541,7 +541,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +50% Rate"
+		name = "+25% Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -655,7 +655,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+50% Army Morale"
+		name = "+25% Army Morale"
 		owner = { set_country_flag = choosing_army_morale }
 		ai_chance = {
 			factor = 10
@@ -790,7 +790,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +50% Rate"
+		name = "+25% Assimilation Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -904,7 +904,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+50% Army Morale"
+		name = "+25% Army Morale"
 		owner = { set_country_flag = choosing_army_morale }
 		ai_chance = {
 			factor = 10
@@ -1039,7 +1039,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +50% Rate"
+		name = "+25% Assimilation Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -1153,7 +1153,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+50% Army Morale"
+		name = "+25% Army Morale"
 		owner = { set_country_flag = choosing_army_morale }
 		ai_chance = {
 			factor = 10
@@ -1288,7 +1288,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +50% Rate"
+		name = "+25% Assimilation Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -1378,7 +1378,7 @@ province_event = {
 
 country_event = {
 	id = 91651
-	title = "+50% Army Morale"
+	title = "+25% Army Morale"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
@@ -1609,7 +1609,7 @@ country_event = {
 
 country_event = {
 	id = 91662
-	title = "+0.04 Assimilation Chance & +50% Rate"
+	title = "+25% Assimilation Rate"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
