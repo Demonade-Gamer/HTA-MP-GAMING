@@ -2408,13 +2408,16 @@ national_assimilation_acceptance = {
 }
 ########## NATIONAL IDEAS ##########
 
+literacy_campaign = {
+}
+
 army_morale_idea = {
-	org_regain = 0.5
+	org_regain = 0.3
 	icon = 15
 }
 
 army_organisation_idea = {
-	land_organisation = 0.2
+	land_organisation = 0.1
 	icon = 15
 }
 
@@ -2428,7 +2431,7 @@ military_hospitals_idea = {
 }
 
 army_experience_idea = {
-	land_unit_start_experience = 15
+	land_unit_start_experience = 10
 	icon = 15
 }
 
@@ -2437,12 +2440,12 @@ reinforce_rate_idea = {
 }
 
 leadership_idea = {
-	leadership = 3
+	leadership = 1.5
 	icon = 15
 }
 
 prestige_idea = {
-	prestige = 0.3
+	prestige = 0.1
 	icon = 13
 }
 
@@ -2456,18 +2459,18 @@ navy_build_speed_idea = {
 }
 
 navy_build_speed_idea_modifier = {
-	local_ship_build = -0.30
-	local_repair = 0.5
+	local_ship_build = -0.10
+	local_repair = 0.25
 	icon = 17
 }
 
 expansion_idea = {
-	badboy = -0.03
+	badboy = -0.05
 	icon = 5
 }
 
 assimilation_idea = {
-	global_assimilation_rate = 0.5
+	global_assimilation_rate = 0.25
 	icon = 17
 }
 
@@ -2495,10 +2498,29 @@ education_idea = {
 }
 
 domestic_idea = {
-	global_pop_militancy_modifier = -0.03
+	global_pop_militancy_modifier = -0.05
 	icon = 15
 }
+supply_depot = {
+	max_attrition = -100
+	icon = 17
+}
 
+supply_depot_destroyed = {
+	icon = 16
+}
+
+province_attract_immigrants = {
+	immigrant_attract = 100
+	immigrant_push = -1000
+	icon = 9
+}
+
+new_world_province_attract_immigrants = {
+	immigrant_attract = 50
+	immigrant_push = -1000
+	icon = 9
+}
 supply_depot = {
 	max_attrition = -100
 	icon = 17

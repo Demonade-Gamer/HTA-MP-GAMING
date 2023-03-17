@@ -221,7 +221,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+3 Monthly Leadership"
+		name = "+1.5 Monthly Leadership"
 		owner = { set_country_flag = choosing_leadership }
 		ai_chance = {
 			factor = 10
@@ -248,7 +248,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+30% Navy Build Speed & +50% Ship Repair"
+		name = "+15% Navy Build Speed & +25% Ship Repair"
 		owner = { set_country_flag = choosing_navy_build_speed }
 		ai_chance = {
 			factor = 10
@@ -284,7 +284,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +50% Rate"
+		name = "+25% Assimilation Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -490,7 +490,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -505,7 +505,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+30% Navy Build Speed & +50% Ship Repair"
+		name = "+15% Navy Build Speed & +25% Ship Repair"
 		owner = { set_country_flag = choosing_navy_build_speed }
 		ai_chance = {
 			factor = 10
@@ -739,7 +739,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -754,7 +754,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+30% Navy Build Speed & +50% Ship Repair"
+		name = "+15% Navy Build Speed & +25% Ship Repair"
 		owner = { set_country_flag = choosing_navy_build_speed }
 		ai_chance = {
 			factor = 10
@@ -988,7 +988,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -1003,7 +1003,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+30% Navy Build Speed & +50% Ship Repair"
+		name = "+15% Navy Build Speed & +25% Ship Repair"
 		owner = { set_country_flag = choosing_navy_build_speed }
 		ai_chance = {
 			factor = 10
@@ -1153,7 +1153,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+25% Army Morale"
+		name = "+30% Army Morale"
 		owner = { set_country_flag = choosing_army_morale }
 		ai_chance = {
 			factor = 10
@@ -1237,7 +1237,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -1252,7 +1252,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+30% Navy Build Speed & +50% Ship Repair"
+		name = "+15% Navy Build Speed & +25% Ship Repair"
 		owner = { set_country_flag = choosing_navy_build_speed }
 		ai_chance = {
 			factor = 10
@@ -1378,7 +1378,7 @@ province_event = {
 
 country_event = {
 	id = 91651
-	title = "+25% Army Morale"
+	title = "+30% Army Morale"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
@@ -1525,7 +1525,7 @@ country_event = {
 
 country_event = {
 	id = 91658
-	title = "+0.3 Monthly Prestige"
+	title = "+0.1 Monthly Prestige"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
@@ -1546,7 +1546,7 @@ country_event = {
 
 country_event = {
 	id = 91659
-	title = "+30% Navy Build Speed & +50% Ship Repair"
+	title = "+15% Navy Build Speed & +25% Ship Repair"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
