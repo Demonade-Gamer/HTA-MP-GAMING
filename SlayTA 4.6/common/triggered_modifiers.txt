@@ -5,6 +5,7 @@
 ai_boost = {
 	trigger = { 
 		ai = yes
+			
 		civilized = yes
 		NOT = { literacy = 0.8 }
 		NOT = {

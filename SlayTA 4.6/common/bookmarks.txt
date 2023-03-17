@@ -7,11 +7,3 @@ bookmark =
 	cameraY = 1550
 }
 
-bookmark =
-{
-	name = "RENO_NAME"
-	desc = "RENO_DESC"
-	date = 1836.1.2
-	cameraX = 1270 
-	cameraY = 1450
-}

@@ -2485,7 +2485,7 @@ take_capital = {
 	months = 9
 	construction_speed = 0.5
 	
-	badboy_factor = 1.5
+	badboy_factor = 2.5
 	prestige_factor = 10
 	peace_cost_factor = 1.5
 	penalty_factor = 1
