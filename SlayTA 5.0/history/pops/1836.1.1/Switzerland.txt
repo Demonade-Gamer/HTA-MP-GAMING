@@ -72,7 +72,7 @@
         size = 48000
     }
     farmers = {
-        culture = romansh
+        culture = south_german
         religion = catholic
         size = 8725
     }
@@ -221,7 +221,7 @@
         size = 30975
     }
     farmers = {
-        culture = romansh
+        culture = south_german
         religion = catholic
         size = 5750
     }
@@ -412,35 +412,35 @@
         size = 24075
     }
     farmers = {
-        culture = romansh
+        culture = south_german
         religion = catholic
         size = 550
     }
 }
-#Chur (80000/20000 POPS) 50% romansh
+#Chur (80000/20000 POPS) 50% south_german
 611 = {
     aristocrats = {
-        culture = romansh
+        culture = south_german
         religion = catholic
         size = 100
     }
     clergymen = {
-        culture = romansh
+        culture = south_german
         religion = catholic
         size = 175
     }
     artisans = {
-        culture = romansh
+        culture = south_german
         religion = catholic
         size = 450
     }
     soldiers = {
-        culture = romansh
+        culture = south_german
         religion = catholic
         size = 550
     }
     farmers = {
-        culture = romansh
+        culture = south_german
         religion = catholic
         size = 6275
     }
@@ -480,7 +480,7 @@
         size = 550
     }
     farmers = {
-        culture = romansh
+        culture = south_german
         religion = protestant
         size = 2075
     }

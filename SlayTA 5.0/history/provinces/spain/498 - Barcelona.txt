@@ -1,6 +1,6 @@
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = AQT
+controller = AQT
+add_core = AQT
 trade_goods = precious_metal
 life_rating = 40
 naval_base = 2

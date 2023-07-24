@@ -48,34 +48,6 @@ political_decisions = {
 
 #The following are from /gsg/Vickymod, moved here for purposes of consolidation
 	
-	accepting_flemish_people = {
-		potential = {
-			tag = NET
-			NOT = { has_country_flag = flemish_embraced }
-			NOT = { accepted_culture = flemish }
-		}
-		
-		allow = {
-			state_n_government = 1
-			owns = 387
-			NOT = { exists = BRB }
-		}
-		
-		effect = {
-			add_accepted_culture = flemish
-			any_pop = {
-				limit = {
-					OR = {
-						has_pop_culture = dutch
-						has_pop_culture = flemish
-					}
-				}
-				militancy = 1
-				consciousness = 2
-			}
-			set_country_flag = flemish_embraced
-		}
-	}
 	education_decree_1863 = {
 		picture = map_phillipines
 		potential = {
@@ -87,7 +59,7 @@ political_decisions = {
 				government = prussian_constitutionalism
 			}
 			NOT = {
-				has_country_flag = education_deshawnee_1863
+				has_country_flag = education_descree_1863
 				any_owned_province = {
 					is_core = PHL
 					has_province_modifier = colonial_recruitment
@@ -102,7 +74,7 @@ political_decisions = {
 		}
 
 		effect = {
-			set_country_flag = education_deshawnee_1863
+			set_country_flag = education_decree_1863
 			money = -50000
 			prestige = 5
 			any_pop = {

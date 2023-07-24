@@ -147,7 +147,7 @@ TUR_810;Bulgaria;;;;;;;;;;x,,,
 TUR_823;Nestos;;;;;;;;;;x
 GRE_826;Heptanesa;;;;;;;;;x
 TUR_832;Epirou;;;;;;;;;;x
-GRE_837;Hellas;;;;;;;;;;x
+GRE_837;Greece;;;;;;;;;;x
 GRE_839;Peloponnesos;;;;;;;;;;x
 CRE_847;Crete;;;;;;;;;;x
 TUR_853;Arbenon;;;;;;;;;;;x
@@ -204,6 +204,9 @@ SIA_1358;Isan;;;;;;;;;;;;x
 DAI_1369;Tonkin;;;;;;;;;;;;x       
 DAI_1375;Annam;;;;;;;;;;;;x        
 DAI_1380;Cochinchina;;;;;;;;;;;;x  
+TUR_803;Serbia;;;;;;;;;;;;x  
+AUS_780;Dalmatia;;;;;;;;;;;;x  
+TUR_931;Babylon;;;;;;;;;;;;x  
 ENG_1384;Southern Malaya;;;;;;;;;;;x
 ENG_1391;Northern Malaya;;;;;;;;;;;x
 SIA_1392;Ayutthaya;;;;;;;;;;;;x    

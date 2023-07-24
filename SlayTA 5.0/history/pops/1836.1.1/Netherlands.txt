@@ -83,7 +83,12 @@
     }
 }
 #Rotterdam (567000/141750 POPS)
-376 = {
+376 = {    
+	soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1100
+    }
     aristocrats = {
         culture = dutch
         religion = protestant
@@ -113,6 +118,11 @@
         culture = dutch
         religion = protestant
         size = 550
+    }    
+	soldiers = {
+        culture = dutch
+        religion = catholic
+        size = 1100
     }
     farmers = {
         culture = dutch
@@ -131,7 +141,17 @@
     }
 }
 #Utrecht (152000/38000 POPS)
-377 = {
+377 = {    
+	soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1100
+    }    
+	soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1100
+    }
     aristocrats = {
         culture = dutch
         religion = protestant
@@ -164,7 +184,17 @@
     }
 }
 #Middelburg (170000/42500 POPS)
-378 = {
+378 = {    
+	soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1100
+    }
+	soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1100
+    }
     aristocrats = {
         culture = dutch
         religion = protestant
@@ -271,6 +301,11 @@
         culture = dutch
         religion = protestant
         size = 550
+    }    
+	soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1100
     }
     clergymen = {
         culture = dutch
@@ -338,6 +373,11 @@
 }
 #Arnhem (412000/103000 POPS)
 382 = {
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 750
+    }
     artisans = {
         culture = ashkenazi
         religion = jewish
@@ -411,6 +451,11 @@
         culture = ashkenazi
         religion = jewish
         size = 550
+    }
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1100
     }
     aristocrats = {
         culture = dutch

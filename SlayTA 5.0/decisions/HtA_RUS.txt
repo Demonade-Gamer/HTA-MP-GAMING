@@ -348,7 +348,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			owns = 1074
+			owns = 1008
 		}
 		effect = {
 			prestige = 15
@@ -368,19 +368,4 @@ political_decisions = {
 		}
 	}
 	
-	get_russian_cores = {
-		picture = tsar_coronation
-		potential = {
-			ai = no
-			tag = SML
-			NOT = { has_country_flag = russian_cores }
-		}
-		allow = {
-			year = 1836
-		}
-		effect = {
-			RUS = { all_core = { add_core = SML } }
-			set_country_flag = russian_cores
-		}
-	}
 }

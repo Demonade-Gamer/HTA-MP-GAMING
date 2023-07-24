@@ -1,6 +1,6 @@
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = AQT
+controller = AQT
+add_core = AQT
 trade_goods = grain
 life_rating = 35
 

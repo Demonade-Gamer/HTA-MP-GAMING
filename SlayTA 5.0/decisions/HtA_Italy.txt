@@ -23,6 +23,7 @@ political_decisions = {
 			TUS_744 = { add_core = THIS }
 			RMG = { all_core = { add_core = THIS } }
 			PDN = { all_core = { add_core = THIS } }
+			TUS = { all_core = { add_core = THIS } }
 		}
 	}
 	law_of_guarantees = {
@@ -132,15 +133,6 @@ political_decisions = {
 
 		effect = {
 			set_country_flag = italia_ulterior
-			AUS_729 = {
-				add_core = ITA
-			}
-			AUS_726 = {
-				add_core = ITA
-			}
-			AUS_734 = {
-				add_core = ITA
-			}
 			AUS_736 = {
 				add_core = ITA
 			}	
@@ -150,8 +142,33 @@ political_decisions = {
 			781 = {
 				add_core = ITA
 			}
+			782 = {
+				add_core = ITA
+			}
+			2582 = {
+				add_core = ITA
+			}
 		}
 	}	
+	
+	claim_the_rest_of_the_adriatic = {
+		potential = { 
+			tag = ITA
+			has_country_flag = italia_ulterior
+		}
+		allow = {
+			AUS_736 = { owned_by = THIS }
+			780 = { owned_by = THIS }
+			781 = { owned_by = THIS }
+			782 = { owned_by = THIS }
+			2582 = { owned_by = THIS }
+		}
+		effect = {
+			TUR_853 = { add_core = ITA }
+			prestige = 15
+		}
+	}
+		
 
 	cisalpines_are_italian = {
 		picture = marching_soldiers

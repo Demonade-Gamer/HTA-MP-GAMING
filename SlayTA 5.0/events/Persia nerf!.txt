@@ -8,6 +8,7 @@ country_event = {
 	trigger = {
 		tag = PER
 		civilized = no
+		NOT = { has_country_modifier = persia_rp_nerf }
 	}
 	
 	mean_time_to_happen = {

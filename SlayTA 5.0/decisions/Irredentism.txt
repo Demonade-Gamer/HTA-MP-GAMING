@@ -28,9 +28,6 @@ political_decisions = {
 			AFG_1214 = {
 				add_core = PER
 			}
-			RUS_1098 = {
-				add_core = PER
-			}
 			PER_1112 = {
 				add_core = PER
 			}
@@ -58,15 +55,17 @@ political_decisions = {
 		}
 
 		allow = {
-			war = no
-			is_vassal = no
-			prestige = 50
-			OR = {
-				war_policy = jingoism
-				war_policy = pro_military
-			}		
-			PER = {
-				all_core = { owned_by = PER }
+			KAL_1221 = {
+				owned_by = PER
+			}
+			AFG_1214 = {
+				owned_by = PER
+			}
+			PER_1112 = {
+				owned_by = PER
+			}
+			RUS_1102 = {
+				owned_by = PER
 			}
 		}
 
@@ -74,10 +73,10 @@ political_decisions = {
 			badboy = 5
 			prestige = 20
 			set_country_flag = claim_pashtun_regions
+			add_accepted_culture = pashtun		
 			AFG_1209 = {
 				add_core = PER
 			}
-			add_accepted_culture = pashtun					
 		}
 		ai_will_do = {
 			factor = 1
