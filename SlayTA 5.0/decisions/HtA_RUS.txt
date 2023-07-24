@@ -336,40 +336,6 @@ political_decisions = {
 	}
 	
 	#For when a (presumably human) SML defeats RUS and annexes them
-	calm_russians = {
-		picture = of_state_n_government
-		potential = {
-			OR = {
-				AND = {
-					tag = SML
-					NOT = { exists = RUS }
-				}
-				AND = { 
-					tag = RUS 
-					NOT = { exists = SML } 
-				}
-			}
-			1008 = { owned_by = THIS }#Moscow
-			NOT = { has_country_flag = russians_calmed }
-		}
-		allow = {
-			war = no
-			state_n_government = 1
-		}
-		effect = {
-			prestige = -5
-			set_country_flag = russians_calmed
-			any_pop = {
-				limit = {
-					location = {
-						culture = russian
-					}
-				}
-				militancy = -4
-				consciousness = -4
-			}
-		}
-	}
 					
 	
 	#SML forms SRU after winning war
@@ -381,11 +347,8 @@ political_decisions = {
 			1008 = { owned_by = THIS }#Moscow
 		}
 		allow = {
-
 			war = no
-			nationalism_n_imperialism = 1
 			owns = 1074
-			military_score = 75
 		}
 		effect = {
 			prestige = 15

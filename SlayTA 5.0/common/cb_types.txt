@@ -1716,7 +1716,7 @@ demand_concession_casus_belli = {
 	construction_speed = 0.5
 	crisis = no
 	
-	badboy_factor = 0.75
+	badboy_factor = 1
 	prestige_factor = 0.1
 	peace_cost_factor = 0.9
 	penalty_factor = 1

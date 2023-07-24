@@ -5,13 +5,8 @@
 
 
 ##### POLITICAL EVENTS ######
-native_societies1 = {
-	global_immigrant_attract = -10
-	icon = 8
-}
-native_societies2 = {
-	global_population_growth = 0.002
-	icon = 7
+persia_rp_nerf = {
+	research_points_from_conquer = -0.5
 }
 banker_income_timer = {
 	icon = 17
@@ -1262,7 +1257,7 @@ native_societies1 = {
 	icon = 8
 }
 native_societies2 = {
-	global_population_growth = 0.025
+	global_population_growth = 0.008
 	icon = 7
 }
 

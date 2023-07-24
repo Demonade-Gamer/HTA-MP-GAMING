@@ -37,22 +37,6 @@ alliance = {
 	start_date = 1836.1.1
 	end_date = 1949.1.1
 }
-# Romans-Wallachia
-alliance = {
-	first = BYZ
-	second = WAL
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
-
-# Romans-Moldavia
-alliance = {
-	first = BYZ
-	second = MOL
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
-
 #Hongsawatoi-Siam
 alliance = {
 	first = HNG

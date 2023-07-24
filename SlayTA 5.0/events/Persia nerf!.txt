@@ -1,0 +1,45 @@
+
+country_event = {
+	id = 99999
+	title = "EVTNAME99999"
+	desc = "EVTDESC299999"
+	picture = "disease"
+	
+	trigger = {
+		tag = PER
+		civilized = no
+	}
+	
+	mean_time_to_happen = {
+		months = 0
+	}
+	option = {
+		name = "EVTOPTA99999"
+		add_country_modifier = {
+			name = persia_rp_nerf
+			duration = -1
+		}
+	}
+}
+country_event = {
+	id = 99969
+	title = "EVTNAME99969"
+	desc = "EVTDESC299969"
+	picture = "disease"
+	
+	trigger = {
+		tag = PER
+		civilized = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 0
+		}
+	option = {
+		name = "EVTOPTA99999"
+		remove_country_modifier = {
+			name = persia_rp_nerf
+		}
+	}
+
+}
