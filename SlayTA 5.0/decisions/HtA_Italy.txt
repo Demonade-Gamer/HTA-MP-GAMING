@@ -157,19 +157,15 @@ political_decisions = {
 		picture = marching_soldiers
 		potential = {
 			tag = ITA
-			NOT = { accepted_culture = north_italian }
 			NOT = { has_country_flag = padan_claimed }
 		}
 		
 		allow = {
 			owns = 743
-			prestige = 50
 		}
 		
 		effect = {
 			set_country_flag = padan_claimed
-			prestige = 5
-			badboy = 5
 			PDN = {
 				all_core = {
 					add_core = ITA

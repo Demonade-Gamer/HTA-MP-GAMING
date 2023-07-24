@@ -38,19 +38,19 @@ USA_81 = { 81 82 83 85 86 } #Oregon/Cecric
 
 MEX_85 = { 84 87 89 90 } #California/Costa Verde
 
-USA_91 = { 91 92 93 111 113 } #Idaho/Ofrahei
+#USA_91 = { 91 92 93 111 113 } #Idaho/Ofrahei
 
 MEX_94 = { 88 96 94 95 99 } #Nevada/Jute
 
-MEX_97 = { 97 98 107 108 } #Utah/Las Cuestas
+#MEX_97 = { 97 98 107 108 } #Utah/Las Cuestas
 
 MEX_100 = { 100 101 102 104 } #Arizona/Sinaquin
 
-USA_106 = { 106 109 125 128 129 } #Colorado/Flocse
+#USA_106 = { 106 109 125 128 129 } #Colorado/Flocse
 
-SKM_110 = { 110 112 122 124 } #Necen
+SKM_110 = { 110 112 122 124 121 115 119 35 } #Necen
 
-USA_116 = { 28 26 29 116 114 } #Montana/Firfede
+USA_116 = { 28 26 29 116 114 91 92 93 111 113 97 98 107 108 106 109 125 128 129 } #Montana/Firfede
 
 USA_118 = { 41 42 117 118 157 } #North shawnee/Hisananth
 
@@ -72,7 +72,7 @@ USA_139 = { 132 141 142 144 9 12 } #Louisiana/Bartemark
 
 USA_148 = { 146 149 150 151 152 } #Missouri/Wimisu
 
-USA_158 = { 121 115 119 35 } #Minnesota/Newea
+#USA_158 = { 121 115 119 35 } #Minnesota/Newea
 
 USA_162 = { 158 160 161 177 } #Wisconsin(v)/Surlac
 
@@ -429,21 +429,21 @@ TUR_788 = { 783 787 786 789 784 785 788 } #Bosnia
 
 TUR_803 = { 803 804 798 802 799 794 797 795 796 } #Southern Serbia
 
-TUR_805 = { 805 819 820 821 822 806 807 } #Southern Macedonia/Thessalonikos
+TUR_805 = { 805 819 820 821 822 806 807 823 808 } #Southern Macedonia/Thessalonikos
 
 #TUR_806 = { 806 807 } #Northern Macedonia/Makedonia
 
-TUR_809 = { 817 811 813 814 } #Eastern Rumelia/Paradounavon
+#TUR_809 = { 817 811 813 814 } #Eastern Rumelia/Paradounavon
 
-TUR_810 = { 809 810 812 815 816 } #Bulgaria
+TUR_810 = { 809 810 812 815 816 817 811 813 814 } #Bulgaria
 
-TUR_823 = { 823 808 829 830 } #Eastern Macedonia/Neston
+#TUR_823 = { 823 808 829 830 } #Eastern Macedonia/Neston
 
-GRE_826 = { 826 827 } #Heptanesa
+#GRE_826 = { 826 827 } #Heptanesa
 
 #GRE_839 = { 839 840 841 842 } #Peloponnese
 
-TUR_832 = { 825 824 833 837 } #Thessalia/Epirou
+TUR_832 = { 825 824 833 837 826 827 } #Thessalia/Epirou
 
 GRE_837 = { 834 832 831 836 835 838 839 840 841 842  } #Hellas (I don't remember if it was called Attica before, but that was the name I had written here first)
 
@@ -455,7 +455,7 @@ TUR_853 = { 849 853 852 851 850 2583 2569 2577 800  } #Albania/Arbenon
 
 #TUR_855 = { 856 855 857 } #Cyprus
 
-TUR_860 = { 860 828 858 859 } #Thrace
+TUR_860 = { 860 828 858 859 829 830 } #Thrace
 
 
 ### Middle East
