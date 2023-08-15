@@ -122,12 +122,12 @@ army = {
 	regiment = {
 		name = "1. Reiter-Regiment"
 		type = hussar
-		home = 589
+		home = 591
 	}
 	regiment = {
 		name = "1. Infanterie-Regiment"
 		type = artillery
-		home = 589
+		home = 590
 	}
 	regiment = {
 		name = "2. Infanterie-Regiment"
@@ -147,7 +147,7 @@ army = {
 	regiment = {
 		name = "2. Badische Infanterie-Brigade"
 		type = infantry
-		home = 587
+		home = 735
 	}
 	regiment = {
 		name = "I. Infanterie"
@@ -157,7 +157,7 @@ army = {
 	regiment = {
 		name = "II. Infanterie"
 		type = infantry
-		home = 619
+		home = 612
 	}
 	regiment = {
 		name = "1. Divisie"
