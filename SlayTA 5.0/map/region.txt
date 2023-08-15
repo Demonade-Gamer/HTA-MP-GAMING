@@ -174,7 +174,7 @@ DEN_367 = { 367 366 368 2557 } #Jylland
 
 HOL_369 = { } #Holstein
 
-SCH_370 = { 369 370 371 530 } #Schleswig/Slesvig & Holsten
+SCH_370 = { 369 370 371 } #Schleswig/Slesvig & Holsten
 
 DEN_372 = { 372 373 374 3250 } #Sjaelland
 
@@ -289,17 +289,17 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 ### Germany & Switzerland
 
-HAN_528 = { 528 529 531 532 539 557 } #Lower Elbe
+#HAN_528 = { 528 529 531 532 539 557 } #Lower Elbe
 
 HAN_534 = { 552 550 681 } #Hannover/Oder
 
-PRU_536 = { 536 534 535 537 553 } #Magdeburg/Braunschweig
+PRU_536 = { 536 534 535 537 553 528 529 531 532 539 557 } #Magdeburg/Braunschweig
 
 HAN_540 = { 540 543 542 538 541 } #East Friesland
 
-PRU_544 = { 544 545 547 548 530 } #Mecklenburg
+#PRU_544 = { 544 545 547 548 530 } #Mecklenburg
 
-PRU_546 = { 546 679 680 692 } #Pomerania
+PRU_546 = { 546 679 680 692 544 545 547 548 530 530 } #Pomerania
 
 PRU_549 = { 549 551 555 556 } #Brandenburg
 
@@ -382,11 +382,11 @@ AUS_726 = { 726 727 728 2568 } #Lombardia
 
 AUS_729 = { 729 730 731 732 733 734 } #Venetia
 
-MOD_739 = { 739 738 740 } #Emilia
+#MOD_739 = { 739 738 740 } #Emilia
 
 TUS_744 = { 744 745 746 747 748 } #Tuscany
 
-PAP_741 = { 741 742 743 } #Romagna
+PAP_741 = { 741 742 743 739 738 740 } #Romagna
 
 PAP_752 = { 749 752 750 751 } #Lazio
 
