@@ -32,7 +32,7 @@ leader = {
 	name = "Cândido dos Santos"
 	type = sea
 	date = 1836.1.1
-	personality = balanced_p
+	personality = bold_p
 	background = generals_aide
 }
 
@@ -216,7 +216,7 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	threat = { id="HIS" value = 200 }
 

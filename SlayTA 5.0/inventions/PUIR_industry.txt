@@ -295,9 +295,6 @@ mercerization = {
 		rgo_goods_output = {
 			cotton = 0.05
 		}
-		rgo_goods_output = {
-			dye = 0.05
-		}
 	}
 }
 

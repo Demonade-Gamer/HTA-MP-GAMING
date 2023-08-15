@@ -232,7 +232,7 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	threat = { id="SML" value=400 }
 

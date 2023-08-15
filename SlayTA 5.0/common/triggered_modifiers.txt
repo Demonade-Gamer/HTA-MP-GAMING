@@ -22,6 +22,7 @@ ai_boost = {
 	icon = 9
 }
 
+
 gorkha_kingdom = {
 	trigger = {
 		is_culture_group = central_asian
@@ -292,5 +293,6 @@ chinese_rp_nerf = {
 		}
 		civilized = no
 	}
-	research_points_on_conquer = -99.0
+	research_points_on_conquer = -9999.0
+	research_points_modifier = -99999.0
 }

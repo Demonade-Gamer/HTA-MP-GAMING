@@ -1482,7 +1482,7 @@ autarky = {
 	limit = { government_interventionism = 1 }
 	news = no
 	chance = {
-		base = 10 2
+		base = 102
 		modifier = {
 			factor = 3
 			economic_policy = planned_economy

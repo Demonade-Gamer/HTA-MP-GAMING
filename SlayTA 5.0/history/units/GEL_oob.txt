@@ -19,7 +19,7 @@ OMA = {
 }
 
 army = {
-	name = "Army of the Geledi Sultanate"
+	name = "Army of the Geledi SultABNte"
 	location = 1868
 	regiment = {
 		name= "Sultan's Guards"

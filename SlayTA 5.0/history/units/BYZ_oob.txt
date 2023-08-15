@@ -30,7 +30,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -39,7 +39,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -48,7 +48,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -57,7 +57,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -66,7 +66,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 
 ARM = {	value = -90 }
@@ -90,7 +90,7 @@ leader = {
 	type = land
 	personality = defence_4.1
 	background = attack_2.1
-	prestige = 0.501
+	prestige = 0.001
 }
 army = {
 	name = "Guard of the Basileus"
@@ -299,15 +299,15 @@ navy = {
 }
 
 army = {
-	name = "Anatole Garrison"
+	name = "ABNtole Garrison"
 	location = 866
 	regiment = {
-		name = "I. Anatolioi"
+		name = "I. ABNtolioi"
 		type = infantry
 		home = 883
 	}
 	regiment = {
-		name = "II. Anatolioi"
+		name = "II. ABNtolioi"
 		type = infantry
 		home = 869
 	}
@@ -323,22 +323,36 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
-	protect = { id="GEO" value = 150 }
 
 	threat = { id="ARM" value=200 }
-	threat = { id="ANA" value = 150 }
-	threat = { id="GRE" value = 100 }
+	threat = { id="RUM" value = 350 }
+	threat = { id="ITA" value = 200 }
 
 	antagonize = { id="ARM" value=200 }
-	antagonize = { id="ANA" value=150 }
-	antagonize = { id="GRE" value=100 }
+	antagonize = { id="RUM" value=500 }
 	antagonize = { id="NPL" value=100 }
-	antagonize = { id="ITA" value=100 }
+	antagonize = { id="ITA" value=200 }
 
 	rival = { id="ARM" value=200 }
 	rival = { id="NPL" value=100 }
-	rival = { id="ITA" value=100 }
-	rival = { id="ANA" value=150 }
+	rival = { id="RUM" value=300 }
+	rival = { id="ITA" value=200 }
+	rival = { id="AQT" value=50 }
+	rival = { id="RUS" value=150 }
+	rival = { id="SRU" value=150 }
+	rival = { id="PER" value=100 }
+	rival = { id="PDN" value=100 }
+	conquer_prov = { id=888 value=85 }
+	conquer_prov = { id=896 value = 95 }
+	conquer_prov = { id=889 value=85 }
+	conquer_prov = { id=873 value = 225 }
+	conquer_prov = { id=891 value = 95 }
+	conquer_prov = { id=886 value=85 }
+	conquer_prov = { id=876 value = 225 }
+	conquer_prov = { id=764 value=65 }
+	conquer_prov = { id=754 value = 75 }
+	conquer_prov = { id=753 value=65 }
+	conquer_prov = { id=749 value = 65 }
 }

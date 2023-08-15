@@ -99,5 +99,60 @@ navy = {
 		name= "1 Yusosentai"
 		type = clipper_transport
 	}
+	ship = {
+		name= "2 Yusosentai"
+		type = clipper_transport
+	}
+	ship = {
+		name= "3 Yusosentai"
+		type = clipper_transport
+	}
+	ship = {
+		name= "4 Yusosentai"
+		type = clipper_transport
+	}
+	ship = {
+		name= "5 Yusosentai"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6 Yusosentai"
+		type = clipper_transport
+	}
+	ship = {
+		name= "7 Yusosentai"
+		type = clipper_transport
+	}
+	ship = {
+		name= "8 Yusosentai"
+		type = clipper_transport
+	}
+	ship = {
+		name= "9 Yusosentai"
+		type = clipper_transport
+	}
 
+}
+ai = {
+	initialized = yes
+	consolidate = yes
+	date = "1836.1.1"
+	static = no
+	personality = bold
+
+
+	threat = { id="ABN" value = 50 }
+	threat = { id="QIN" value = 50 }
+	threat = { id="GXI" value = 50 }
+	threat = { id="NET" value = 50 }
+	threat = { id="MYS" value = 50 }
+
+
+	rival = { id="ABN" value=150 }
+	rival = { id="KOR" value=1500 }
+	rival = { id="PER" value=100 }
+	rival = { id="QIN" value=150 }
+	rival = { id="GXI" value=100 }
+	rival = { id="NET" value=100 }
+	rival = { id="MYS" value=100 }
 }

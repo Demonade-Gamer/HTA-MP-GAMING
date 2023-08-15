@@ -1183,23 +1183,7 @@ catalytic_fermentative_process = {
 	}
 }
 #organic_chemistry
-synthetic_dye = {
-	limit = { organic_chemistry = 1 }
-	chance = {
-		base = 102
-		modifier = {
-			factor = 2
-			clean_coal = 1
-		}
-		modifier = {
-			factor = 2
-			management_strategy = 1
-		}
-	}
-	effect = {
-		activate_building = dye_factory 
-	}
-}
+
 gaslights = {
 	limit = { organic_chemistry = 1 }
 	chance = {

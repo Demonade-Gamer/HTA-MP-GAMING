@@ -251,7 +251,7 @@ FRA_458 = { 458 456 459 } #Aquitaine/Garona
 
 FRA_461 = { 461 462 463 467 468 } #Languedoc/Lengadóc
 
-SAR_466 = { 607 465 466 609} #Savoie/Savoué
+SAR_466 = { 465 466 609} #Savoie/Savoué
 
 FRA_467 = { 470 469 471 472 } #Provence/Prouvença
 
@@ -309,25 +309,25 @@ SAX_558 = { 558 559 560 } #Saxony
 
 #GER_565 = { 565 583 584 } #Hesse
 
-GER_566 = { 564 566 567 568 565 583 584 577 578 2561 } #Kassel
+GER_566 = { 564 566 567 568 565 583 584 578 2561 579 } #Kassel
 
 PRU_570 = { 569 570 571 2560 } #Palatinate
 
-PRU_575 = { 575 576 572 573 574 579 } #Rheinland/Northern Rheinland
+PRU_575 = { 575 576 572 573 574 577 } #Rheinland/Northern Rheinland
 
 #PRU_578 = { 397 572 573 574 579 } #Eastern Rheinland/Southern Rheinland
 
 PRU_581 = { 581 580 582 585 } #Westfalen
 
-BAD_586 = { 586 587 588 591 } #Baden
+#BAD_586 = { 586 587 588 591 } #Baden
 
-WUR_589 = { 589 590 593 594 } #Wurttemburg
+WUR_589 = { 589 590 593 594 586 587 588 591 } #Wurttemburg
 
 BAV_595 = { 595 596 597 598 } #Franconia
 
 BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 
-SWI_603 = { 603 604 605 606 } #East Switzerland/Helvetia
+SWI_603 = { 603 604 605 606 607 612 611 614 615 735 } #East Switzerland/Helvetia
 
 PRU_682 = { 682 683 687 684 685 689 2584 688 } #Lower Silesia
 
@@ -342,7 +342,7 @@ PRU_701 = { 699 700 701 } #Posen
 
 ### Austria
 
-AUS_612 = { 612 611 614 615 735 } #Tirol
+#AUS_612 = { 612 611 614 615 735 } #Tirol
 
 AUS_613 = { 616 613 618 617 } #Kärnten-Steiermark
 

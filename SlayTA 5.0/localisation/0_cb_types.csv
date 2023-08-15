@@ -336,3 +336,11 @@ AGRESSION_WAR_PUPPET_NAME_ENG_IRE;$ORDER$Irish War of Independence;;;;;;;;;;;;;
 NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$Oriental Crisis;;;;;;;;;;;;;
 NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;;;;;;;;;;
 NORMAL_WAR_PUPPET_NAME_ENG_IRE;$ORDER$Irish War of Independence;;;;;;;;;;;;;
+3_way_transfer;3-way transfer;Peuple libre;Freies Volk;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+3_way_transfer_desc;Transfer a state from the target to any player;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;;;;;x,,,
+3_way_transfer_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+3_way_transfer_setup;Transfers $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ a $RECIPIENT$ pour le rendre a $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+seperate_truce;Seperate Truce;;;;;;;;;;;;x;;;;;;;;;;;;;;
+seperate_truce_desc;Adds a Seperate Truce;;;;;;;;;;;;x;;;;;;;;;;;;;;
+seperate_truce_short;Adds a Seperate Truce;;;;;;;;;;;;x;;;;;;;;;;;;;;
+seperate_truce_setup;Adds a Seperate Truce;;;;;;;;;;;;x;;;;;;;;;;;;;;

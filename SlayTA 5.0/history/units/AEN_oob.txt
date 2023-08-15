@@ -27,7 +27,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -36,7 +36,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -45,7 +45,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -54,7 +54,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -63,7 +63,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 
 army = {
@@ -281,4 +281,24 @@ navy = {
 		name = "5. Sciplest"
 		type = clipper_transport
 	}
+}
+ai = {
+	initialized = yes
+	consolidate = yes
+	date = "1836.1.1"
+	static = no
+	personality = bold
+
+
+	threat = { id="CLT" value = 50 }
+	threat = { id="AGR" value = 50 }
+	threat = { id="QIN" value = 50 }
+	threat = { id="JAP" value = 50 }
+	threat = { id="CHI" value = 50 }
+
+
+	rival = { id="HIS" value=200 }
+	rival = { id="AGR" value=100 }
+	rival = { id="CLT" value=500 }
+	rival = { id="MYS" value=200 }
 }

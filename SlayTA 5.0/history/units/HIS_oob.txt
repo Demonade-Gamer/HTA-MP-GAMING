@@ -48,13 +48,13 @@ army = {
 	name = "Armada del Rey"
 	location = 489
 	regiment = {
-		name = "1. Granaderos del Rey"
+		name = "1. GrABNderos del Rey"
 		type = infantry
 		home = 487
 	}
 
 	regiment = {
-		name= "2. Granaderos del Rey"
+		name= "2. GrABNderos del Rey"
 		type = infantry
 		home = 489
 	}
@@ -333,10 +333,10 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
-	befriend = { id="NAV" value = 100 }
 	befriend = { id="NPL" value = 100 }
+	befriend = { id="POR" value = 100 }
 
 	threat = { id="CAT" value = 50 }
 	threat = { id="POR" value = 50 }
@@ -345,6 +345,8 @@ ai = {
 
 	antagonize = { id="AEN" value = 60 }
 	antagonize = { id="AQT" value = 80 }
-	antagonize = { id="NET" value = 75 }
+	antagonize = { id="NAV" value = 750 }
 	antagonize = { id="SLW" value = 50 }
+	antagonize = { id="AGR" value = 400 }
+	antagonize = { id="MYS" value = 500 }
 }

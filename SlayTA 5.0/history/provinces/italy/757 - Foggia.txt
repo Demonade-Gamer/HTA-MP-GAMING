@@ -2,7 +2,7 @@ owner = NPL
 controller = NPL
 add_core = NPL
 add_core = ITA
-trade_goods = dye
+trade_goods = timber
 life_rating = 35
 
 state_building = {

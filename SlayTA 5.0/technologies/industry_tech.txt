@@ -1024,9 +1024,9 @@ medicine = {
 	supply_limit = 0.25
 	
 	ai_chance = {
-		factor = 100
+		factor = 1000
 		modifier = {
-			factor = 1.5
+			factor = 3
 			civilized = yes
 		}
 		modifier = {
@@ -1035,7 +1035,7 @@ medicine = {
 		}
 		modifier = {
 			factor = 1.5
-			is_greater_power = yes
+			basic_chemistry = 1
 		}
 	}
 }

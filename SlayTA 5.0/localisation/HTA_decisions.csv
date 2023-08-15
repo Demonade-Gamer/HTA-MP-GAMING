@@ -208,11 +208,11 @@ form_stellaland_desc;With the lands of the Steenkoolers united under our banner,
 form_zachadia_title;Form Zachadia;;;;;;;;;;;x
 form_zachadia_desc;Philologists have confirmed what we have already long known: that the Poles, Czechs, Silesians, Slovaks, and Sorbs all speak closely related languages, which have come to be called the Western Slavic family. Given our cultural, linguistic, and geographical proximity, we could unite our peoples into a great nation.\n\nNOTE! Western Slavs must control Silesian and Polish cores (Slovakia can be owned by them, or Hungary can be puppeted. If you don't want to puppet the country(ies) owning Slovak cores, just sphere them and get Revolution and Counterrevolution). Prague/Bohemia must be sphered and puppeted with +100 relations (or you can just own Prague). If a non-Western Slavic country owns Silesian or Polish cores, the decision cannot be taken, no matter what.;x
 FRA_embrace_bretons_title;Integrate the Bretons;x
-FRA_embrace_bretons_desc;The Bretons will continue to be troublesome and agitate for independence unless something is done to appease them. By granting them the same rights that proper French citizens have, perhaps we may succeed in appeasing them and reducing their unruliness and restlessness.;x
+FRA_embrace_bretons_desc;In a stark departure from the grim historical picture of genocide_minorities, in this fictional universe, France embarked on a path of inclusivity and harmony, embracing the Breton people as equal members of their nation.;x
 FRA_embrace_picards_title;Embrace the Picards;x
 FRA_embrace_picards_desc;While they may speak a strange variant of our own language, we must look to the Picards as cousins, at least. Let us show them that they will do just as well under the French umbrella as under the Wallonian one, even if it leaves a bad taste in our mouth to make such a concession to them.;x
-FRA_embrace_walloons_title;Walloon Societal Integration;x
-FRA_embrace_walloons_desc;The Walloons will be restive for generations unless we grant them some place in our society. We will grant them concessions if only so that their rich lands will be more productive for us than they currently are.;x
+FRA_embrace_wallonians_title;Walloon Societal Integration;x
+FRA_embrace_wallonians_desc;The Walloons will be restive for generations unless we grant them some place in our society. We will grant them concessions if only so that their rich lands will be more productive for us than they currently are.;x
 FRA_levant_ultimatum_title;The Outremer Question;x
 FRA_levant_ultimatum_desc;The Outremer people of the Levant, descendents of French crusaders from the Middle Ages, have long languished under the Persian yoke. With a now-unified and strong France, and unrest in the Levant rising to a fever pitch, it is our moral imperative to unite with our long-sundered brethren. Repeated intransigence by the Shah's government leaves us no choice - they must accept our ultimatum or face our wrath.;x
 FRA_levant_war_title;War in the Levant;x
@@ -613,3 +613,5 @@ claim_north_cauc_desc;By rights, the northern Caucasus region belongs as part of
 claim_north_cauc_title;Claim the Northern Caucasus;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 claim_the_cauc_desc;By rights, the Caucasus region belongs as part of our country just as do its people.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 claim_the_cauc_title;Claim the Caucasus;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+claim_the_rest_of_the_adriatic_title;Annex Arbenon;;;;;;;;;;;x
+claim_the_rest_of_the_adriatic_desc;In the early 1800s, a significant historical event unfolded as Italy, a rising power within the Mediterranean region, sought to expand its influence by annexing the land of Albania into the vast expanse of the Roman Empire.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,

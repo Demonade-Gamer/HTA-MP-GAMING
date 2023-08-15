@@ -3,7 +3,7 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	threat = { id="BAV" value=200 }
 	threat = { id="AUS" value=200 }

@@ -13,7 +13,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -22,7 +22,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -31,7 +31,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -40,7 +40,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -49,7 +49,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 army = {
 	name = "Folks Here"

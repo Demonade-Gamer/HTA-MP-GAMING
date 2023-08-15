@@ -16,7 +16,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -25,7 +25,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -34,7 +34,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -43,7 +43,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -52,7 +52,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 
 POL = {	value = 50 }
@@ -212,10 +212,9 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	befriend = { id="SLS" value=100 }
-	befriend = { id="POL" value = 25 }
 	befriend = { id="AUS" value = 10 }
 	befriend = { id="CRO" value = 55 }
 
@@ -237,6 +236,7 @@ ai = {
 
 	rival = { id="BAV" value = 50 }
 	rival = { is="BRN" value = 10 }
+	rival = { id="POL" value = 2000 }
 
 	conquer_prov = { id=652 value=65 }
 	conquer_prov = { id=2538 value = 75 }

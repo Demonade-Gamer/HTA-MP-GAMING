@@ -45,12 +45,35 @@ hard_ai = {
 }
 
 very_hard_ai = {
-	badboy = -0.05
+	badboy = -1.5
 	research_points_modifier = 1.0
+	education_efficiency = 100.0
 	land_organisation = 0.5
 	naval_organisation = 0.5
 	leadership_modifier = 1.0
 	global_pop_militancy_modifier = -0.04
+	supply_limit = 1
+	global_population_growth = 0.015
+	tariff_efficiency_modifier = 0.5
+	max_tariff = 0.8
+	min_tariff = 0.5
+	max_tax = 1
+	min_tax = 0.5
+	factory_output = 0.15
+	factory_throughput = 0.1
+	factory_input = -0.15
+	research_points = 1.5
+	cb_generation_speed_modifier = 0.8
+	max_military_spending = 1.0
+	min_military_spending = 1.0
+	poor_everyday_needs = -0.20
+	poor_life_needs = -0.4
+	poor_luxury_needs = -0.25
+	max_national_focus = 10
+	regular_experience_level = 50
+	reinforce_rate = 5
+	mobilisation_size = 0.1
+	global_assimilation_rate = 1.5
 }
 
 
@@ -112,8 +135,8 @@ occupied = {
 
 
 nationalism = {
-	pop_militancy_modifier = 0.005
-	pop_consciousness_modifier = 0.005
+	pop_militancy_modifier = 0.003
+	pop_consciousness_modifier = 0.003
 }
 
 infrastructure = {

@@ -27,39 +27,6 @@ political_decisions = {
 		}
 	}
 
-#Issue the Glaschu Ultimatum to Eire
-	glaschu_ultimatum = {
-		picture = Glaschu
-		potential = {
-			tag = SCO
-			271 = { owned_by = IRE }
-			OR = {
-				has_global_flag = treaty_of_wyk
-				has_global_flag = no_treaty_of_wyk
-			}
-			NOT = { has_country_flag = glaschu_ultimatum }
-		}
-		
-		allow = {
-			prestige = 20
-			NOT = { truce_with = IRE }
-		}
-		
-		effect = {
-			IRE = {
-				country_event = {
-					id = 50103
-					days = 1
-				}
-			}
-			prestige = 3
-			relation = {
-				who = IRE
-				value = -50
-			}
-			set_country_flag = glaschu_ultimatum
-		}
-	}
 
 #Integrate Cyrmu
 	integrate_cymru = {

@@ -17,7 +17,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -26,7 +26,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -35,7 +35,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -44,7 +44,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -53,7 +53,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 
 #Others
@@ -223,4 +223,57 @@ army = {
 		type = artillery
 		home = 615
 	}
+}
+ai = {
+	initialized = yes
+	consolidate = yes
+	date = "1836.1.1"
+	static = no
+	personality = bold
+
+
+	threat = { id="BRN" value = 50 }
+	threat = { id="BRA" value = 50 }
+	threat = { id="ZAC" value = 50 }
+	threat = { id="FRA" value = 50 }
+	threat = { id="NET" value = 50 }
+
+
+	rival = { id="ARM" value=200 }
+	rival = { id="NPL" value=100 }
+	rival = { id="RUM" value=100 }
+	rival = { id="ITA" value=100 }
+	rival = { id="ABN" value=150 }
+	rival = { id="AQT" value=200 }
+	rival = { id="SCW" value=100 }
+	rival = { id="VST" value=100 }
+	rival = { id="FRA" value=100 }
+	rival = { id="NEU" value=100 }
+	rival = { id="GER" value=150 }
+	rival = { id="HIS" value=200 }
+	rival = { id="AGR" value=100 }
+	rival = { id="BOH" value=100 }
+	rival = { id="ZAC" value=100 }
+	rival = { id="POL" value=150 }
+	rival = { id="RUS" value=200 }
+	rival = { id="SRU" value=100 }
+	rival = { id="FIN" value=100 }
+	rival = { id="SWE" value=100 }
+	rival = { id="SCA" value=150 }
+	rival = { id="PER" value=200 }
+	rival = { id="SML" value=100 }
+	rival = { id="BRN" value=100 }
+	rival = { id="BAV" value=150 }
+	rival = { id="HOY" value=200 }
+	rival = { id="MEL" value=100 }
+	rival = { id="USR" value=100 }
+	rival = { id="ARG" value=100 }
+	rival = { id="QIN" value=150 }
+	rival = { id="GXI" value=200 }
+	rival = { id="JAP" value=100 }
+	rival = { id="NET" value=100 }
+	rival = { id="MYS" value=100 }
+	rival = { id="PDN" value=100 }
+	rival = { id="BYZ" value=200 }
+	rival = { id="CLT" value=200 }
 }

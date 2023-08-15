@@ -59,7 +59,7 @@ army = {
 }
 
 army = {
-	name = "Army of the Sheikh of Sana"
+	name = "Army of the Sheikh of SABN"
 	location = 1178
 	regiment = {
 		name= "1. Abdali"

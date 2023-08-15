@@ -1,5 +1,5 @@
 leader = {
-	name = "Antonio Santa Ana"
+	name = "Antonio Santa ABN"
 	type = land
 	date="1836.1.1"
 	personality = defence_1.1
@@ -150,3 +150,25 @@ navy = {
 
 }
 
+ai = {
+	initialized = yes
+	consolidate = yes
+	date = "1836.1.1"
+	static = no
+	personality = bold
+
+
+	threat = { id="HOY" value = 50 }
+	threat = { id="MEL" value = 50 }
+	threat = { id="SKM" value = 50 }
+	threat = { id="GIN" value = 50 }
+	threat = { id="MRG" value = 50 }
+
+
+	rival = { id="SCW" value=300 }
+	rival = { id="VST" value=100 }
+	rival = { id="HOY" value=200 }
+	rival = { id="MEL" value=300 }
+	rival = { id="USR" value=100 }
+	rival = { id="ARG" value=100 }	
+}

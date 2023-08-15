@@ -31,7 +31,7 @@ DAR = {
 }
 
 army = {
-	name = "Army of the Sultanate of Damagaram"
+	name = "Army of the SultABNte of Damagaram"
 	location = 1815	
 regiment = {
 		name= "Sultan's Cavalry"	

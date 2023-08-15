@@ -35,7 +35,7 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	protect = { id="IRO" value=100 }
 	protect = { id="CHE" value=100 }

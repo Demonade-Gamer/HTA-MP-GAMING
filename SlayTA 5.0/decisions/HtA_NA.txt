@@ -75,7 +75,13 @@ political_decisions = {
 			tag = SKM
 			tag = MRG
 		}
-			ai = no
+			OR = {
+				ai = no
+				AND = {
+					ai = yes 
+					year = 1840
+				}
+			}
 			is_disarmed = no
 			war = no
 			NOT = { alliance_with = GNC }
@@ -122,7 +128,13 @@ political_decisions = {
 			tag = CLF
 			tag = MRG
 		}
-			ai = no
+			OR = {
+				ai = no
+				AND = {
+					ai = yes 
+					year = 1840
+				}
+			}
 			is_disarmed = no
 			war = no
 			NOT = { alliance_with = SKM }
@@ -168,7 +180,13 @@ political_decisions = {
 			tag = SKM
 			tag = CLF
 		}
-			ai = no
+			OR = {
+				ai = no
+				AND = {
+					ai = yes 
+					year = 1840
+				}
+			}
 			is_disarmed = no
 			war = no
 			NOT = { alliance_with = MRG }
@@ -319,7 +337,13 @@ invade_the_mexicans_scw = {
 				tag = NHL
 				tag = VST
 			}
-			ai = no
+			OR = {
+				ai = no
+				AND = {
+					ai = yes 
+					year = 1840
+				}
+			}
 			war = no
 			NOT = { alliance_with = QUE }
 			NOT = { has_country_flag = annex_quebec }
@@ -356,7 +380,13 @@ invade_the_mexicans_scw = {
 				tag = QUE
 				tag = VST
 			}
-			ai = no
+			OR = {
+				ai = no
+				AND = {
+					ai = yes 
+					year = 1840
+				}
+			}
 			war = no
 			NOT = { alliance_with = MRG }
 			NOT = { has_country_flag = annex_new_holland }
@@ -393,7 +423,13 @@ invade_the_mexicans_scw = {
 				tag = NHL
 				tag = QUE
 			}
-			ai = no
+			OR = {
+				ai = no
+				AND = {
+					ai = yes 
+					year = 1840
+				}
+			}
 			war = no
 			NOT = { alliance_with = VST }
 			NOT = { has_country_flag = annex_vestland }

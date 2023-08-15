@@ -23,9 +23,6 @@ RUS = {
 DON = {
 	value = 30
 }
-POL = {
-	value = 40
-}
 
 army = {
 	name = "1. Line Corps"
@@ -276,7 +273,7 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	threat = { id="RUS" value=400 }
 

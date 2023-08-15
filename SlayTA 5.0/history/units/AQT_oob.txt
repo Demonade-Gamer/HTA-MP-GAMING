@@ -43,7 +43,7 @@ leader = {
 	type = land
 	personality = defence_5.1
 	background = attack_minus_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 1"
@@ -52,7 +52,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -61,7 +61,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -70,7 +70,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -79,7 +79,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -88,7 +88,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 
 army = {
@@ -277,4 +277,34 @@ navy = {
 		name = "St. Guilhem"
 		type = frigate
 	}
+}
+
+ai = {
+	initialized = yes
+	consolidate = yes
+	date = "1836.1.1"
+	static = no
+	personality = bold
+
+
+	befriend = { id="FRA" value = 50 }
+	threat = { id="PDN" value = 50 }
+	threat = { id="NPL" value = 50 }
+	threat = { id="HIS" value = 50 }
+	threat = { id="ITA" value = 50 }
+
+
+	rival = { id="NPL" value=200 }
+	rival = { id="ITA" value=200 }
+	rival = { id="GER" value=150 }
+	rival = { id="HIS" value=200 }
+	rival = { id="AGR" value=100 }
+	rival = { id="BOH" value=100 }
+	rival = { id="ZAC" value=100 }
+	rival = { id="QIN" value=150 }
+	rival = { id="GXI" value=200 }
+	rival = { id="JAP" value=100 }
+	rival = { id="NET" value=100 }
+	rival = { id="PDN" value=100 }
+	rival = { id="BYZ" value=200 }
 }

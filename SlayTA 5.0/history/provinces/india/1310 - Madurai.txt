@@ -3,7 +3,7 @@ controller = MYS
 add_core = MYS
 add_core = HYD
 add_core = HND
-trade_goods = dye
+trade_goods = timber
 life_rating = 32
 
 

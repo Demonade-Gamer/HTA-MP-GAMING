@@ -1,6 +1,6 @@
-owner = TUS
-controller = TUS
-add_core = TUS
+owner = NPL
+controller = NPL
+add_core = NPL
 trade_goods = grain
 life_rating = 35
 

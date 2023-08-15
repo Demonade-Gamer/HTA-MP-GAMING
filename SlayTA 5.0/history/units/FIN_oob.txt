@@ -118,13 +118,13 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 	
 	befriend = { id="POL" value=65 }
 	befriend = { id="SWE" value=65 }
 	
 	threat = { id="RUS" value=50 }
-	threat = { id="SWE" value=15 }
+	rival = { id="SWE" value=15 }
 	threat = { id="NOR" value=15 }
 	
 	

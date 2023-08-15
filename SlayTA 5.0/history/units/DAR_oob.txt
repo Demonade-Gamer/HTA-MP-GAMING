@@ -23,7 +23,7 @@ SOK = {
 }
 
 army = {
-	name = "Army of the Sultanate of Darfur"
+	name = "Army of the SultABNte of Darfur"
 	location = 1841
 	
 regiment = {

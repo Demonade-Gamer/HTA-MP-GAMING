@@ -41,7 +41,7 @@ political_decisions = {
 					limit = {
 						NOT = { is_core = AQT }
 					}
-					add_core = USR
+					add_core = THIS
 				}
 			}
 			relation = {
@@ -49,7 +49,7 @@ political_decisions = {
 				value = -150
 			}
 			add_accepted_culture = afro_antillean
-			add_accepted_culture = afro_carbbean
+			add_accepted_culture = afro_caribbean
 			set_country_flag = establish_gidan_hegemony
 		}
 	}	

@@ -15,7 +15,7 @@ HAR = {
 }
 
 army = {
-	name = "Army of the Majeerteen Sultanate"
+	name = "Army of the Majeerteen SultABNte"
 	location = 1872	
 	regiment = {
 		name= "Shaykh's Guards"	

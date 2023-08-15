@@ -96,7 +96,7 @@ army = {
 }
 
 army = {
-	name = "Ludhiana Garrison"
+	name = "LudhiABN Garrison"
 	location = 1234
 	regiment = {
 		name= "8. Panjabi Infantry"

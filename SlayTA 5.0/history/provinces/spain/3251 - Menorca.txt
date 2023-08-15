@@ -2,7 +2,7 @@ owner = AQT
 
 controller = AQT
 
-add_core = AQT
+add_core = CAT
 
 trade_goods = fish
 

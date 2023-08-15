@@ -125,7 +125,7 @@ navy = {
 	name = "Marina della Reppublica"
 	location = 729
 	ship = { 
-		name = "Veneziana"
+		name = "VeneziABN"
 		type = manowar
 	}
 	ship = { 
@@ -150,7 +150,7 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	befriend = { id="AQT" value = 100 }
 	befriend = { id="RMG" value = 200 }

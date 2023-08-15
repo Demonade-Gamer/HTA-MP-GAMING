@@ -200,32 +200,28 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
-	threat = { id="AQT" value = 20 }
-	threat = { id="WLL" value = 20 }
+	personality = bold
+	threat = { id="WLL" value = 50 }
 	threat = { id="AEN" value = 20 }
 
-	rival = { id="AQT" value = 40 }
 
-	antagonize = { id="LOR" value = 100 }
+	antagonize = { id="NET" value = 100 }
 	antagonize = { id="BRT" value = 50 }
+	
+	rival = { id="NET" value = 200 }
+	rival = { id="BRA" value = 100 }
+	rival = { id="BRN" value = 100 }
+	rival = { id="BAV" value = 100 }
+	rival = { id="NGF" value = 200 }
+	rival = { id="SGF" value = 200 }
 
-	befriend = { id="DAU" value = 100 }
-	befriend = { id="PDN" value = 100 }
-	befriend = { id="BAV" value = 20 }
-	befriend = { id="BRA" value = 20 }
-	befriend = { id="HIS" value = 20 }
-	befriend = { id="NET" value = 20 }
-	befriend = { id="BRB" value = 20 }
-	befriend = { id="WLL" value = 20 }
+	befriend = { id="AQT" value = 100 }
 
-	conquer_prov = { id = 415 value = 100 }
-	conquer_prov = { id = 425 value = 100 }
-	conquer_prov = { id = 435 value = 150 }
-	conquer_prov = { id = 438 value = 200 }
-	conquer_prov = { id = 406 value = 200 }
-	conquer_prov = { id = 411 value = 60 }
-	conquer_prov = { id = 412 value = 60 }
+	conquer_prov = { id = 420 value = 200 }
 	conquer_prov = { id = 424 value = 50 }
-	conquer_prov = { id = 1934 value = 40 }
+	conquer_prov = { id = 572 value = 60 }
+	conquer_prov = { id = 385 value = 60 }
+	conquer_prov = { id = 377 value = 60 }
+	conquer_prov = { id = 380 value = 60 }
+	conquer_prov = { id = 387 value = 60 }
 }

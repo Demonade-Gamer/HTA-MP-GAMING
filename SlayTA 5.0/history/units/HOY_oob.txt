@@ -30,4 +30,24 @@ army = {
 		home = 2252
 	}
 }
-	
+ai = {
+	initialized = yes
+	consolidate = yes
+	date = "1836.1.1"
+	static = no
+	personality = bold
+
+
+	threat = { id="SKM" value = 50 }
+	threat = { id="USR" value = 50 }
+	threat = { id="MEX" value = 50 }
+	threat = { id="GIN" value = 50 }
+	threat = { id="MRG" value = 50 }
+
+
+	rival = { id="SCW" value=100 }
+	rival = { id="MEX" value=200 }
+	rival = { id="MNK" value=2300 }
+	rival = { id="MDT" value=2300 }
+
+}

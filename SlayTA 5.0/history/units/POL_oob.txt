@@ -28,7 +28,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -37,7 +37,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -46,7 +46,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -55,7 +55,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -64,7 +64,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 BOH = {	value = 45 }
 BRN = {	value = 65 }
@@ -242,7 +242,7 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	befriend = { id="LIT" value=100 }
 	befriend = { id="BYZ" value=80 }
@@ -253,8 +253,12 @@ ai = {
 	antagonize = { id="BRN" value=75}
 	
 	threat = { id="SML" value=125 }
-	threat = { id="BOH" value=80 }
+	threat = { id="RUS" value=125 }
+	threat = { id="SRU" value=125 }
+	threat = { id="BOH" value=800 }
 
-	rival = { id="SML" value=125 }
-	rival = { id="BOH" value=50 }
+	rival = { id="RUS" value=125 }
+	rival = { id="SML" value=50 }
+	rival = { id="SRU" value=50 }
+	rival = { id="BOH" value=800 }
 }

@@ -15,7 +15,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -24,7 +24,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -33,7 +33,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -42,7 +42,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -51,7 +51,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "The Armenian Gigachad"
@@ -301,12 +301,19 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
+	befriend = { id="NPL" value=200 }
+	befriend = { id="ITA" value=200 }
+	
 	threat = { id="BYZ" value=200 }
 
 	antagonize = { id="BYZ" value=200 }
+	antagonize = { id="PER" value=150 }
+	antagonize = { id="GRE" value=100 }
 
-	rival = { id="BYZ" value=200 }
+
+	rival = { id="PER" value=200 }
+	rival = { id="BYZ" value=500 }
 }
 

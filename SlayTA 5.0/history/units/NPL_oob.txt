@@ -26,12 +26,6 @@ AQT = {
 	value = 100
 }
 
-PAP = {
-	value = 150
-	influence_value = 10
-	level = 3
-}
-
 leader = {
 	name = "Jacopo Brandozzi de Lucero"
 	picture = european_general_2
@@ -57,6 +51,51 @@ leader = {
 	type = sea
 	personality = mediocre
 	background = war_college
+}
+leader = {
+	name = "Base guy 1"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 2"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 3"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 4"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 5"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
 }
 
 army = {
@@ -99,6 +138,48 @@ army = {
 	}
 }
 
+leader = {
+	name = "Giancarlo II Miravelli"
+	type = land
+	date = 1836.1.1
+	personality = bold_p
+	background = natural_born_leader
+}
+
+
+army = {
+	name = "Esercito Toscano"
+	location = 744
+	regiment = {
+		name= "1. Fanteria di Linea"
+		type = infantry
+		home = 744
+	}
+
+	regiment = {
+		name= "2. Fanteria di Linea"
+		type = infantry
+		home = 745
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea"
+		type = infantry
+		home = 748
+	}
+
+	regiment = {
+		name= "1. Guardia Artigleriale"
+		type = artillery
+		home = 747
+	}
+
+	regiment = {
+		name= "2. Guardia Artigleriale"
+		type = artillery
+		home = 746
+	}
+}
 army = {
 	name = "Divisione a Cavallu"
 	location = 748
@@ -161,7 +242,7 @@ navy = {
 		type = manowar
 	}
 	ship = {
-		name= "'a Napuletana"
+		name= "'a NapuletABN"
 		type = manowar
 	}
 
@@ -267,15 +348,20 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
-	befriend = { id="HIS" value = 100 }
 
-	threat = { id="PDN" value=200 }
-	threat = { id="MGH" value = 50 }
-	threat = { id="BYZ" value = 65 }
+	threat = { id="AQT" value = 150 }
+	threat = { id="RUM" value = 50 }
+	threat = { id="BYZ" value = 50 }
+	threat = { id="PDN" value = 50 }
+	threat = { id="PAP" value = 50 }
 
-	antagonize = { id="PDN" value=200 }
 
-	rival = { id="PDN" value=200 }
+	rival = { id="ARM" value=100 }
+	rival = { id="RUM" value=150 }
+	rival = { id="ABN" value=150 }
+	rival = { id="AQT" value=400 }
+	rival = { id="GER" value=150 }
+	rival = { id="BYZ" value=300 }
 }

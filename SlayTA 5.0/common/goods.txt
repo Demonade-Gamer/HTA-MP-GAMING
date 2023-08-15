@@ -37,10 +37,6 @@ raw_material_goods = {
 		cost = 2.0
 		color = { 255 255 255 }
 	}
-	dye = {	
-		cost = 12.00
-		color = { 69 0 182 }
-	}
 	wool = { 
 		cost = 1.0
 		color = { 234 195 158 }
@@ -160,7 +156,7 @@ consumer_goods = {
 		color = { 128 98 73 }
 	}
 	fruit = {
-		cost = 1.8
+		cost = 1.5
 		color = { 255 0 0 }
 	}
 	grain = { 

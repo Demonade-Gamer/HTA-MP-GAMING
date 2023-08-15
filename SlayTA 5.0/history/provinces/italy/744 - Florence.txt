@@ -1,6 +1,6 @@
-owner = TUS
-controller = TUS
-add_core = TUS
+owner = NPL
+controller = NPL
+add_core = NPL
 trade_goods = fruit
 life_rating = 35
 state_building = {

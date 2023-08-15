@@ -13,7 +13,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 2"
@@ -22,7 +22,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 3"
@@ -31,7 +31,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 4"
@@ -40,7 +40,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 leader = {
 	name = "Base guy 5"
@@ -49,7 +49,7 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.501
+	prestige = 0.001
 }
 army = {
 	name = "2nd gamer stack"
@@ -188,20 +188,20 @@ army = {
 	}
 }
 army = {
-	name = "Panaja Divisie"
+	name = "PABNja Divisie"
 	location = 1455
 	regiment = {
-		name = "1e Panaja Brigade"
+		name = "1e PABNja Brigade"
 		type = hussar
 		home = 1455
 	}
 	regiment = {
-		name = "2e Panaja Brigade"
+		name = "2e PABNja Brigade"
 		type = artillery
 		home = 1457
 	}
 	regiment = {
-		name = "3e Panaja Brigade"
+		name = "3e PABNja Brigade"
 		type = artillery
 		home = 1456
 	}
@@ -282,7 +282,7 @@ navy = {
 }
 
 navy = {
-	name = "Panajaner Eskader"
+	name = "PABNjaner Eskader"
 	location = 1455 #Manila
 	
 	
@@ -306,22 +306,22 @@ navy = {
 		type = frigate
 	}
 	ship = {
-		name = "1e Panajaner Transport"
+		name = "1e PABNjaner Transport"
 		type = clipper_transport
 	}
 	
 	ship = {
-		name = "2e Panajaner Transport"
+		name = "2e PABNjaner Transport"
 		type = clipper_transport
 	}
 	
 	ship = {
-		name = "3e Panajaner Transport"
+		name = "3e PABNjaner Transport"
 		type = clipper_transport
 	}
 	
 	ship = {
-		name = "4e Panajaner Transport"
+		name = "4e PABNjaner Transport"
 		type = clipper_transport
 	}
 }
@@ -331,7 +331,7 @@ ai = {
 	consolidate = yes
 	date = "1836.1.1"
 	static = no
-	personality = balanced
+	personality = bold
 
 	antagonize = { id="BRB" value=150 }
 	antagonize = { id="XHO" value=100 }
@@ -340,10 +340,10 @@ ai = {
 	antagonize = { id="BSH" value=100 }
 
 	rival = { id="BRB" value=150 }
-	rival = { id="AEN" value=50 }
+	rival = { id="FRA" value=500 }
+	rival = { id="BRN" value=150 }
 	rival = { id="HIS" value=40 }
 
-	befriend = { id="BRA" value=100 }
 	befriend = { id="WLL" value=50 }
 
 	threat = { id="BRB" value=150 }
@@ -352,8 +352,9 @@ ai = {
 	threat = { id="ZUL" value=100 }
 	threat = { id="BSH" value=100 }
 	threat = { id="BAL" value=100 }
-	threat = { id="GER" value=30 }
-	threat = { id="NGF" value=30 }
+	threat = { id="GER" value=100 }
+	threat = { id="NGF" value=100 }
+	threat = { id="SGF" value=100 }
 
 	conquer_prov = { id = 2100 value = 50 }
 	conquer_prov = { id = 2113 value = 20 }
@@ -361,6 +362,10 @@ ai = {
 	conquer_prov = { id = 2114 value = 40 }
 	conquer_prov = { id = 2082 value = 20 }
 	conquer_prov = { id = 1438 value = 20 }
-	conquer_prov = { id = 380 value = 50 }
+	conquer_prov = { id = 405 value = 60 }
+	conquer_prov = { id = 392 value = 60 }
+	conquer_prov = { id = 399 value = 60 }
+	conquer_prov = { id = 425 value = 60 }
+	conquer_prov = { id = 415 value = 60 }
 }
 	

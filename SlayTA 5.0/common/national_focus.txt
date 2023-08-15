@@ -184,7 +184,6 @@ production_focus =
 		luxury_clothes = 18.3
 		regular_clothes = 18.3
 		fabric = 18.3
-		dye = 18.3
 		icon = 20
 		#limit = { 
 		#	civilized = yes
