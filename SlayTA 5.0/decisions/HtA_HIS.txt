@@ -59,7 +59,7 @@ political_decisions = {
 				}
 			}
 			NOT = { truce_with = POR }
-			nationalism_n_imperialism = 1
+			state_n_government = 1
 		}
 		
 		effect = {
@@ -116,7 +116,7 @@ political_decisions = {
 			war = no
 			NOT = { truce_with = NAV }
 			relation = { who = NAV value = 150 }
-			nationalism_n_imperialism = 1
+			state_n_government = 1
 		}
 		
 		effect = {
@@ -231,7 +231,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			nationalism_n_imperialism = 1 
+			state_n_government = 1 
 			NAV = { in_sphere = THIS }
 			NOT = { truce_with = NAV }
 		}
@@ -317,7 +317,7 @@ political_decisions = {
 		allow = {
 			SIC = { all_core = { owned_by = THIS } }
 			SRD = { all_core = { owned_by = THIS } }
-			CRS = { all_core = { add_core = HIS } }
+			CRS = { all_core = { owned_by = HIS } }
 		}
 		effect = {
 			set_country_flag = med_islands_claimed
