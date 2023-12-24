@@ -386,27 +386,27 @@
         size = 14575
     }
     aristocrats = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 200
     }
     clergymen = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 100
     }
     artisans = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 550
     }
     soldiers = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 1125
     }
     farmers = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 10025
     }
@@ -415,27 +415,27 @@
 #Alma-Ata (88000/22000 POPS)
 1186 = {
     aristocrats = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 200
     }
     clergymen = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 100
     }
     artisans = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 600
     }
     soldiers = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 550
     }
     farmers = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 10975
     }
@@ -465,32 +465,32 @@
         size = 29575
     }
 }
-#Khwarazm Region (168000) #see Uzbekistan.txt and Turkmenistan.txt for balance of region
+#Khwarazm Region (168000) #see kazakistan.txt and kazakistan.txt for balance of region
 #under the rule of the Kazakh Khanate in 1836
 #Kyzylorda/Aq Mechet (108000/27000 POPS)
 1193 = {
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 550
     }
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 250
     }
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 1400
     }
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 1300
     }
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 25775
     }
@@ -576,32 +576,32 @@
         size = 6425
     }
 }
-#Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region
+#Mawarannahr Region (180000) #see kazakistan.txt, kazakistan.txt, Kirghizstan.txt for balance of region
 #under the rule of Bukhara in 1836
 #Shymkent (180000/45000 POPS) #now part of Kazakhstan
 1197 = {
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 250
     }
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 125
     }
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 750
     }
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 150
     }
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 13725
     }

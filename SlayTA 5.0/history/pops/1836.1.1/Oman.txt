@@ -63,17 +63,17 @@
 		size = 2850
 	}
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 50
 	}
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 25
 	}
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 925
 	}
@@ -222,17 +222,17 @@
 		size = 1850
 	}
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 50
 	}
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 25
 	}
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 925
 	}

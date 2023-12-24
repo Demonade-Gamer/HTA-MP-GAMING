@@ -492,25 +492,25 @@
 #Leh (196000/49000 POPS)
 1226 = {
     aristocrats = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = uighur
+        culture = kazak
         religion = sunni
         size = 36850
     }

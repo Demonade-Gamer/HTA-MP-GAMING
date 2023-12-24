@@ -2440,8 +2440,8 @@ rgo_changed = {
 }
 
 switched_production = {
-	local_RGO_output = -0.50
-	local_RGO_throughput = -0.50
+	local_RGO_output = -0.01
+	local_RGO_throughput = -0.01
 	icon = 14
 }
 

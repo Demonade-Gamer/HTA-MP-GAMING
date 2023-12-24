@@ -1,59 +1,59 @@
-#Khwarazm Region (40000) #see Uzbekistan.txt and Kazakhstan.txt for balance of region 
+#Khwarazm Region (40000) #see kazakistan.txt and Kazakhstan.txt for balance of region 
 #under the rule of Khiva in 1836  
-#Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
+#Dashhowuz (40000/10000 POPS) #now part of kazakistan  
 1196 = {
 	aristocrats = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 175
 	}
 	clergymen = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 	artisans = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 450
 	}
 	soldiers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 100
 	}
 	farmers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 9200
 	}
 }
-#Turkmenia Region (368000) 
+#kazakia Region (368000) 
 #under the rule of Khiva in 1836  
 #Ashkabad (148000/32000 POPS)   
 1204 = {
 	aristocrats = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 550
 	}
 	clergymen = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 275
 	}
 	artisans = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 1250
 	}
 	soldiers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 300
 	}
 	farmers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 19675
 	}
@@ -81,27 +81,27 @@
 #Kizil Arvut (88000/22000 POPS)   
 1205 = {
 	aristocrats = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 375
 	}
 	clergymen = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 175
 	}
 	artisans = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 850
 	}
 	soldiers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 200
 	}
 	farmers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 12400
 	}
@@ -155,27 +155,27 @@
 		size = 1825
 	}
 	aristocrats = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 400
 	}
 	clergymen = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 225
 	}
 	artisans = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 1100
 	}
 	soldiers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 250
 	}
 	farmers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 21025
 	}

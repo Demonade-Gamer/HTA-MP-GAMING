@@ -48,7 +48,6 @@ political_decisions = {
 			prestige = 5
 			set_country_flag = cymru_claimed
 			add_accepted_culture = cymry
-			add_accepted_culture = cornish
 		}
 		ai_will_do = {
 			factor = 1
@@ -233,7 +232,6 @@ political_decisions = {
 			prestige = 5
 			ENG_273 = { add_core = CLT }
 			add_accepted_culture = cymry
-			add_accepted_culture = cornish
 			set_country_flag = wales_cornwall_claimed
 		}
 		ai_will_do = {

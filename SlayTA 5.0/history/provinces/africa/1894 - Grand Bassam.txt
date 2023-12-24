@@ -1,4 +1,5 @@
-
+owner = HIS
+controller = HIS
 
 add_core = ASH
 trade_goods = cattle

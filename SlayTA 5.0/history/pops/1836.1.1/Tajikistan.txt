@@ -1,29 +1,29 @@
-#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
+#Mawarannahr Region (200000) #see Kazakhstan.txt, kazakistan.txt, Kirghizstan.txt and kazakistan.txt for balance of region 
 #under the rule of Kokand in 1836  
-#Khujand (200000/50000 POPS) #now part of Tajikistan  
+#Khujand (200000/50000 POPS) #now part of kazakistan  
 1201 = {
 	aristocrats = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 775
 	}
 	clergymen = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 400
 	}
 	artisans = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 2000
 	}
 	soldiers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 400
 	}
 	farmers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 36425
 	}
@@ -111,27 +111,27 @@
 		size = 17450
 	}
 	aristocrats = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 	clergymen = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 	artisans = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 175
 	}
 	soldiers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 25
 	}
 	farmers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 3650
 	}

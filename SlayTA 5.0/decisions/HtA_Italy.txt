@@ -190,6 +190,11 @@ political_decisions = {
 					add_core = ITA
 				}
 			}
+			RMG = {
+				all_core = {
+					add_core = ITA
+				}
+			}
 		}
 		ai_will_do = {
 			factor = 1
@@ -204,7 +209,7 @@ political_decisions = {
 		picture = marching_soldiers
 		potential = {
 			tag = ITA
-			NOT = { accepted_culture = maretan }
+			NOT = { has_country_flag = maretans_are_italian }
 		}
 		
 		allow = {
@@ -224,7 +229,7 @@ political_decisions = {
 					add_core = ITA
 				}
 			}
-			add_accepted_culture = maretan
+			set_country_flag = maretans_are_italian
 		}
 		ai_will_do = {
 			factor = 1

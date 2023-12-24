@@ -244,22 +244,9 @@ classless_society_modifier_desc;Your people have created a Classless Society.;;;
 #Additional States;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 DEB_1;Debug Islands;;;;;;;;;;;;;x;;
-ALD_1700;Algiers;;;;;;;;;;;;;x;;
+ALD_1700;Algeria;;;;;;;;;;;;;x;;
 TUR_923;Iraq;;;;;;;;;;;;;x;;
 RUS_999;Poltava;;;;;;;;;;;;;x;;
-#############################################;;;;;;;;;;;;;;x
-#Additional Cultures;;;;;;;;;;;;;;x
-#############################################;;;;;;;;;;;;;;x
-aryan;Aryan;;;;;;;;;x;;;;
-turkic;Turkic;;;;;;;;;x;;;;
-bantu;Bantu;;;;;;;;;x;;;;
-austronesian;Austronesian;;;;;;;;;x;;;;
-niger_congo_a;Niger-Congo A;;;;;;;;;x;;;;
-nilo_saharan;Nilo-Saharan;;;;;;;;;x;;;;
-afro_asiatic;Afro-Asiatic;;;;;;;;;x;;;;
-indo_aryan;Indo-Aryan;;;;;;;;;x;;;;
-dravidian;Dravidian;;;;;;;;;x;;;;
-andean;Andean;;;;;;;;;x;;;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Generic Fixes and Additions;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x

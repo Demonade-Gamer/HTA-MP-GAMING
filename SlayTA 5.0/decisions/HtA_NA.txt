@@ -276,7 +276,6 @@ invade_the_mexicans_scw = {
 		}
 		effect = {
 			add_accepted_culture = meikan
-			add_accepted_culture = nahua
 			add_accepted_culture = mellomsk
 			set_country_flag = mexico_invaded_scw
 		}
@@ -508,7 +507,6 @@ invade_the_mexicans_scw = {
 		}
 		effect = {
 			add_accepted_culture = meikan
-			add_accepted_culture = nahua
 			add_accepted_culture = skamisc
 			add_accepted_culture = margarian
 			YUC = { all_core = { add_core = MEL } }

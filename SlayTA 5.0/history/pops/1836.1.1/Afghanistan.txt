@@ -559,27 +559,27 @@
 #Faizabad (340000/85000 POPS)
 1210 = {
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 125
     }
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 63
     }
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 350
     }
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 1100
     }
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 5512
     }

@@ -4115,31 +4115,31 @@
     }
 
     farmers = {
-        culture = aquitanian
+        culture = basque
         religion = catholic
         size = 9000
     }
 
     aristocrats = {
-        culture = aquitanian
+        culture = basque
         religion = catholic
         size = 70
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = basque
         religion = catholic
         size = 190
     }
 
     artisans = {
-        culture = aquitanian
+        culture = basque
         religion = catholic
         size = 1900
     }
 
     soldiers = {
-        culture = aquitanian
+        culture = basque
         religion = catholic
         size = 150
     }

@@ -602,7 +602,7 @@
         size = 890
     }
     farmers = {
-        culture = maltese
+        culture = sicilian
         religion = catholic
         size = 3000
     }

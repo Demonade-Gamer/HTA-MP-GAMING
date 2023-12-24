@@ -510,7 +510,6 @@ aquitanian = {
 		"Folc de Cardona" Gumerà Irla Llauder Macià Maragall Margall "Milans del Bosch" Miró Mompou
 		Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba 
 		Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
-		radicalism = 10
 	}
 }
 
@@ -547,27 +546,6 @@ gallo_romance = {
 	}	
 }
 
-italic_isolate = {
-	leader = european
-	unit = EuropeanGC	
-	maltese = { #More Norman-influenced and less Semitic-influenced than OTL
-		color = {100 150 120}
-		first_names = { Alessandru Beru Duminku Enrico Fernardu Frangisku Gabriel Ferlad Gorg
-		Karmenu Lawrenz Marju Mikiel Ninu Pawlu Rokku Saber Ugo Valent }
-		
-		last_names = { Abela Adami Azzopardi Boffa Borg Buhagiar Cassar Farrugia Frendo Gonzi
-		Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Vella }
-		primary = MLT
-	}
-	maretan = { #The damn islands (Corsica and Sardinia) were "Norwegian culture" in CK2. I'm gonna call this less Italian than it even is OTL
-		color = { 201 168 166 }
-		first_names = { Agostino Amadeu Stefanu Boniface Conradu Vittoriu Dario Cesare Edmondo Gaspare 
-		Benedetto Emanuele Antone Francescu Samperu Raimondu Ericcu Ernestu }
-		
-		last_names = { Leca Sanguinetti Ghjilormu Colonna Luciani Cesari Peretti Graziani Paoli Angeli
-		Pignatelli "Doria di Cirié" Asinari Alfiri Homo Torre Buonaparte Acquaviva }
-	}
-}
 
 italian = {
 	leader = european
@@ -734,21 +712,6 @@ polish_culture_group = {
 	
 	polish = {
 		color = {255 120 120}
-		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
-		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
-		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
-		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
-		Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
-
-		last_names = { Bem Bór-Komorowski Brzóska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
-		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
-		Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
-		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
-		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
-		radicalism = 10
-	}
-	western_slavic = {
-		color = {147 63 109}
 		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
 		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
 		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik

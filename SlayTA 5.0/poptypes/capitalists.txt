@@ -22,9 +22,9 @@ can_build = yes
 
 everyday_needs = {
 	coal = 20
-	paper = 25
-	regular_clothes = 40
-	furniture = 40
+	paper = 20
+	luxury_clothes = 40
+	luxury_furniture = 40
 	tobacco = 20 
 	coffee = 20
 	cattle = 2.5
@@ -33,7 +33,7 @@ everyday_needs = {
 life_needs = {
 	cattle = 0.75
 	wool =  0.85
-	fish =  1.05
+	fish =  1
 	fruit =  1
 	grain =  2.5
 	wine = 10
@@ -41,20 +41,18 @@ life_needs = {
 
 
 luxury_needs = {
-	luxury_clothes = 40
-	luxury_furniture = 40
 	opium = 20
-	#oil = 10
-	#rubber = 10
+	oil = 10
+	rubber = 10
 	telephones = 20
 	automobiles = 20
-	#aeroplanes = 5
+	aeroplanes = 5
 	radio = 20
-	#fuel = 20
+	fuel = 20
 	#ammunition = 1 
 	#small_arms = 1 
-	#clipper_convoy = 2.5
-	#steamer_convoy = 2
+	clipper_convoy = 2
+	steamer_convoy = 2
 }
 
 
@@ -62,10 +60,6 @@ country_migration_target =
 {
 	factor = 1
 
-	modifier = {
-		factor = -1000
-		has_country_flag = ghostland
-	}
 	modifier = {
 		factor = 0.9
 		unemployment = 0.05
@@ -107,106 +101,39 @@ country_migration_target =
 		THIS = { religion = jewish }
 		any_owned_province = { is_core = ISR }
 	}
-#	modifier = {
-#		factor = 10.0
-#		has_country_flag = new_world_nation
-#		nationalvalue = nv_liberty
-#	}
 	modifier = {
 		factor = 10.0
-		has_country_flag = north_american_immigrant_nation
-		OR = {
-			AND = {
-				year = 1836
-				month = 0
-				NOT = { month = 1 }
-			}
-			AND = {
-				year = 1836
-				month = 2
-				NOT = { month = 3 }
-			}
-			AND = {
-				year = 1836
-				month = 4
-				NOT = { month = 5 }
-			}
-			AND = {
-				year = 1836
-				month = 6
-				NOT = { month = 7 }
-			}
-			AND = {
-				year = 1836
-				month = 8
-				NOT = { month = 9 }
-			}
-			AND = {
-				year = 1836
-				month = 10
-				NOT = { month = 11 }
-			}
-		}
-	}
-	modifier = {
-		factor = 10.0
-		has_country_flag = south_american_immigrant_nation
-		OR = {
-			AND = {
-				year = 1836
-				month = 1
-				NOT = { month = 2 }
-			}
-			AND = {
-				year = 1836
-				month = 3
-				NOT = { month = 4 }
-			}
-			AND = {
-				year = 1836
-				month = 5
-				NOT = { month = 6 }
-			}
-			AND = {
-				year = 1836
-				month = 7
-				NOT = { month = 8 }
-			}
-			AND = {
-				year = 1836
-				month = 9
-				NOT = { month = 10 }
-			}
-		}
+		has_country_flag = new_world_nation
+		nationalvalue = nv_liberty
 	}
 	modifier = {
         factor = -1000.0
 		has_global_flag = fuck_ai_immigration
 		ai = yes
     }
-#	modifier = {
-#		factor = 0.1
-#		has_country_flag = new_world_nation
-#		nationalvalue = nv_liberty
-#		NOT = {
-#			any_owned_province = {
-#				OR = {
-#					AND = {
-#						has_pop_type = labourers
-#						NOT = { unemployment_by_type = { value = 0.1 type = labourers } }
-#					}
-#					AND = {
-#						has_pop_type = farmers
-#						NOT = { unemployment_by_type = { value = 0.1 type = farmers } }
-#					}
-#					AND = {
-#						state_scope = { has_factories = yes }
-#						NOT = { unemployment_by_type = { value = 0.1 type = craftsmen } }
-#					}
-#				}
-#			}
-#		}
-#	}
+	modifier = {
+		factor = 0.1
+		has_country_flag = new_world_nation
+		nationalvalue = nv_liberty
+		NOT = {
+			any_owned_province = {
+				OR = {
+					AND = {
+						has_pop_type = labourers
+						NOT = { unemployment_by_type = { value = 0.1 type = labourers } }
+					}
+					AND = {
+						has_pop_type = farmers
+						NOT = { unemployment_by_type = { value = 0.1 type = farmers } }
+					}
+					AND = {
+						state_scope = { has_factories = yes }
+						NOT = { unemployment_by_type = { value = 0.1 type = craftsmen } }
+					}
+				}
+			}
+		}
+	}
 }
 
 migration_target =
@@ -238,10 +165,12 @@ migration_target =
 	}	
 	modifier = {
 		factor = 0
-			state_scope = {
-				has_factories = no
+					AND = {
+				state_scope = {
+					has_factories = no
+				}
+				can_build_factory = no
 			}
-			can_build_factory = no
 		OR = { 
 			unemployment_by_type = { type = farmers value = 0.1  }
 			unemployment_by_type = { type = labourers value = 0.1  }
@@ -274,6 +203,11 @@ migration_target =
 		state_scope = {
 			is_slave = yes
 		}
+	}
+	modifier = {
+		factor = 4
+		this = { religion = jewish }
+		is_core = ISR 
 	}
 	modifier = {
 		factor = 2
@@ -570,7 +504,7 @@ promote_to =
 		modifier = {
 			factor = -100
 			state_scope = {
-				officers = 0.004
+				officers = 0.002
 			}
 		}		
 
@@ -851,10 +785,12 @@ promote_to =
 
 		modifier = {
 			factor = 10
+			AND = {
 				state_scope = {
 					has_factories = no
 				}
 				can_build_factory = no
+			}
 		}
 	}
 	
@@ -1270,6 +1206,10 @@ ideologies = {
 		modifier = {
 			factor = 1.1
 			NOT = { is_ideology_enabled = anarcho_liberal }
+		}
+		modifier = {
+			factor = 1.1
+			nationalvalue = nv_liberty
 		}
 		modifier = {
 			factor = 1.1
@@ -2090,6 +2030,31 @@ issues =
 		}
 		modifier = {
 			factor = 1.1
+			nationalvalue = nv_liberty 
+			consciousness = 5
+		}
+		modifier = {
+			factor = 1.1
+			nationalvalue = nv_liberty 
+			consciousness = 6
+		}
+		modifier = {
+			factor = 1.1
+			nationalvalue = nv_liberty 
+			consciousness = 7
+		}
+		modifier = {
+			factor = 1.1
+			nationalvalue = nv_liberty 
+			consciousness = 8
+		}
+		modifier = {
+			factor = 1.1
+			nationalvalue = nv_liberty 
+			consciousness = 9
+		}
+		modifier = {
+			factor = 1.1
 			NOT = { is_primary_culture = yes }
 			NOT = { is_accepted_culture = yes }
 			consciousness = 5
@@ -2648,7 +2613,7 @@ issues =
 		}
 		modifier = {
 			factor = 0.25
-			NOT = { literacy = 0.50 }
+			NOT = { literacy = 50 }
 		}
 		modifier = {
 			factor = 1.25
@@ -2693,7 +2658,7 @@ issues =
 		}
 		modifier = {
 			factor = 0.25
-			NOT = { literacy = 0.50 }
+			NOT = { literacy = 50 }
 		}
 		modifier = {
 			factor = 1.25

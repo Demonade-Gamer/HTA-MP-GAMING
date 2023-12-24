@@ -161,7 +161,6 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = south_italian
 			add_accepted_culture = sicilian
-			add_accepted_culture = maretan
 			prestige = 25
 		}
 	}

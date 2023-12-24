@@ -59,7 +59,7 @@ political_decisions = {
 				}
 			}
 			NOT = { truce_with = POR }
-			state_n_government = 1
+			nationalism_n_imperialism = 1
 		}
 		
 		effect = {
@@ -116,7 +116,7 @@ political_decisions = {
 			war = no
 			NOT = { truce_with = NAV }
 			relation = { who = NAV value = 150 }
-			state_n_government = 1
+			nationalism_n_imperialism = 1
 		}
 		
 		effect = {
@@ -134,28 +134,6 @@ political_decisions = {
 			modifier = {
 				factor = 0
 				badboy = 0.8
-			}
-		}
-	}
-	
-	embrace_galicians = {
-		picture = map_galicia
-		potential = {
-			tag = HIS
-			any_owned_province = { culture = galician }
-			NOT = { accepted_culture = galician	}
-		}
-		
-		allow = {
-			state_n_government = 1
-		}
-		
-		effect = {
-			add_accepted_culture = galician
-			any_pop = {
-				limit = { has_pop_culture = galician }
-				consciousness = -4
-				militancy = -4
 			}
 		}
 	}
@@ -231,7 +209,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			state_n_government = 1 
+			nationalism_n_imperialism = 1 
 			NAV = { in_sphere = THIS }
 			NOT = { truce_with = NAV }
 		}
@@ -317,14 +295,13 @@ political_decisions = {
 		allow = {
 			SIC = { all_core = { owned_by = THIS } }
 			SRD = { all_core = { owned_by = THIS } }
-			CRS = { all_core = { owned_by = HIS } }
+			CRS = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			set_country_flag = med_islands_claimed
 			SIC = { all_core = { add_core = HIS } }
 			SRD = { all_core = { add_core = HIS } }
 			CRS = { all_core = { add_core = HIS } }
-			add_accepted_culture = maretan
 			add_accepted_culture = sicilian
 		}
 		ai_will_do = {

@@ -55,6 +55,7 @@ social_reformed_nation = {
 		}
 		
 	social_reform_desire = -1.0
+	global_pop_militancy_modifier = -0.5
 	icon = 13
 }
 

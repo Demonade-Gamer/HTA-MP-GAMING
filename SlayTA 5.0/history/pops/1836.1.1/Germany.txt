@@ -2184,7 +2184,7 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = protestant
         size = 300
     }
@@ -2214,13 +2214,13 @@
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = protestant
         size = 55000
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 100
     }
@@ -2232,7 +2232,7 @@
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 7100
     }
@@ -5526,25 +5526,25 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 21500
     }

@@ -1252,7 +1252,7 @@
         size = 1550
     }
     aristocrats = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 250
     }
@@ -1262,7 +1262,7 @@
         size = 1625
     }
     clergymen = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 625
     }
@@ -1272,12 +1272,12 @@
         size = 5500
     }
     artisans = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 2000
     }
     soldiers = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 1100
     }
@@ -1287,7 +1287,7 @@
         size = 40625
     }
     farmers = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 30625
     }
@@ -1300,7 +1300,7 @@
         size = 1200
     }
     aristocrats = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 300
     }
@@ -1310,7 +1310,7 @@
         size = 450
     }
     clergymen = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 850
     }
@@ -1320,7 +1320,7 @@
         size = 1500
     }
     artisans = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 4000
     }
@@ -1330,7 +1330,7 @@
         size = 550
     }
     soldiers = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 1600
     }
@@ -1340,7 +1340,7 @@
         size = 66250
     }
     farmers = {
-        culture = cornish
+        culture = cymry
         religion = catholic
         size = 126250
     }

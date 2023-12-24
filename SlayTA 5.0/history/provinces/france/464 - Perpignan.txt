@@ -3,4 +3,5 @@ controller = AQT
 add_core = AQT
 trade_goods = grain
 life_rating = 35
+terrain = forest
 

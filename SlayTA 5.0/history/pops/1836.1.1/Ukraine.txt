@@ -2933,7 +2933,7 @@
     farmers = {
         culture = ruthenian
         religion = orthodox
-        size = 20875
+        size = ruthenian
     }
 
     farmers = {

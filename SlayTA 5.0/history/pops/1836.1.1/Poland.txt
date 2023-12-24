@@ -95,25 +95,25 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 1825
     }
@@ -151,25 +151,25 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 1825
     }
@@ -209,25 +209,25 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 850
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 2200
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 28425
     }
@@ -249,55 +249,55 @@
 #Breslau (936000/234000 POPS)
 682 = {
     aristocrats = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 750
     }
 
     bureaucrats = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 1200
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 750
     }
 
     clerks = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 825
     }
 
     craftsmen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 3500
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 4000
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 475
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 55780
     }
@@ -455,31 +455,31 @@
 #Liegnitz (484000/121000 POPS)
 683 = {
     aristocrats = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 900
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 425
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 2550
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 45400
     }
@@ -957,13 +957,13 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 2575
     }
@@ -1043,13 +1043,13 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 8200
     }
@@ -1135,25 +1135,25 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 110
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 180
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 5425
     }
@@ -1459,25 +1459,25 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 2250
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 225
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 22190
     }
@@ -1587,25 +1587,25 @@
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 255
     }
 
     artisans = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = western_slavic
+        culture = silesian
         religion = catholic
         size = 16375
     }

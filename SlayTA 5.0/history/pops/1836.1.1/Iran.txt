@@ -735,31 +735,31 @@
     }
 
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 350
     }
 
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 900
     }
 
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 26400
     }
@@ -995,7 +995,7 @@
     }
 
     slaves = {
-        culture = baluchi
+        culture = pashtun
         religion = sunni
         size = 2200
     }
@@ -1039,7 +1039,7 @@
     }
 
     slaves = {
-        culture = baluchi
+        culture = pashtun
         religion = sunni
         size = 5000
     }
@@ -1467,7 +1467,7 @@
     }
 
     slaves = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 4000
     }
@@ -1561,7 +1561,7 @@
     }
 
     slaves = {
-        culture = baluchi
+        culture = pashtun
         religion = sunni
         size = 2200
     }
@@ -2879,31 +2879,31 @@
     }
 
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 400
     }
 
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 20100
     }
@@ -3053,31 +3053,31 @@
     }
 
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 400
     }
 
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 850
     }
 
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 10450
     }

@@ -3,22 +3,22 @@
 #Kashgar (268000/67000 POPS)
 1594 = {
 	aristocrats = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 1100
 	}
 	bureaucrats = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 250
 	}
 	officers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 325
 	}
 	clergymen = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 525
 	}
@@ -29,42 +29,42 @@
 	}	
 	
 	artisans = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 2600
 	}
 	soldiers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 2525
 	}
 	farmers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 61775
 	}
 	aristocrats = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 225
 	}
 	clergymen = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 125
 	}
 	artisans = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 575
 	}
 	soldiers = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 100
 	}
 	farmers = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 10975
 	}
@@ -84,12 +84,12 @@
 		size = 1450
 	}
 	clergymen = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 25
 	}
 	artisans = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 975
 	}
@@ -97,33 +97,33 @@
 #Ili (168000/42000 POPS)
 1595 = {
 	aristocrats = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 575
 	}
 	
 	bureaucrats = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 150
 	}
 	clergymen = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 300
 	}
 	artisans = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 1500
 	}
 	soldiers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 300
 	}
 	farmers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 27325
 	}
@@ -212,22 +212,22 @@
 #Tulta (88000/22000 POPS)
 1596 = {
 	aristocrats = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 125
 	}
 	clergymen = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 	artisans = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 350
 	}
 	soldiers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
@@ -315,27 +315,27 @@
 #Aksu (192000/48000 POPS)
 1597 = {
 	aristocrats = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 950
 	}
 	clergymen = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 550
 	}
 	artisans = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 2400
 	}
 	soldiers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 550
 	}
 	farmers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 43650
 	}
@@ -343,27 +343,27 @@
 #Khotan (88000/22000 POPS)
 1598 = {
 	aristocrats = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 425
 	}
 	clergymen = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 225
 	}
 	artisans = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 1100
 	}
 	soldiers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 225
 	}
 	farmers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 20025
 	}
@@ -376,22 +376,22 @@
 		size = 850
 	}
 	clergymen = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 425
 	}
 	artisans = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 2150
 	}
 	soldiers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 425
 	}
 	farmers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 19200
 	}
@@ -464,7 +464,7 @@
 		size = 1675
 	}
 	farmers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 20225
 	}
@@ -572,27 +572,27 @@
 #Lopnur (32000/8000 POPS)
 2607 = {
 	aristocrats = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 	clergymen = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 50
 	}
 	artisans = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 250
 	}
 	soldiers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 50
 	}
 	farmers = {
-		culture = uighur
+		culture = kazak
 		religion = sunni
 		size = 4575
 	}
