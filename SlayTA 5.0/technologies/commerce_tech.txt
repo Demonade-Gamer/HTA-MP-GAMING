@@ -372,59 +372,179 @@ market_determined_exchange_rates = {
 early_classical_theory_and_critique = {
 	area = economic_thought_and_critique
 	year = 1836
-	cost = 1
+	cost = 3600
 	
+	activate_building = lumber_mill
+	factory_input = -0.01
 	ai_chance = {
-		factor = 0.5
+		factor = 2
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}
 	}
 }
 late_classical_theory = {
 	area = economic_thought_and_critique
 	year = 1836
-	cost = 1
+	cost = 7200
 
+	factory_input = -0.01
 	ai_chance = {
-		factor = 100
+		factor = 1.01
+		modifier = {
+			factor = 1.02
+			industrial_score = 250 #10
+		}
+		modifier = {
+			factor = 1.02
+			industrial_score = 350 #50
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
 	}
 }
 collectivist_theory = {
 	area = economic_thought_and_critique
-	year = 1850
-	cost = 1
+	year = 1848
+	cost = 10800
 
+	factory_input = -0.01
 	ai_chance = {
-		factor = 100
+		factor = 1.01
+		modifier = {
+			factor = 1.02
+			industrial_score = 300 #100
+		}
+		modifier = {
+			factor = 1.02
+			industrial_score = 350 #150
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
 	}
 }
 the_historical_theory = {
 	area = economic_thought_and_critique
-	year = 1865
-	cost = 1
+	year = 1870
+	cost = 14400
 
+	factory_input = -0.01
 	ai_chance = {
-		factor = 100
+		factor = 1.01
+		modifier = {
+			factor = 1.02
+			industrial_score = 500 #200
+		}
+		modifier = {
+			factor = 1.02
+			industrial_score = 700 #250
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
 	}
 }
 neoclassical_theory = {
 	area = economic_thought_and_critique
-	year = 1880
-	cost = 1
+	year = 1900
+	cost = 18000
 
+	factory_input = -0.01
 	ai_chance = {
-		factor = 100
+		factor = 1
+		modifier = {
+			factor = 1.02
+			industrial_score = 700 #400
+		}
+		modifier = {
+			factor = 1.02
+			industrial_score = 900 #500
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
 	}
 }
 keynesian_economics = {
 	area = economic_thought_and_critique
-	year = 1895
-	cost = 1
+	year = 1919
+	cost = 21600
 
+	factory_input = -0.01
 	ai_chance = {
-		factor = 100
+		factor = 1.01
+		modifier = {
+			factor = 1.02
+			industrial_score = 1500 #1000
+		}
+		modifier = {
+			factor = 1.02
+			industrial_score = 2000 #1500
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
 	}
 }
 
-#market functionality
+
+#market_functionality
 freedom_of_trade = {
 	area = market_functionality
 	year = 1836
@@ -526,12 +646,8 @@ market_regulations = {
 	cost = 14400
 
 	influence = 0.2
-	rgo_goods_throughput = {
-		precious_metal = 0.05
-	}
-	rgo_size = {
-		precious_metal = 0.1
-	}
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -559,12 +675,8 @@ economic_responsibility = {
 	cost = 18000
 
 	influence = 0.2
-	rgo_goods_throughput = {
-		precious_metal = 0.05
-	}
-	rgo_size = {
-		precious_metal = 0.1
-	}
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -592,12 +704,8 @@ government_interventionism = {
 	cost = 21600
 
 	influence = 0.2
-	rgo_goods_throughput = {
-		precious_metal = 0.05
-	}
-	rgo_size = {
-		precious_metal = 0.1
-	}
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -628,12 +736,6 @@ guild_based_production = {
 	cost = 3600
 	activate_building = canned_food_factory 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -668,12 +770,6 @@ organized_factories = {
 	cost = 7200
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 		ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -708,12 +804,6 @@ scientific_management = {
 	cost = 10800
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -748,12 +838,6 @@ time_saving_measures = {
 	cost = 14400
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -776,12 +860,6 @@ management_strategy = {
 	cost = 18000
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -804,12 +882,6 @@ organizational_development = {
 	cost = 21600
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
