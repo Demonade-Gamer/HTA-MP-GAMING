@@ -175,9 +175,6 @@ political_decisions = {
 			123 = {
 				secede_province = THIS
 				add_core = THIS
-				#state_scope = {											#The state was originally called Oai, but since this causes the game to crash for some reason, I've just removed this and changed it to Oailand
-				#	change_region_name = "Oailand"
-				#}
 			}
 		}
 		
@@ -259,17 +256,8 @@ political_decisions = {
 		effect = {
 			110 = { secede_province = THIS add_core = THIS }
 			112 = { secede_province = THIS add_core = THIS }
-			122 = {
-				#secede_province = THIS #The game crashes on this
-				add_core = THIS
-			}
-			124 = {
-				#secede_province = THIS #The game crashes on this
-				add_core = THIS
-			}
 			prestige = 1
 			money = -5000
-			#SKM_110 = { secede_province = THIS add_core = THIS }
 		}
 		
 		ai_will_do = {

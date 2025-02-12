@@ -20,6 +20,7 @@ political_decisions = {
 				duration = -1
 			}
 			set_global_flag = geneva_convention_held
+			badboy = -1
 			prestige = 10
 		}
 	}
@@ -44,7 +45,6 @@ political_decisions = {
 				name = signed_the_geneva_convention
 				duration = -1
 			}
-			badboy = -1
 		}
 	}
 }

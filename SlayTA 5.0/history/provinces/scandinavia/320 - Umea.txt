@@ -1,7 +1,17 @@
 owner = FIN
 controller = FIN
 add_core = FIN
-add_core = SAM
-trade_goods = timber
-life_rating = 35
+trade_goods = coal
+life_rating = 35 
+naval_base = 1
+state_building = {
+	level = 1 
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = cement_factory
+	upgrade = yes
+}
 

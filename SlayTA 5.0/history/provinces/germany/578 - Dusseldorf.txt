@@ -1,10 +1,8 @@
-owner = BRA
-controller = BRA
-add_core = RHI
+owner = NAS
+controller = NAS
+add_core = NAS
 add_core = GER
 trade_goods = coal
 life_rating = 38
 railroad = 1
 
-
-add_core = BRA

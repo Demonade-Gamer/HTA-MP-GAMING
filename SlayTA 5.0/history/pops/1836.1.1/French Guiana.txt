@@ -3,32 +3,32 @@
 #Cayenne (17000/4250 POPS)
 2241 = {
     aristocrats = {
-        culture = aenglisc
+        culture = french
         religion = catholic
         size = 450
     }
     bureaucrats = {
-        culture = aenglisc
+        culture = french
         religion = catholic
         size = 30
     }
     clergymen = {
-        culture = aenglisc
+        culture = french
         religion = catholic
         size = 30
     }
     artisans = {
-        culture = aenglisc
+        culture = french
         religion = catholic
         size = 300
     }
     soldiers = {
-        culture = aenglisc
+        culture = french
         religion = catholic
         size = 550
     }
     farmers = {
-        culture = aenglisc
+        culture = french
         religion = catholic
         size = 240
     }

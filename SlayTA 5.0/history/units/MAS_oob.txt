@@ -46,13 +46,6 @@ BEN = {
 	value = -15
 }
 
-leader = {
-	name = "Seku Amadu"
-	type = land
-	date="1836.1.1"
-	personality = charismatic
-	background = innovative_tactician
-}
 army = {
 	name = "Army of the Massina Jihad"
 	location = 1804

@@ -154,21 +154,9 @@ country_event = {
 		SPA_2209 = {
 			any_pop = {
 				limit = {
-					has_pop_culture = caribeno
-					}
-				militancy = 3
-				}
-			any_pop = {
-				limit = {
 					has_pop_culture = afro_caribeno
 					}
 				militancy = 3
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = caribeno
-					}
-				consciousness = 3
 			}
 			any_pop = {
 				limit = {
@@ -425,8 +413,7 @@ country_event = {
 			nationalism_n_imperialism = 1
 			year = 1865
 		}
-		owns = 1689
-		MOR = {
+		MGH = {
 			neighbour = THIS
 			part_of_sphere = no
 			NOT = { truce_with = THIS }
@@ -450,13 +437,13 @@ country_event = {
 		leave_alliance = MGH
 		casus_belli = {
 			target = MGH
-			type = cut_down_to_size
+			type = establish_colonial_protectorate_casus_belli
 			months = 12
 		}
 		war = {
 			target = MGH
 			attacker_goal = {
-				casus_belli = cut_down_to_size
+				casus_belli = establish_colonial_protectorate_casus_belli
 			}
 		}
 		ai_chance = {

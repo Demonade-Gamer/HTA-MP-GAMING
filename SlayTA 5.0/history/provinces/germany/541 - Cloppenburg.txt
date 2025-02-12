@@ -1,11 +1,9 @@
-owner = NET
-controller = NET
-add_core = HAN
+owner = OLD
+controller = OLD
+add_core = OLD
 add_core = GER
+
 trade_goods = coal
 life_rating = 38
 
 
-
-add_core = BRA
-add_core = NET

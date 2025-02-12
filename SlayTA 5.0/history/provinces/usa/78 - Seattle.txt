@@ -6,7 +6,22 @@ life_rating = 40
 fort = 1
 naval_base = 1
 state_building = {
-	level = 2 
+	level = 2
 	building = lumber_mill
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
 	upgrade = yes
 }

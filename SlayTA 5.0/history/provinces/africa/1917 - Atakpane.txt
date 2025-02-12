@@ -1,6 +1,6 @@
 
 
-add_core = DAH
+#DAH
 trade_goods = coffee
-life_rating = 15
+life_rating = 20
 

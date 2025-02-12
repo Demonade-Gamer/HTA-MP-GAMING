@@ -24,7 +24,7 @@
     craftsmen = {
         culture = south_german
         religion = protestant
-        size = 3500
+        size = 23500
     }
     artisans = {
         culture = south_german
@@ -39,7 +39,7 @@
     farmers = {
         culture = south_german
         religion = protestant
-        size = 82590
+        size = 62590
     }
     aristocrats = {
         culture = south_german
@@ -74,7 +74,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 8725
+        size = 48725
     }
 }
 #Basel (272000/68000 POPS)
@@ -127,12 +127,12 @@
     farmers = {
         culture = french
         religion = catholic
-        size = 11000
+        size = 41000
     }
     farmers = {
         culture = south_german
         religion = catholic
-        size = 14800
+        size = 44800
     }
 }
 #Bern (352000/88000 POPS)
@@ -180,7 +180,7 @@
     farmers = {
         culture = south_german
         religion = protestant
-        size = 68000
+        size = 88000
     }
     farmers = {
         culture = french
@@ -218,7 +218,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 30975
+        size = 35975
     }
     farmers = {
         culture = south_german
@@ -260,7 +260,7 @@
         size = 1100
     }
     artisans = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 2000
     }
@@ -280,7 +280,7 @@
         size = 300
     }
     bureaucrats = {
-        culture = south_german
+        culture = aquitanian
         religion = catholic
         size = 160
     }
@@ -315,12 +315,12 @@
         size = 22230
     }
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 23230
     }
     farmers = {
-        culture = aquitanian
+        culture = south_german
         religion = catholic
         size = 20250
     }
@@ -401,6 +401,11 @@
         religion = catholic
         size = 250
     }
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 7675
+    }
     soldiers = {
         culture = north_italian
         religion = catholic
@@ -442,7 +447,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 6275
+        size = 16275
     }
     aristocrats = {
         culture = south_german
@@ -482,6 +487,6 @@
     farmers = {
         culture = south_german
         religion = protestant
-        size = 2075
+        size = 12075
     }
 }

@@ -72,26 +72,3 @@ leader = {
 	background = attack_1.1
 	prestige = 0.001
 }
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-
-	threat = { id="HOY" value = 50 }
-	threat = { id="MEL" value = 50 }
-	threat = { id="MEX" value = 50 }
-	threat = { id="GIN" value = 50 }
-	threat = { id="MRG" value = 50 }
-
-	rival = { id="SCW" value=100 }
-	rival = { id="SKM" value=100 }
-	rival = { id="SHC" value=250 }
-	rival = { id="NHL" value=500 }
-	rival = { id="QUE" value=500 }
-	rival = { id="HOY" value=50 }
-	rival = { id="MEL" value=100 }
-	rival = { id="MEX" value=50 }
-}

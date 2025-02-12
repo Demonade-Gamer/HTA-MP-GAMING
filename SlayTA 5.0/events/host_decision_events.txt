@@ -19,7 +19,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	immediate = {
-		CLN = {
+		JAN = {
 			country_event = 999990
 		}
 		FROM = {

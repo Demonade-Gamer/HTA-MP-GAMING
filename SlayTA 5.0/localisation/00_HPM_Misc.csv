@@ -335,8 +335,6 @@ nv_productivity;Productivity;;;;;;;;;;;;;;;;;;;;;;;;x
 nv_diplomacy;Diplomacy;;;;;;;;;;;;;;;;;;;;;;;;x
 nv_education;Education;;;;;;;;;;;;;;;;;;;;;;;;x
 french_claimed_the_rhine;French Claims on the Rhine;;;;;;;;;;;;;;;;;;;;;;;;x
-CANAL_5;Dardanelles Strait;;;;;;;;;;;;;;;;;;;;;;;;x
-CANAL_4;Bosphorus Strait;;;;;;;;;;;;;;;;;;;;;;;;x
 MODIFIER_LAND_ATTACK;Land Unit Attack;;;;;;;;;;;;;;;;;;;;;;;;;;x
 MODIFIER_NAVAL_ATTACK;Naval Unit Attack;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 MODIFIER_LAND_DEFENSE;Land Unit Defense;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

@@ -207,47 +207,7 @@ political_decisions = {
 		
 		ai_will_do = { factor = 0 }
 	}
-	
-	switch_to_autocracy = {
-		picture = switch_to_autocracy
-		potential = {
-			NOT = { nationalvalue = nv_autocracy }
-			#NOT = { has_country_flag = switched_nv }
-			has_country_flag = nv_change
-		}
 		
-		allow = {
-			war = no
-			NOT = { has_country_modifier = national_confusion }
-		}
-		
-		effect = {
-			clr_country_flag = nv_change
-			set_country_flag = switched_nv
-			nationalvalue = nv_autocracy
-			add_country_modifier = {
-				name = national_confusion
-				duration = 3650
-			}
-			any_pop = {
-				scaled_militancy = {
-					ideology = reactionary
-					factor = 3
-				}
-				scaled_militancy = {
-					ideology = conservative
-					factor = 2
-				}
-				scaled_militancy = {
-					ideology = liberal
-					factor = -2
-				}
-			}
-		}
-		
-		ai_will_do = { factor = 0 }
-	}
-	
 	switch_to_equality = {
 		picture = switch_to_equality
 		potential = {

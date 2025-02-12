@@ -1,9 +1,8 @@
-owner = BRA
-controller = BRA
-add_core = MNZ
+owner = BAV
+controller = BAV
 add_core = GER
 trade_goods = fruit
 life_rating = 38
+add_core = RHI
 
-
-add_core = BRA
+add_core = BAV

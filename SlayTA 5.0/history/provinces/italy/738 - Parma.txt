@@ -1,8 +1,14 @@
-owner = PDN
-controller = PDN
+owner = GEN
+controller = GEN
+add_core = GEN
+trade_goods = grain
+life_rating = 35 
 
-trade_goods = iron
-life_rating = 35
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}
 
 
 add_core = PDN

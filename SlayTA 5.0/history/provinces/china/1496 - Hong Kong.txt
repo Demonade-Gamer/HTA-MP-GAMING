@@ -1,6 +1,6 @@
 owner = GXI
 controller = GXI
 add_core = GXI
-trade_goods = fish
-life_rating = 40
+trade_goods = silk
+life_rating = 35 
 

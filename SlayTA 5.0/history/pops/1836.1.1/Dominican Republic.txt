@@ -3,47 +3,47 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
 	aristocrats = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 300
 	}
 	clergymen = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 125
 	}
 	artisans = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 350
 	}
 	soldiers = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 75
 	}
 	farmers = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 6150
 	}
 	clergymen = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = catholic
 		size = 50
 	}
 	artisans = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = catholic
 		size = 550
 	}
 	soldiers = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = catholic
 		size = 100
 	}
 	farmers = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = catholic
 		size = 9350
 	}
@@ -51,47 +51,47 @@
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
 	aristocrats = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 250
 	}
 	clergymen = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 100
 	}
 	artisans = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 400
 	}
 	soldiers = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 75
 	}
 	farmers = {
-		culture = caribeno
+		culture = aenglisc
 		religion = catholic
 		size = 7175
 	}
 	clergymen = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = catholic
 		size = 50
 	}
 	artisans = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = catholic
 		size = 300
 	}
 	soldiers = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = catholic
 		size = 75
 	}
 	farmers = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = catholic
 		size = 5575
 	}

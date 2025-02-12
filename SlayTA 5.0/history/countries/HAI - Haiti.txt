@@ -1,13 +1,12 @@
 capital = 2213
-primary_culture = afro_antillean
-culture = afro_caribeno
+primary_culture = afro_caribbean
 religion = catholic
 government = presidential_dictatorship
 plurality = 25.1
 nationalvalue = nv_liberty
 literacy = 0.08
-non_state_culture_literacy = 0.05
-civilized = yes
+non_state_culture_literacy = 0.55
+civilized = no
 prestige = 1
 
 # Political reforms
@@ -43,20 +42,6 @@ upper_house = {
 set_country_flag = new_world_nation
 
 # Technologies
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-the_command_principle = 1
-private_banks = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-enlightenment_thought = 1
-water_wheel_power = 1
-publishing_industry = 1
 
 # Inventions
 

@@ -236,7 +236,6 @@ country_event = {
 		remove_country_modifier = efficient_sociopath
 		remove_country_modifier = pig_headed_isolationist
 		remove_country_modifier = ambitious_union_boss
-		remove_country_modifier = dour_economist
 		add_country_modifier = {
 			name = national_confusion
 			duration = 365
@@ -248,10 +247,6 @@ country_event = {
 			modifier = {
 				factor = 1.5
 				nationalvalue = nv_order
-			}
-			modifier = {
-				factor = 2
-				nationalvalue = nv_might
 			}
 		}
 	}

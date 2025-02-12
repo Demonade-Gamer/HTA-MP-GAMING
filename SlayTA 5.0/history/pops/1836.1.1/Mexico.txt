@@ -101,31 +101,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = skamisc
         religion = animist
         size = 84
     }
 
     clergymen = {
-        culture = shawnee
+        culture = skamisc
         religion = animist
         size = 171
     }
 
     artisans = {
-        culture = shawnee
+        culture = skamisc
         religion = animist
         size = 345
     }
 
     soldiers = {
-        culture = shawnee
+        culture = skamisc
         religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = shawnee
+        culture = skamisc
         religion = animist
         size = 6210
     }
@@ -183,7 +183,7 @@
     farmers = {
         culture = meikan
         religion = animist
-        size = 2700
+        size = 12700
     }
 }
 #Baja California Region (20000)
@@ -313,7 +313,7 @@
     artisans = {
         culture = skamisc
         religion = catholic
-        size = 1000
+        size = 11000
     }
 
     soldiers = {
@@ -711,7 +711,7 @@
     artisans = {
         culture = meikan
         religion = catholic
-        size = 950
+        size = 10950
     }
 
     soldiers = {
@@ -843,7 +843,13 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 5450
+        size = 4632
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1636
     }
 }
 #Durango-Sinaloa Region (252000)
@@ -1149,7 +1155,7 @@
     artisans = {
         culture = meikan
         religion = catholic
-        size = 750
+        size = 10750
     }
 
     soldiers = {
@@ -1313,19 +1319,19 @@
     artisans = {
         culture = meikan
         religion = catholic
-        size = 1200
+        size = 11200
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 990
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 20500
+        size = 18450
     }
 
     clergymen = {
@@ -1343,7 +1349,25 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 58275
+        size = 52447
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 220
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4100
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 11656
     }
 }
 #Veracruz-Tabasco Region (328000)
@@ -1383,13 +1407,13 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 990
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 1600
+        size = 1224
     }
 
     clergymen = {
@@ -1407,7 +1431,7 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 20025
+        size = 15319
     }
 
     clergymen = {
@@ -1425,7 +1449,49 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 9350
+        size = 7153
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 220
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 320
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4006
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1870
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 432
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5406
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2524
     }
 }
 #Tampico (80000/20000 POPS)
@@ -1457,7 +1523,7 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 1300
+        size = 1105
     }
 
     clergymen = {
@@ -1475,7 +1541,19 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 16850
+        size = 14322
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 390
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5056
     }
 }
 #Minatitlan (48000/12000 POPS)
@@ -1483,19 +1561,25 @@
     aristocrats = {
         culture = meikan
         religion = catholic
-        size = 250
+        size = 1250
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 75
+        size = 175
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 50
+        size = 1050
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 1100
     }
 
     soldiers = {
@@ -1507,25 +1591,37 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 600
+        size = 1360
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 50
+        size = 150
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 550
+        size = 1550
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 10275
+        size = 34234
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 480
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 12082
     }
 }
 #Villahermosa (60000/15000 POPS)
@@ -1533,49 +1629,157 @@
     aristocrats = {
         culture = meikan
         religion = catholic
-        size = 325
+        size = 57
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 100
+        size = 8
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 150
+        size = 10
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 172
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 2375
+        size = 361
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 50
+        size = 3
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 600
+        size = 42
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 11225
+        size = 1631
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 54
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 114
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 28
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 546
+    }
+
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 527
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 80
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 96
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 1556
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 3249
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 39
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 389
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 14685
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 65
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 491
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1041
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 263
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4922
     }
 }
 #Jalisco Region (448000)
@@ -1671,13 +1875,13 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 990
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 21550
+        size = 19395
     }
 
     clergymen = {
@@ -1695,7 +1899,25 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 12125
+        size = 10912
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 220
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4310
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2426
     }
 }
 #Michoacan Region (568000)
@@ -1755,7 +1977,7 @@
     artisans = {
         culture = meikan
         religion = catholic
-        size = 2550
+        size = 12550
     }
 
     farmers = {
@@ -1805,7 +2027,7 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 18025
+        size = 15321
     }
 
     clergymen = {
@@ -1829,7 +2051,19 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 7425
+        size = 6311
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5408
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2228
     }
 }
 #Mexico Region (720000)
@@ -1887,7 +2121,7 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 47250
+        size = 42525
     }
 
     clergymen = {
@@ -1911,13 +2145,31 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 990
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 29000
+        size = 26100
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 9450
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 220
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5800
     }
 }
 #Toluca (212000/53000 POPS)
@@ -2139,7 +2391,7 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 15875
+        size = 13494
     }
 
     clergymen = {
@@ -2163,7 +2415,19 @@
     farmers = {
         culture = meikan
         religion = catholic
-        size = 65450
+        size = 55632
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4762
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 19636
     }
 }
 #Collataro (100000/25000 POPS)
@@ -2189,13 +2453,13 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 990
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 4055
+        size = 3102
     }
 
     clergymen = {
@@ -2213,13 +2477,49 @@
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 200
+        size = 180
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 18700
+        size = 14305
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 220
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 812
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 40
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3740
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1094
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5050
     }
 }
 #Guerrero Region (246000)
@@ -2355,67 +2655,217 @@
     aristocrats = {
         culture = meikan
         religion = catholic
-        size = 450
+        size = 39
     }
 
     bureaucrats = {
         culture = meikan
         religion = catholic
-        size = 25
+        size = 0
     }
 
     officers = {
         culture = meikan
         religion = catholic
-        size = 25
+        size = 0
     }
 
     clergymen = {
         culture = meikan
+        religion = catholic
+        size = 13
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 79
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 223
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 3
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 60
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 14
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 1149
+    }
+
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 54
+    }
+
+    farmers = {
+        culture = afro_antillean
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = meikan
+        culture = afro_antillean
         religion = catholic
-        size = 200
+        size = 40
     }
 
     soldiers = {
-        culture = meikan
+        culture = afro_antillean
         religion = catholic
-        size = 1100
+        size = 9
     }
 
     farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 776
+    }
+
+    aristocrats = {
         culture = meikan
         religion = catholic
-        size = 3100
+        size = 364
+    }
+
+    bureaucrats = {
+        culture = meikan
+        religion = catholic
+        size = 19
+    }
+
+    officers = {
+        culture = meikan
+        religion = catholic
+        size = 16
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 50
+        size = 121
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 850
+        size = 129
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 200
+        size = 728
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 15925
+        size = 2014
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 39
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 551
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 131
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 10347
+    }
+
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 87
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 491
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1359
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 372
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 88
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 6984
     }
 }
 #Tapachula (40000/10000 POPS)
@@ -2423,43 +2873,133 @@
     aristocrats = {
         culture = meikan
         religion = catholic
-        size = 225
+        size = 39
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 50
+        size = 3
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 200
+        size = 14
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 172
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 3475
+        size = 548
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 75
+        size = 5
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 4550
+        size = 724
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 54
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 169
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 221
+    }
+
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 364
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 39
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 129
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 1556
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 4938
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 60
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 6530
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 87
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 491
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1522
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1995
     }
 }
 #Yucatan Region (440000)
@@ -2469,67 +3009,217 @@
     aristocrats = {
         culture = meikan
         religion = catholic
-        size = 1275
+        size = 114
     }
 
     bureaucrats = {
         culture = meikan
         religion = catholic
-        size = 200
+        size = 18
     }
 
     officers = {
         culture = meikan
         religion = catholic
-        size = 50
+        size = 2
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 475
+        size = 41
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 1050
+        size = 75
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 200
+        size = 14
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 12950
+        size = 934
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 125
+        size = 10
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 1950
+        size = 140
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 200
+        size = 14
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 36525
+        size = 2636
+    }
+
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 51
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 630
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 94
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1779
+    }
+
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 1035
+    }
+
+    bureaucrats = {
+        culture = meikan
+        religion = catholic
+        size = 162
+    }
+
+    officers = {
+        culture = meikan
+        religion = catholic
+        size = 32
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 385
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 682
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 131
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 8414
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 1266
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 131
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 23733
+    }
+
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 20
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 459
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 88
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5680
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 855
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 88
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 16019
     }
 }
 #Camnpeche (108000/27000 POPS)
@@ -2537,55 +3227,181 @@
     aristocrats = {
         culture = meikan
         religion = catholic
-        size = 550
+        size = 98
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 175
+        size = 15
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 400
+        size = 28
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 172
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 6775
+        size = 975
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 100
+        size = 8
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 900
+        size = 64
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 200
+        size = 14
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 17800
+        size = 4352
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 19
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 54
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 329
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 43
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 866
+    }
+
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 893
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 142
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 259
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 1556
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 8788
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 80
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 584
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 131
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 39182
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 174
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 491
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2970
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 394
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 88
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 7807
     }
 }
 #Bacalar (92000/23000 POPS)
@@ -2593,60 +3409,204 @@
     aristocrats = {
         culture = meikan
         religion = catholic
-        size = 475
+        size = 41
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 150
+        size = 13
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 50
+        size = 2
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 79
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 1175
+        size = 84
     }
 
     clergymen = {
         culture = meikan
         religion = catholic
-        size = 50
+        size = 3
     }
 
     artisans = {
         culture = meikan
         religion = catholic
-        size = 1100
+        size = 78
     }
 
     soldiers = {
         culture = meikan
         religion = catholic
-        size = 200
+        size = 14
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 11000
+        size = 794
     }
 
     farmers = {
         culture = meikan
         religion = catholic
-        size = 10625
+        size = 766
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 54
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 56
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 53
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 535
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 517
+    }
+
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 385
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 121
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 32
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 728
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 762
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 39
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 714
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 131
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 7147
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 6903
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 491
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 514
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 482
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 88
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4824
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4658
     }
 }

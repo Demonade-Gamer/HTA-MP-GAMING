@@ -1,0 +1,112 @@
+#Guatemala Region (7200)
+#Ruled by Britain 1836
+#Belize (7200/1800 POPS)
+2190 = {
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 15
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 110
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 880
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 594
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 180
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 135
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 990
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 72
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3600
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 7920
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 122
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 49
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5346
+    }
+}

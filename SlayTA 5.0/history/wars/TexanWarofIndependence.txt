@@ -1,8 +1,9 @@
-name = "Texan War of Independence"
+#This is needed so MEX won't start at war with a non-existant Texas
+name = "Meikan War of Independence"
 
-1825.10.2 = {
-	add_attacker = MEX
-	add_defender = TEX
+1800.10.2 = {
+	add_attacker = AQT
+	add_defender = MEX
 	
 	# actor
 	# receiver
@@ -11,13 +12,13 @@ name = "Texan War of Independence"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = conquest
-		actor = MEX
-		receiver = TEX
+		actor = AQT
+		receiver = MEX
 	}
 
 }
 
-1826.4.21 = {
-	rem_attacker = MEX
-	rem_defender = TEX
+1815.4.21 = {
+	rem_attacker = AQT
+	rem_defender = MEX
 }

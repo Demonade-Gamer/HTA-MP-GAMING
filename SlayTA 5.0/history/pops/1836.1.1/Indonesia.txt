@@ -1979,7 +1979,7 @@
 #Pontianak (148000/37000 POPS)
 1426 = {
     aristocrats = {
-        culture = hakka
+        culture = yue
         religion = mahayana
         size = 50
     }
@@ -2034,7 +2034,7 @@
         size = 25600
     }
     bureaucrats = {
-        culture = hakka
+        culture = yue
         religion = mahayana
         size = 100
     }
@@ -2044,22 +2044,22 @@
         size = 50
     }
     clergymen = {
-        culture = hakka
+        culture = yue
         religion = mahayana
         size = 50
     }
     artisans = {
-        culture = hakka
+        culture = yue
         religion = mahayana
         size = 4150
     }
     soldiers = {
-        culture = hakka
+        culture = yue
         religion = mahayana
         size = 550
     }
     farmers = {
-        culture = hakka
+        culture = yue
         religion = mahayana
         size = 5250
     }

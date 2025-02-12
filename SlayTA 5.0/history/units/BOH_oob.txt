@@ -6,6 +6,16 @@ SML = {
 }
 SLS = {
 	value = 175		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+CRO = {
+	value = 175		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+ARM = {
+	value = 175		#relation
 	level = 4		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
@@ -204,40 +214,4 @@ army = {
 		type = artillery
 		home = 640
 	}
-}
-
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-	befriend = { id="SLS" value=100 }
-	befriend = { id="AUS" value = 10 }
-	befriend = { id="CRO" value = 55 }
-
-	protect = { id="SLS" value=100 }
-
-	threat = { id="HUN" value=200 }
-	threat = { id="BAV" value = 50 }
-	threat = { id="SML" value = 50 }
-	threat = { id="RUS" value = 50 }
-	threat = { id="BYZ" value = 25 }
-	threat = { id="BRN" value = 50 }
-	threat = { id="NGF" value = 50 }
-	threat = { id="GER" value = 50 }
-
-	antagonize = { id="SIE" value = 100 }
-	antagonize = { id="BAN" value = 25 }
-	antagonize = { id="SRM" value = 25 }
-	antagonize = { id="VOL" value = 20 }
-
-	rival = { id="BAV" value = 50 }
-	rival = { is="BRN" value = 10 }
-	rival = { id="POL" value = 2000 }
-
-	conquer_prov = { id=652 value=65 }
-	conquer_prov = { id=2538 value = 75 }
 }

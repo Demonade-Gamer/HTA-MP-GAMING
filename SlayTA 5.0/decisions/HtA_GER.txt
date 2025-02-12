@@ -4,7 +4,7 @@ political_decisions = {
 		picture = form_germany
 		
 		potential = {
-			tag = BAV
+			tag = SGF
 			NOT = { has_country_flag = claim_empire_bav }
 		}
 		
@@ -13,11 +13,12 @@ political_decisions = {
 			549 = { owned_by = THIS }
 			575 = { owned_by = THIS }
 			599 = { owned_by = THIS }
+			619 = { owned_by = THIS }
 		}
 		
 		effect = {
 			prestige = 25
-			GER = { all_core = { add_core = BAV } }
+			GER = { all_core = { add_core = SGF } }
 			set_country_flag = claim_empire_bav
 			any_pop = {
 				consciousness = 2
@@ -28,7 +29,7 @@ political_decisions = {
 		picture = form_germany
 		
 		potential = {
-			tag = BRA
+			tag = NGF
 			NOT = { has_country_flag = claim_empire_BRA }
 		}
 		
@@ -37,33 +38,16 @@ political_decisions = {
 			549 = { owned_by = THIS }
 			575 = { owned_by = THIS }
 			599 = { owned_by = THIS }
+			619 = { owned_by = THIS }
 		}
 		
 		effect = {
 			prestige = 25
-			GER = { all_core = { add_core = BRA } }
+			GER = { all_core = { add_core = NGF } }
 			set_country_flag = claim_empire_bra
-		}
-	}
-	claim_empire_BRN = {
-		picture = form_germany
-		
-		potential = {
-			tag = BRN
-			NOT = { has_country_flag = claim_empire_brn }
-		}
-		
-		allow = {
-			536 = { owned_by = THIS }
-			549 = { owned_by = THIS }
-			572 = { owned_by = THIS }			
-			599 = { owned_by = THIS }
-		}
-		
-		effect = {
-			prestige = 25
-			GER = { all_core = { add_core = BRN } }
-			set_country_flag = claim_empire_brn
+			any_pop = {
+				consciousness = 2
+			}
 		}
 	}
 }

@@ -1,10 +1,18 @@
+BAV = {
+	value = 200
+}
+
+CRO = {
+	value = 150
+}
+
 
 leader = {
 	name = "Vincenzo di Moncalieri"
 	type = land
 	date = 1836.1.1
 	personality = defence_3.1
-	background = attack_1.1
+	background = attack_3.1
 }
 
 army = {
@@ -12,20 +20,15 @@ army = {
 	location = 726
 	regiment = {
 		name = "1. Fanteria di Linea"
-		type = infantry
-		home = 726
-	}
-	regiment = {
-		name = "2. Fanteria di Linea"
-		type = infantry
-		home = 728
-	}
-	regiment = {
-		name = "3. Fanteria di Linea"
 		type = hussar
 		home = 727
 	}
 	regiment = {
+		name = "2. Fanteria di Linea"
+		type = hussar
+		home = 729
+	}
+	regiment = {
 		name = "1. Artigleria"
 		type = artillery
 		home = 726
@@ -33,36 +36,47 @@ army = {
 	regiment = {
 		name = "2. Artigleria"
 		type = artillery
-		home = 2568
-	}
-}
-army = {
-	name = "larp"
-	location = 720
-	regiment = {
-		name = "1. Fanteria di Linea"
-		type = infantry
-		home = 722
+		home = 728
 	}
 	regiment = {
-		name = "2. Fanteria di Linea"
-		type = infantry
-		home = 720
-	}
-	regiment = {
-		name = "3. Fanteria di Linea"
-		type = hussar
-		home = 721
-	}
-	regiment = {
-		name = "1. Artigleria"
+		name = "3. Artigleria"
 		type = artillery
 		home = 740
 	}
 	regiment = {
-		name = "2. Artigleria"
+		name = "4. Artigleria"
 		type = artillery
 		home = 739
+	}
+	regiment = {
+		name = "5. Artigleria"
+		type = artillery
+		home = 739
+	}
+	regiment = {
+		name = "1. Artigleria"
+		type = artillery
+		home = 725
+	}
+	regiment = {
+		name = "2. Artigleria"
+		type = artillery
+		home = 737
+	}
+	regiment = {
+		name = "3. Artigleria"
+		type = artillery
+		home = 729
+	}
+	regiment = {
+		name = "4. Artigleria"
+		type = artillery
+		home = 737
+	}
+	regiment = {
+		name = "5. Artigleria"
+		type = artillery
+		home = 736
 	}
 }
 army = {
@@ -79,15 +93,6 @@ army = {
 		home = 731
 	}
 	regiment = {
-		name = "1. Artilleria"
-		type = artillery
-		home = 730
-	}
-}
-army = {
-	name = "Esercito di Genova"
-	location = 724
-	regiment = {
 		name = "1. Reggimento di Fanteria"
 		type = infantry
 		home = 724
@@ -103,15 +108,36 @@ army = {
 		home = 723
 	}
 	regiment = {
+		name = "2. Reggimento d'Artiglieria"
+		type = artillery
+		home = 730
+	}
+	regiment = {
+		name = "3. Reggimento d'Artiglieria"
+		type = artillery
+		home = 734
+	}
+	regiment = {
+		name = "4. Reggimento d'Artiglieria"
+		type = artillery
+		home = 734
+	}
+	regiment = {
+		name = "5. Reggimento d'Artiglieria"
+		type = artillery
+		home = 736
+	}
+	regiment = {
 		name = "1. Reggimento di Cavalleria"
 		type = hussar
-		home = 725
+		home = 732
 	}
 }
 
+
 navy = {
-	name = "Flotta di Genova"
-	location = 724
+	name = "Marina della Reppublica"
+	location = 729
 	ship = {
 		name = "Marco"
 		type = manowar
@@ -120,12 +146,8 @@ navy = {
 		name = "Aliseo"
 		type = manowar
 	}
-}
-navy = {
-	name = "Marina della Reppublica"
-	location = 729
 	ship = { 
-		name = "VeneziABN"
+		name = "Veneziana"
 		type = manowar
 	}
 	ship = { 
@@ -144,24 +166,25 @@ navy = {
 		name = "Santa Croce"
 		type = frigate
 	}
-}
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
 
-	befriend = { id="AQT" value = 100 }
-	befriend = { id="RMG" value = 200 }
-	befriend = { id="TUS" value = 200 }
-
-	protect = { id="RMG" value = 200 }
-	protect = { id="TUS" value = 200 }
-
-	threat = { id="NPL" value=200 }
-
-	antagonize = { id="NPL" value=200 }
-
-	rival = { id="NPL" value=200 }
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
 }

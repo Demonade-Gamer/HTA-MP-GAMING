@@ -148,7 +148,7 @@
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-		size = 22025
+		size = 44025
 	}
 	slaves = {
 		culture = maghrebi

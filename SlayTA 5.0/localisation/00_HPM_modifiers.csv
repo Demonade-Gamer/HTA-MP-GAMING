@@ -426,6 +426,8 @@ own_suez_canal;The Suez Canal;;;;;;;;;;;;;;;;;;;x,,,,,
 own_suez_canal_desc;We own the Suez Canal, linking the Mediterranean and the Red Sea without the need to sail around Africa, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,
 own_panama_canal;The Panama Canal;;;;;;;;;;;;;;;;;;;x,,,,,
 own_panama_canal_desc;We own the Panama Canal, a huge feat of engineering linking the Pacific and the Atlantic Oceans, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,
+own_oheskewen_canal;The Oshkewen Canal;x
+own_oheskewen_canal_desc;We own the Oshekewen Canal, linking the Great Lakes to the Atlantic, and we receive the dividends of its toll and glory for its possession.;x
 rebuilding_city;Rebuilding;;;;;;;;;;;;;;;;;;;;x,,,,,
 rebuilding_city_desc;Our city is rebuilding.;;;;;;;;;;;;;;;;;;;;x,,,,,
 slave_growth;Slave Demographics;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,

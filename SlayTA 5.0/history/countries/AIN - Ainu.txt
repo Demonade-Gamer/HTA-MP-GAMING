@@ -1,11 +1,11 @@
 capital = 1644
-primary_culture = ainu
+primary_culture = japanese
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.03
-non_state_culture_literacy = 0.30
+non_state_culture_literacy = 0.25
 
 # Political reforms
 slavery = no_slavery

@@ -627,41 +627,107 @@
     }
 }
 #Noshehr (88000/22000 POPS)
-1114 = {
+	1114 = {
     aristocrats = {
         culture = persian
-        religion = sunni
+        religion = shiite
         size = 800
+    }
+
+    bureaucrats = {
+        culture = persian
+        religion = shiite
+        size = 100
+    }
+
+    officers = {
+        culture = persian
+        religion = shiite
+        size = 125
     }
 
     clergymen = {
         culture = persian
-        religion = sunni
-        size = 450
+        religion = shiite
+        size = 425
     }
 
     artisans = {
         culture = persian
-        religion = sunni
-        size = 2200
+        religion = shiite
+        size = 2100
     }
 
     soldiers = {
         culture = persian
-        religion = sunni
-        size = 550
+        religion = shiite
+        size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = sunni
+        religion = shiite
+        size = 37500
+    }
+	
+	aristocrats = {
+        culture = persian
+        religion = shiite
+        size = 400
+    }
+
+    clergymen = {
+        culture = persian
+        religion = shiite
+        size = 225
+    }
+
+    artisans = {
+        culture = persian
+        religion = shiite
         size = 1100
     }
 
-    slaves = {
-        culture = ukrainian
-        religion = orthodox
-        size = 6000
+    soldiers = {
+        culture = persian
+        religion = shiite
+        size = 225
+    }
+
+    farmers = {
+        culture = persian
+        religion = shiite
+        size = 21050
+    }
+	
+	aristocrats = {
+        culture = persian
+        religion = shiite
+        size = 250
+    }
+
+    clergymen = {
+        culture = persian
+        religion = shiite
+        size = 125
+    }
+
+    artisans = {
+        culture = persian
+        religion = shiite
+        size = 650
+    }
+
+    soldiers = {
+        culture = persian
+        religion = shiite
+        size = 125
+    }
+
+    farmers = {
+        culture = persian
+        religion = shiite
+        size = 11850
     }
 }
 #Sari (52000/13000 POPS)
@@ -2971,7 +3037,7 @@
     }
 
     slaves = {
-        culture = russian
+        culture = persian
         religion = orthodox
         size = 3000
     }

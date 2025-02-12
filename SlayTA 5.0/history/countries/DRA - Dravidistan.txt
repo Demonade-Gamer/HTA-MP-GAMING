@@ -1,8 +1,5 @@
 capital = 1304
-primary_culture = tamil
-culture = kannada
-culture = burmese
-culture = malayalam
+primary_culture = burmese
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0

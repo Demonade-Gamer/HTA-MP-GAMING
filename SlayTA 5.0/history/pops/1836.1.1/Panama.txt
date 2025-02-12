@@ -28,27 +28,27 @@
         size = 5842
     }
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 375
     }
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 600
     }
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 187
     }
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 9487
     }
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 3750
     }
@@ -91,27 +91,27 @@
         size = 25575
     }
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 262
     }
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 750
     }
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 225
     }
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 8512
     }
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 4650
     }
@@ -144,27 +144,27 @@
         size = 80625
     }
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 300
     }
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 750
     }
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 150
     }
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 10050
     }
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 3750
     }
@@ -197,27 +197,27 @@
         size = 20250
     }
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 150
     }
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 375
     }
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 75
     }
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 4905
     }
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 3750
     }
@@ -250,27 +250,27 @@
         size = 4492
     }
     aristocrats = {
-        culture = shawnee
+        culture = afro_caribbean
         religion = animist
         size = 75
     }
     clergymen = {
-        culture = shawnee
+        culture = afro_caribbean
         religion = animist
         size = 75
     }
     artisans = {
-        culture = shawnee
+        culture = afro_caribbean
         religion = animist
         size = 150
     }
     soldiers = {
-        culture = shawnee
+        culture = afro_caribbean
         religion = animist
         size = 300
     }
     farmers = {
-        culture = shawnee
+        culture = afro_caribbean
         religion = animist
         size = 3000
     }

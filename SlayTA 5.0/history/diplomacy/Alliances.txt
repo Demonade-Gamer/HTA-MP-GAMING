@@ -1,34 +1,4 @@
-# Aquitania-Provence
-alliance = {
-	first = AQT
-	second = PRE
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
 
-# Aquitania-Brittany
-alliance = {
-	first = AQT
-	second = BRT
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
-
-# Aquitania-Catalonia
-alliance = {
-	first = AQT
-	second = CAT
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
-
-# Aquitania-Catalonia
-alliance = {
-	first = AQT
-	second = NPL
-	start_date = 1810.1.1
-	end_date = 1949.1.1
-}
 
 # Hispania-Navarra
 alliance = {
@@ -37,10 +7,25 @@ alliance = {
 	start_date = 1836.1.1
 	end_date = 1949.1.1
 }
+# Hispania-Pope
+alliance = {
+	first = HIS
+	second = PAP
+	start_date = 1836.1.1
+	end_date = 1949.1.1
+}
 #Hongsawatoi-Siam
 alliance = {
 	first = HNG
 	second = SIA
+	start_date = 1836.1.1
+	end_date = 1949.1.1
+}
+
+#NPL-Pope
+alliance = {
+	first = NPL
+	second = PAP
 	start_date = 1836.1.1
 	end_date = 1949.1.1
 }

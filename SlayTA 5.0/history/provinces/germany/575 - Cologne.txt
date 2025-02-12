@@ -1,5 +1,6 @@
-owner = BRA
-controller = BRA
+owner = RHI
+controller = RHI
+add_core = RHI
 add_core = RHI
 add_core = GER
 trade_goods = coal
@@ -14,13 +15,5 @@ state_building = {
 	building = steel_factory
 	upgrade = yes
 }
-state_building = {
-	level = 2
-	building = luxury_clothes_factory
-	upgrade = yes
-}
 
 
-
-
-add_core = BRA

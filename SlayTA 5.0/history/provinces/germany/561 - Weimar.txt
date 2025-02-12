@@ -1,8 +1,7 @@
 owner = BRN
 controller = BRN
-add_core = THU
 add_core = GER
-trade_goods = grain
+trade_goods = sulphur
 life_rating = 38
 
 

@@ -2,6 +2,6 @@ owner = CRO
 controller = CRO
 add_core = CRO
 trade_goods = cattle
-life_rating = 35
+life_rating = 35 
 
 

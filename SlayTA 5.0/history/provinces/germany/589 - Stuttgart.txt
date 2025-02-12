@@ -1,6 +1,5 @@
 owner = BAV
 controller = BAV
-add_core = WUR
 
 add_core = GER
 trade_goods = fruit

@@ -17,7 +17,7 @@ battleship = {
 	max_strength = 100
 	default_organisation = 30
 	maximum_speed = 9
-	weighted_value = 50
+	weighted_value = 100
 	can_build_overseas = no
 
 
@@ -35,8 +35,9 @@ battleship = {
 	supply_consumption = 1.0
 	supply_cost = {
 		steamer_convoy = 2.5 #75
-		artillery = 0.15       #40
-		#canned_food = 0.4     #4
+		artillery = 0.075       #40
+		canned_food = 0.4     #4
+		coal = 0.4
 		#steel = 5             #23.5
 		#coal = 3.3            #7.59 total 149.4
 		fuel = 1.05

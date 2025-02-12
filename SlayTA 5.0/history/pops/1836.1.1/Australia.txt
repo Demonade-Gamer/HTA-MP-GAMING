@@ -1,40 +1,76 @@
 #New South Wales Region 144000
-#Teralargano
+#Ruled by Britain 1836
 #Sydney (64000/16000 POPS)
 2468 = {
     bureaucrats = {
         culture = largano
         religion = catholic
-        size = 625
+        size = 6300
     }
+
     clergymen = {
         culture = largano
         religion = catholic
-        size = 1275
+        size = 325
     }
+
     artisans = {
         culture = largano
         religion = catholic
-        size = 22500
+        size = 17500
     }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 22000
+    }
+
     farmers = {
         culture = largano
         religion = catholic
-        size = 72000
+        size = 122000
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
-    soldiers = {
+
+    artisans = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 2500
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
+        size = 12375
+    }
+
+    clergymen = {
+        culture = largano
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = largano
+        religion = catholic
         size = 14000
     }
 }
@@ -45,29 +81,64 @@
         religion = catholic
         size = 125
     }
+
     artisans = {
         culture = largano
         religion = catholic
         size = 1250
     }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 1000
+    }
+
     farmers = {
         culture = largano
         religion = catholic
-        size = 8350
+        size = 58350
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
-    soldiers = {
+
+    artisans = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 250
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
+        size = 4800
+    }
+
+    clergymen = {
+        culture = largano
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = largano
+        religion = catholic
         size = 4625
     }
 }
@@ -78,69 +149,105 @@
         religion = catholic
         size = 125
     }
+
     artisans = {
         culture = largano
         religion = catholic
         size = 250
     }
+
     soldiers = {
         culture = largano
         religion = catholic
-        size = 1100
+        size = 500
     }
+
     farmers = {
         culture = largano
         religion = catholic
         size = 4500
     }
+
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 500
     }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 8750
+        religion = catholic
+        size = 58750
     }
 }
 #Eden (12000/3000 POPS)
 2472 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
-    clergymen = {
-        culture = largano
-        religion = animist
-        size = 125
-    }
-    farmers = {
-        culture = largano
-        religion = animist
-        size = 4500
-    }
+
     clergymen = {
         culture = largano
         religion = catholic
-        size = 625
+        size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
     soldiers = {
         culture = largano
         religion = catholic
-        size = 1100
+        size = 300
     }
+
+    farmers = {
+        culture = largano
+        religion = catholic
+        size = 54500
+    }
+
+    clergymen = {
+        culture = largano
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
         religion = catholic
@@ -154,128 +261,149 @@
         religion = catholic
         size = 125
     }
+
     artisans = {
         culture = largano
         religion = catholic
         size = 250
     }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
         religion = catholic
         size = 4500
     }
+
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
-    clergymen = {
-        culture = largano
-        religion = animist
-        size = 250
-    }
-    soldiers = {
-        culture = largano
-        religion = animist
-        size = 1100
-    }
-    farmers = {
-        culture = largano
-        religion = animist
-        size = 9250
-    }
-}
-#Ophir (8000/2000 POPS)
-2471 = {
+
     clergymen = {
         culture = largano
         religion = catholic
-        size = 100
+        size = 250
     }
+
     artisans = {
         culture = largano
         religion = catholic
-        size = 200
+        size = 500
     }
+
     soldiers = {
         culture = largano
         religion = catholic
-        size = 1100
+        size = 500
     }
+
     farmers = {
         culture = largano
         religion = catholic
-        size = 3500
+        size = 8750
     }
+}
+#uncolonized in 1836
+#Ophir (8000/2000 POPS)
+2471 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
-        size = 750
+        religion = catholic
+        size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 8750
+        religion = catholic
+        size = 48750
     }
 }
 #Moree (8000/2000 POPS)
 2474 = {
-    clergymen = {
+    aristocrats = {
         culture = largano
         religion = catholic
         size = 125
     }
+
+    clergymen = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
     artisans = {
         culture = largano
         religion = catholic
-        size = 250
+        size = 500
     }
+
     soldiers = {
         culture = largano
         religion = catholic
-        size = 1100
+        size = 500
     }
+
     farmers = {
         culture = largano
         religion = catholic
-        size = 2000
-    }
-    aristocrats = {
-        culture = largano
-        religion = animist
-        size = 125
-    }
-    clergymen = {
-        culture = largano
-        religion = animist
-        size = 250
-    }
-    farmers = {
-        culture = largano
-        religion = animist
-        size = 9250
+        size = 8750
     }
 }
 #Broken Hill (12000/3000 POPS)
 2475 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 375
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 13500
     }
 }
@@ -286,77 +414,94 @@
     aristocrats = {
         culture = largano
         religion = catholic
-        size = 300
+        size = 250
     }
-    bureaucrats = {
-        culture = largano
-        religion = catholic
-        size = 125
-    }
+
     clergymen = {
         culture = largano
         religion = catholic
-        size = 475
+        size = 375
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 750
+    }
+
     soldiers = {
         culture = largano
         religion = catholic
-        size = 1100
+        size = 500
     }
+
     farmers = {
         culture = largano
         religion = catholic
-        size = 23500
-    }
-    aristocrats = {
-        culture = largano
-        religion = animist
-        size = 250
-    }
-    clergymen = {
-        culture = largano
-        religion = animist
-        size = 375
-    }
-    farmers = {
-        culture = largano
-        religion = animist
-        size = 13500
+        size = 113500
     }
 }
 #Warnambool (8000/2000 POPS)
 2477 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 9250
+        religion = catholic
+        size = 38750
     }
 }
 #Ballarat (8000/2000 POPS)
 2478 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 8750
     }
 }
@@ -364,149 +509,252 @@
 2479 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 8750
+        religion = catholic
+        size = 58750
     }
 }
 #Beechworth (4000/1000 POPS)
 2480 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 4500
+        religion = catholic
+        size = 34500
     }
 }
 #Swan Hill (4000/1000 POPS)
 2481 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
-    clergymen = {
-        culture = largano
-        religion = animist
-        size = 125
-    }
-    farmers = {
-        culture = largano
-        religion = animist
-        size = 4500
-    }
-}
-#Tasmania Region (36000)
-#Part of Teralarga
-#Hobart (36000/9000 POPS)
-2482 = {
-    bureaucrats = {
-        culture = largano
-        religion = catholic
-        size = 125
-    }
-    clergymen = {
-        culture = largano
-        religion = catholic
-        size = 550
-    }
-    farmers = {
-        culture = largano
-        religion = catholic
-        size = 43875
-    }
-}
-#Queensland Region : 64000
-#part of Teralarga
-#2483 - Brisbane (12000/3000 POPS)
-2483 = {
-    aristocrats = {
-        culture = largano
-        religion = animist
-        size = 125
-    }
-    clergymen = {
-        culture = largano
-        religion = animist
-        size = 250
-    }
-    farmers = {
-        culture = largano
-        religion = animist
-        size = 950
-    }
+
     clergymen = {
         culture = largano
         religion = catholic
         size = 125
     }
+
     artisans = {
         culture = largano
         religion = catholic
         size = 250
     }
+
     soldiers = {
         culture = largano
         religion = catholic
-        size = 1100
+        size = 300
     }
+
     farmers = {
         culture = largano
         religion = catholic
         size = 4500
     }
 }
+#Tasmania Region (36000)
+#ruled by Britain 1836
+#Hobart (36000/9000 POPS)
+2482 = {
+    bureaucrats = {
+        culture = largano
+        religion = catholic
+        size = 4500
+    }
+
+    clergymen = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 10000
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = largano
+        religion = catholic
+        size = 33875
+    }
+}
+#Queensland Region : 64000
+#ruled by Britain 1836
+#2483 - Brisbane (12000/3000 POPS)
+2483 = {
+    aristocrats = {
+        culture = largano
+        religion = catholic
+        size = 125
+    }
+
+    clergymen = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = largano
+        religion = catholic
+        size = 8750
+    }
+
+    clergymen = {
+        culture = largano
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = largano
+        religion = catholic
+        size = 54500
+    }
+}
+#uncolonized in 1836
 #Gladstone (8000/2000 POPS)
 2484 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 9250
+        religion = catholic
+        size = 38750
     }
 }
 #Clermont (4000/1000 POPS)
 2485 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 4500
     }
 }
@@ -514,163 +762,257 @@
 2486 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 8750
+        religion = catholic
+        size = 48750
     }
 }
 #Townsville (8000/2000 POPS)
-#uncolonised in 1836
 2487 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 8750
+        religion = catholic
+        size = 58750
     }
 }
 #Cooktown (10000/2500 POPS)
-#uncolonised in 1836
 2488 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 625
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 12000
+        religion = catholic
+        size = 11375
     }
 }
 #Longreach (4000/1000 POPS)
-#uncolonised in 1836
 2489 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 4750
+        religion = catholic
+        size = 4500
     }
 }
 #Charleville (4000/1000 POPS)
 2490 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 4500
     }
 }
 #Normanton (6000/1500 POPS)
-#uncolonised in 1836
 2604 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 75
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 375
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 6850
     }
 }
 #South Australia Region - 32000
+#uncolonized in 1836
 #Adelaide (12000/3000 POPS)
 2491 = {
     aristocrats = {
         culture = largano
-        religion = animist
-        size = 150
-    }
-    clergymen = {
-        culture = largano
-        religion = animist
-        size = 225
-    }
-    farmers = {
-        culture = largano
-        religion = animist
-        size = 9500
-    }
-    aristocrats = {
-        culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 375
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 14500
+        religion = catholic
+        size = 43500
     }
 }
 #Port Lincoln (4000/1000 POPS)
 2492 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 4500
     }
 }
@@ -678,53 +1020,95 @@
 2493 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 4500
+        religion = catholic
+        size = 34500
     }
 }
 #Port Augusta (4000/1000 POPS)
 2494 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 4500
+        religion = catholic
+        size = 54500
     }
 }
 #Oodnadatta (4000/1000 POPS)
 2495 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 4500
     }
 }
@@ -732,17 +1116,31 @@
 2496 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 4500
     }
 }
@@ -755,42 +1153,84 @@
         religion = catholic
         size = 75
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 200
+    }
+
     farmers = {
         culture = largano
         religion = catholic
         size = 3425
     }
+
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 375
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 625
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 1250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 1000
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 23750
+        religion = catholic
+        size = 52500
     }
 }
 #Kojonup (12000/3000 POPS)
 2498 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 375
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 13500
     }
 }
@@ -798,35 +1238,63 @@
 2499 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 9250
+        religion = catholic
+        size = 8750
     }
 }
 #Kalgoorlie (4000/1000 POPS)
 2500 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 300
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 4500
     }
 }
@@ -834,17 +1302,31 @@
 2501 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 8750
     }
 }
@@ -852,17 +1334,31 @@
 2502 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 25
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 125
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 200
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 2250
     }
 }
@@ -870,17 +1366,31 @@
 2503 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 75
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 175
+    }
+
+    soldiers = {
+        culture = largano
+        religion = catholic
+        size = 200
+    }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 3150
     }
 }
@@ -888,45 +1398,63 @@
 2504 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 250
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 300
     }
+
     farmers = {
         culture = largano
-        religion = animist
-        size = 4500
+        religion = catholic
+        size = 44500
     }
 }
-#Halls shawneek (2000/500 POPS)
+#Halls Creek (2000/500 POPS)
 2601 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 25
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 125
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 100
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 2250
     }
 }
@@ -934,22 +1462,31 @@
 2602 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 25
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 75
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 125
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 100
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 2250
     }
 }
@@ -957,22 +1494,31 @@
 2605 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 75
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 200
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 200
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 3625
     }
 }
@@ -982,45 +1528,63 @@
 2505 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 375
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 625
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 1250
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 1000
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 22500
     }
 }
-#Tennant shawneek (8000/2000 POPS)
+#Tennant Creek (8000/2000 POPS)
 2506 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 125
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 250
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 500
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 500
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 8750
     }
 }
@@ -1028,22 +1592,31 @@
 2507 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 75
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 175
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 200
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 3150
     }
 }
@@ -1051,42 +1624,59 @@
 2603 = {
     aristocrats = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 10
     }
+
     clergymen = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 15
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 75
+    }
+
     soldiers = {
         culture = largano
-        religion = animist
-        size = 1100
+        religion = catholic
+        size = 100
     }
+
     farmers = {
         culture = largano
-        religion = animist
+        religion = catholic
         size = 1375
     }
 }
 #Norfolk Island Region (1000)
-#Ruled by Brabant in 1836
-#Norfolk Island/Haring (1000/250 POPS)
+#Ruled by Britain 1836
+#Norfolk Island (1000/250 POPS)
 2508 = {
     clergymen = {
-        culture = flemish
+        culture = largano
         religion = catholic
-        size = 3
+        size = 15
     }
+
+    artisans = {
+        culture = largano
+        religion = catholic
+        size = 50
+    }
+
     soldiers = {
-        culture = flemish
+        culture = largano
         religion = catholic
-        size = 2
+        size = 40
     }
+
     farmers = {
-        culture = polynesian
+        culture = largano
         religion = catholic
-        size = 235
+        size = 1175
     }
 }

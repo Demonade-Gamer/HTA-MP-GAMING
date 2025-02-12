@@ -130,7 +130,7 @@
     labourers = {
         culture = finnish
         religion = protestant
-        size = 11250
+        size = 41250
     }
 
     aristocrats = {
@@ -237,7 +237,7 @@
     craftsmen = {
         culture = swedish
         religion = protestant
-        size = 25000
+        size = 14650
     }
 
     artisans = {
@@ -267,7 +267,7 @@
     farmers = {
         culture = swedish
         religion = protestant
-        size = 37875
+        size = 77875
     }
 }
 #Falun (144000/36000 POPS)
@@ -354,16 +354,16 @@
         size = 4500
     }
 
-    soldiers = {
+   craftsmen = {
         culture = swedish
         religion = protestant
-        size = 550
+        size = 30000
     }
 
     farmers = {
         culture = swedish
         religion = protestant
-        size = 76125
+        size = 46125
     }
 }
 #Vasteras (212000/53000 POPS)
@@ -474,7 +474,7 @@
     bureaucrats = {
         culture = swedish
         religion = protestant
-        size = 1462
+        size = 3462
     }
 
     officers = {
@@ -492,7 +492,7 @@
     artisans = {
         culture = swedish
         religion = protestant
-        size = 7500
+        size = 5500
     }
 
     soldiers = {

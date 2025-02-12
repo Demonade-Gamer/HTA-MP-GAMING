@@ -22,10 +22,6 @@ SML = {
 	level = 0
 }
 
-POL = {
-	value = 85
-}
-
 army = {
 	name = "Army Corps of the Guard"
 	location = 998
@@ -136,19 +132,19 @@ army = {
 	}
 	
 	regiment = {
-		name= "1.1-ya Artilleriskaya Diviziya"
+		name = "1.1-ya Artilleriskaya Diviziya"
 		type = infantry
 		home = 1032
 	}
 
 	regiment = {
-		name= "2.1-ya Artilleriskaya Diviziya"
+		name = "2.1-ya Artilleriskaya Diviziya"
 		type = infantry
 		home = 991
 	}
 
 	regiment = {
-		name= "3.1-ya Artilleriskaya Diviziya"
+		name = "3.1-ya Artilleriskaya Diviziya"
 		type = infantry
 		home = 1023
 	}
@@ -158,44 +154,129 @@ army = {
 	name = "1. Cavalry Corps"
 	location = 1005
 	regiment = {
-		name= "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		name = "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = cavalry
 		home = 998
 	}
 	regiment = {
-		name= "2.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		name = "2.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = cavalry
 		home = 999
 	}
 	regiment = {
-		name= "4.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		name = "4.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = cavalry
 		home = 1029
 	}
 	regiment = {
-		name= "1.1-ya Kavaleriiskaya Diviziya"
+		name = "1.1-ya Kavaleriiskaya Diviziya"
 		type = cavalry
-		home = 1001
+		home = 990
 	}
 
 	regiment = {
-		name= "2.1-ya Kavaleriiskaya Diviziya"
+		name = "2.1-ya Kavaleriiskaya Diviziya"
 		type = cavalry
-		home = 1020
+		home = 990
 	}
 
 	regiment = {
-		name= "3.1-ya Kavaleriiskaya Diviziya"
+		name = "3.1-ya Kavaleriiskaya Diviziya"
 		type = cavalry
-		home = 1007
+		home = 987
 	}
 
 	regiment = {
-		name= "4.1-ya Kavaleriiskaya Diviziya"
+		name = "4.1-ya Kavaleriiskaya Diviziya"
 		type = cavalry
-		home = 1008
+		home = 1058
+	}
+	regiment = {
+		name = "5.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 1058
+	}
+	regiment = {
+		name = "6.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 1030
+	}
+	regiment = {
+		name = "7.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 1030
+	}
+	regiment = {
+		name = "8.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 2659
 	}
 }
+
+army = {
+	name = "Wagner Group"
+	location = 1020
+	regiment = {
+		name = "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 2690
+	}
+
+	regiment = {
+		name = "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1062
+	}
+
+	regiment = {
+		name = "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1062
+	}
+
+	regiment = {
+		name = "3.5-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1062
+	}
+
+	regiment = {
+		name = "1.7-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 987
+	}
+
+	regiment = {
+		name = "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 2685
+	}
+
+	regiment = {
+		name = "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 2685
+	}
+
+	regiment = {
+		name = "1.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 2682
+	}
+
+	regiment = {
+		name = "2.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 990
+	}
+
+	regiment = {
+		name = "3.4-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 1006
+	}
+}
+
 
 navy = {
 	name = "Imperial Fleet"
@@ -225,18 +306,4 @@ navy = {
 		type = frigate
 	}
 
-}
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-	threat = { id="SML" value=400 }
-
-	antagonize = { id="SML" value=400 }
-
-	rival = { id="SML" value=400 }
 }

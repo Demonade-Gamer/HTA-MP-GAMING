@@ -3,5 +3,5 @@ controller = NPL
 add_core = NPL
 add_core = ITA
 trade_goods = fish
-life_rating = 35
+life_rating = 37
 

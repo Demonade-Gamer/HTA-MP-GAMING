@@ -54,29 +54,6 @@ political_decisions = {
 		}
 	}	
 
-#Hoyekysten claiming Pastaza
-	inland_claims = {
-		picture = claim_santa_catarina
-		potential = {
-			tag = HOY
-			2286 = { empty = yes }
-			2288 = { empty = yes }
-			2289 = { empty = yes }
-		}
-		
-		allow = {
-			money = 5000
-		}
-		
-		effect = {
-			money = -5000
-			prestige = 3
-			2286 = { secede_province = THIS }
-			2288 = { secede_province = THIS }
-			2289 = { secede_province = THIS }
-		}
-	}
-
 #Claim Carapara
 	claim_carapara = {
 		picture = dreams_of_empire
@@ -154,22 +131,148 @@ political_decisions = {
 				}
 			}
 		}
-	}	
-	dissolve_the_loncan_republic = {
+	}
+	bridge_between_MEL = {
+		picture = chabahar
+		potential = {
+			tag = MEL
+			NOT = { has_global_flag = MEL_hegemony }
+		}
+		allow = { 
+			revolution_n_counterrevolution = 1
+			MEL = { all_core = { owned_by = THIS } }
+			YUC = { all_core = { owned_by = THIS } }
+			GDN = { all_core = { owned_by = THIS } }
+			INC = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			set_global_flag = MEL_hegemony
+			add_accepted_culture = meikan
+			INC = { all_core = { add_core = THIS } }
+			YUC = { all_core = { add_core = THIS } }
+			set_country_flag = north_american_immigrant_nation
+		}
+	}
+
+
+
+	
+dissolve_the_loncan_republic = {
+		picture = bushire
 		potential = {
 			tag = ARG
 			NOT = { has_country_flag = dissolved_lonca }
 		}
 		allow = { 
-		CHL = { all_core = { owned_by = ARG } }
+			CHL = { all_core = { owned_by = ARG } }
 		}
 		effect = {
-		CHL = { all_core = { add_core = ARG remove_core = CHL } }
-		set_country_flag = dissolved_lonca
-		add_accepted_culture = south_andean
-		add_accepted_culture = lutzan
-		add_accepted_culture = uilsc
-		add_accepted_culture = guarani
+			CHL = { all_core = { add_core = ARG } }
+			set_country_flag = dissolved_lonca
+			add_accepted_culture = south_andean
 		}
 	}
+
+	
+protect_lutzan = {
+		picture = claim_santa_catarina
+		potential = {
+			tag = ARG
+			NOT = { has_country_flag = accept_lutzan }
+		}
+		allow = { 
+			LTS = { all_core = { owned_by = ARG } }
+			state_n_government = 1
+		}
+		effect = {
+			set_country_flag = accept_lutzan
+			add_accepted_culture = lutzan
+		}
+	}
+
+united_kingdom_por = {
+		picture = form_pba
+		potential = {
+			tag = ARG
+			NOT = { has_country_flag = united_kingdom }
+		}
+		allow = { 
+			POR = { all_core = { owned_by = ARG } }
+			revolution_n_counterrevolution = 1
+			OR = { government = absolute_monarchy government = prussian_constitutionalism government = hms_government }
+		}
+		effect = {
+			set_country_flag = united_kingdom
+			POR = { all_core = { add_core = ARG } }
+			add_accepted_culture = portuguese
+			prestige = 50
+		}
+	}
+
+united_kingdom_lisbon = {
+		picture = form_pba
+		potential = {
+			tag = ARG
+			has_country_flag = united_kingdom 
+			NOT = { has_country_flag = arg_capitol_chosen }
+		}
+		allow = { 
+			owns = 521
+		}
+		effect = {
+			capital = 521
+			set_country_flag = arg_capitol_chosen
+		}
+	}
+
+united_kingdom_buenos = {
+		picture = form_pba
+		potential = {
+			tag = ARG
+			has_country_flag = united_kingdom 
+			NOT = { has_country_flag = arg_capitol_chosen }
+		}
+		allow = { 
+			owns = 2348
+		}
+		effect = {
+			capital = 2348
+			2348 = { add_province_modifier = { name = gateway_to_america duration = -1} }
+			set_country_flag = arg_capitol_chosen
+			}
+	}
+
+liberate_afro_amerigans = {
+		picture = enact_radical_reconstruction
+		potential = {
+			tag = GDN
+			NOT = { has_country_flag = liberate_aa }
+		}
+		
+		allow = {
+			state_n_government = 1
+			war = no 
+			is_disarmed = no
+			GDN = { all_core = { owned_by = THIS } }
+		}
+		
+		effect = {
+			set_country_flag = liberate_aa
+			HAI = { all_core = { add_core = GDN } }
+			CUB = { all_core = { add_core = GDN } }
+			add_accepted_culture = afro_american
+			add_accepted_culture = afro_uilsc
+			add_accepted_culture = afro_caribeno
+			prestige = 30
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = .5
+			}
+		}
+	}
+
 }

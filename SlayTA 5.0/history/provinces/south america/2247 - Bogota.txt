@@ -1,7 +1,7 @@
 owner = HOY
 controller = HOY
 add_core = HOY
-trade_goods = iron
-life_rating = 30
+trade_goods = coal
+life_rating = 35 
 
 

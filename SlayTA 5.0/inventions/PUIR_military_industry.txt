@@ -27,10 +27,10 @@ improved_ship_building_R&D = {
 	}
 	effect = {
 		factory_goods_output = {
-			steamer_convoy = 0.02
+			steamer_convoy = 0.01
 		}
 		factory_goods_output = {
-			clipper_convoy = 0.02
+			clipper_convoy = 0.01
 		}
 	}	
 }
@@ -43,10 +43,10 @@ late_colonial_ships = {
 	}
 	effect = {
 		factory_goods_output = {
-			steamer_convoy = 0.02
+			steamer_convoy = 0.01
 		}
 		factory_goods_output = {
-			clipper_convoy = 0.02
+			clipper_convoy = 0.01
 		}
 	}			
 }
@@ -59,7 +59,7 @@ early_modern_oil_ship = {
 	}
 	effect = {
 		factory_goods_output = {
-			steamer_convoy = 0.02
+			steamer_convoy = 0.01
 		}
 	}	
 }
@@ -98,7 +98,7 @@ late_colonial_armaments_industry = {
 	}
 	effect = {
 		factory_goods_output = {
-			artillery = 0.02
+			artillery = 0.01
 		}
 	}
 }
@@ -111,7 +111,7 @@ modern_armaments_industry = {
 	}
 	effect = {
 		factory_goods_output = {
-			artillery = 0.02
+			artillery = 0.01
 		}
 	}
 }

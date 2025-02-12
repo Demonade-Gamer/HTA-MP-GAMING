@@ -1,10 +1,7 @@
-owner = BRA
-controller = BRA
-add_core = TRR
+owner = RHI
+controller = RHI
+add_core = RHI
 add_core = GER
-trade_goods = grain
+trade_goods = iron
 life_rating = 38
 
-
-
-add_core = BRA

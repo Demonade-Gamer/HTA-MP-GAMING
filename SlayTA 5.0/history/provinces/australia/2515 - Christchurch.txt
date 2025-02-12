@@ -1,8 +1,7 @@
 owner = NFB
 controller = NFB
 add_core = NFB
-add_core = AOT
 trade_goods = iron
-life_rating = 35
+life_rating = 37
 
 

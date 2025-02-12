@@ -12,11 +12,9 @@ political_decisions = {
 			NOT = { has_country_flag = guardia_civil_established }
 		}
 		allow = {
-			NOT = {
-				num_of_revolts = 1
-			}
+			year = 1845
 			OR = {
-				average_militancy = 3
+				average_militancy = 4
 				average_consciousness = 4
 			}
 		}
@@ -42,7 +40,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			treasury = 25000
+			treasury = 250000
 			prestige = 10
 			relation = {
 				who = PAP

@@ -1147,7 +1147,6 @@ country_event = {
 		remove_country_modifier = efficient_sociopath
 		remove_country_modifier = pig_headed_isolationist
 		remove_country_modifier = ambitious_union_boss
-		remove_country_modifier = dour_economist
 		election = yes
 	}
 }

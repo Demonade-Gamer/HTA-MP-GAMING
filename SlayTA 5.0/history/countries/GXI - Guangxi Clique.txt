@@ -1,14 +1,12 @@
 capital = 1493
-primary_culture = nanfaren
-culture = zhuang
+primary_culture = yue
 culture = vietnamese
-culture = hakka
 religion = confucian
 government = absolute_monarchy
-plurality = 0.0
+plurality = 10.0
 nationalvalue = nv_tradition
-literacy = 0.04
-non_state_culture_literacy = 0.02
+literacy = 0.08
+non_state_culture_literacy = 0.04
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -43,12 +41,3 @@ oob = "GXI_oob.txt"
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-foreign_weapons = yes_foreign_weapons
-
-# Technologies
-flintlock_rifles = 1
-combustion_engine = 1
-practical_steam_engine = 1
-mechanical_production = 1
-water_wheel_power = 1
-publishing_industry = 1

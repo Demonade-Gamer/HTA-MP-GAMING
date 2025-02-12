@@ -178,15 +178,15 @@ modern_mine_hoists = {
 	}
 	effect = {
 		rgo_goods_throughput = {
-			iron = 0.1
+			iron = 0.05
 		} 
 
 		rgo_goods_throughput = {
-			coal = 0.1
+			coal = 0.05
 		}
-		rgo_goods_throughput = {
-			precious_metal = 0.1
-		}
+		#rgo_goods_throughput = {
+		#	precious_metal = 0.1
+		#}
 	}
 }
 
@@ -216,11 +216,11 @@ mine_cutting_machines = {
 	}
 	effect = {
 		rgo_goods_throughput = {
-			iron = 0.1
+			iron = 0.05
 		} 
 
 		rgo_goods_throughput = {
-			coal = 0.1
+			coal = 0.05
 		}
 	}
 }
@@ -284,18 +284,18 @@ conveyor_belt = {
 	}
 	effect = {
 		rgo_goods_throughput = {
-			coal = 0.15
+			coal = 0.075
 		}
 		rgo_goods_throughput = {
-			iron = 0.15
+			iron = 0.075
 		}
 		rgo_goods_throughput = {
-			sulphur = 0.15
+			sulphur = 0.075
 		}
 		rgo_goods_throughput = {
-			precious_metal = 0.15
+			precious_metal = 0.075
 		}
-		factory_throughput = 0.05
+		factory_throughput = 0.025
 	}	
 }
 

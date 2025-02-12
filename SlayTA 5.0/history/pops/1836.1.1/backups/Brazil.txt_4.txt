@@ -1,0 +1,5292 @@
+#Rio Negro Region (12000) #see Colombia.txt for balance of region
+#Under loose authority of Colombia 1836
+#Marabitanas (12000/3000 POPS) #now part of Brazil
+2401 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 112
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 168
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 337
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 6075
+    }
+}
+#Amazonas Region (80000)
+#Under rule of Brazil 1836
+#Manaus (40000/10000 POPS)
+2402 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = uilsc
+        religion = protestant
+        size = 35
+    }
+
+    officers = {
+        culture = uilsc
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 3455
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 5525
+    }
+}
+#Under loose authority of Brazil 1836
+#Cachoeira (8000/2000 POPS)
+2403 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1800
+    }
+}
+#Tefe (4000/1000 POPS)
+2404 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+}
+#Borba (12000/3000 POPS)
+2405 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2700
+    }
+}
+#Tabatinga (4000/1000 POPS)
+2407 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+}
+#Oriximina (8000/2000 POPS)
+2408 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1800
+    }
+}
+#Forte Sao Joaquim (4000/1000 POPS) #now Roraima state Brazil
+2532 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 30
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2700
+    }
+}
+#Para Region (128000)
+#Under rule of Brazil 1836
+#Belem (60000/15000 POPS)
+2410 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = uilsc
+        religion = protestant
+        size = 437
+    }
+
+    officers = {
+        culture = uilsc
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 600
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 1825
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 46175
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1150
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 14250
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2700
+    }
+}
+#Santarem (20000/5000 POPS)
+2411 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 1750
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 315
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 900
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1850
+    }
+}
+#Under loose authority of Brazil 1836
+#Obidos (8000/2000 POPS)
+2412 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+}
+#Cachimbo (12000/3000 POPS)
+2413 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1800
+    }
+}
+#Amapa (8000/2000 POPS)
+2414 = {
+    aristocrats = {
+        culture = aquitanian
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = aquitanian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = aquitanian
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = aquitanian
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = aquitanian
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 200
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 7800
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 200
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 8100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1500
+    }
+}
+#Macapa (8000/2000 POPS)
+2415 = {
+    clergymen = {
+        culture = aquitanian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = aquitanian
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = aquitanian
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = aquitanian
+        religion = catholic
+        size = 9000
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 200
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 10500
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 3500
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 6750
+    }
+}
+#Altamira (12000/3000 POPS)
+2600 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1800
+    }
+}
+#Mato Grosso Region (108000)
+#Under the rule of Brazil 1836
+#Dourados (44000/ 2000 POPS)
+2416 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = uilsc
+        religion = protestant
+        size = 35
+    }
+
+    officers = {
+        culture = uilsc
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 5400
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 250
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 4650
+    }
+}
+#Under loose authority of Brazil 1836
+#Vila Bela (28000/7000 POPS)
+2417 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 6400
+    }
+}
+#Cuiaba (28000/7000 POPS)
+2418 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 250
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 4575
+    }
+}
+#Corumba (8000/2000 POPS)
+2419 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+}
+#Paraguay Region (20000) #see Paraguay.txt & Argentina.txt for balance of region
+#Under loose authority of Paraguay 1836
+#Igautemi (20000/5000 POPS) #now part of Brazil
+2420 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 1825
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2700
+    }
+}
+#Goias Region (64000)
+#Under the rule of Brazil 1836
+#Vila Boa (44000/11000 POPS)
+2421 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = uilsc
+        religion = protestant
+        size = 35
+    }
+
+    officers = {
+        culture = uilsc
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 5350
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1650
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 4500
+    }
+}
+#Under loose authority of Brazil 1836
+#Aganja (8000/2000 POPS)
+2422 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+}
+#Palmas (12000/3000 POPS)
+2423 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1800
+    }
+}
+#Maranhao Region (412000)
+#Under the rule of Brazil 1836
+#Sao Luis (160000/40000 POPS)
+2424 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    bureaucrats = {
+        culture = uilsc
+        religion = protestant
+        size = 437
+    }
+
+    officers = {
+        culture = uilsc
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 325
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 22375
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 5025
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 13500
+    }
+}
+#Chapada (48000/12000 POPS)
+2425 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 450
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 8125
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2750
+    }
+}
+#Teresina (160000/40000 POPS)
+2426 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 619
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 656
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 14250
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 5850
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 236
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 86
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 251
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 5462
+    }
+}
+#Oieras (44000/11000 POPS)
+2427 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 169
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 412
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 6806
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 4050
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 930
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 64
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 28
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 158
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 2609
+    }
+}
+#Paraiba Region (456000)
+#Under the rule of Brazil 1836
+#Paraiba (92000/23000 POPS)
+2428 = {
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 675
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1725
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 36425
+    }
+
+    craftsmen = {
+        culture = lutzan
+        religion = catholic
+        size = 8000
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 37
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 187
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 1237
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 4500
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 14
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 72
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 474
+    }
+}
+#Fortaleza (180000/45000 POPS)
+2429 = {
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 925
+    }
+
+    bureaucrats = {
+        culture = lutzan
+        religion = catholic
+        size = 525
+    }
+
+    officers = {
+        culture = lutzan
+        religion = catholic
+        size = 125
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 2150
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 23250
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 56
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 637
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 4425
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 3000
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 21
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 244
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1696
+    }
+}
+#Crato (52000/13000 POPS)
+2430 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 206
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 37
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 244
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 4669
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 3650
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 4500
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 79
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 14
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 93
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1789
+    }
+}
+#Natal (132000/33000 POPS)
+2431 = {
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 675
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 2750
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 14025
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 56
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 562
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 3019
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 13500
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 21
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 216
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1156
+    }
+}
+#Pernambuco Region (516000)
+#Under the rule of Brazil 1836
+#Recife (164000/41000 POPS)
+2432 = {
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 825
+    }
+
+    bureaucrats = {
+        culture = lutzan
+        religion = catholic
+        size = 700
+    }
+
+    officers = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 325
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 13150
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 56
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 2250
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 2062
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 3000
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 21
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 862
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 791
+    }
+}
+#Cabrobo (80000/20000 POPS)
+2433 = {
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 425
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 105
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 325
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 4025
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 37
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 450
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 4669
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 10500
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 14
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 172
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1789
+    }
+}
+#Maceio (152000/38000 POPS)
+2434 = {
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 775
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 19025
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 56
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 3000
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 21
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 230
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1423
+    }
+}
+#Aracaju (120000/30000 POPS)
+2435 = {
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 625
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 700
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 15275
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 37
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 487
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 3131
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 12000
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 14
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 187
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1200
+    }
+}
+#Bahia Region (896000)
+#Under the rule of Brazil 1836
+#Salvador de Bahia (356000/89000 POPS)
+2436 = {
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 1800
+    }
+
+    bureaucrats = {
+        culture = lutzan
+        religion = catholic
+        size = 1225
+    }
+
+    officers = {
+        culture = lutzan
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 4500
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 17850
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 11812
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 5500
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 6050
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 27000
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1725
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 4528
+    }
+}
+#Juazeiro (180000/45000 POPS)
+2437 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 694
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 562
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 14119
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1300
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 6300
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 24000
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 265
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 86
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 216
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 5411
+    }
+}
+#Vila do Barra (140000/35000 POPS)
+2438 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 725
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 275
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 800
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 18000
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 750
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 5025
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 13500
+    }
+}
+#Porto Seguro (120000/30000 POPS)
+2439 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 469
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 94
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 6206
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 850
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 11175
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 179
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 35
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 2379
+    }
+}
+#Vitoria da Conquista (100000/25000 POPS)
+2440 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 394
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 131
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 187
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 2044
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 7500
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 3575
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 12750
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 72
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 783
+    }
+}
+#Minas Gerais Region (716000)
+#Under the rule of Brazil 1836
+#Ouro Preto (232000/58000 POPS)
+2441 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 656
+    }
+
+    bureaucrats = {
+        culture = uilsc
+        religion = protestant
+        size = 656
+    }
+
+    officers = {
+        culture = uilsc
+        religion = protestant
+        size = 146
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 281
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 1012
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 16256
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 170
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 19125
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 19500
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 251
+    }
+
+    bureaucrats = {
+        culture = lutzan
+        religion = catholic
+        size = 251
+    }
+
+    officers = {
+        culture = lutzan
+        religion = catholic
+        size = 56
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 108
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 388
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 6231
+    }
+}
+#Sabara (104000/26000 POPS)
+2442 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 394
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 394
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 6150
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 650
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 8175
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 2357
+    }
+}
+#Januaria (100000/25000 POPS)
+2443 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 131
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 5831
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 6025
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 13500
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 115
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 2235
+    }
+}
+#Paracatu (80000/20000 POPS)
+2444 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 319
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 112
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 337
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 5737
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 450
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 4900
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 8250
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 121
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 43
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 129
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 2199
+    }
+}
+#Uberaba (68000/17000 POPS)
+2445 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 262
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 94
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 206
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 4631
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 550
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 3350
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 9000
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 101
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 35
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 79
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1775
+    }
+}
+#Sao Joao del Rey (132000/33000 POPS)
+2446 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 506
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 169
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 394
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 4875
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 11700
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 18000
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 194
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 64
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1868
+    }
+}
+#Rio de Janeiro Region (976000)
+#Under the rule of Brazil 1836
+#Rio de Janeiro (696000/174000 POPS)
+2447 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 1012
+    }
+
+    bureaucrats = {
+        culture = uilsc
+        religion = protestant
+        size = 656
+    }
+
+    officers = {
+        culture = uilsc
+        religion = protestant
+        size = 112
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 600
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 8250
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 4500
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 21675
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 7350
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 79200
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 25000
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 42000
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 388
+    }
+
+    bureaucrats = {
+        culture = lutzan
+        religion = catholic
+        size = 251
+    }
+
+    officers = {
+        culture = lutzan
+        religion = catholic
+        size = 43
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 230
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 3162
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1725
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 8308
+    }
+}
+#Campos (160000/40000 POPS)
+2448 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 637
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 10387
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 19100
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 16500
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 244
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 86
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 230
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 3982
+    }
+}
+#Vitoria (120000/30000 POPS)
+2449 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 469
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 19
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 544
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 4687
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    officers = {
+        culture = lutzan
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1600
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 12225
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 10500
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 179
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 6
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 208
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1797
+    }
+}
+#Sao Paulo Region (580000)
+#Under the rule of Brazil 1836
+#Sorocaba (8000/2000 POPS)
+2306 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 19
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 37
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 675
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 145
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 575
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 2825
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 6
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 258
+    }
+}
+#Sao Paulo (252000/63000 POPS)
+2450 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 881
+    }
+
+    bureaucrats = {
+        culture = uilsc
+        religion = protestant
+        size = 328
+    }
+
+    officers = {
+        culture = uilsc
+        religion = protestant
+        size = 112
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 262
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 1144
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 26925
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 475
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 4250
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 32025
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 13500
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 338
+    }
+
+    bureaucrats = {
+        culture = lutzan
+        religion = catholic
+        size = 125
+    }
+
+    officers = {
+        culture = lutzan
+        religion = catholic
+        size = 43
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 438
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 10321
+    }
+}
+#Santos (132000/33000 POPS)
+2451 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 506
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 206
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 694
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 13406
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 16350
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 9000
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 194
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 79
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 265
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 5139
+    }
+}
+#Campiras (64000/16000 POPS)
+2452 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 244
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 94
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 5287
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 300
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 4075
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 5250
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 93
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 35
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 115
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 2027
+    }
+}
+#Assis (52000/14000 POPS)
+2453 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 4575
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 4200
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 4500
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 86
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 28
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 115
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1753
+    }
+}
+#Iguape (64000/16000 POPS)
+2455 = {
+    aristocrats = {
+        culture = uilsc
+        religion = protestant
+        size = 244
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 94
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 337
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 5981
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 550
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 7700
+    }
+
+    slaves = {
+        culture = afro_uilsc
+        religion = catholic
+        size = 4500
+    }
+
+    aristocrats = {
+        culture = lutzan
+        religion = catholic
+        size = 93
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 35
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 129
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 2293
+    }
+}
+#Araraquara (8000/2000 POPS)
+2456 = {
+    clergymen = {
+        culture = uilsc
+        religion = protestant
+        size = 19
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = protestant
+        size = 37
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = protestant
+        size = 675
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 1225
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = lutzan
+        religion = catholic
+        size = 6
+    }
+
+    artisans = {
+        culture = lutzan
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = lutzan
+        religion = catholic
+        size = 316
+    }
+
+    farmers = {
+        culture = lutzan
+        religion = catholic
+        size = 258
+    }
+}
+#Parana Region (512000)
+#Under the rule of Brazil 1836
+#Curitiba (172000/43000 POPS)
+2457 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 1093
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 375
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 156
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 1906
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 42343
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 312
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 2125
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 4500
+    }
+}
+#Garapuava (40000/10000 POPS)
+2458 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 93
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 312
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 6750
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 187
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 1562
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 2624
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 31
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 62
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1137
+    }
+}
+#Lajes (60000/15000 POPS)
+2459 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 281
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 93
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 312
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 6718
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 3750
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 312
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 5718
+    }
+}
+#Castro (72000/18000 POPS)
+2460 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 468
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 187
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 656
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 14781
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 3750
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = animist
+        size = 37
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = animist
+        size = 74
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 1320
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 1364
+    }
+}
+#Desterro (88000/22000 POPS)
+2461 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 562
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 812
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 18156
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 375
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 2593
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 5250
+    }
+}
+#Sao Miguel (80000/20000 POPS)
+2462 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 531
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 187
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 656
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 14718
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 93
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 437
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 3125
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 6000
+    }
+}
+#Sao Pedro Region (532000)
+#Under the rule of Brazil 1836
+#Porto Alegre (224000/56000 POPS)
+2463 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 1281
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 562
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 281
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 687
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 3406
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 40718
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 812
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 5218
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 12000
+    }
+}
+#Sao Pedro/Pelotas (44000/11000 POPS)
+2464 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 281
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 93
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 375
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 5000
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 3750
+    }
+}
+#Passo Fundo (112000/28000 POPS)
+2465 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 718
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 312
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 906
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 17500
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 312
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 2125
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 4500
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = animist
+        size = 74
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = animist
+        size = 374
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 240
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 6974
+    }
+}
+#Santa Maria (88000/22000 POPS)
+2466 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 562
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 812
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 15000
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 375
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 2593
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 5250
+    }
+}
+#Alegrete (64000/16000 POPS)
+2467 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 93
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 2500
+    }
+
+    aristocrats = {
+        culture = afro_caribeno
+        religion = animist
+        size = 111
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = animist
+        size = 74
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = animist
+        size = 374
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 240
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 6861
+    }
+}
+#Beni Region (32000) #see Bolivia.txt for balance of region
+#Under loose authority of Bolivia 1836
+#Tarauaca (16000/4000 POPS) #now part of Brazil - Acre State
+2549 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 3625
+    }
+}
+#Forte do Principe (16000/4000 POPS) #now part of Brazil - Rondonia State
+2550 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2700
+    }
+}

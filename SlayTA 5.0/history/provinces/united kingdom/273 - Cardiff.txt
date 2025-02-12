@@ -2,11 +2,16 @@ owner = AEN
 controller = AEN
 
 trade_goods = coal
-life_rating = 35
+life_rating = 35 
 naval_base = 1
 state_building = {
 	level = 1
 	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
 	upgrade = yes
 }
 

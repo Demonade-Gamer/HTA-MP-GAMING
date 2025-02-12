@@ -3,5 +3,5 @@ owner = NAV
 controller = NAV
 add_core = NAV
 trade_goods = cattle
-life_rating = 35
+life_rating = 35 
 terrain = hills

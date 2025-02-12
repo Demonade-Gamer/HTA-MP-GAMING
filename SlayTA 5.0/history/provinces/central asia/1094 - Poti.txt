@@ -2,5 +2,5 @@ owner = GEO
 controller = GEO
 add_core = GEO
 trade_goods = tea
-life_rating = 35
+life_rating = 35 
 

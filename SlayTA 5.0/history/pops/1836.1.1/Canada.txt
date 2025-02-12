@@ -201,7 +201,7 @@
         size = 630
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 50
     }
@@ -1260,12 +1260,12 @@
 #Churchill (4000/1000 POPS)
 37 = {
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 15
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 125
     }
@@ -1548,12 +1548,12 @@
 #Fort Albany (6400/1600 POPS)
 48 = {
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 20
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 235
     }
@@ -1583,27 +1583,27 @@
         size = 1440
     }
     aristocrats = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 55
     }
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 120
     }
     artisans = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 300
     }
     soldiers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 1100
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 5750
     }
@@ -1656,27 +1656,27 @@
         size = 910
     }
     aristocrats = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 25
     }
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 50
     }
     artisans = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 125
     }
     soldiers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 550
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 1340
     }
@@ -1684,27 +1684,27 @@
 #Egedesminde (816/204 POPS) now Abitibi in Dabimon
 2636 = {
     aristocrats = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 115
     }
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 250
     }
     artisans = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 700
     }
     soldiers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 1370
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 12750
     }
@@ -1767,27 +1767,27 @@
         size = 5500
     }
     aristocrats = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 195
     }
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 450
     }
     artisans = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 2500
     }
     soldiers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 200
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 49750
     }
@@ -1870,27 +1870,27 @@
         size = 4900
     }
     aristocrats = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 125
     }
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 200
     }
     artisans = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 600
     }
     soldiers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 200
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 19750
     }
@@ -1979,27 +1979,27 @@
         size = 265
     }
     aristocrats = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 25
     }
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 50
     }
     artisans = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 125
     }
     soldiers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 550
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 1340
     }
@@ -2032,27 +2032,27 @@
         size = 1445
     }
     aristocrats = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 15
     }
     clergymen = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 40
     }
     artisans = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 95
     }
     soldiers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 200
     }
     farmers = {
-        culture = french_canadian
+        culture = vestlandic
         religion = catholic
         size = 640
     }
@@ -2293,7 +2293,7 @@
         size = 945
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 375
     }
@@ -2485,22 +2485,22 @@
         size = 780
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 112
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 187
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 1875
     }
@@ -2537,65 +2537,65 @@
 #58 - Montreal (248000/62000 POPS)
 58 = {
     bureaucrats = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 300
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 187
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 6000
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 20137
     }
     bureaucrats = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 150
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 750
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 9000
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     craftsmen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 5000
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
-        size = 84000
+        size = 34000
     }
 }
 #Chicoutimi (11200/2800 POPS)
 61 = {
     aristocrats = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 172
     }
@@ -2620,22 +2620,22 @@
         size = 2572
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 525
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 7650
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 1100
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 62737
     }
@@ -2643,7 +2643,7 @@
 #Sept-Iles (8000/2000 POPS)
 62 = {
     aristocrats = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 165
     }
@@ -2668,22 +2668,22 @@
         size = 4350
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 337
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 675
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 23872
     }
@@ -2691,7 +2691,7 @@
 #Temiscaming (16000/4000 POPS)
 63 = {
     aristocrats = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 75
     }
@@ -2716,22 +2716,22 @@
         size = 2850
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 112
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 1125
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 13125
     }
@@ -2739,22 +2739,22 @@
 #Trois-Rivieres (68000/17000 POPS)
 64 = {
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 412
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 6150
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     labourers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 53512
     }
@@ -2762,22 +2762,22 @@
 #Quebec City (188000/47000 POPS)
 65 = {
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 750
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 9000
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 76500
     }
@@ -2785,22 +2785,22 @@
 #Sherbrooke (68000/17000 POPS)
 66 = {
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 375
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 8100
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 36675
     }
@@ -2808,22 +2808,22 @@
 #Riviere du Loup/Rimouski (56000/14000 POPS)
 67 = {
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 375
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 2625
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     labourers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 29925
     }
@@ -2833,27 +2833,27 @@
 #Fredericton (84000/21000 POPS)
 68 = {
     bureaucrats = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 262
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 412
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 5625
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 34125
     }
@@ -2861,27 +2861,27 @@
 #Bathurst (64000/16000 POPS)
 69 = {
     labourers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 7762
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 225
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 900
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 28087
     }
@@ -2891,57 +2891,57 @@
 #Prince Edward Island (32000/8000 POPS)
 70 = {
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 75
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 2250
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 14025
     }
 }
 #Canada - Nova Scotia Region : 147000
-#Ruled by Nieuwlander 1836
+#Ruled by vestlandic 1836
 #Halifax (83000/20750 POPS)
 71 = {
     bureaucrats = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 300
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 450
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 10500
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 44400
     }
     labourers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 4500
     }
@@ -2954,27 +2954,27 @@
 #Truro (44000/11000 POPS)
 72 = {
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 225
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 1650
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 22612
     }
     labourers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 1650
     }
@@ -2982,52 +2982,52 @@
 #Cape Breton Island (20000/5000 POPS)
 73 = {
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 135
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 675
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 14475
     }
 }
 #Newfoundland Region - 84000
-#Ruled by Nieuwlander in 1836
+#Ruled by vestlandic in 1836
 #Saint John's (52000/13000 POPS)
 74 = {
     bureaucrats = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 135
     }
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 187
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 3750
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 19237
     }
@@ -3035,22 +3035,22 @@
 #Millertown (24000/6000 POPS)
 75 = {
     clergymen = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 187
     }
     artisans = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 750
     }
     soldiers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 200
     }
     farmers = {
-        culture = nieuwlander
+        culture = vestlandic
         religion = protestant
         size = 12937
     }
@@ -3118,46 +3118,51 @@
     aristocrats = {
         culture = dutch
         religion = protestant
-        size = 5
+        size = 1005
     }
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 10
+        size = 1010
     }
     clergymen = {
         culture = dutch
         religion = protestant
-        size = 15
+        size = 315
     }
     artisans = {
         culture = dutch
         religion = protestant
-        size = 45
+        size = 1045
     }
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = protestant
         size = 300
     }
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = protestant
         size = 700
     }
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = protestant
         size = 1800
     }
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = protestant
         size = 400
     }
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = protestant
         size = 26750
+    }
+   farmers = {
+        culture = dutch
+        religion = protestant
+        size = 6750
     }
 }

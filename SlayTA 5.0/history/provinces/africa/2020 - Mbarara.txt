@@ -1,4 +1,4 @@
-add_core = ANK
+#ANK
 trade_goods = cotton
 life_rating = 15
 

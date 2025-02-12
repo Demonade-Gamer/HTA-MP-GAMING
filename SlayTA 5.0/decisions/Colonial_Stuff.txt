@@ -1,26 +1,30 @@
 political_decisions = {
 	
-	#Borrowed from HPM
-    organize_colonial_armies = {
-        picture = begin_line_of_advantage
+    organize_SAF = {
+        picture = the_union_of_south_africa
         potential = {
-			civilized = yes
-            colonial_nation = yes
-            any_owned_province = { is_colonial = yes is_overseas = yes }
-            NOT = { has_country_flag = colonial_armies }
-        }
+		NOT = { has_country_flag = SAFtreaty }
+		NOT = { has_global_flag = SAFBoom }
+		OR = {
+			tag = NET
+			has_country_flag = BRA_GER
+			tag = SAF
+        	}
+	}
 
         allow = {
-            naval_logistics = 1
-            invention = bell_n_greys_telephones
-            money = 11000
+   	SAF = {all_core = {owned_by = THIS}}
+	
         }
 
         effect = {
-            set_country_flag = colonial_armies
-            treasury = -10000
+		set_country_flag = SAFtreaty
+		set_global_flag = SAFBoom
+           SAF = {
+		all_core = {add_core = THIS}
+		all_core = { add_province_modifier = { name = colonial_recruitment duration = 4000 } }
+		}
         }
-        ai_will_do = {  factor = 1 }
     }
 	
 }

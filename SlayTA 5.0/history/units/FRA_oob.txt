@@ -1,4 +1,7 @@
-AQT = {	value = -15 }
+AQT = {
+	truce_until = 1837.1.1
+}
+
 BRT = { value = -50 }
 WLL = { value = -100 }
 
@@ -7,14 +10,14 @@ leader = {
 	picture = european_general_3
 	date = 1835.1.1
 	type = land
-	personality = defence_1.1
-	background = attack_5.1
+	personality = defence_3.1
+	background = attack_3.1
 	prestige = 0.1
 }
 
 army = {
 	name = "3rd'Armée de France"
-	location = 411
+	location = 406
 	regiment = {
 		name = "1er Régiment d'Infanterie"
 		type = infantry
@@ -36,19 +39,20 @@ army = {
 		home = 416
 	}
 	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 433
+	}
+	regiment = {
 		name = "1er Régiment d'Artillerie"
 		type = hussar
 		home = 415
 	}
-	regiment = {
-		name = "2e Régiment d'Artillerie"
-		type = artillery
-		home = 417
-	}
+
 	regiment = {
 		name = "1er Régiment de Hussards"
 		type = artillery
-		home = 418
+		home = 438
 	}
 	regiment = {
 		name = "2e Régiment de Hussards"
@@ -61,6 +65,11 @@ army = {
 		type = artillery
 		home = 436
 	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 446
+	}
 	
 	regiment = {
 		name = "1e Regiment d'Infanterie"
@@ -71,67 +80,6 @@ army = {
 		name = "2e Regiment d'Infanterie"
 		type = artillery
 		home = 434
-	}
-}
-army = {
-	name = "2nd'Armée de France"
-	location = 425
-	regiment = {
-		name = "1er Régiment d'Infanterie"
-		type = infantry
-		home = 414
-	}
-	regiment = {
-		name = "2e Régiment d'Infanterie"
-		type = infantry
-		home = 411
-	}
-	regiment = {
-		name = "3e Régiment d'Infanterie"
-		type = infantry
-		home = 413
-	}
-	regiment = {
-		name = "3e Régiment d'Infanterie"
-		type = infantry
-		home = 413
-	}
-	regiment = {
-		name = "1er Régiment d'Artillerie"
-		type = hussar
-		home = 412
-	}
-	regiment = {
-		name = "2e Régiment d'Artillerie"
-		type = artillery
-		home = 412
-	}
-	regiment = {
-		name = "1er Régiment de Hussards"
-		type = artillery
-		home = 412
-	}
-	regiment = {
-		name = "2e Régiment de Hussards"
-		type = artillery
-		home = 433
-	}
-	
-	regiment = {
-		name = "2e Régiment de Hussards"
-		type = artillery
-		home = 446
-	}
-	
-	regiment = {
-		name = "1e Regiment d'Infanterie"
-		type = artillery
-		home = 439
-	}
-	regiment = {
-		name = "2e Regiment d'Infanterie"
-		type = artillery
-		home = 441
 	}
 }
 army = {
@@ -194,34 +142,4 @@ army = {
 		type = artillery
 		home = 425
 	}
-}
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-	threat = { id="WLL" value = 50 }
-	threat = { id="AEN" value = 20 }
-
-
-	antagonize = { id="NET" value = 100 }
-	antagonize = { id="BRT" value = 50 }
-	
-	rival = { id="NET" value = 200 }
-	rival = { id="BRA" value = 100 }
-	rival = { id="BRN" value = 100 }
-	rival = { id="BAV" value = 100 }
-	rival = { id="NGF" value = 200 }
-	rival = { id="SGF" value = 200 }
-
-	befriend = { id="AQT" value = 100 }
-
-	conquer_prov = { id = 420 value = 200 }
-	conquer_prov = { id = 424 value = 50 }
-	conquer_prov = { id = 572 value = 60 }
-	conquer_prov = { id = 385 value = 60 }
-	conquer_prov = { id = 377 value = 60 }
-	conquer_prov = { id = 380 value = 60 }
-	conquer_prov = { id = 387 value = 60 }
 }

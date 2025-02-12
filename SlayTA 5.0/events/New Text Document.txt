@@ -1,0 +1,33 @@
+country_event = {
+	id = 700705
+	title = "The Annexation of the Syrian Kingdom"
+	desc = "Can win with great friends!"
+	picture = "greatpowers"
+	
+	trigger = {
+		war = no
+		OR = {
+			year = 1855
+			RUM = { exists = yes }
+		}
+		tag = PER
+		SYR = { vassal_of = THIS }
+		NOT = { has_country_flag = whomustgo }
+	}
+	mean_time_to_happen = {
+		months = 1
+		}
+	
+	option = {
+		name = "Glorious!"
+		prestige = 25
+		inherit = SYR
+		SYR = {
+			all_core = {
+				add_core = PER
+				remove_core = SYR
+			}
+		}
+		set_country_flag = whomustgo
+	}
+}

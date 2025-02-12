@@ -3,54 +3,69 @@
 #Petrich (192000/48000 POPS) #now part of Bulgaria
 808 = {
     aristocrats = {
-        culture = roman
+        culture = greek
         religion = orthodox
         size = 1100
     }
+
     clergymen = {
-        culture = roman
+        culture = greek
         religion = orthodox
         size = 400
     }
+
     artisans = {
-        culture = roman
+        culture = greek
         religion = orthodox
         size = 1500
     }
+
     soldiers = {
-        culture = roman
+        culture = greek
         religion = orthodox
-        size = 1200
+        size = 1080
     }
+
     farmers = {
-        culture = roman
+        culture = greek
         religion = orthodox
         size = 34200
     }
+
     farmers = {
         culture = serb
         religion = orthodox
         size = 1500
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 425
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 1900
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 28000
     }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 3075
+    }
+
     farmers = {
         culture = greek
         religion = orthodox
-        size = 3075
+        size = 120
     }
 }
 #Bulgaria Region (1132000)
@@ -62,90 +77,119 @@
         religion = orthodox
         size = 1450
     }
+
     craftsmen = {
         culture = bulgarian
         religion = orthodox
         size = 11000
     }
+
     bureaucrats = {
         culture = roman
         religion = orthodox
-        size = 400
+        size = 2400
     }
+
     officers = {
         culture = roman
         religion = orthodox
         size = 300
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 225
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 1500
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 1700
+        size = 1530
     }
+
     farmers = {
         culture = roman
         religion = orthodox
-        size = 18125
+        size = 16125
     }
+
     aristocrats = {
         culture = bulgarian
         religion = orthodox
         size = 150
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 175
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 5400
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 50425
     }
+
     soldiers = {
         culture = bulgarian
         religion = orthodox
-        size = 3200
+        size = 2880
     }
+
     clergymen = {
         culture = greek
         religion = orthodox
         size = 150
     }
+
     artisans = {
         culture = greek
         religion = orthodox
         size = 850
     }
+
     clergymen = {
         culture = sephardic
         religion = jewish
         size = 25
     }
+
     artisans = {
         culture = sephardic
         religion = jewish
         size = 975
     }
+
     farmers = {
         culture = greek
         religion = orthodox
         size = 1200
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 170
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 320
     }
 }
 #Vidin (124000/31000 POPS)
@@ -155,60 +199,77 @@
         religion = orthodox
         size = 650
     }
+
     craftsmen = {
         culture = bulgarian
         religion = orthodox
         size = 11000
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 75
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 800
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 100
+        size = 90
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 625
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 220
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 900
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 35050
     }
+
     farmers = {
         culture = romanian
         religion = orthodox
         size = 2350
     }
+
     clergymen = {
         culture = sephardic
         religion = jewish
         size = 5
     }
+
     artisans = {
         culture = sephardic
         religion = jewish
         size = 245
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 10
     }
 }
 #Ruse (188000/47000 POPS)
@@ -218,55 +279,71 @@
         religion = orthodox
         size = 1050
     }
+
     craftsmen = {
         culture = bulgarian
         religion = orthodox
         size = 11000
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 100
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 850
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 2000
+        size = 1800
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 5250
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 200
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 750
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 36050
     }
+
     clergymen = {
         culture = sephardic
         religion = jewish
         size = 10
     }
+
     artisans = {
         culture = sephardic
         religion = jewish
         size = 740
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 200
     }
 }
 #Pleven (196000/49000 POPS)
@@ -276,40 +353,53 @@
         religion = orthodox
         size = 875
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 100
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 1350
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 2000
+        size = 1800
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 5675
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 250
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 1100
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 37650
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 200
     }
 }
 #Shumen (144000/36000 POPS)
@@ -319,40 +409,53 @@
         religion = orthodox
         size = 650
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 125
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 950
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 600
+        size = 540
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 9275
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 150
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 850
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 23000
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 60
     }
 }
 #Varna (220000/55000 POPS)
@@ -362,55 +465,71 @@
         religion = orthodox
         size = 1300
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 175
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 2100
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 2000
+        size = 1800
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 11000
     }
+
     farmers = {
-        culture = tatar
+        culture = hungarian
         religion = orthodox
         size = 2425
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 225
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 1900
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 30000
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 5875
     }
+
     farmers = {
         culture = greek
         religion = orthodox
         size = 2900
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 200
     }
 }
 #Rumelia Region (396000)
@@ -422,100 +541,131 @@
         religion = orthodox
         size = 800
     }
+
     bureaucrats = {
         culture = roman
         religion = orthodox
-        size = 550
+        size = 2550
     }
+
     officers = {
         culture = roman
         religion = orthodox
         size = 100
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 100
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 1100
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 275
+        size = 247
     }
+
     farmers = {
         culture = roman
         religion = orthodox
-        size = 6425
+        size = 4425
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 75
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 450
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 13475
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 50
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 200
     }
+
     soldiers = {
         culture = bulgarian
         religion = orthodox
-        size = 50
+        size = 45
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 2700
     }
+
     clergymen = {
         culture = greek
         religion = orthodox
         size = 100
     }
+
     artisans = {
         culture = greek
         religion = orthodox
         size = 1600
     }
+
     farmers = {
         culture = greek
         religion = orthodox
         size = 3300
     }
+
     clergymen = {
         culture = sephardic
         religion = jewish
         size = 10
     }
+
     artisans = {
         culture = sephardic
         religion = jewish
         size = 740
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 1100
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 28
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 5
     }
 }
 #Stara Zagora (80000/20000 POPS)
@@ -525,60 +675,77 @@
         religion = orthodox
         size = 325
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 50
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 550
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 175
+        size = 157
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 4900
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 175
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 450
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 15475
     }
+
     clergymen = {
         culture = sephardic
         religion = jewish
         size = 25
     }
+
     artisans = {
         culture = sephardic
         religion = jewish
         size = 550
     }
+
     farmers = {
         culture = sephardic
         religion = jewish
         size = 125
     }
+
     farmers = {
         culture = greek
         religion = orthodox
         size = 6850
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 18
     }
 }
 #Burgas (196000/49000 POPS)
@@ -588,75 +755,101 @@
         religion = orthodox
         size = 1100
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 125
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 900
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 450
+        size = 405
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 12425
     }
+
     clergymen = {
         culture = bulgarian
         religion = orthodox
         size = 175
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 550
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 25275
     }
+
     clergymen = {
         culture = greek
         religion = orthodox
         size = 75
     }
+
     artisans = {
         culture = greek
         religion = orthodox
         size = 100
     }
+
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 50
+        size = 45
     }
+
     farmers = {
         culture = greek
         religion = orthodox
         size = 3675
     }
+
     clergymen = {
         culture = anatolian
         religion = orthodox
         size = 150
     }
+
     artisans = {
         culture = anatolian
         religion = orthodox
         size = 900
     }
+
     farmers = {
         culture = anatolian
         religion = orthodox
         size = 4950
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 45
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 5
     }
 }
 #Dobruja Region (84000) #see Romania.txt for balance of Region
@@ -668,64 +861,88 @@
         religion = orthodox
         size = 50
     }
+
     artisans = {
         culture = bulgarian
         religion = orthodox
         size = 450
     }
+
     farmers = {
         culture = bulgarian
         religion = orthodox
         size = 9500
     }
+
     clergymen = {
         culture = romanian
         religion = orthodox
         size = 75
     }
+
     artisans = {
         culture = romanian
         religion = orthodox
         size = 200
     }
+
     farmers = {
         culture = romanian
         religion = orthodox
         size = 4725
     }
+
     aristocrats = {
         culture = roman
         religion = orthodox
         size = 400
     }
+
     clergymen = {
         culture = roman
         religion = orthodox
         size = 50
     }
+
     artisans = {
         culture = roman
         religion = orthodox
         size = 450
     }
+
     soldiers = {
         culture = roman
         religion = orthodox
-        size = 550
+        size = 495
     }
+
     farmers = {
         culture = roman
         religion = orthodox
         size = 2100
     }
+
     soldiers = {
-        culture = tatar
+        culture = hungarian
         religion = orthodox
-        size = 550
+        size = 495
     }
+
     farmers = {
-        culture = tatar
+        culture = hungarian
         religion = orthodox
         size = 2000
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 55
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = orthodox
+        size = 55
     }
 }

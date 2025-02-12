@@ -528,7 +528,7 @@
 		size = 10975
 	}
 }
-#Shan Region (600000)
+#thai Region (600000)
 #under the rule of Siam in 1836
 #Chiang Mai (332000/83000 POPS)
 1355 = {
@@ -568,7 +568,7 @@
 		size = 28725
 	}
 	aristocrats = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 1425
 	}

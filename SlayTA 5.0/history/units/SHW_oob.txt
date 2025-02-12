@@ -22,14 +22,6 @@ AWS = {
 	value = 40
 }
 
-leader = {
-   name = "Sahle Selassie"
-   type = land
-   date = 1836.1.1
-   background = gifted_administrator
-   personality = vainglorious
-}
-
 army = {
 	name = "Army of the Negus of Shewa"
 	location = 1859

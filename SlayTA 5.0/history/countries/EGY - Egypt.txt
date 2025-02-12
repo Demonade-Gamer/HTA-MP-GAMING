@@ -2,6 +2,7 @@ capital = 1745
 primary_culture = misri
 culture = mashriqi
 culture = bedouin
+culture = amhara
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

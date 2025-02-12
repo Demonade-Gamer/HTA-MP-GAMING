@@ -68,4 +68,38 @@ political_decisions = {
 			prestige = 10
 		}
 	}
+
+	build_oheskewen_canal = {
+		picture = oheskewen_canal
+		potential = {
+			NOT = { is_canal_enabled = 4 }
+			is_greater_power = yes
+			NOT = { has_global_flag = oheskewen_canal_global }
+		}
+		allow = {
+			OR = {
+				55 = { owner = { is_vassal = no in_sphere = THIS neighbour = THIS } }  #I want it to be really stict. You either own it or you puppet its owner or you're its owner's sphere leader and neighbour
+				55 = { owner = { vassal_of = THIS } }
+				owns = 55
+			}
+			invention = machine_tools
+			invention = nitroglycerin		
+			money = 30000
+		}
+		effect = {
+			treasury = -30000	
+			55 = { secede_province = THIS }
+			set_global_flag = oheskewen_canal_global
+			enable_canal = 4
+			prestige = 5
+			55 = { set_province_flag = oheskewen_canal }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
 }

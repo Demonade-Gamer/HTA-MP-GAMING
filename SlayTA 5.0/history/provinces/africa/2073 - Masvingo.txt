@@ -2,5 +2,5 @@ owner = SHO
 controller = SHO
 add_core = SHO
 trade_goods = iron
-life_rating = 25
+life_rating = 35 
 

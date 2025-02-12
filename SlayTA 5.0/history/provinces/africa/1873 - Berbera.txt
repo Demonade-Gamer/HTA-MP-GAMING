@@ -1,6 +1,6 @@
 owner = WRS
 controller = WRS
-add_core = WRS
+#WRS
 add_core = MAJ
 add_core = GEL
 trade_goods = cotton

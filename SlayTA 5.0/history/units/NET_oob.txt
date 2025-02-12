@@ -1,9 +1,9 @@
-OLD = { value = -75 }
-BRE = { value = -65 }
-BRB = { value = -25 }
+FRA = { value = 75 }
+BRA = { value = -65 }
+BRN = { value = -25 }
 AEN = { value = 45 }
 XHO = { value = -90 }
-SCO = { value = 35 }
+CLT = { value = 35 }
 HIS = { value = 50 }
 
 leader = {
@@ -52,7 +52,7 @@ leader = {
 	prestige = 0.001
 }
 army = {
-	name = "2nd gamer stack"
+	name = "2e Divisie"
 	location = 375 
 	regiment = {
 		name= "1e Cavalerie Brigade"
@@ -187,21 +187,86 @@ army = {
 		home = 538
 	}
 }
+
 army = {
-	name = "PABNja Divisie"
-	location = 1455
+	name = "Colonial Auxillaries"
+	location = 387
 	regiment = {
-		name = "1e PABNja Brigade"
+		name= "5e Kirishitan Brigade"
+		type = infantry
+		home = 387
+	}
+
+	regiment = {
+		name = "1e Kirishitan Brigade"
+		type = infantry
+		home = 389
+	}
+
+	regiment = {
+		name = "2e Kirishitan Brigade"
+		type = infantry
+		home = 388
+	}
+
+	regiment = {
+		name = "3e Kirishitan Brigade"
+		type = infantry
+		home = 390
+	}
+	
+	regiment = {
+		name = "4e Kirishitan Brigade"
+		type = hussar
+		home = 379
+	}
+	regiment = {
+		name = "1e Steenkooler Brigade"
+		type = artillery
+		home = 387
+	}
+	regiment = {
+		name= "1e Steenkooler Brigade"
+		type = artillery
+		home = 391
+	}
+	regiment = {
+		name = "2e Steenkooler Brigade"
+		type = artillery
+		home = 2091
+	}
+	regiment = {
+		name = "3e Steenkooler Brigade"
+		type = artillery
+		home = 2090
+	}
+	regiment = {
+		name = "4e Steenkooler Brigade"
+		type = artillery
+		home = 2087
+	}
+	regiment = {
+		name = "5e Steenkooler Brigade"
+		type = artillery
+		home = 2088
+	}
+}
+
+army = {
+	name = "Panaja Divisie"
+	location = 376
+	regiment = {
+		name = "1e Panaja Brigade"
 		type = hussar
 		home = 1455
 	}
 	regiment = {
-		name = "2e PABNja Brigade"
+		name = "2e Panaja Brigade"
 		type = artillery
 		home = 1457
 	}
 	regiment = {
-		name = "3e PABNja Brigade"
+		name = "3e Panaja Brigade"
 		type = artillery
 		home = 1456
 	}
@@ -226,66 +291,134 @@ navy = {
 	name = "Koninklijke Marine"
 	location = 375 #Amsterdam
 	ship = {
-		name= "Doggersbank"
+		name = "Doggersbank"
 		type = manowar
 	}
 
 	ship = {
-		name= "Amsterdam"
+		name = "Amsterdam"
 		type = manowar
 	}
-
 	ship = {
-		name= "Maria Regensbergen"
+		name = "Amsterdam"
+		type = manowar
+	}
+	ship = {
+		name = "Amsterdam"
+		type = manowar
+	}
+	ship = {
+		name = "Amsterdam"
+		type = manowar
+	}
+	ship = {
+		name = "Doggeinthem"
+		type = manowar
+	}
+	ship = {
+		name = "Doggeinthem"
+		type = manowar
+	}
+	ship = {
+		name = "Doggeinthem"
+		type = manowar
+	}
+	ship = {
+		name = "Doggeinthem"
+		type = manowar
+	}
+	ship = {
+		name = "Doggeinthem"
+		type = manowar
+	}
+	ship = {
+		name = "Maria Regensbergen"
 		type = frigate
 	}
 
 	ship = {
-		name= "Pallas"
+		name = "Pallas"
 		type = frigate
 	}
 
 	ship = {
-		name= "Proserpine"
+		name = "Proserpine"
 		type = frigate
 	}
 
 	ship = {
-		name= "Daphne"
+		name = "Daphne"
 		type = frigate
 	}
 
 	ship = {
-		name= "Espion"
+		name = "Espion"
 		type = frigate
 	}
 
 	ship = {
-		name= "Zeepaard"
+		name = "Pallas"
 		type = frigate
 	}
 
 	ship = {
-		name= "Irene"
+		name = "Proserpine"
 		type = frigate
 	}
 
 	ship = {
-		name= "Orpheus"
+		name = "Daphne"
 		type = frigate
 	}
 
 	ship = {
-		name= "1e Transport Eskader"
+		name = "Espion"
+		type = frigate
+	}
+
+	ship = {
+		name = "1e Transport Eskader"
+		type = clipper_transport
+	}
+	ship = {
+		name = "1e Transport Eskader"
+		type = clipper_transport
+	}
+	ship = {
+		name = "1e Transport Eskader"
+		type = clipper_transport
+	}
+	ship = {
+		name = "1e Transport Eskader"
+		type = clipper_transport
+	}
+	ship = {
+		name = "1e Transport Eskader"
 		type = clipper_transport
 	}
 }
 
 navy = {
-	name = "PABNjaner Eskader"
+	name = "Panajaner Eskader"
 	location = 1455 #Manila
 	
 	
+	ship = {
+		name = "Groot Hollandia"
+		type = manowar
+	}
+	ship = {
+		name = "Groot Hollandia"
+		type = manowar
+	}
+	ship = {
+		name = "Groot Hollandia"
+		type = manowar
+	}
+	ship = {
+		name = "Groot Hollandia"
+		type = manowar
+	}
 	ship = {
 		name = "Groot Hollandia"
 		type = manowar
@@ -306,66 +439,38 @@ navy = {
 		type = frigate
 	}
 	ship = {
-		name = "1e PABNjaner Transport"
+		name= "Zeepaard"
+		type = frigate
+	}
+
+	ship = {
+		name= "Irene"
+		type = frigate
+	}
+
+	ship = {
+		name = "1e Panajaner Transport"
 		type = clipper_transport
 	}
 	
 	ship = {
-		name = "2e PABNjaner Transport"
+		name = "2e Panajaner Transport"
 		type = clipper_transport
 	}
 	
 	ship = {
-		name = "3e PABNjaner Transport"
+		name = "3e Panajaner Transport"
 		type = clipper_transport
 	}
 	
 	ship = {
-		name = "4e PABNjaner Transport"
+		name = "4e Panajaner Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1e Transport Eskader"
 		type = clipper_transport
 	}
 }
 
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-	antagonize = { id="BRB" value=150 }
-	antagonize = { id="XHO" value=100 }
-	antagonize = { id="SUA" value=100 }
-	antagonize = { id="ZUL" value=100 }
-	antagonize = { id="BSH" value=100 }
-
-	rival = { id="BRB" value=150 }
-	rival = { id="FRA" value=500 }
-	rival = { id="BRN" value=150 }
-	rival = { id="HIS" value=40 }
-
-	befriend = { id="WLL" value=50 }
-
-	threat = { id="BRB" value=150 }
-	threat = { id="XHO" value=100 }
-	threat = { id="SUA" value=100 }
-	threat = { id="ZUL" value=100 }
-	threat = { id="BSH" value=100 }
-	threat = { id="BAL" value=100 }
-	threat = { id="GER" value=100 }
-	threat = { id="NGF" value=100 }
-	threat = { id="SGF" value=100 }
-
-	conquer_prov = { id = 2100 value = 50 }
-	conquer_prov = { id = 2113 value = 20 }
-	conquer_prov = { id = 2104 value = 20 }
-	conquer_prov = { id = 2114 value = 40 }
-	conquer_prov = { id = 2082 value = 20 }
-	conquer_prov = { id = 1438 value = 20 }
-	conquer_prov = { id = 405 value = 60 }
-	conquer_prov = { id = 392 value = 60 }
-	conquer_prov = { id = 399 value = 60 }
-	conquer_prov = { id = 425 value = 60 }
-	conquer_prov = { id = 415 value = 60 }
-}
 	

@@ -1,8 +1,8 @@
 owner = ARG
 controller = ARG
 
-trade_goods = cattle
-life_rating = 35
+trade_goods = coal
+life_rating = 35 
 
 
 

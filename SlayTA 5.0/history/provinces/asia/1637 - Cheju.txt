@@ -1,7 +1,7 @@
-owner = KOR
-controller = KOR
+owner = NET
+controller = NET
 add_core = KOR
 trade_goods = grain
-life_rating = 35
+life_rating = 35 
 terrain = small_island
-
+colonial = 2

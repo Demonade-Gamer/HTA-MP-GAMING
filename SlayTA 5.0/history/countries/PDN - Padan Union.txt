@@ -1,10 +1,12 @@
 capital = 726
 primary_culture = north_italian
+culture = slovene
 religion = catholic
 government = absolute_monarchy
-plurality = 20.0
+plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.6
+non_state_culture_literacy = 0.6
 civilized = yes
 
 # Political reforms
@@ -54,7 +56,6 @@ malthusian_thought = 1
 enlightenment_thought = 1
 introspectionism = 1
 private_banks = 1
-stock_exchange = 1
 no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
@@ -63,5 +64,5 @@ water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
-practical_steam_engine = 1
+
 oob = "PDN_oob.txt"

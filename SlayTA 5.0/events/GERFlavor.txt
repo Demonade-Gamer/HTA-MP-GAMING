@@ -348,7 +348,7 @@ country_event = {
 		relation = { who = FROM value = -200 }
 		add_casus_belli = {
 			target = FROM
-			type = demand_concession_BC_casus_belli
+			type = establish_colonial_protectorate_casus_belli
 			months = 60
 		}
 		ai_chance = {
@@ -398,7 +398,7 @@ country_event = {
 			}
 			casus_belli = {
 				target = FROM
-				type = place_in_the_sun
+				type = establish_colonial_protectorate_casus_belli
 				months = 12
 			}
 		}

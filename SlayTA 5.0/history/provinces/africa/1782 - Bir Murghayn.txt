@@ -1,4 +1,4 @@
-add_core = TRZ
-trade_goods = grain
+#TRZ
+trade_goods = iron
 life_rating = 10
 

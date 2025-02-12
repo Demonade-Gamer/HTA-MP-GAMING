@@ -21,39 +21,6 @@ political_decisions = {
 		}
 	}
 
-# Demand our colonies back (BRT and whoever else - when coast reclaimed, buy/intimidate colonies back)
-
-	FRA_return_our_colonies = {
-		picture = channel_islands
-		potential = {
-			tag = FRA
-			has_country_flag = FRA_man_and_the_sea
-			NOT = { has_global_flag = FRA_wants_their_colonies_BRT }
-			owns = 418
-		}
-		
-		allow = {
-			total_amount_of_ships = 5
-		}
-		
-		effect = {
-			country_event = 50003 #Choose how to ask, 50004,7,10 will fire for BRT to choose how to respond
-			set_global_flag = FRA_wants_their_colonies_BRT
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.75
-			}
-			modifier = {
-				factor = 0
-				war = yes
-			}
-		}
-	}
-
 # Bretagne belongs to France! (annex BRT)
 
 	BRT_is_France = {
@@ -61,16 +28,17 @@ political_decisions = {
 		potential = {
 			tag = FRA
 			NOT = { has_country_flag = BRT_annexation_demanded }
-			has_global_flag = FRA_our_colony_returned_BRT
 		}
 		
 		allow = {
-			2134 = { owned_by = FRA }
+			NRM = { all_core = { owned_by = THIS } }
 			NOT = { truce_with = BRT}
 		}
 		
 		effect = {
-			BRT = { country_event = 50017 }
+			BRT = {
+				all_core = { add_core = FRA }
+			}
 			set_country_flag = BRT_annexation_demanded
 			badboy = 5
 		}
@@ -88,155 +56,15 @@ political_decisions = {
 		}
 	}
 
-# End the nobility
-
-	end_the_nobility = {
-		picture = Marquis_de_Bouille
-		potential = {
-			tag = FRA
-			has_country_flag = FRA_man_and_the_sea
-			NOT = { has_country_flag = no_more_nobles }
-			any_owned_province = {
-				OR = {
-					is_core = CMP
-					is_core = ORL
-					is_core = NRM
-				}
-			}
-		}
-
-		allow = {
-			owns = 418
-			CMP = { exists = no }
-			ORL = { exists = no }
-			NRM = { exists = no }
-		}
-
-		effect = {
-			prestige = 3
-			set_country_flag = no_more_nobles
-			any_owned = {
-				limit = {
-					OR = {
-						is_core = CMP
-						is_core = ORL
-						is_core = NRM
-					}
-				}
-				remove_core = CMP
-				remove_core = ORL
-				remove_core = NRM
-			}
-		}
-	}
-
-#Claim Bar and Lorraine
-
-	claim_bar_lorraine = {
-		picture = Leopold_of_Lorraine
-		potential = {
-			tag = FRA
-			OR = {
-				has_country_flag = no_more_nobles
-				AND = {
-					BRR = { all_core = { owned_by = FRA } }
-					LOR = { all_core = { owned_by = FRA } }
-				}
-			}
-			NOT = { has_country_flag = bar_lorraine_claimed }
-		}
-		
-		allow = {
-			prestige = 15
-			military_score = 20
-		}
-		
-		effect = {
-			prestige = 2
-			badboy = 6
-			set_country_flag = bar_lorraine_claimed
-			BRR = { all_core = { add_core = FRA } }
-			LOR = { all_core = { add_core = FRA } }
-		}
-
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.77
-			}
-		}
-	}
-
 # The Picards and Walloons are French! - planned to have some war to annex them ################################################################# (notice this, Savs)
-#NB - they're called wallonian in the code, not walloon
-#Embrace the Picards
-	FRA_embrace_picards = {
-		picture = become_belgium
-		potential = {
-			tag = FRA
-			NOT = { accepted_culture = picard }
-		}
-		
-		allow = {
-			OR = {
-				owns = 2570
-				owns = 403
-			}
-			OR = {
-				WLL = { exists = no }
-				WLL = { vassal_of = THIS }
-			}
-		}
-		
-		effect = {
-			prestige = -1
-			add_accepted_culture = picard
-			any_pop = {
-				limit = {
-					has_pop_culture = french
-				}
-				consciousness = 1
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = wallonian
-				}
-				consciousness = 2
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = picard
-				}
-				consciousness = 2
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = breton
-				}
-				consciousness = 1
-			}
-			any_pop = {
-				limit = {
-					is_accepted_culture = no
-					NOT = {
-						has_pop_culture = french
-						has_pop_culture = wallonian
-						has_pop_culture = picard
-						has_pop_culture = breton
-					}
-				}
-				consciousness = 0.5
-			}
-		}
-	}
+#NB - they're called walloon in the code, not walloon
 
 #Walloon Societal Integration
-	FRA_embrace_wallonians = {
+	FRA_embrace_walloons = {
 		picture = become_wallonia
 		potential = {
 			tag = FRA
-			NOT = { accepted_culture = wallonian }
+			NOT = { accepted_culture = walloon }
 		}
 		
 		allow = {
@@ -247,7 +75,8 @@ political_decisions = {
 		}
 		
 		effect = {
-			add_accepted_culture = wallonian
+			add_accepted_culture = walloon
+			add_accepted_culture = flemish
 		}
 	}
 
@@ -273,6 +102,50 @@ FRA_embrace_bretons = {
 		}
 	}
 
+
+consolidate_our_holdings = {
+	potential = {
+		OR = {
+			tag = FRA
+			tag = NET
+		}
+		NOT = { has_country_flag = consolidated_holdings }
+	}
+	allow = {
+		NET_375 = { owned_by = THIS }
+		NET_379 = { owned_by = THIS }
+		NET_385 = { owned_by = THIS }
+		BEL_387 = { owned_by = THIS }
+		BEL_394 = { owned_by = THIS }
+		FRA_399 = { owned_by = THIS }
+		FRA_445 = { owned_by = THIS }
+		FRA_411 = { owned_by = THIS }
+		FRA_418 = { owned_by = THIS }
+		FRA_425 = { owned_by = THIS }
+		FRA_428 = { owned_by = THIS }
+		FRA_438 = { owned_by = THIS }
+		FRA_420 = { owned_by = THIS }
+	}
+	effect = {
+		FRA = { all_core = { add_core = THIS } }
+		NET = { all_core = { add_core = THIS } }
+		NET_375 = { life_rating = 2 }
+		NET_379 = { life_rating = 2 }
+		NET_385 = { life_rating = 2 }
+		BEL_387 = { life_rating = 2 }
+		BEL_394 = { life_rating = 2 }
+		FRA_399 = { life_rating = 2 }
+		FRA_445 = { life_rating = 2 }
+		FRA_411 = { life_rating = 2 }
+		FRA_418 = { life_rating = 2 }
+		FRA_425 = { life_rating = 2 }
+		FRA_428 = { life_rating = 2 }
+		FRA_438 = { life_rating = 2 }
+		FRA_420 = { life_rating = 2 }
+		set_country_flag = consolidated_holdings
+	}
+}
+}	
 #	integrate_the_aquitanians = {
 #		potential = {
 #			tag = FRA
@@ -289,6 +162,3 @@ FRA_embrace_bretons = {
 #			set_country_flag = aqt_accepted
 #		}
 #	}
-
-	
-}

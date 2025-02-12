@@ -2,6 +2,8 @@
 active_serial_killer;Active Serial Killer;;;;;;;;;x
 active_serial_killer_desc;Some beast of a man (or woman) is murdering citizens in this province. Police have so far failed to apprehend him.;;;;;;;;;x
 agreed_to_aid_hungary;Agreed to aid Hungary;x
+american_bloodbath;Legacy of Magellan;x
+american_bloodbath_desc;Life in the New World is brutish, short, and violent. This has stunted our growth, but our people have accepted this fact of life and are ready to fight.;x
 anatole_boom;Anatolian Population Boom;;;;;;;;;x
 anti_jacobin_tract;Anti-Albesan Tract;;;;x
 desc_anti_jacobin_tract;A tract arguing the causes of counter-revolution, order, religion and monarchy has received widespread circulation in our country.;x
@@ -55,6 +57,8 @@ native_societies1;Rejection of Outsiders;;;;;;;;;;x                             
 native_societies1_desc;As survivors and original inhabitants of our land, we do not attract alien immigrants, nor do we want them.;;;;;;;;;;;;;;;;;x                                                                                 ,
 native_societies2;Sons to Defend Our Homes;;;;;;;;;;;x,,,
 native_societies2_desc;If we wish to survive among our hostile neighbours, we must have many sons to defend ourselves.;;;;;;;;;;;;;;x
+native_societies3;Native Endurance;;;;;;;;;;;x
+native_societies3_desc;We've proven ourselves to be 'civilized' to the White Man and thus have earned their respect. We need to focus now on reconquering our land and kicking them out instead of just repopulating.;;;;;;;;;;;;;;x
 not_suppressed;Raid Result;;;;;;;;;;;;x
 not_suppressed_desc;Pretend this doesn't exist, it's a workaround for code limitations.;;;;;;;;;;;;x
 obbite;Obbite;;;;;;;;;x

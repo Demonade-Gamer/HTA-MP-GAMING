@@ -1,7 +1,7 @@
-name = "Ottoman Restoration of Tripoli"
+name = "Neapolitan Invasion of Tripoli"
 
-1825.10.2 = {
-	add_attacker = TUR
+1835.10.2 = {
+	add_attacker = NPL
 	add_defender = TRI
 	
 	# actor
@@ -11,13 +11,13 @@ name = "Ottoman Restoration of Tripoli"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = conquest
-		actor = TUR
+		actor = NPL
 		receiver = TRI
 	}
 
 }
 
-1826.6.6 = {
-	rem_attacker = TUR
+1836.6.6 = {
+	rem_attacker = NPL
 	rem_defender = TRI
 }

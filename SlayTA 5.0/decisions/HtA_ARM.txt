@@ -22,6 +22,7 @@ political_decisions = {
 		}
 	}
 	form_sultanate_of_rum = {
+		picture = megali_idea
 		potential = {
 			OR = {
 				tag = ARM
@@ -42,15 +43,19 @@ political_decisions = {
 		effect = {
 			change_tag = RUM
 			prestige = 50
+			add_accepted_culture = greek
 			860 = { change_province_name = "Neo-Hayastan" }
 			set_country_flag = rum_formed 
-			add_accepted_culture = greek
 			capital = 860
 		}
 	}
 	claim_the_cauc = {
+		picture = form_transcaucasia
 		potential = {
+			OR = {
 			tag = RUM
+			tag = ARM
+			}
 			NOT = { has_country_flag = cauc_claimed }
 		}
 		allow = { 
@@ -92,53 +97,49 @@ political_decisions = {
 			}
 		}
 		effect = {
-		add_accepted_culture = georgian
+		add_accepted_culture = north_caucasian
 		add_accepted_culture = armenian
 		add_accepted_culture = azerbaijani
+		add_accepted_culture = georgian
+		AZB = { all_core = { add_core = THIS } }
+		GEO = { all_core = { add_core = THIS } }
+		
 		set_country_flag = cauc_claimed
-		}
-	}
-	claim_north_cauc = {
-		potential = {
-			tag = RUM
-			NOT = { has_country_flag = claimed_north_cauc }
-		}
-		allow = {
-			war = no
-			is_vassal = no
-			is_disarmed = no
-			war_policy = jingoism
-			OR = {
-				is_greater_power = yes
-				is_secondary_power = yes
-			}
-		}
-		effect = {
-			set_country_flag = claimed_north_cauc
-			badboy = 5
-			add_accepted_culture = north_caucasian
-			CIR = {
-				all_core = { add_core = RUM }
-			}
-			DAG = {
-				all_core = { add_core = RUM }
-			}
-			any_country = {
+		any_country = {
 				limit = {
-					any_owned_province = {
-						OR = {
-							is_core = CIR
-							is_core = DAG
+					NOT = { is_culture_group = THIS }
+					in_sphere = THIS
+					war = no
+				}
+				any_owned = {
+					limit = { is_core = THIS }
+					secede_province = THIS
+				}
+			}
+		any_country = {
+				limit = {
+					war = no
+					OR = {
+						primary_culture = armenian
+						primary_culture = georgian
+						primary_culture = azerbaijani
+					}
+					OR = {
+						in_sphere = THIS
+						has_country_flag = newly_released_nation
+						AND = {
+							war = no
+							civilized = yes
+							relation = { who = THIS value = 150 }
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
 						}
 					}
-					NOT = { tag = THIS }
 				}
-				relation = { who = RUM value = -50 }
-				leave_alliance = RUM
+				country_event = 98650
 			}
-		}
-		ai_will_do = {
-			factor = 1
 		}
 	}
 }

@@ -1,6 +1,5 @@
 capital = 78
 primary_culture = skamisc
-culture = califiano
 religion = protestant
 government = democracy
 plurality = 0.5
@@ -40,6 +39,8 @@ upper_house = {
 	communist = 0
 }
 
+set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
 
 # Technologies
 post_napoleonic_thought = 1

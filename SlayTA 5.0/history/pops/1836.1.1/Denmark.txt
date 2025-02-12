@@ -37,7 +37,7 @@
     bureaucrats = {
         culture = danish
         religion = protestant
-        size = 787
+        size = 2787
     }
 
     officers = {
@@ -58,7 +58,7 @@
         size = 15000
     }
 
-    artisans = {
+    craftsmen = {
         culture = danish
         religion = protestant
         size = 4875
@@ -396,16 +396,10 @@
         size = 1650
     }
 
-    artisans = {
-        culture = north_german
-        religion = protestant
-        size = 1650
-    }
-
     craftsmen = {
         culture = danish
         religion = protestant
-        size = 5250
+        size = 7000
     }
 }
 #Odense (208000/52000 POPS)

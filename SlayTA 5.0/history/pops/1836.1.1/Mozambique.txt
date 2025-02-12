@@ -3,62 +3,62 @@
 #Maputo (244000/61000)
 2049 = {
 	aristocrats = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 400
 	}
 	clergymen = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 350
 	}
 	artisans = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 1600
 	}
 	soldiers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 400
 	}
 	farmers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 28250
 	}
 	slaves = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 5500
 	}
 	aristocrats = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 250
 	}
 	clergymen = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 225
 	}
 	artisans = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 1750
 	}
 	soldiers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 250
 	}
 	farmers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 9525
 	}
 	slaves = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 13000
 	}
@@ -66,62 +66,62 @@
 #Chaimate (280000/70000 POPS)
 2050 = {
 	aristocrats = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 400
 	}
 	clergymen = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 350
 	}
 	artisans = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 1600
 	}
 	soldiers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 1800
 	}
 	farmers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 23250
 	}
 	slaves = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 5500
 	}
 	aristocrats = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 300
 	}
 	clergymen = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 375
 	}
 	artisans = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 1850
 	}
 	soldiers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 1500
 	}
 	farmers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 19075
 	}
 	slaves = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 16000
 	}
@@ -129,62 +129,62 @@
 #Inhambane (176000/44000 POPS)
 2051 = {
 	aristocrats = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 150
 	}
 	clergymen = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 125
 	}
 	artisans = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 600
 	}
 	soldiers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 1950
 	}
 	farmers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 8975
 	}
 	slaves = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 2000
 	}
 	aristocrats = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 300
 	}
 	clergymen = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 300
 	}
 	artisans = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 1400
 	}
 	soldiers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 400
 	}
 	farmers = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 18600
 	}
 	slaves = {
-		culture = yoruba
+		culture = steenkooler
 		religion = animist
 		size = 11000
 	}

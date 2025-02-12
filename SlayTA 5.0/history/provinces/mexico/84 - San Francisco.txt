@@ -1,6 +1,8 @@
-owner = SKM
+owner = SKM
+
 controller = SKM
-
+add_core = CLF
+
 trade_goods = fruit
 life_rating = 40
 

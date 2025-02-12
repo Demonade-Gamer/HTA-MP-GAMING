@@ -25,6 +25,6 @@ country_event = {
 	}
 	option = {
 		name = "It's about time..."		
+		}
 	}
-}
 }

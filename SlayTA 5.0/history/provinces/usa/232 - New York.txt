@@ -1,11 +1,14 @@
 owner = VST
 controller = VST
-add_core = VST
+add_core = VST
+
 trade_goods = grain
 
-life_rating = 50
-railroad = 1
-fort = 1
+life_rating = 35 
+
+railroad = 1
+
+fort = 1
 state_building = {
 
 	level = 1

@@ -1,6 +1,6 @@
-owner = BRA
-controller = BRA
-add_core = MNR
+owner = WES
+controller = WES
+add_core = WES
 add_core = GER
 trade_goods = coal
 life_rating = 38
@@ -9,5 +9,3 @@ life_rating = 38
 #	building = regular_clothes_factory
 #	upgrade = yes
 #}
-
-add_core = BRA

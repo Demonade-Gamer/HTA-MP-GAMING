@@ -5,6 +5,7 @@ political_decisions = {
 		potential = {
 			neighbour = SLS
 			NOT = { tag = SLS }
+			NOT = { tag = BRN }
 			is_greater_power = yes
 			SLS = {
 				NOT = { is_secondary_power = yes }
@@ -44,28 +45,4 @@ political_decisions = {
 		}
 	}
 	
-	embrace_slovaks = {	
-		picture = embrace_minority
-		potential = {
-			tag = BOH
-			NOT = { accepted_culture = slovak }
-			any_owned_province = { pop_majority_culture = slovak }
-		}
-		
-		allow = {
-			year = 1840
-			prestige = 25
-		}
-		
-		effect = {
-			prestige = -5
-			add_accepted_culture = slovak
-			any_pop = {
-				limit = {
-					culture = slovak
-				}
-				militancy = -1
-			}
-		}
-	}
 }

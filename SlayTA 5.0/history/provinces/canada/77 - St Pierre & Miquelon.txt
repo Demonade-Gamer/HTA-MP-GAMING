@@ -1,9 +1,8 @@
 owner = NET
 controller = NET
-add_core = TKG
-trade_goods = fish
-life_rating = 35
-colonial = 2
+add_core = NET
+trade_goods = silk
+life_rating = 35 
 terrain = small_island
 
 

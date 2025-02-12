@@ -1,8 +1,7 @@
-owner = MGH
-controller = MGH
-add_core = MGH
+owner = TRI
+controller = NPL
 add_core = TRI
 trade_goods = fruit
-life_rating = 35
+life_rating = 35 
 
 

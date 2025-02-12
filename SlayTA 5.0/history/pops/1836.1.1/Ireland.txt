@@ -15,7 +15,7 @@
     bureaucrats = {
         culture = irish
         religion = catholic
-        size = 2250
+        size = 4250
     }
     clergymen = {
         culture = irish
@@ -35,12 +35,12 @@
     farmers = {
         culture = irish
         religion = catholic
-        size = 87875
+        size = 105875
     }
     labourers = {
         culture = irish
         religion = catholic
-        size = 25250
+        size = 45250
     }
 }
 #Londonderry (524000/131000 POPS)
@@ -197,7 +197,7 @@
     bureaucrats = {
         culture = irish
         religion = catholic
-        size = 1200
+        size = 4200
     }
     aristocrats = {
         culture = irish
@@ -227,7 +227,7 @@
     farmers = {
         culture = irish
         religion = catholic
-        size = 176250
+        size = 173250
     }
 }
 #Munster Region - 2244000
@@ -338,7 +338,7 @@
     farmers = {
         culture = irish
         religion = catholic
-        size = 124750
+        size = 174750
     }
 }
 #Leinster Region - 1836000
@@ -382,7 +382,7 @@
     farmers = {
         culture = irish
         religion = catholic
-        size = 154375
+        size = 204375
     }
 }
 #Kildare (532000/133000 POPs)

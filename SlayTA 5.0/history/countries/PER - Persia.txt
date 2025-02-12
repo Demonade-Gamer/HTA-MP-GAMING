@@ -5,7 +5,8 @@ government = absolute_monarchy
 plurality = 10.0
 nationalvalue = nv_education
 literacy = 0.25
-non_state_culture_literacy = 0.05
+non_state_culture_literacy = 0.07
+civilized = yes
 prestige = 15
 
 # Political reforms
@@ -39,17 +40,17 @@ upper_house = {
 }
 
 
-
-army_schools = army_schools_two
-foreign_weapons = yes_foreign_weapons 
-foreign_training = yes_foreign_training
-
-# Technologies
-flintlock_rifles = 1
-military_staff_system = 1
-command_principle = 1
-military_plans = 1
+#Technologies
 post_napoleonic_thought = 1
+flintlock_rifles = 1
+army_command_principle = 1
+bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
+private_banks = 1
+late_enlightenment_philosophy = 1
+water_wheel_power = 1
+mechanized_mining = 1
+basic_chemistry = 1
 
 # Inventions
 

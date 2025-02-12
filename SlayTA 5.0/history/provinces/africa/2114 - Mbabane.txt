@@ -1,7 +1,8 @@
 owner = SUA
 controller = SUA
 add_core = SUA
-trade_goods = grain
-life_rating = 35
+add_core = SAF
+trade_goods = coal
+life_rating = 35 
 terrain = hills
 

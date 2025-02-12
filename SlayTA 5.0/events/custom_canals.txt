@@ -1,0 +1,24 @@
+country_event = {
+
+	id = 77700
+
+	trigger = {
+		tag = NPL
+		year = 1836	
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	title = "Strait of Messina."
+	desc = "Strait of Messina to Sicily is a canal, meaning you can't be blockaded out of moving to Sicily unless you own both ends"
+	picture = "troy"
+
+	option = {
+		name = "It's like 2 miles wide lmao" 
+		enable_canal = 5
+	}
+}

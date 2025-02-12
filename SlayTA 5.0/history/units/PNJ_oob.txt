@@ -1,17 +1,8 @@
 AFG = {
 	value = 30
 }
-CHI = {
+QIN = {
 	value = 50
-}
-
-leader = {
-	name = "Maharaja Ranjit Singh"
-	type = land
-	date = 1780.1.1
-	personality = disciplined
-	background = natural_born_leader
-	prestige = 0.2
 }
 
 army = {

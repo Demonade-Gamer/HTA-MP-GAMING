@@ -1,6 +1,8 @@
 capital = 848
-primary_culture = roman
-culture = greek
+primary_culture = greek
+culture = serb
+culture = bulgarian
+culture = sephardic
 religion = orthodox
 government = democracy
 plurality = 0.05

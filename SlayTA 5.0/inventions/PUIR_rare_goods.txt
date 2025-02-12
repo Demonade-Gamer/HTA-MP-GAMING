@@ -28,7 +28,7 @@ accelerated_vulcanization = {
 	}
 	effect = {
 		rgo_goods_throughput = {
-			rubber = 0.25
+			rubber = 0.125
 		} 
 	}
 }
@@ -51,17 +51,17 @@ silk_waste_spinning = {
 			factor = -7
 			OR = {
 				tag = CHI
-				tag = GXI
+				tag = QIN
 				tag = TPG
 			} 
 		}
 	}
 	effect = {
 		rgo_goods_output = {
-			silk = 1.0
+			silk = 0.5
 		}
 		rgo_size = {
-			silk = 0.25
+			silk = 0.125
 		} 
 	}
 }
@@ -74,7 +74,7 @@ advanced_drilling_techniques = {
 	}
 	effect = {
 		rgo_goods_throughput = {
-			oil = 0.1
+			oil = 0.05
 		}
 	}
 }

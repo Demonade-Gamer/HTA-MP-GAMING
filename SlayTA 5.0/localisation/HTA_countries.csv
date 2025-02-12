@@ -1,5 +1,7 @@
 ;;;;;;;;;;;;;x         
 ABN;Albina;;;;;;;;;;;;;x
+ARO;Aragon;;;;;;;;;;;;;x
+ARO_ADJ;Aragonese;;;;;;;;;;;;;x
 ABN_ADJ;Albin;;;;;;;;;;x                                                    
 AEN;Aengland;;;;;;;;;;;;;x                                                 
 AEN_ADJ;Aenglisc;;;;;;;;;;;;;x 
@@ -31,6 +33,13 @@ AQT_socialist;Partit Soucialisto;;;;;;;;;;;;x
 AQT_anarcho_liberal;Vinardos;;;;;;;;;;;;x
 AQT_communist;Partit Comunisto;;;;;;;;;;;;x
 AQT_fascist;Partit Faissisto;;;;;;;;;;;;x
+ARG;Portogaliza;x
+ARG_ADJ;Portogalizan;x
+ARG_fascist_dictatorship;Nova Lusitania;;;;;;;;;;;;x
+ARG_proletarian_dictatorship;Lusitanian Commonwealth;;;;;;;;;;;;;x
+ARG_presidential_dictatorship;Nova Lusitania;;;;;;;;;;;;;;x
+ARG_democracy;Portogaliza;;;;;;;;;;;x
+ARG_monarchy;Portogaliza;;;;;;;;;;;x
 ARG_liberal;Partido Albesano;;;;;;;;;;;;;;;x
 ARG_liberal_2;Partido Albesano Moderado;;;;;;;;;;;;;;;x
 ARG_conservative;Partido Unitario;;;;;;;;;;;;;;;x
@@ -87,7 +96,7 @@ BOH_communist;Bohemian Proletarian Party;;;;;;;;;;x
 BOH_fascist;National Fascist Front;;;;;;;;;;x              
 BRB;Brabant;;;;;;;;;;;;;x                                                  
 BRB_ADJ;Brabantian;;;;;;;;;;;;;x                                           
-BRC;Braunschweig Union;;;;;;;;;;;;;x                                       
+BRC;Braunschweiger Union;;;;;;;;;;;;;x                                       
 BRC_ADJ;Union;;;;;;;;;;;;;x                                                
 BRN;Brandenburg;;;;;;;;;;;x
 BRN_ADJ;Brandenburgish;;;;;;;;;;;;x
@@ -139,7 +148,7 @@ CHL_socialist;Fed. de Trabajadores Indígenas;;;;;;;;;;;;;;;x
 CHL_communist;Alianza Revolucionaria;;;;;;;;;;;;;;;x
 CHL_fascist;Liga Andina;;;;;;;;;;;;;;;x                                       
 CLF;Califiana;;;;;;;;;;;;;x                                                
-CLF_ADJ;Califiano;;;;;;;;;;;;;x
+CLF_ADJ;skamisc;;;;;;;;;;;;;x
 CLF_conservative;Partido Nasional;;;;;;;;;;;;;;;x
 CLF_liberal;Partido para la Libertad;;;;;;;;;;;;;;;x
 CLF_reactionary;Guardia Antica;;;;;;;;;;;;;;;x
@@ -312,7 +321,11 @@ HOY_reactionary;Fjellting;;;;;;;;;;;;;;;x
 HOY_anarcho_liberal;Albesanspartiet;;;;;;;;;;;;;;;x
 HOY_socialist;Arbeidernes Reformpartiet;;;;;;;;;;;;;;;x
 HOY_communist;Radikale Arbeiderpartiet;;;;;;;;;;;;;;;x
-HOY_fascist;Fedrelandslaget;;;;;;;;;;;;;;;x                                      
+HOY_fascist;Fedrelandslaget;;;;;;;;;;;;;;;x       
+ITA;Italy;x
+ITA_ADJ;Italian;x
+ITA_monarchy;Italy;x
+ITA_proletarian_dictatorship;Peninsular People's Republic;x                              
 INC;Inca;;;;;;;;;;;;;x                                                     
 INC_ADJ;Incan;;;;;;;;;;;;;x                                                
 INC_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x; 
@@ -341,7 +354,6 @@ IRO_liberal_2;Hodidzoniga;;;;;;;;;;;;;;;x
 IRO_conservative_5;Odihnesiioh;;;;;;;;;;;;;;;x
 IRO_liberal_2;De'odijinaindonda;;;;;;;;;;;;;;;x
 IRO_socialist_5;Degaiadahkwa;;;;;;;;;;;;;;;x
-ITA_absolute_monarchy;Kingdom of Italy;;;;;;;;;;x
 JAP_hms_government;Imperial Japan;;;;;;;;;;;;x
 JAM_conservative;Bevrijdingspartij;;;;;;;;;;;;;;;x
 JAM_liberal;Volkspartij;;;;;;;;;;;;;;;x
@@ -683,7 +695,10 @@ SRM_ADJ;Syrmian;;;;;;;;;;;x
 STE;Stellaland;;;;;;;;;;;x
 STE_ADJ;Steller;;;;;;;;;;x          
 SWI;Helvetia;;;;;;;;;;;;;x                                                 
-SWI_ADJ;Helvetian;;;;;;;;;;;;;;;;x                                         
+SWI_ADJ;Helvetian;;;;;;;;;;;;;;;;x      
+SGF;Schwäbisches Reich;;;;;;;;;;;;;x    
+SGF_democracy;Schwäbisches Circle;;;;;;;;;;;;;x                                             
+SGF_ADJ;Swabian;;;;;;;;;;;;;x                                                                          
 TCN;Tareconia;;;;;;;;;;;;;x                                                
 TCN_ADJ;Tareconian;;;;;;;;;;;;;x
 TCN_conservative;Guardia Nacional;;;;;;;;;;;;;;;x
@@ -733,6 +748,8 @@ USR_fascist;Beulims Meg;;;;;;;;;x
 USR_liberal;Doeres Meg;;;;;;;;;x
 USR_reactionary;Sundoranwals Meg;;;;;;;;x    
 USR_socialist;Bigeneres Gade;;;;;;;;x
+VAL;Valencia;;;;;;;;;;;;;x
+VAL_ADJ;Valencian;;;;;;;;;;;;;x
 VIT;Vitebsk;x
 VIT_ADJ;Vitebskii;x
 VIT_conservative;Committee for Order;;;;;;;;x

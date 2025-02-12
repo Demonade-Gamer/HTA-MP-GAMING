@@ -64,7 +64,7 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 550
+        size = 1550
     }
     soldiers = {
         culture = dutch
@@ -576,7 +576,7 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = dutch

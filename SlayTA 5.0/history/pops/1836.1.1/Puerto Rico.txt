@@ -28,52 +28,52 @@
         size = 550
     }
     aristocrats = {
-        culture = caribeno
+        culture = aenglisc
         religion = catholic
         size = 1100
     }
     bureaucrats = {
-        culture = caribeno
+        culture = aenglisc
         religion = catholic
         size = 50
     }
     clergymen = {
-        culture = caribeno
+        culture = aenglisc
         religion = catholic
         size = 200
     }
     artisans = {
-        culture = caribeno
+        culture = aenglisc
         religion = catholic
         size = 3000
     }
     soldiers = {
-        culture = caribeno
+        culture = aenglisc
         religion = catholic
         size = 550
     }
     farmers = {
-        culture = caribeno
+        culture = aenglisc
         religion = catholic
         size = 40850
     }
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = catholic
         size = 1100
     }
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = catholic
         size = 550
     }
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = catholic
         size = 30600
     }
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = catholic
         size = 11000
     }

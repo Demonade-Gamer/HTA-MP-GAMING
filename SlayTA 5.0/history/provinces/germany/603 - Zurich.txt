@@ -1,8 +1,8 @@
 owner = BAV
 controller = BAV
 
-trade_goods = cattle
-life_rating = 35
+trade_goods = iron
+life_rating = 35 
 fort = 1
 state_building = {
 	level = 2 
@@ -17,3 +17,4 @@ state_building = {
 
 
 add_core = BAV
+add_core = SWI

@@ -1,11 +1,11 @@
 owner = BAV
 controller = BAV
-
+add_core = AUS
 add_core = GER
 trade_goods = iron
-life_rating = 35
+life_rating = 35 
 state_building = {
-	level = 2
+	level = 1
 	building = steel_factory
 	upgrade = yes
 }

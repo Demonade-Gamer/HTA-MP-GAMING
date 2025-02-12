@@ -2,7 +2,7 @@ owner = WLL
 controller = WLL
 add_core = WLL
 trade_goods = iron
-life_rating = 35
+life_rating = 40
 railroad = 1
 state_building = {
 	level = 1
@@ -11,7 +11,7 @@ state_building = {
 }
 state_building = {
 	level = 1
-	building = ammunition_factory
+	building = lumber_mill
 	upgrade = yes
 }
 

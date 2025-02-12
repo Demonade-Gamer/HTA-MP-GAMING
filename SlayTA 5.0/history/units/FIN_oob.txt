@@ -4,8 +4,8 @@ RUS = {
 SML = {
 	truce_until = 1837.1.1
 }
-SWE = { value = -5 }
-DEN = { value = 50 }
+SWE = { value = -65 }
+POL = { value = 150 }
 NOR = { value = -65 }
 
 army = {
@@ -63,15 +63,79 @@ army = {
 	}
 }
 
+army = {
+	name = "Ugrilainen Rykmentti"
+	location = 994
+	regiment = {
+		name= "2.1 Rykmentti"
+		type = infantry
+		home = 997
+	}
+	regiment = {
+		name= "2.2 Rykmentti"
+		type = infantry
+		home = 997
+	}
+	regiment = {
+		name= "2.3 Rykmentti"
+		type = infantry
+		home = 996
+	}
+	regiment = {
+		name= "2.4 Rykmentti"
+		type = infantry
+		home = 996
+	}
+	regiment = {
+		name= "2.1 Tykistö"
+		type = hussar
+		home = 1003
+	}
+	regiment = {
+		name= "2.5 Rykmentti"
+		type = artillery
+		home = 1004
+	}
+	regiment = {
+		name= "2.4 Tykistö"
+		type = artillery
+		home = 992
+	}
+	regiment = {
+		name= "2.2 Tykistö"
+		type = artillery
+		home = 992
+	}
+	regiment = {
+		name= "2.3 Tykistö"
+		type = artillery
+		home = 1004
+	}
+	regiment = {
+		name= "2.1 Ratsuväki"
+		type = artillery
+		home = 1004
+	}
+}
+
+
 navy = {
-	name = "Itämeren Laivasto"
-	location = 345
+	name = "Finnish Navy"
+	location = 994
 	ship = {
 		name = "Ilmatar"
 		type = manowar
 	}
 	ship = {
 		name = "Pyhä Yrjö"
+		type = manowar
+	}
+	ship = {
+		name = "Louhi"
+		type = manowar
+	}
+	ship = {
+		name = "Pyh Yrj"
 		type = manowar
 	}
 	ship = {
@@ -94,14 +158,9 @@ navy = {
 		name = "Peijo"
 		type = frigate
 	}
-}
-
-navy = {
-	name = "Vienanmeren Laivasto"
-	location = 984
 	ship = {
 		name = "Ukko"
-		type = manowar
+		type = frigate
 	}
 	ship = {
 		name = "Tuoni"
@@ -111,21 +170,56 @@ navy = {
 		name = "Karhu"
 		type = frigate
 	}
-}
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-	
-	befriend = { id="POL" value=65 }
-	befriend = { id="SWE" value=65 }
-	
-	threat = { id="RUS" value=50 }
-	rival = { id="SWE" value=15 }
-	threat = { id="NOR" value=15 }
-	
-	
+	ship = {
+		name = "Ukko"
+		type = frigate
+	}
+	ship = {
+		name = "Tuoni"
+		type = frigate
+	}
+	ship = {
+		name = "Karhu"
+		type = frigate
+	}
+	ship = {
+		name = "Ukko"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tuoni"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Karhu"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Ukko"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tuoni"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Karhu"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Karhu"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Ukko"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tuoni"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Karhu"
+		type = clipper_transport
+	}
 }

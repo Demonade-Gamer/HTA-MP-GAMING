@@ -65,21 +65,21 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 23375
+		size = 13375
 	}
 	clergymen = {
-		culture = wallonian
+		culture = walloon
 		religion = catholic
 		size = 100
 	}
 	artisans = {
-		culture = wallonian
+		culture = walloon
 		religion = catholic
 		size = 950
 	}
 	farmers = {
-		culture = wallonian
+		culture = walloon
 		religion = catholic
-		size = 19550
+		size = 29550
 	}
 }

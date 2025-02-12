@@ -37,7 +37,7 @@
     soldiers = {
         culture = steenkooler
         religion = animist
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = steenkooler
@@ -250,7 +250,7 @@
     soldiers = {
         culture = steenkooler
         religion = obbite
-        size = 720
+        size = 1720
     }
     farmers = {
         culture = steenkooler
@@ -353,7 +353,7 @@
     soldiers = {
         culture = steenkooler
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = steenkooler
@@ -376,7 +376,7 @@
     soldiers = {
         culture = steenkooler
         religion = catholic
-        size = 595
+        size = 1595
     }
     farmers = {
         culture = steenkooler
@@ -481,7 +481,7 @@
     soldiers = {
         culture = steenkooler
         religion = animist
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = steenkooler
@@ -542,7 +542,7 @@
     soldiers = {
         culture = steenkooler
         religion = animist
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = steenkooler
@@ -605,7 +605,7 @@
     soldiers = {
         culture = steenkooler
         religion = animist
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = steenkooler
@@ -633,7 +633,7 @@
     soldiers = {
         culture = steenkooler
         religion = animist
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = steenkooler
@@ -697,7 +697,7 @@
     soldiers = {
         culture = steenkooler
         religion = animist
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = steenkooler
@@ -751,7 +751,7 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = dutch
@@ -1183,7 +1183,7 @@
     soldiers = {
         culture = steenkooler
         religion = animist
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = steenkooler

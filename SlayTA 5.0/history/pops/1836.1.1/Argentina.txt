@@ -39,9 +39,9 @@
     }
 
     artisans = {
-        culture = platinean
+        culture = afro_caribeno
         religion = catholic
-        size = 6875
+        size = 8250
     }
 
     soldiers = {
@@ -53,7 +53,13 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 62281
+        size = 42281
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 38737
     }
 }
 #Junin (56000/14000 POPS)
@@ -73,7 +79,13 @@
     artisans = {
         culture = platinean
         religion = catholic
-        size = 6375
+        size = 2375
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 4800
     }
 
     soldiers = {
@@ -83,15 +95,21 @@
     }
 
     soldiers = {
-        culture = platinean
+        culture = afro_caribeno
         religion = catholic
-        size = 550
+        size = 660
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 31937
+        size = 11937
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 25124
     }
 }
 #Azul (12000/3000 POPS)
@@ -113,6 +131,12 @@
         religion = catholic
         size = 19625
     }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 12000
+    }
 }
 #La Plata (4000/1000 POPS)
 2351 = {
@@ -129,9 +153,15 @@
     }
 
     farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 15600
+    }
+
+    farmers = {
         culture = platinean
         religion = catholic
-        size = 23750
+        size = 10750
     }
 }
 #Mar del Plata (12000/3000 POPS)
@@ -151,7 +181,13 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 25875
+        size = 10875
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 18000
     }
 }
 #Under loose authority of Argentina 1836
@@ -202,21 +238,21 @@
     }
 
     aristocrats = {
-        culture = patagonian
+        culture = afro_caribeno
         religion = animist
-        size = 62
+        size = 74
     }
 
     clergymen = {
-        culture = patagonian
+        culture = afro_caribeno
         religion = animist
-        size = 93
+        size = 111
     }
 
     farmers = {
-        culture = patagonian
+        culture = afro_caribeno
         religion = animist
-        size = 3375
+        size = 4050
     }
 }
 #Carmen (20000/5000 POPS)
@@ -300,25 +336,25 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 23768
+        size = 19687
     }
 
     clergymen = {
-        culture = guarani
+        culture = afro_caribeno
         religion = animist
-        size = 93
+        size = 111
     }
 
     soldiers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = animist
-        size = 550
+        size = 660
     }
 
     farmers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = animist
-        size = 19687
+        size = 28521
     }
 }
 #Curuzu Cuatia (16000/4000 POPS)
@@ -348,21 +384,21 @@
     }
 
     clergymen = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 62
+        size = 74
     }
 
     soldiers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 550
+        size = 660
     }
 
     farmers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 2281
+        size = 2737
     }
 }
 #Santo Tomas (28000/7000 POPS)
@@ -386,43 +422,43 @@
     }
 
     clergymen = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 62
+        size = 74
     }
 
     soldiers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 550
+        size = 660
     }
 
     farmers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 2281
+        size = 2737
     }
 
     aristocrats = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 62
     }
 
     clergymen = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 93
     }
 
     soldiers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 3375
     }
@@ -448,9 +484,15 @@
     }
 
     farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1650
+    }
+
+    farmers = {
         culture = platinean
         religion = catholic
-        size = 2375
+        size = 1000
     }
 }
 #Parana (16000/4000 POPS)
@@ -476,7 +518,13 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 4781
+        size = 2081
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 3240
     }
 }
 #Santa Fe Region (72000)
@@ -582,25 +630,25 @@
 #Resistencia (16000/4000 POPS)
 2364 = {
     aristocrats = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 62
     }
 
     clergymen = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 93
     }
 
     soldiers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 3375
     }
@@ -632,25 +680,25 @@
 #Villa Angela (16000/4000 POPS)
 2365 = {
     aristocrats = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 62
     }
 
     clergymen = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 93
     }
 
     soldiers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 3375
     }
@@ -677,75 +725,75 @@
 #Formosa (24000/6000 POPS) #now part of Argentina
 2366 = {
     aristocrats = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 93
     }
 
     clergymen = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 93
     }
 
     soldiers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 5718
     }
 
     bureaucrats = {
-        culture = platinean
+        culture = afro_caribeno
         religion = catholic
         size = 3
     }
 
     clergymen = {
-        culture = platinean
+        culture = afro_caribeno
         religion = catholic
-        size = 28
+        size = 33
     }
 
     soldiers = {
-        culture = platinean
+        culture = afro_caribeno
         religion = catholic
-        size = 550
+        size = 660
     }
 
     farmers = {
-        culture = platinean
+        culture = afro_caribeno
         religion = catholic
-        size = 1125
+        size = 1350
     }
 }
 #Xolotas (20000/5000 POPS) #now part of Argentina
 2367 = {
     aristocrats = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 93
     }
 
     clergymen = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 93
     }
 
     soldiers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 5718
     }
@@ -1065,25 +1113,25 @@
     }
 
     aristocrats = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 62
     }
 
     clergymen = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 93
     }
 
     soldiers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = guarani
+        culture = amazonian
         religion = animist
         size = 3375
     }
@@ -1841,26 +1889,26 @@
     }
 
     aristocrats = {
-        culture = guarani
+        culture = afro_caribeno
         religion = animist
-        size = 62
+        size = 74
     }
 
     clergymen = {
-        culture = guarani
+        culture = afro_caribeno
         religion = animist
-        size = 93
+        size = 111
     }
 
     soldiers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = animist
-        size = 550
+        size = 660
     }
 
     farmers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = animist
-        size = 3375
+        size = 4050
     }
 }

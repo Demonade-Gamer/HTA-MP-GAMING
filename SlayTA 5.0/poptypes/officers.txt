@@ -41,9 +41,9 @@ luxury_needs = {
 	telephones = 1.25
 	automobiles = 1.0
 	wine = 10
-	aeroplanes = 0.4
+	#aeroplanes = 0.4
 	radio = 2.0
-	fuel = 0.2
+	#fuel = 0.2
 }
 
 everyday_needs = {
@@ -62,7 +62,7 @@ everyday_needs = {
 life_needs = {
 	cattle = 0.75
 	wool =  0.85
-	fish =  1
+	fish =  1.05
 	fruit =  1
 	grain =  2.5
 }
@@ -72,6 +72,10 @@ country_migration_target =
 {
 	factor = 1
 
+	modifier = {
+		factor = -1000
+		has_country_flag = ghostland
+	}
 	modifier = {
 		factor = 0.9
 		unemployment = 0.05
@@ -113,39 +117,175 @@ country_migration_target =
 		THIS = { religion = jewish }
 		any_owned_province = { is_core = ISR }
 	}
+#	modifier = {
+#		factor = 10.0
+#		has_country_flag = new_world_nation
+#		nationalvalue = nv_liberty
+#	}
 	modifier = {
 		factor = 10.0
-		has_country_flag = new_world_nation
-		nationalvalue = nv_liberty
+		has_country_flag = south_american_immigrant_nation
+		has_country_flag = statue_of_liberty
+		OR = {
+			AND = {
+				year = 1836
+				month = 0
+				NOT = { month = 1 }
+			}
+			AND = {
+				year = 1836
+				month = 2
+				NOT = { month = 3 }
+			}
+			AND = {
+				year = 1836
+				month = 4
+				NOT = { month = 5 }
+			}
+			AND = {
+				year = 1836
+				month = 6
+				NOT = { month = 7 }
+			}
+			AND = {
+				year = 1836
+				month = 8
+				NOT = { month = 9 }
+			}
+			AND = {
+				year = 1836
+				month = 10
+				NOT = { month = 11 }
+			}
+		}
+	}
+	modifier = {
+		factor = 10.0
+		has_country_flag = north_american_immigrant_nation
+		OR = {
+			AND = {
+				year = 1836
+				month = 0
+				NOT = { month = 1 }
+			}
+			AND = {
+				year = 1836
+				month = 2
+				NOT = { month = 3 }
+			}
+			AND = {
+				year = 1836
+				month = 4
+				NOT = { month = 5 }
+			}
+			AND = {
+				year = 1836
+				month = 6
+				NOT = { month = 7 }
+			}
+			AND = {
+				year = 1836
+				month = 8
+				NOT = { month = 9 }
+			}
+			AND = {
+				year = 1836
+				month = 10
+				NOT = { month = 11 }
+			}
+		}
+	}
+	modifier = {
+		factor = 10.0
+		has_country_flag = north_american_immigrant_nation
+		has_country_flag = statue_of_liberty
+		OR = {
+			AND = {
+				year = 1836
+				month = 1
+				NOT = { month = 2 }
+			}
+			AND = {
+				year = 1836
+				month = 3
+				NOT = { month = 4 }
+			}
+			AND = {
+				year = 1836
+				month = 5
+				NOT = { month = 6 }
+			}
+			AND = {
+				year = 1836
+				month = 7
+				NOT = { month = 8 }
+			}
+			AND = {
+				year = 1836
+				month = 9
+				NOT = { month = 10 }
+			}
+		}
+	}
+	modifier = {
+		factor = 10.0
+		has_country_flag = south_american_immigrant_nation
+		OR = {
+			AND = {
+				year = 1836
+				month = 1
+				NOT = { month = 2 }
+			}
+			AND = {
+				year = 1836
+				month = 3
+				NOT = { month = 4 }
+			}
+			AND = {
+				year = 1836
+				month = 5
+				NOT = { month = 6 }
+			}
+			AND = {
+				year = 1836
+				month = 7
+				NOT = { month = 8 }
+			}
+			AND = {
+				year = 1836
+				month = 9
+				NOT = { month = 10 }
+			}
+		}
 	}
 	modifier = {
         factor = -1000.0
 		has_global_flag = fuck_ai_immigration
 		ai = yes
     }
-	modifier = {
-		factor = 0.1
-		has_country_flag = new_world_nation
-		nationalvalue = nv_liberty
-		NOT = {
-			any_owned_province = {
-				OR = {
-					AND = {
-						has_pop_type = labourers
-						NOT = { unemployment_by_type = { value = 0.1 type = labourers } }
-					}
-					AND = {
-						has_pop_type = farmers
-						NOT = { unemployment_by_type = { value = 0.1 type = farmers } }
-					}
-					AND = {
-						state_scope = { has_factories = yes }
-						NOT = { unemployment_by_type = { value = 0.1 type = craftsmen } }
-					}
-				}
-			}
-		}
-	}
+#	modifier = {
+#		factor = 0.1
+#		has_country_flag = new_world_nation
+#		nationalvalue = nv_liberty
+#		NOT = {
+#			any_owned_province = {
+#				OR = {
+#					AND = {
+#						has_pop_type = labourers
+#						NOT = { unemployment_by_type = { value = 0.1 type = labourers } }
+#					}
+#					AND = {
+#						has_pop_type = farmers
+#						NOT = { unemployment_by_type = { value = 0.1 type = farmers } }
+#					}
+#					AND = {
+#						state_scope = { has_factories = yes }
+#						NOT = { unemployment_by_type = { value = 0.1 type = craftsmen } }
+#					}
+#				}
+#			}
+#		}
+#	}
 }
 
 migration_target =
@@ -161,10 +301,6 @@ migration_target =
 	}
 	modifier = {
 		factor = 1.2
-		total_pops = 150000
-	}	
-	modifier = {
-		factor = 1.2
 		total_pops = 250000
 	}
 	modifier = {
@@ -176,18 +312,9 @@ migration_target =
 		total_pops = 750000
 	}	
 	modifier = {
-		factor = 0
-					AND = {
-				state_scope = {
-					has_factories = no
-				}
-				can_build_factory = no
-			}
-		OR = { 
-			unemployment_by_type = { type = farmers value = 0.1  }
-			unemployment_by_type = { type = labourers value = 0.1  }
-		}
-	}
+		factor = 1.2
+		total_pops = 150000
+	}	
 	modifier = {
     		factor = 4
     		has_culture_core = yes
@@ -199,8 +326,8 @@ migration_target =
 	modifier = {
 		factor = 2
 		state_scope = {
-					has_factories = yes
-				}
+			has_factories = yes
+		}
 	}
 	modifier = {
 		factor = 1.2
@@ -217,11 +344,6 @@ migration_target =
 		}
 	}
 	modifier = {
-		factor = 4
-		this = { religion = jewish }
-		is_core = ISR 
-	}
-	modifier = {
 		factor = 2
 		is_state_capital = yes
 	}		
@@ -232,23 +354,6 @@ migration_target =
 	modifier = {
 		factor = 1.05
 		is_coastal = yes
-	}
-	
-	modifier = {
-		factor = 0.6
-		terrain = mountain
-	}
-	modifier = {
-		factor = 0.1
-		terrain = desert
-	}
-	modifier = {
-		factor = 0.6
-		terrain = marsh
-	}
-	modifier = {
-		factor = 0.01
-		terrain = arctic
 	}
 	modifier = {
 		factor = 2
@@ -555,6 +660,173 @@ soldiers =
 				literacy = 1
 			}
 		}
+		
+		modifier = {
+			factor = -100 
+			OR = {
+				AND = {
+					country = { has_country_flag = crat_1 }
+					state_scope = { bureaucrats = 0.01 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.1 }
+					state_scope = { bureaucrats = 0.011 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.2 }
+					state_scope = { bureaucrats = 0.012 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.3 }
+					state_scope = { bureaucrats = 0.013 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.4 }
+					state_scope = { bureaucrats = 0.014 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.5 }
+					state_scope = { bureaucrats = 0.015 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.6 }
+					state_scope = { bureaucrats = 0.016 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.7 }
+					state_scope = { bureaucrats = 0.017 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.8 }
+					state_scope = { bureaucrats = 0.018 }
+				}
+				AND = {
+					country = { has_country_flag = crat_1.9 }
+					state_scope = { bureaucrats = 0.019 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2 }
+					state_scope = { bureaucrats = 0.02 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.1 }
+					state_scope = { bureaucrats = 0.021 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.2 }
+					state_scope = { bureaucrats = 0.022 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.3 }
+					state_scope = { bureaucrats = 0.023 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.4 }
+					state_scope = { bureaucrats = 0.024 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.5 }
+					state_scope = { bureaucrats = 0.025 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.6 }
+					state_scope = { bureaucrats = 0.026 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.7 }
+					state_scope = { bureaucrats = 0.027 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.8 }
+					state_scope = { bureaucrats = 0.028 }
+				}
+				AND = {
+					country = { has_country_flag = crat_2.9 }
+					state_scope = { bureaucrats = 0.029 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3 }
+					state_scope = { bureaucrats = 0.03 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.1 }
+					state_scope = { bureaucrats = 0.031 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.2 }
+					state_scope = { bureaucrats = 0.032 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.3 }
+					state_scope = { bureaucrats = 0.033 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.4 }
+					state_scope = { bureaucrats = 0.034 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.5 }
+					state_scope = { bureaucrats = 0.035 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.6 }
+					state_scope = { bureaucrats = 0.036 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.7 }
+					state_scope = { bureaucrats = 0.037 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.8 }
+					state_scope = { bureaucrats = 0.038 }
+				}
+				AND = {
+					country = { has_country_flag = crat_3.9 }
+					state_scope = { bureaucrats = 0.039 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4 }
+					state_scope = { bureaucrats = 0.04 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.1 }
+					state_scope = { bureaucrats = 0.041 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.2 }
+					state_scope = { bureaucrats = 0.042 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.3 }
+					state_scope = { bureaucrats = 0.043 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.4 }
+					state_scope = { bureaucrats = 0.044 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.5 }
+					state_scope = { bureaucrats = 0.045 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.6 }
+					state_scope = { bureaucrats = 0.046 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.7 }
+					state_scope = { bureaucrats = 0.047 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.8 }
+					state_scope = { bureaucrats = 0.048 }
+				}
+				AND = {
+					country = { has_country_flag = crat_4.9 }
+					state_scope = { bureaucrats = 0.049 }
+				}
+			}
+		}
+		
 		group = {
 			modifier = {
 				factor = -2
@@ -1213,10 +1485,6 @@ ideologies = {
 		modifier = {
 			factor = 1.1
 			NOT = { is_ideology_enabled = anarcho_liberal }
-		}
-		modifier = {
-			factor = 1.1
-			nationalvalue = nv_liberty
 		}
 		modifier = {
 			factor = 1.1
@@ -2038,31 +2306,6 @@ issues =
 		}
 		modifier = {
 			factor = 1.1
-			nationalvalue = nv_liberty 
-			consciousness = 5
-		}
-		modifier = {
-			factor = 1.1
-			nationalvalue = nv_liberty 
-			consciousness = 6
-		}
-		modifier = {
-			factor = 1.1
-			nationalvalue = nv_liberty 
-			consciousness = 7
-		}
-		modifier = {
-			factor = 1.1
-			nationalvalue = nv_liberty 
-			consciousness = 8
-		}
-		modifier = {
-			factor = 1.1
-			nationalvalue = nv_liberty 
-			consciousness = 9
-		}
-		modifier = {
-			factor = 1.1
 			NOT = { is_primary_culture = yes }
 			NOT = { is_accepted_culture = yes }
 			consciousness = 5
@@ -2621,7 +2864,7 @@ issues =
 		}
 		modifier = {
 			factor = 0.25
-			NOT = { literacy = 50 }
+			NOT = { literacy = 0.50 }
 		}
 		modifier = {
 			factor = 1.25
@@ -2666,7 +2909,7 @@ issues =
 		}
 		modifier = {
 			factor = 0.25
-			NOT = { literacy = 50 }
+			NOT = { literacy = 0.50 }
 		}
 		modifier = {
 			factor = 1.25

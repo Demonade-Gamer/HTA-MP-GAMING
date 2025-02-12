@@ -1,11 +1,11 @@
 capital = 2074
-primary_culture = tswana
+primary_culture = yoruba
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.01
-non_state_culture_literacy = 0
+non_state_culture_literacy = 0.6
 
 
 # Political reforms

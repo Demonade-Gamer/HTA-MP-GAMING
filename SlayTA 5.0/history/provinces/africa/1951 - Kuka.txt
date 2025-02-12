@@ -1,6 +1,6 @@
 
 
-add_core = KBO
+#KBO
 trade_goods = cotton
 life_rating = 15
 

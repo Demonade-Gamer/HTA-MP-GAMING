@@ -1,8 +1,8 @@
-owner = FRA
-controller = FRA
-
-trade_goods = cotton
-life_rating = 35
+owner = NRM
+controller = NRM
+add_core = NRM
+trade_goods = silk
+life_rating = 35 
 
 
 add_core = FRA

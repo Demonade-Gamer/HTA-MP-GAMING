@@ -1,18 +1,17 @@
 owner = BRA
 controller = BRA
-add_core = HAN
-
 add_core = GER
+add_core = BRN
 trade_goods = fruit
 life_rating = 38
 state_building = {
 	level = 2 
-	building = canned_food_factory
+	building = artillery_factory
 	upgrade = yes
 }
 state_building = {
 	level = 2 
-	building = liquor_distillery
+	building = steel_factory
 	upgrade = yes
 }
 

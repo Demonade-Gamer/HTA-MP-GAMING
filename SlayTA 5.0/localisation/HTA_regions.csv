@@ -78,7 +78,7 @@ FIN_307;Lappi;;;;;;;;;;;x,,,
 RUS_336;Savo;;;;;;;;;;;x
 RUS_345;Suomi;;;;;;;;;;;x
 SCH_370;Slesvig & Holsten;;;;;;;;;;;x
-SWE_332;Småland;;;;;;;;;;;x,,,
+SWE_332;Åland Islands;;;;;;;;;;;x,,,
 SWE_334;Skåne;;;;;;;;;;;x,,,
 RUS_360;Vilna;;;;;;;;;;;;;x
 RUS_361;Lithuania;;;;;;;;;;;;;x
@@ -99,7 +99,7 @@ FRA_461;Lengadòc;;;;;;;;;;;;;;;x,,,
 SAR_466;Savouè;;;;;;;;;;;;;;;x,,,
 FRA_467;Prouvença;;;;;;;;;;;;;;;x,,,
 SPA_477;León;León;León;;León;;;;;;;;;x
-SPA_481;Castilla;Castilla;Castilla;;Castilla;;;;;;;;x
+SPA_481;Cartagena;Cartagena;Cartagena;;Cartagena;;;;;;;;x
 SPA_492;Vasconia;Vasconia;Vasconia;;Vasconia;;;;;;;x 
 SPA_496;Aragon;Aragon;Aragon;;Aragon;;;;;;;;;x
 SPA_502;Balearic Islands;;;;;;;;x
@@ -115,7 +115,7 @@ SAX_558;Saxony;;;;;;;;;;;;x
 GER_565;Hesse;;;;;;;;;;;;x,,,
 GER_566;Kassel;;;;;;;;;;;x,,,
 PRU_570;Palatinate;;;;;;;;;;;;x    
-PRU_575;Northern Rheinland;;;;;;;;;;;;;x,,,
+PRU_575;Rheinland;;;;;;;;;;;;;x,,,
 PRU_578;Southern Rheinland;;;;;;;;;;;x,,,
 BAV_595;Franconia;;;;;;;;;;;;x     
 BAV_599;Upper Bavaria;;;;;;;;;;;;x 
@@ -141,7 +141,7 @@ AUS_771;Old Croatia;;;;;;;;;;x
 CRO_789;Krajina;;;;;;;;;;;;;x,,,
 FRA_801;Tahiti;;;;;;;;;;;;x        
 TUR_805;Thessalonikos;;;;;;;;;x
-TUR_806;Makedonia;;;;;;;;;x
+TUR_806;Thessalonikos;;;;;;;;;x
 TUR_809;Paradounavon;;;;;;;;;;;x,,,
 TUR_810;Bulgaria;;;;;;;;;;x,,,
 TUR_823;Nestos;;;;;;;;;;x
@@ -149,6 +149,7 @@ GRE_826;Heptanesa;;;;;;;;;x
 TUR_832;Epirou;;;;;;;;;;x
 GRE_837;Greece;;;;;;;;;;x
 GRE_839;Peloponnesos;;;;;;;;;;x
+SER_794;Serbia;;;;;;;;;;x
 CRE_847;Crete;;;;;;;;;;x
 TUR_853;Arbenon;;;;;;;;;;;x
 TUR_863;Opsikon;;;;;;;;;;;x,,,
@@ -204,9 +205,9 @@ SIA_1358;Isan;;;;;;;;;;;;x
 DAI_1369;Tonkin;;;;;;;;;;;;x       
 DAI_1375;Annam;;;;;;;;;;;;x        
 DAI_1380;Cochinchina;;;;;;;;;;;;x  
-TUR_803;Serbia;;;;;;;;;;;;x  
+TUR_803;Makedonia;;;;;;;;;;;;x  
 AUS_780;Dalmatia;;;;;;;;;;;;x  
-TUR_931;Babylon;;;;;;;;;;;;x  
+TUR_931;Baghdad;;;;;;;;;;;;x  
 ENG_1384;Southern Malaya;;;;;;;;;;;x
 ENG_1391;Northern Malaya;;;;;;;;;;;x
 SIA_1392;Ayutthaya;;;;;;;;;;;;x    
@@ -391,3 +392,5 @@ USA_2556;Temahi;;;;;;;;;;x,,,
 RUS_2587;Kuollanta;;;;;;;;;x
 CHI_2678;Outer Mongolia;;;;;;;;;x
 RUS_2694;Central Siberia;;;;;;;;;;x
+PAP_752;Malta;;;;;;;;;;x
+MOD_739;Abruzzo-Marche;;;;;;;;;;x

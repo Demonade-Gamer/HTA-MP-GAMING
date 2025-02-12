@@ -8,3 +8,14 @@ army = {
 	}
 }
 
+
+NAP = {
+	value = 200
+	level = 4
+}
+
+PDN = {
+	value = -200
+	level = 0
+}
+

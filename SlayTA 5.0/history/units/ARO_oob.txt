@@ -1,0 +1,20 @@
+
+army = {
+	name = "Saragossa Defence Force"
+	location = 495
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 496
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 497
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = artillery
+		home = 495
+	}
+}

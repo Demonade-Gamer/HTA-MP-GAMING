@@ -35,7 +35,27 @@
 	farmers = {
 		culture = mellomsk
 		religion = protestant
-		size = 43425
+		size = 30425
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 12000
 	}
 }
 #Rivas (40000/10000 POPS)
@@ -63,7 +83,27 @@
 	farmers = {
 		culture = mellomsk
 		religion = protestant
-		size = 28025
+		size = 15025
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 12000
 	}
 }
 #Esteli (48000/12000 POPS)
@@ -91,7 +131,27 @@
 	farmers = {
 		culture = mellomsk
 		religion = protestant
-		size = 26825
+		size = 13825
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 12000
 	}
 }
 #Bluefields (12000/3000 POPS)

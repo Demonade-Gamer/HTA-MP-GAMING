@@ -22,8 +22,43 @@ army = {
 		home = 584
 	}
 	regiment = {
-		name = "1. Artilleriebrigade"
+		name = "3. Infanteriebrigade"
 		type = infantry
-		home = 565
+		home = 579
+	}
+	regiment = {
+		name = "4. Infanteriebrigade"
+		type = infantry
+		home = 579
+	}
+	regiment = {
+		name = "2. Cavalriebrigade"
+		type = hussar
+		home = 583
+	}
+	regiment = {
+		name = "1. Artilleriebrigade"
+		type = artillery
+		home = 578
+	}
+	regiment = {
+		name = "2. Artilleriebrigade"
+		type = artillery
+		home = 2561
+	}
+	regiment = {
+		name = "3. Artilleriebrigade"
+		type = artillery
+		home = 568
+	}
+	regiment = {
+		name = "4. Artilleriebrigade"
+		type = artillery
+		home = 2560
+	}
+	regiment = {
+		name = "5. Artilleriebrigade"
+		type = artillery
+		home = 570
 	}
 }

@@ -130,13 +130,14 @@ has_siege = {
 
 occupied = {
 	immigrant_attract = -1
+	life_rating = -0.1
 }
 
 
 
 nationalism = {
-	pop_militancy_modifier = 0.003
-	pop_consciousness_modifier = 0.003
+	pop_militancy_modifier = 0.01
+	pop_consciousness_modifier = 0.01
 }
 
 infrastructure = {
@@ -159,14 +160,14 @@ war = {
 	max_war_exhaustion = 100			#base max at war.
 	#supply_consumption = -0.5
 	#war_exhaustion = 0.1
-	badboy = -0.15
+	badboy = -0.1
 }
 
 peace = {
 	max_war_exhaustion = 50			#base max at peace.
 	#supply_consumption = -0.5
 	war_exhaustion = -1
-	badboy = -0.3
+	badboy = -0.1
 	mobilisation_economy_impact = 2.0
 }
 
@@ -175,9 +176,11 @@ disarming = {
 }
 
 war_exhaustion = {
-	org_regain = -0.01
-	factory_throughput = -0.01
-	RGO_throughput = -0.01
+	org_regain = -0.01 #-0.01
+	factory_throughput = -0.015 #-0.010
+	RGO_throughput	= -0.02 #-0.01
+	tax_efficiency = -0.0002   #CE addition
+        pop_militancy_modifier = 0.001 #CE addition
 	cb_generation_speed_modifier = -0.02
 }
 

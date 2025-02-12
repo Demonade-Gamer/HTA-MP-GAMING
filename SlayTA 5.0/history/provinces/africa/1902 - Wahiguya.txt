@@ -1,6 +1,6 @@
 
 
-add_core = MOS
-trade_goods = grain
+#MOS
+trade_goods = iron
 life_rating = 15
 

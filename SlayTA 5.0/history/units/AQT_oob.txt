@@ -1,11 +1,9 @@
-NAV = {
-	value = 75
-	level = 4
-	influence_value = 25
+FRA = {
+	truce_until = 1837.1.1
 }
 
-GLC = {
-	value = 50
+NAV = {
+	value = 75
 	level = 4
 	influence_value = 25
 }
@@ -16,78 +14,27 @@ POR = {
 	influence_value = 25
 }
 
-DAU = {
+NET = {
 	value = 100
 	level = 4
 	influence_value = 25
 }
 
-BRT = {
-	value = 75
-	level = 4
-	influence_value = 25
-}
-CMP = { value = 100 }
 HIS = {
 	truce_until = 1839.9.25
 }
 
+
 MEX = { value = -50 }
-FRA = { value = -50 }
 YUC = { value = -30 }
 NPL = { value = 5 }
 leader = {
-	name = "Minediamonds"
+	name = "Jacin Ilmunts"
 	picture = asian_general_3
 	date = 1835.1.1
 	type = land
-	personality = defence_5.1
-	background = attack_minus_1.1
-	prestige = 0.001
-}
-leader = {
-	name = "Base guy 1"
-	picture = asian_general_3
-	date = 1835.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.001
-}
-leader = {
-	name = "Base guy 2"
-	picture = asian_general_3
-	date = 1835.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.001
-}
-leader = {
-	name = "Base guy 3"
-	picture = asian_general_3
-	date = 1835.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.001
-}
-leader = {
-	name = "Base guy 4"
-	picture = asian_general_3
-	date = 1835.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.001
-}
-leader = {
-	name = "Base guy 5"
-	picture = asian_general_3
-	date = 1835.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
+	personality = defence_4.1
+	background = attack_4.1
 	prestige = 0.001
 }
 
@@ -200,9 +147,76 @@ army = {
 		home = 450
 	}
 }
+
+army = {
+	name = "Artilharia Reial"
+	location = 720
+	regiment = {
+		name= "1. Artilharia"
+		type = hussar
+		home = 464
+	}
+	regiment = {
+		name= "2. Artilharia"
+		type = artillery
+		home = 452
+	}
+	regiment = {
+		name= "1. Cavalaria"
+		type = artillery
+		home = 499
+	}
+	regiment = {
+		name= "2. Cavalaria"
+		type = artillery
+		home = 451
+	}
+	regiment = {
+		name = "1. Enfantaria"
+		type = artillery
+		home = 470
+	}
+	regiment = {
+		name = "2. Enfantaria"
+		type = artillery
+		home = 500
+	}
+	regiment = {
+		name= "1. Artilharia"
+		type = hussar
+		home = 501
+	}
+	regiment = {
+		name= "2. Artilharia"
+		type = artillery
+		home = 720
+	}
+	regiment = {
+		name= "1. Cavalaria"
+		type = artillery
+		home = 533
+	}
+	regiment = {
+		name= "2. Cavalaria"
+		type = artillery
+		home = 721
+	}
+	regiment = {
+		name = "1. Enfantaria"
+		type = artillery
+		home = 722
+	}
+	regiment = {
+		name = "2. Enfantaria"
+		type = artillery
+		home = 472
+	}
+}
+
+
 army = {
 	name = "Exèrcit Català"
-	location = 498
+	location = 463
 	regiment = {
 		name = "1era Divisió d'Infanteria"
 		type = infantry
@@ -214,6 +228,16 @@ army = {
 		home = 464
 	}
 	regiment = {
+		name = "2ona Divisió d'Infanteria"
+		type = infantry
+		home = 467
+	}
+	regiment = {
+		name = "2ona Divisió d'Infanteria"
+		type = infantry
+		home = 608
+	}
+	regiment = {
 		name = "1era Divisió de Cavalleria"
 		type = dragoon
 		home = 498
@@ -221,32 +245,61 @@ army = {
 	regiment = {
 		name = "1era Divisió d'Artilleria"
 		type = artillery
-		home = 501
+		home = 461
+	}
+	regiment = {
+		name = "1era Divisió d'Artilleria"
+		type = artillery
+		home = 461
+	}
+	regiment = {
+		name = "1era Divisió d'Artilleria"
+		type = artillery
+		home = 461
+	}
+	regiment = {
+		name = "1era Divisió d'Artilleria"
+		type = artillery
+		home = 461
+	}
+	regiment = {
+		name = "1era Divisió d'Artilleria"
+		type = artillery
+		home = 608
 	}
 }
-
-navy = {
-	name = "Esquadró Català"
+army = {
+	name = "Catalonia Corps"
 	location = 498
-	ship = {
-		name = "Catalunya"
-		type = manowar
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 500
 	}
-	ship = {
-		name = "Noguera"
-		type = frigate
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 501
 	}
-	ship = {
-		name = "Mart"
-		type = frigate
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 499
 	}
-	ship = {
-		name = "Sant Gabriel"
-		type = clipper_transport
+	regiment = {
+		name = "1. Fedehere"
+		type = hussar
+		home = 499
 	}
-	ship = {
-		name = "Sant Antoni"
-		type = clipper_transport
+	regiment = {
+		name = "2. Fedehere"
+		type = artillery
+		home = 498
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = artillery
+		home = 498
 	}
 }
 
@@ -270,6 +323,30 @@ navy = {
 		type = manowar
 	}
 	ship = {
+		name = "Catalunya"
+		type = manowar
+	}
+	ship = {
+		name = "Aymar II"
+		type = manowar
+	}
+	ship = {
+		name = "Raimond V"
+		type = manowar
+	}
+	ship = {
+		name = "Loui I"
+		type = manowar
+	}
+	ship = {
+		name = "Archambaut IV"
+		type = manowar
+	}
+	ship = {
+		name = "Catalunya"
+		type = manowar
+	}
+	ship = {
 		name = "Tolosa"
 		type = frigate
 	}
@@ -277,34 +354,116 @@ navy = {
 		name = "St. Guilhem"
 		type = frigate
 	}
-}
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-
-	befriend = { id="FRA" value = 50 }
-	threat = { id="PDN" value = 50 }
-	threat = { id="NPL" value = 50 }
-	threat = { id="HIS" value = 50 }
-	threat = { id="ITA" value = 50 }
-
-
-	rival = { id="NPL" value=200 }
-	rival = { id="ITA" value=200 }
-	rival = { id="GER" value=150 }
-	rival = { id="HIS" value=200 }
-	rival = { id="AGR" value=100 }
-	rival = { id="BOH" value=100 }
-	rival = { id="ZAC" value=100 }
-	rival = { id="QIN" value=150 }
-	rival = { id="GXI" value=200 }
-	rival = { id="JAP" value=100 }
-	rival = { id="NET" value=100 }
-	rival = { id="PDN" value=100 }
-	rival = { id="BYZ" value=200 }
+	ship = {
+		name = "Noguera"
+		type = frigate
+	}
+	ship = {
+		name = "Aymar X"
+		type = manowar
+	}
+	ship = {
+		name = "Raimond IV"
+		type = manowar
+	}
+	ship = {
+		name = "Loui IV"
+		type = manowar
+	}
+	ship = {
+		name = "Archambaut III"
+		type = manowar
+	}
+	ship = {
+		name = "Catalunya II"
+		type = manowar
+	}
+	ship = {
+		name = "Marty"
+		type = frigate
+	}
+	ship = {
+		name = "Martique"
+		type = frigate
+	}
+	ship = {
+		name = "Martie"
+		type = frigate
+	}
+	ship = {
+		name = "Martket"
+		type = frigate
+	}
+	ship = {
+		name = "Mart II"
+		type = frigate
+	}
+	ship = {
+		name = "Mart III"
+		type = frigate
+	}
+	ship = {
+		name = "Mart IV"
+		type = frigate
+	}
+	ship = {
+		name = "Martie"
+		type = frigate
+	}
+	ship = {
+		name = "Martket"
+		type = frigate
+	}
+	ship = {
+		name = "Mart II"
+		type = frigate
+	}
+	ship = {
+		name = "Mart III"
+		type = frigate
+	}
+	ship = {
+		name = "Mart IV"
+		type = frigate
+	}
+	ship = {
+		name = "Sant Gabriel"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Antoni"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Franci"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Pedro"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Johann"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Gabriel"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Antoni"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Franci"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Predo"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sant Johann"
+		type = clipper_transport
+	}
 }

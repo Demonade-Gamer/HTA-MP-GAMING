@@ -1,6 +1,6 @@
 
 
-add_core = DND
-trade_goods = wool
-life_rating = 15
+#DND
+trade_goods = sulphur
+life_rating = 10
 

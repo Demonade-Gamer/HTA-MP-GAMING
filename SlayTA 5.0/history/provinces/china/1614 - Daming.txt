@@ -3,5 +3,5 @@ controller = QIN
 add_core = QIN
 add_core = CHI
 trade_goods = grain
-life_rating = 35
+life_rating = 32
 

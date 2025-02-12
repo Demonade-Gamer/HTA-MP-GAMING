@@ -1,0 +1,388 @@
+#Guatemala Region (476000)
+#Ruled by Central America 1836
+#Guatemala City (276000/69000 POPS)
+2186 = {
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = meikan
+        religion = catholic
+        size = 575
+    }
+
+    officers = {
+        culture = meikan
+        religion = catholic
+        size = 120
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 275
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 1080
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 880
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 18680
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 1680
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 340
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 31400
+    }
+
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 60
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 540
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 440
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 9340
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 840
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 170
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 15700
+    }
+}
+#Quetzaltenango (112000/28000 POPS)
+2187 = {
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 175
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 280
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 880
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 4320
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 840
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 180
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 15700
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 140
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 440
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2160
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 420
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 90
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 7850
+    }
+}
+#Puerto Barrios (72000/18000 POPS)
+2188 = {
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 240
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 380
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 4340
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 480
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 8980
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 120
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 190
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2170
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 240
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4490
+    }
+}
+#Sayaxche (16000/4000 POPS)
+2189 = {
+    aristocrats = {
+        culture = meikan
+        religion = catholic
+        size = 15
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 80
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 720
+    }
+
+    clergymen = {
+        culture = meikan
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = meikan
+        religion = catholic
+        size = 120
+    }
+
+    soldiers = {
+        culture = meikan
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = meikan
+        religion = catholic
+        size = 2240
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 40
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 360
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 60
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1120
+    }
+}

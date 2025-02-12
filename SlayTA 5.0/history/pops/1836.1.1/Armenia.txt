@@ -28,7 +28,7 @@
     soldiers = {
         culture = armenian
         religion = sunni
-        size = 1125
+        size = 1012
     }
 
     farmers = {
@@ -58,7 +58,7 @@
     soldiers = {
         culture = azerbaijani
         religion = sunni
-        size = 100
+        size = 90
     }
 
     farmers = {
@@ -84,6 +84,18 @@
         religion = sunni
         size = 1850
     }
+
+    farmers = {
+        culture = armenian
+        religion = sunni
+        size = 113
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 10
+    }
 }
 #Gyumri (68000/17000 POPS)
 1099 = {
@@ -108,7 +120,7 @@
     soldiers = {
         culture = armenian
         religion = sunni
-        size = 575
+        size = 517
     }
 
     farmers = {
@@ -132,13 +144,25 @@
     soldiers = {
         culture = georgian
         religion = orthodox
-        size = 30
+        size = 27
     }
 
     farmers = {
         culture = georgian
         religion = orthodox
         size = 2925
+    }
+
+    farmers = {
+        culture = armenian
+        religion = sunni
+        size = 58
+    }
+
+    farmers = {
+        culture = georgian
+        religion = orthodox
+        size = 3
     }
 }
 #Kapan (44000/11000 POPS)
@@ -164,7 +188,7 @@
     soldiers = {
         culture = armenian
         religion = sunni
-        size = 475
+        size = 427
     }
 
     farmers = {
@@ -188,13 +212,25 @@
     soldiers = {
         culture = azerbaijani
         religion = sunni
-        size = 325
+        size = 292
     }
 
     farmers = {
         culture = azerbaijani
         religion = sunni
         size = 5775
+    }
+
+    farmers = {
+        culture = armenian
+        religion = sunni
+        size = 48
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 33
     }
 }
 #Nakhichevan (60000/15000 POPS) #now part of Azerbaijan
@@ -220,7 +256,7 @@
     soldiers = {
         culture = armenian
         religion = sunni
-        size = 550
+        size = 495
     }
 
     farmers = {
@@ -244,12 +280,24 @@
     soldiers = {
         culture = azerbaijani
         religion = shiite
-        size = 200
+        size = 180
     }
 
     farmers = {
         culture = azerbaijani
         religion = shiite
         size = 14500
+    }
+
+    farmers = {
+        culture = armenian
+        religion = sunni
+        size = 55
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 20
     }
 }

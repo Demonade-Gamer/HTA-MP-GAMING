@@ -1,19 +1,57 @@
-political_decisions = {	
-		core_korea = {
-		picture = annex_korea
+#Don't roster Japan, total Japanese death.
+political_decisions = {
+	assimilate_korea = {
+		picture = genocide_minorities
 		potential = {
 			tag = JAP
-			civilized = yes
-			NOT = { has_country_flag = claimed_korea }
+			NOT = { has_country_flag = korea_assimilated }
 		}
 		
 		allow = {
 			war = no
+			civilized = yes
+			KOR = { all_core = { owned_by = THIS }}
 		}
 		
 		effect = {
 			set_country_flag = claimed_korea
-			badboy = 5
+			any_owned = {
+				limit = {
+					is_core = KOR
+				}
+				add_province_modifier = {
+					name = korean_assimilation
+					duration = 2525
+					}
+				}
+				set_country_flag = korea_assimilated
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	} 	
+
+	korea_question = {
+		picture = annex_korea
+		potential = {
+			tag = JAP
+			NOT = { has_country_flag = korea_murder }
+			has_global_flag = japan_united
+		}
+		
+		allow = {
+			war = no
+			civilized = yes
+		}
+		
+		effect = {
+			set_country_flag = korea_murder
+			badboy = 15
 			KOR = {
 				all_core = { add_core = THIS }
 			}
@@ -26,26 +64,22 @@ political_decisions = {
 				badboy = 0.8
 			}
 		}
-	} 	
+	} 
 	
 	inherit_ryukyu = {
 		potential = {
 			OR = {
-				tag = CHI
+				tag = GXI
 				tag = JAP
 			}
 			exists = RYU
-			NOT = { has_global_flag = ryukyu_inherited }
-		}
+			civilized = yes
+			NOT = { has_global_flag = ryukyu_inherited }		}
 
 		allow = {
-			civilized = yes
 			war = no
 			RYU = { war = no }
-			OR = {
-				RYU = { part_of_sphere = no }
-				RYU = { in_sphere = THIS }
-			}	
+			RYU = { in_sphere = THIS }
 		}
 
 		effect = {
@@ -79,11 +113,6 @@ political_decisions = {
 			set_country_flag = settle_barbarians
 			badboy = 3
 			prestige = 5
-			MDG = {
-				all_core = { add_core = THIS }
-				relation = { who = THIS value = -100 }
-				diplomatic_influence = { who = THIS value = -150 }
-			}
 			AIN = {
 				all_core = { add_core = THIS }
 				relation = { who = THIS value = -100 }
@@ -98,4 +127,5 @@ political_decisions = {
 			}
 		}
 	}
-}
+
+}	

@@ -1,4 +1,4 @@
-add_core = TSW
+#TSW
 trade_goods = wool
 life_rating = 15
 

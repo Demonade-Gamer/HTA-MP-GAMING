@@ -3,5 +3,5 @@ controller = CLT
 add_core = KTI
 add_core = SUL
 trade_goods = timber
-life_rating = 25
+life_rating = 30
 

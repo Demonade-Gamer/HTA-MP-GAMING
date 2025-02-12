@@ -1,7 +1,7 @@
 
 
-add_core = MLI
-add_core = SEG
-trade_goods = precious_metal
+#MLI
+#SEG
+trade_goods = iron
 life_rating = 15
 

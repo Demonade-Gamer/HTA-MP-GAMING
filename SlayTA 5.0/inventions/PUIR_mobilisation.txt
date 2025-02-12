@@ -8,7 +8,7 @@ levee_en_masse = {
 		civilized = yes 
 	}
 	chance = {
-		base = 100
+		base = 1
 		modifier = {
 			factor = 5
 			military_staff_system = 1
@@ -19,7 +19,7 @@ levee_en_masse = {
 		}
 	}
 	effect = {
-		mobilisation_size = 0.03		
+		mobilisation_size = 0.04		
 
 	}	
 }
@@ -27,7 +27,7 @@ levee_en_masse = {
 railroad_mobilisation_timetables = {
 	limit = { steel_railroad = 1 }
 	chance = {
-		base = 100
+		base = 2
 		modifier = {
 			factor = 3
 			invention = mobilization_time_tables
@@ -50,7 +50,7 @@ railroad_mobilisation_timetables = {
 improved_railroad_mobilisation_timetables = {
 	limit = { integral_rail_system = 1 }
 	chance = {
-		base = 100
+		base = 2
 		modifier = {
 			factor = 3
 			invention = railroad_mobilisation_timetables
@@ -79,7 +79,7 @@ total_war_mobilisation = {
 		NOT = { 
 			OR = {
 				tag = CHI
-				tag = GXI
+				tag = QIN
 				tag = YNN
 				tag = XBI
 				tag = MCK

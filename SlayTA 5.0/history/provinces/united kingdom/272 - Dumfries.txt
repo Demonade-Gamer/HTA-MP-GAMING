@@ -1,8 +1,8 @@
 owner = CLT
 controller = CLT
-
-trade_goods = coal
-life_rating = 35
-
-
 add_core = CLT
+trade_goods = coal
+life_rating = 35 
+fort = 1
+
+

@@ -2,9 +2,12 @@ political_decisions = {
 
 
 slave_acceptance_VST = {
-
+		picture = enact_radical_reconstruction
 		potential = {
-			tag = VST
+			OR = {
+				tag = VST
+				tag = NEU
+				}
 			NOT = {
 				has_country_flag = slave_acceptance_VST_done
 			}
@@ -17,18 +20,21 @@ slave_acceptance_VST = {
 
 		effect = {
 			set_country_flag = slave_acceptance_VST_done
-		add_accepted_culture = afro_american
+			add_accepted_culture = afro_american
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
-slave_acceptance_USR = {
 
+
+slave_acceptance_HIS = {
+		picture = enact_radical_reconstruction
 		potential = {
-			tag = USR
+			tag = HIS
+			picture = cuba
 			NOT = {
-				has_country_flag = slave_acceptance_USR_done
+				has_country_flag = slave_acceptance_HIS_done
 			}
 		}
 
@@ -38,8 +44,31 @@ slave_acceptance_USR = {
 		}
 
 		effect = {
-			set_country_flag = slave_acceptance_USR_done
-			add_accepted_culture = afro_uilsc
+			set_country_flag = slave_acceptance_HIS_done
+			add_accepted_culture = afro_caribeno
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+slave_acceptance_ARG = {
+		picture = enact_radical_reconstruction
+		potential = {
+			tag = ARG
+			NOT = {
+				has_country_flag = slave_acceptance_ARG_done
+			}
+		}
+
+		allow = {
+			state_n_government = 1
+			slavery = no_slavery
+		}
+
+		effect = {
+			set_country_flag = slave_acceptance_ARG_done
+			add_accepted_culture = afro_caribeno
 		}
 		ai_will_do = {
 			factor = 1

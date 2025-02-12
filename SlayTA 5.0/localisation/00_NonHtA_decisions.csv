@@ -34,8 +34,8 @@ accepting_our_brothers_desc;Since we've gained control of our Estonian brothers 
 accepting_our_brothers_title;Accepting Our Brethren;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 accepting_the_slovaks_desc;Accepting the Slovakian minority as Hungarians would go a long way towards fixing our ethnic troubles.;;;;;;;;;;;;;x
 accepting_the_slovaks_title;Accepting the Slovaks;;;;;;;;;;;;;x
-accepting_walloon_people_desc;The Walloonians are restless and desire a say in government, at this point we have little choice but to let them have their way if we want to keep them under our control.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-accepting_walloon_people_title;Integrating the Walloonian Minority;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+accepting_walloon_people_desc;The Walloons are restless and desire a say in government, at this point we have little choice but to let them have their way if we want to keep them under our control.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+accepting_walloon_people_title;Integrating the Walloon Minority;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 aden_protectorate_desc;With enough influence among the sheiks of southern Yemen, a treaty could be signed that would force them to acknowledge us as their sovereign. We cede them Aden, and in return they would agree enter into no relationships with other nations without our express permission. Our continued influence over the Arabian peninsula would be secured.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 aden_protectorate_title;The Aden Protectorate;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 ainu_lands_desc;Now that we have been recognized as a civilized nation we can officially settle the islands to our north without the threat of Japanese intervention ;;;;;;;;;x
@@ -577,8 +577,6 @@ kobu_gattai_title;Kobu Gattai;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 kuomintang_faction;Kuomintang Faction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 kurdish_diaspora_desc;Our Kurdish brothers are crying out for freedom, we should bring them into our nation and return them to us;;;;;;;;;;;;;x,,
 kurdish_diaspora_title;The Kurdish Diaspora;;;;;;;;;;;;;x,,,
-law_of_guarantees2_desc;Amendments need to be made to the law about other nations we have come in control of;;;;;;;;;;;;;x
-law_of_guarantees2_title;Law of Guarantees;;;;;;;;;;;;;x
 leader_of_kalmar;Leader of the Kalmar Union;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 leader_of_kalmar_desc;We are the leader of the movement to unite the Scandinavian people under a single flag.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 league_of_three_emperors2_desc;After the defeat of Napoleon, a Holy Alliance was once formed between Prussia, Austria and Russia. Perhaps the time has come to resurrect that alliance, a common front between our three monarchies to stand against the wave of revolution and change and Europe?;;;;;;;;;;;;x,,,,,,,,,,
@@ -635,8 +633,8 @@ orange_river_convention_desc;The Steenkoolers of the Tusstrom are becoming incre
 orange_river_convention_title;Call the Heeckeren River Convention;;;;;;;;;x
 order_to_expel_barbarians_desc;Since the ascension of the Tokugawa Shogun, the role of the Emperor has been confined to that of figurehead. We lead Japan, yet we do not. Recently, the leadership of the Shogun has come into question. His increasing inability to deal with foreigners in a way that shows any manner of leadership compels the Emperor to act-- with or without the Shogun's permission. We shall send out a call to the people in our own name, demanding they rise up and throw out the foreigners that the Shogun will not.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
 order_to_expel_barbarians_title;Order to Expel Barbarians;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-organise_kamchatka_desc;The region of Kamchatka needs to be reorganized so we can more properly govern the region to make sure it is a proper Russian region;;;;;;;;;;;;;x
-organise_kamchatka_title;Organise Kamchatka;;;;;;;;;;;;;x
+organise_kamchatka_desc;The Siberian Frontier needs to be reorganized so we can make sure it is a proper Russian region. This will allow us to have a power base in Asia away from the West. Let us encourage settlement and help the settlement of the Urals and Beyond!;;;;;;;;;;;;;x
+organise_kamchatka_title;Organise Siberia;;;;;;;;;;;;;x
 organize_CAR_desc;We should organize the African colonies to better reflect both a local structure, as well as set up the possibility for autonomous rule-- dominated by our benevolent colonial administrators, of course.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 organize_CAR_title;Organize Ubangi-Chari;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 organize_algeria_desc;We should organize the African colonies to better reflect both a local structure, as well as set up the possibility for autonomous rule-- dominated by our benevolent colonial administrators, of course.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,

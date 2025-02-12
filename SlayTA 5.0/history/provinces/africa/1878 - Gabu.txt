@@ -1,6 +1,6 @@
 
 
-add_core = GBU
+#GBU
 trade_goods = grain
-life_rating = 15
+life_rating = 20
 

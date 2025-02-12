@@ -98,25 +98,7 @@ ARA_liberal;Al Mutaharir;;;;;;;;;;;;;x
 ARA_reactionary2;Al Rashid;;;;;;;;;;;;;x
 ARA_reactionary;Al Sa'ud;;;;;;;;;;;;;x
 ARA_socialist;Al Ishtiraki;;;;;;;;;;;;;x
-ARO;Aro;Aro;Aro;;Aro;;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_ADJ;Aro;Aro;Aro;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_anarcho_liberal;Radical Faction;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_bourgeois_dictatorship;Biafra;Biafra;Biafra;;Biafra;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_bourgeois_dictatorship_ADJ;Biafran;Biafraise;Biafran;;biafreño;;;;;;;;;x
-ARO_communist;Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_conservative;Eze Aro Faction;Faction Eze Aro;Eze Aro Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_democracy;Biafra;Biafra;Biafra;;Biafra;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_democracy_ADJ;Biafran;Biafraise;Biafran;;biafreño;;;;;;;;;x
-ARO_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_fascist_dictatorship;Biafra;Biafra;Biafra;;Biafra;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_fascist_dictatorship_ADJ;Biafran;Biafraise;Biafran;;biafreño;;;;;;;;;x
-ARO_liberal;Reform Faction;Faction de réforme;Verbesserung Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_presidential_dictatorship;Biafra;Biafra;Biafra;;Biafra;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_presidential_dictatorship_ADJ;Biafran;Biafraise;Biafran;;biafreño;;;;;;;;;x
-ARO_proletarian_dictatorship;Biafra;Biafra;Biafra;;Biafra;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_proletarian_dictatorship_ADJ;Biafran;Biafraise;Biafran;;biafreño;;;;;;;;;x
-ARO_reactionary;Empire Faction;Faction d'empire;Reich Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ARO_socialist;Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ARM;Armenia;x
 ARU;Arab Union;;;;;;;;;;;;;x
 ARU_ADJ;Arabic;;;;;;;;;;;;;x
 ARU_bourgeois_dictatorship;Arab Republic;;;;;;;;;;;;;x
@@ -870,7 +852,7 @@ JAM_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;x
 JAM_liberal;Liberal Party;Liberal Party;Liberal Party;;;;;;;;;;;x
 JAM_reactionary;Alliance for National Unity;Alliance for National Unity;Alliance for National Unity;;;;;;;;;;;x
 JAM_socialist;People's Political Party;People's Political Party;People's Political Party;;;;;;;;;;;x
-JAP_absolute_monarchy;Imperial Japan;;;;;;;;;;;x
+JAP_absolute_monarchy;Heavenly Shogunate;;;;;;;;;;;x
 JAP_anarcho_liberal;Ishin Seit? Shimp?;Faction radicale;Radikale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 JAP_communist;Kyousantou;Faction communiste;Kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 JAP_conservative;Rikken Teiseitou;Faction de la cour;Court Faction;;;;;;;;;;;;x;;;;;;;;;;;;;;

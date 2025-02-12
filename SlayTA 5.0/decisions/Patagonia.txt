@@ -109,61 +109,7 @@ political_decisions = {
 		ai_will_do = {
 			factor = 1
 		}
-	}
-
-	argentina_chile_border_treaty = {
-		picture = treaty_signing
-		potential = {
-			OR = {
-				tag = ARG
-				tag = LPL
-			}
-			has_country_flag = conquest_of_the_desert
-			CHL = {
-				exists = yes
-				has_country_flag = occupation_of_araucania
-			}
-			any_owned_province = {
-				OR = {
-					region = ARG_2391
-					region = ARG_2398
-				}
-			}
-			NOT = { has_country_flag = argentina_chile_border_treaty }
-			2332 = { empty = no }
-			2333 = { empty = no }
-			2334 = { empty = no }
-			2335 = { empty = no }
-			2391 = { empty = no }
-			2392 = { empty = no }
-			2394 = { empty = no }
-			2396 = { empty = no }
-			2397 = { empty = no }
-			2398 = { empty = no }
-			2399 = { empty = no }
-			2400 = { empty = no }
-		}
-		
-		allow = {
-			war = no
-			CHL = {
-				war = no
-				NOT = { truce_with = THIS }
-			}
-		}
-		
-		effect = {
-			set_country_flag = argentina_chile_border_treaty
-			ARG_2391 = { add_core = THIS }
-			ARG_2398 = { add_core = THIS }
-			CHL = { country_event = 97090 }
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
+	}	
 	
 	valparaiso_harbor = {
 		potential = {
@@ -171,7 +117,7 @@ political_decisions = {
 			NOT = {
 				has_country_flag = valpariasoharbor_built
 			}
-			tag = CHL
+			tag = ARG
 			owns = 2325
 		}
 		
@@ -208,7 +154,6 @@ political_decisions = {
 			prestige = 3
 			2336 = {
 				secede_province = THIS
-				any_pop = { reduce_pop = 0.50 }
 			}
 		}
 	}

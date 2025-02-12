@@ -145,7 +145,7 @@ beneluxian = {
 		"van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland" 
 		Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
 	}
-	wallonian = { 
+	walloon = { 
 		color = { 190 90 20}
 		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant 
 		Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges 
@@ -1815,6 +1815,15 @@ neo_european_cultures = {
 		Rye Sissener Skjalgsson Tambarskjelve Tordenskjold Wedel-Jarlsberg Wiborg With Zeiner-Gundersen
 		}
 	}
+	meikan = {
+		color = { 122  232  118 }
+		first_names = { Alban Andieu Alòi Archambaut Aymar Beròt Bérard Bernat Berengar Carles Estève Fidèl Pèire
+		Frederic Guiraud Huc Jan Jacin Laurenç Martin Nicolau Privat Roman Raimond Rogier Raimond-Rogier Vincenç }
+		
+		last_names = { Okkita Ahuactzin Altamiran Badian Bernardin Coaguila Coyotl Cuautlaxahue 
+		Huanitzin Itzel Ixtlilxochitl Matlacuahuac Mayahuel Moxo Nahui Ocelotl
+		Panecatl Tlaxca Tletla Tzehe Valerian Xaxalpa Zicoténcatl Xochitl Zapata Zapotitla }
+	}
 	nieuwlander = {
 		color = {136  157  48}
 		first_names = { 
@@ -2005,20 +2014,22 @@ latin_american_cultures = {
 		}
 	}		
 	platinean = {
-		color = { 255 163 59 }
-		first_names = { Agustín Antonio Atanasio Baltasar Bartolomé Bernardino Bernardo Cándido Carlos Cecilio
-		Cirilo Claudio Domingo Emiliano Esteban Eugenio Evaristo Facundo Faustino Feliciano
-		Félix Francisco Fructuoso Gabriel Gaspar Guillermo Hipólito Ignacio José "Juan José"
-		"Juan Manuel" "Juan Ramón" Julio Justo Lorenzo Luis Manuel Marcial Máximo Miguel
-		Nicolás Patricio Pedro Ramón Roberto Roque Salvador Santiago Torcuato Venancio
-		}
-
-		last_names = { Aguirre Avellaneda Báez Balcarce Bareiro Berro Brown Caballero Cruz "de Alvear"
-		"de la Plaza" "de Rosas" "de Urquiza" Derqui Díaz Ellauri Escobar Flores González Jovellanos
-		Juárez Justo Latorre López Machaín Maza Meza Mitre Paz Pedernera
-		Pellegrini Pereira Quintana Rivarola Rivera Roca "Rodríguez de Francia" Rojas Rondeau Sáenz
-		Santos Sarmineto Solano Tajes Uriburu Viamonte Vidal Williman Wisner Yrigoyen
-		}
+	color = {60 220 130}
+	first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro Andre António Aquilino 
+		Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
+		Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando 
+		Filipe Francisco "Francisco Xavier" Gastão Hermenegildo Ignácio Jerónimo João Joaquim Jorge
+		Jose Júlio Leopoldo Luú Manuel Mário Miguel Nicolau Nuno Orlando 
+		Óscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago 
+		Sebastião Teodoro Teófilo Tiago Tome Urbano Vasco Vicente Vitorino Vitório }
+		
+		last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho
+		"da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragança" "de Bragança-Coburgo" "de Carvalho" 
+		"de Castro" "de Gusmão" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
+		Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes
+		Herculano Ivens Keil Lopes Machado Magalhães Mendes Moniz Mouzinho Nogueira 
+		Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
+		Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }	
 	}
 	tareconano = {
 		color = { 210  250  130 }
@@ -2036,31 +2047,6 @@ latin_american_cultures = {
 		Reyes Robles Rocafuerte Rojas Salgar Santander Soublette Urbina Villegas Zaldúa
 		}
 		radicalism = 15
-	}
-	meikan = {
-		color = { 122  232  118 }
-		first_names = { Alban Andieu Alòi Archambaut Aymar Beròt Bérard Bernat Berengar Carles Estève Fidèl Pèire
-		Frederic Guiraud Huc Jan Jacin Laurenç Martin Nicolau Privat Roman Raimond Rogier Raimond-Rogier Vincenç }
-		
-		last_names = { Okkita Ahuactzin Altamiran Badian Bernardin Coaguila Coyotl Cuautlaxahue 
-		Huanitzin Itzel Ixtlilxochitl Matlacuahuac Mayahuel Moxo Nahui Ocelotl
-		Panecatl Tlaxca Tletla Tzehe Valerian Xaxalpa Zicoténcatl Xochitl Zapata Zapotitla }
-	}
-	califiano = {
-		color = { 166  72  57 }
-		first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
-		Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
-		Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
-		Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
-		Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
-		}
-
-		last_names = { Almonte Álvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza Caserta
-		Cervantes Corona Corra "de Ampudia" "de Cos" "de Itúrbide" Díaz Echeverría Escandón Escobedo
-		Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky "López de Santa Ana" Lozada
-		"Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles
-		Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
-		}
 	}
 
 	largano = {

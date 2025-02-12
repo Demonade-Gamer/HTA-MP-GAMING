@@ -1,3 +1,49 @@
+6.0
+IMPORTED SO MUCH FROM LOVESICK HTA, THANK YOU GODOG
+IMPORTS KEPT FROM LOVESICK-
+	-Helluland getting Margarian accepted
+	-Naples starts at war with Tripoli (Tunisia and libya states split)
+	-Straights that go form Italy to North Africa
+	-Bavaria starts with South German accepted (to make up for lack of Brunswick)
+	-The lit fixes for minorities that SHOULD be literate but weren't (I did remove the bad word though)
+	-The Anatolian Pop Boom is a decision that can be taken instead of an event
+GENERAL GAME CHANGES--
+	-This mod DOES have tiered national focuses, but each tier only gives 1% extra promotion, and has heavily nerfed other types of national focuses
+	-Carved up the Slovenia state, giving Postojna to Friuli state and the other two provinces to Old Croatia
+	-Gave Senj and Karlovac from Old Croatia to Dalmatia
+	-Merged Arabian states into one
+	-Added a decision for Zachadia, Italy, Rome, and Rum for if they own all Serbian, Croatian, Solvene, and Montenegren cores they raise the liferating by 5, setting it to 40
+	-Added a STATUE OF LIBERTY to the new world, can be constructed for 500,000, and can be stolen via a CB that costs 24 warscore
+
+FRANCE/NETHERLANDS CHANGES-
+	- The Netherlands no longer owns East Frisia and Bremen, split up between Brandenburg and Oldenburg
+	- Changed around Dutch soldier pops to compensate (they start 15/36 brigades)
+	- Released Bar-Lorraine and Normandy from France (around 1.2 mil pops France has to retake, they have cores on Normandy only)
+		-Getting cores on Brittany now requires Normandy
+	-If France/Netherlands owns all of the cores of both the nations, they get a 2 LR buff in all their lands
+HISPANIA CHANGES- 
+	- Released Aragon and Valencia from Hispania (about 1.1 mil pop decrease)
+	- Hispania no longer gets Catalan accepted, but they still have basque
+	
+GERMANY CHANGES-
+	- Brunswick exploded into many little Germany AI
+	- Rebalanced Forcelimits of Bavaria and Brandenburg to be around equal day 1
+ITALY CHANGES-
+	-Padan is kill, exploded into a ton of AI
+	-Italy now gets Greek accepted (import from Lovesick)
+PERSIA CHANGES-
+	-Persia now starts civilized, this is by all means a nerf, but it doesn't change much
+	-Persia no longer gets kurdish accepted
+	-Syria is now a puppet that owns both Syria the state and part of the palestine state, it also starts civilized and has no tech
+	-Persia accepts both mashriqi and bedouin IF Rum forms and they have all syrian cores in 1855
+	-Persia will automatically inherit syria if Rum forms or in 1845
+	-Split Syria and Iraq into 2 states each, both having one medium and one small state
+	-Gave Arabian Palestine state to Syrian puppet (they start at 1 mil pops)
+JAPAN CHANGES-
+	-Japan now starts civilized
+	-Japan now starts with almost no technology 
+------------------------------------------------------------------------------------
+
 5.0
 Made Bankers not consume industrial goods (should result in less profit)
 Gave Aquitania Catalonia at the start instead of as a sphere (PLEASE use this land border wisely)

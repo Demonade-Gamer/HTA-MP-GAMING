@@ -1,10 +1,12 @@
-owner = CRO
-controller = CRO
+owner = VEN
+controller = VEN
+add_core = VEN
+add_core = PDN
 
 add_core = SLO
-add_core = VEN
+
 trade_goods = grain
-life_rating = 35
+life_rating = 37
 state_building = {
 	level = 2 
 	building = liquor_distillery

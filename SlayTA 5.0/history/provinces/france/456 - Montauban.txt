@@ -2,5 +2,5 @@ owner = AQT
 controller = AQT
 add_core = AQT
 trade_goods = tobacco
-life_rating = 35
+life_rating = 35 
 

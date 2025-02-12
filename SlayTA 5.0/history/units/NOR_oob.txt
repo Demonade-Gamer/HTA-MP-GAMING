@@ -97,24 +97,3 @@ navy = {
 		type = clipper_transport
 	}
 }
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-	
-	befriend = { id="SWE" value=20 }
-	befriend = { id="FIN" value=60 }
-	befriend = { id="RUS" value=45 }
-	befriend = { id="DEN" value=25 }
-	befriend = { id="ICL" value=145 }
-	befriend = { id="POL" value=70 }
-	
-	protect = { id="ICL" value=200 }
-	
-	threat = { id="SWE" value=110 }
-	threat = { id="DEN" value=110 }
-	threat = { id="FIN" value=70 }
-}

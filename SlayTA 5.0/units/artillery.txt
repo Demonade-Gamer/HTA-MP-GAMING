@@ -19,14 +19,16 @@ artillery = {
 	build_time = 120
 	build_cost = {
 		artillery = 50 #10
-		canned_food = 20
+		canned_food = 10
+		#liquor = 10
+		#wine = 10
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {		#Total Cost: 6.35 #20.955 total cost with late game consumption from tech/inventions only
-		artillery = 0.11 #5.5
-		canned_food = 0.06 #0.6
-		ammunition = 0.05 #0.25
+		artillery = 0.1 #0.11 #5.5
+		canned_food = 0.054 #0.06 #0.6
+		ammunition = 0.045 #0.05 #0.25
 	}
 	
 

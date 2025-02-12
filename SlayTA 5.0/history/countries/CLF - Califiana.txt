@@ -1,5 +1,5 @@
 capital = 89
-primary_culture = califiano
+primary_culture = skamisc
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.0
@@ -39,6 +39,7 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
 
 # Technologies
 post_napoleonic_thought = 1

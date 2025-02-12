@@ -47,54 +47,20 @@ political_decisions = {
 		}
 	}
 	
-	
-	claim_rose = {
-		picture = german_tyrol
-		potential = {
-			tag = AQT
-			NOT = { exists = DAU }
-			454 = { 				#Grenoblo
-				is_core = PDN
-				NOT = {
-					is_core = AQT
-					is_core = DAU
-				}
-			}
-			has_country_flag = claim_rose
-		}
-		
-		allow = {
-			ideological_thought = 1
-		}
-		
-		effect = {
-			relation = {
-				who = PDN
-				value = -50
-			}
-			badboy = 2
-			prestige = 1
-			FRA_451 = {
-				add_core = AQT
-			}
-			465 = { add_core = AQT }
-			466 = { add_core = AQT }
-			607 = { add_core = AQT }
-			clr_country_flag = claim_rose
-		}
-	}
-	
 	garda_civica = {
 		picture = military_parade
 		potential = {
 			tag = AQT
-			government = democracy
 			has_country_flag = revolution_in_blood
 			NOT = { has_country_flag = garda_civica }
 		}
 		
 		allow = {
-			year = 1844
+			year = 1848
+			OR = {
+				average_militancy = 4
+				average_consciousness = 4
+			}
 		}
 		
 		effect = {
@@ -107,24 +73,6 @@ political_decisions = {
 		}
 	}
 	
-	investigate_earthquakes = {
-		picture = found_the_imperial_academy
-		potential = {
-			tag = AQT
-			NPL = { has_country_flag = potenza_earthquake }
-		}
-		
-		allow = {
-			money = 5000
-		}
-		
-		effect = {
-			money = -5000
-			research_points = 500
-			prestige = 1
-		}
-	}
-	
 	cisalpines_are_aquitanian = {
 		picture = PoBridge
 		potential = {
@@ -134,12 +82,7 @@ political_decisions = {
 		
 		allow = {
 			nationalism_n_imperialism = 1
-			OR = {
-				owns = 720 #Turin
-				owns = 724 #Genoa
-				owns = 726 #Milan
-				owns = 744 #Florence
-			}
+			DAU = { all_core = { owned_by = THIS } }
 		}
 		
 		effect = {
@@ -147,6 +90,8 @@ political_decisions = {
 			add_accepted_culture = north_italian
 		}
 	}
+
+
 # Integrate the French
 #	integrate_the_french = {
 #		potential = {

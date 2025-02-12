@@ -39,9 +39,7 @@ political_decisions = {
 			add_accepted_culture = maghrebi
 			add_accepted_culture = misri
 			add_accepted_culture = bedouin
-			add_accepted_culture = berber
-			add_accepted_culture = sudanese
-			add_accepted_culture = maures
+			add_accepted_culture = amhara
 			all_core = {
 				remove_core = THIS
 				add_core = ARU
@@ -50,121 +48,6 @@ political_decisions = {
 			country_event = 98725
 		}
 		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	form_maghreb = {
-		potential = {
-			primary_culture = maghrebi
-			NOT = { exists = MGH }
-			NOT = { has_global_flag = maghreb_reformed }
-		}
-
-		allow = {
-			war = no
-			1680 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = {
-						primary_culture = maghrebi
-						war = no
-						civilized = yes
-						relation = { who = THIS value = 150 }
-					}
-				}
-			}
-			1708 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = {
-						primary_culture = maghrebi
-						war = no
-						civilized = yes
-						relation = { who = THIS value = 150 }
-					}
-				}
-			}
-			1725 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = {
-						primary_culture = maghrebi
-						war = no
-						civilized = yes
-						relation = { who = THIS value = 150 }
-					}
-				}
-			}
-			1731 = {
-				OR = {
-					owned_by = THIS
-					owner = { in_sphere = THIS }
-					owner = {
-						primary_culture = maghrebi
-						war = no
-						civilized = yes
-						relation = { who = THIS value = 150 }
-					}
-				}
-			}
-		}
-
-		effect = {
-			set_global_flag = maghreb_reformed
-			prestige = 20
-			all_core = {
-				remove_core = THIS
-				add_core = MGH
-			}
-			ALD = { all_core = { add_core = MGH } }
-			CYR = { all_core = { add_core = MGH } }
-			LBY = { all_core = { add_core = MGH } }
-			MOR = { all_core = { add_core = MGH } }
-			TRI = { all_core = { add_core = MGH } }
-			TUN = { all_core = { add_core = MGH } }
-			add_accepted_culture = berber
-			add_accepted_culture = maures
-			change_tag = MGH
-			any_country = {
-				limit = {
-					NOT = { primary_culture = maghrebi }
-					in_sphere = THIS
-					war = no
-				}
-				any_owned = {
-					limit = { is_core = MGH }
-					secede_province = THIS
-				}
-			}
-			any_country = {
-				limit = {
-					war = no
-					OR = {
-						primary_culture = maghrebi
-						primary_culture = maures
-					}
-					OR = {
-						in_sphere = THIS
-						AND = {
-							war = no
-							civilized = yes
-							relation = { who = THIS value = 150 }
-							OR = {
-								is_vassal = no
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-				country_event = 98650
-			}
-		}
-
 		ai_will_do = {
 			factor = 1
 		}

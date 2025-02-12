@@ -7,13 +7,8 @@ political_decisions = {
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
-			OR = {
-				ruling_party_ideology = conservative
-				ruling_party_ideology = reactionary
-				ruling_party_ideology = fascist
-			}
-			jingoism = 5
-			pro_military = 5
+			#jingoism = 5
+			#pro_military = 5
 			military_score = 100
 			prestige = 45
 		}
@@ -36,13 +31,8 @@ political_decisions = {
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
 			#colonial_nation = yes
-			OR = {
-				ruling_party_ideology = conservative
-				ruling_party_ideology = liberal
-				ruling_party_ideology = anarcho_liberal
-			}
-			pro_military = 5
-			laissez_faire = 5
+			#pro_military = 5
+			#laissez_faire = 5
 			prestige = 45
 			military_score = 100
 			total_amount_of_ships = 30
@@ -65,13 +55,8 @@ political_decisions = {
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
-			OR = {
-				ruling_party_ideology = liberal
-				ruling_party_ideology = fascist
-				ruling_party_ideology = communist
-			}
-			pacifism = 5
-			secularized = 5
+			#pacifism = 5
+			#secularized = 5
 			prestige = 45
 			average_consciousness = 4
 		}
@@ -93,12 +78,8 @@ political_decisions = {
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
-			OR = {
-				ruling_party_ideology = liberal
-				ruling_party_ideology = anarcho_liberal
-			}
-			laissez_faire = 5
-			free_trade = 5
+			#laissez_faire = 5
+			#free_trade = 5
 			prestige = 45
 			industrial_score = 100
 		}
@@ -120,13 +101,8 @@ political_decisions = {
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
-			OR = {
-				ruling_party_ideology = conservative
-				ruling_party_ideology = socialist
-				ruling_party_ideology = communist
-			}
-			interventionism = 5
-			protectionism = 5
+			#interventionism = 5
+			#protectionism = 5
 			prestige = 45
 			industrial_score = 100
 		}

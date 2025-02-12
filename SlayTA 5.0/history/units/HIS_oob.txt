@@ -6,6 +6,21 @@ NAV = {
 	level = 4		#3=cordial, 4 = friendly, 5 = sphere
 	influence_value = 25
 }
+NPL = {
+	value = 200		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 = sphere
+	influence_value = 25
+}
+TER = {
+	value = 150		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 = sphere
+	influence_value = 25
+}
+PAP = {
+	value = 150		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 = sphere
+	influence_value = 25
+}
 army = {
 	name = "Armada de Galicia"
 	location = 474
@@ -37,11 +52,139 @@ navy = {
 		name = "Pontevedra"
 		type = frigate
 	}
-}
-BNG = {
-	value = 115
-	level = 5
-	influence_value = 10
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hespérides"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Isla de Cuba"
+		type = frigate
+	}
+	
+	
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1d Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1b Flotilla de Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1c Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "Alerta"
+		type = manowar
+	}
+	
+	ship = {
+		name = "San Fernando"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Orienta"
+		type = manowar
+	}
+
+	ship = {
+		name = "Orienta"
+		type = manowar
+	}
+
+	ship = {
+		name = "Orienta"
+		type = manowar
+	}
+
+	ship = {
+		name = "Orienta"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Orienta"
+		type = manowar
+	}
+
+	ship = {
+		name = "Victoria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Victoria"
+		type = frigate
+	}
+
+	ship = {
+		name = "Nuestra Señora del Patrocinio"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Magdalena"
+		type = frigate
+	}
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Maria"
+		type = frigate
+	}
+	ship = {
+		name = "Maria"
+		type = frigate
+	}
+	ship = {
+		name = "Maria"
+		type = frigate
+	}
+	ship = {
+		name = "Maria"
+		type = frigate
+	}
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
 }
 
 army = {
@@ -225,9 +368,19 @@ army = {
 		home = 2209
 	}
 }
+
+
 navy = {
-	name = "Armada de Cuba"
-	location = 2212
+	name = "Armada de las Indias"
+	location = 1251	
+	ship = {
+		name = "Santa Maria"
+		type = manowar
+	}
+	ship = {
+		name = "Pontevedra"
+		type = frigate
+	}
 	
 	ship = {
 		name = "Santiago"
@@ -251,16 +404,25 @@ navy = {
 	}
 
 	ship = {
+		name= "1d Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1b Flotilla de Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1c Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
 		name= "2a Flotilla de Transporte"
 		type = clipper_transport
 	}
 
-}
-
-navy = {
-	name = "Armada de Bangla"
-	location = 1251
-	
 	ship = {
 		name = "Alerta"
 		type = manowar
@@ -270,17 +432,17 @@ navy = {
 		name = "San Fernando"
 		type = manowar
 	}
-	
+
 	ship = {
-		name = "Orienta"
-		type = manowar
+		name = "Victoria"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Victoria"
 		type = frigate
 	}
-	
+
 	ship = {
 		name = "Nuestra Señora del Patrocinio"
 		type = frigate
@@ -295,16 +457,6 @@ navy = {
 		name= "2a Flotilla de Transporte"
 		type = clipper_transport
 	}
-
-}
-
-navy = {
-	name = "Armada de las Indias"
-	location = 1432	
-	ship = {
-		name = "Magdalena"
-		type = frigate
-	}
 	ship = {
 		name= "1a Flotilla de Transporte"
 		type = clipper_transport
@@ -313,40 +465,8 @@ navy = {
 		name= "2a Flotilla de Transporte"
 		type = clipper_transport
 	}
-}
-
-navy = {
-	name = "Armada de Mali"
-	location = 1894	
-	ship = {
-		name = "Maria"
-		type = frigate
-	}
 	ship = {
 		name= "1a Flotilla de Transporte"
 		type = clipper_transport
 	}
-}
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-	befriend = { id="NPL" value = 100 }
-	befriend = { id="POR" value = 100 }
-
-	threat = { id="CAT" value = 50 }
-	threat = { id="POR" value = 50 }
-	threat = { id="AQT" value = 80 }
-	threat = { id="SLW" value = 50 }
-
-	antagonize = { id="AEN" value = 60 }
-	antagonize = { id="AQT" value = 80 }
-	antagonize = { id="NAV" value = 750 }
-	antagonize = { id="SLW" value = 50 }
-	antagonize = { id="AGR" value = 400 }
-	antagonize = { id="MYS" value = 500 }
 }

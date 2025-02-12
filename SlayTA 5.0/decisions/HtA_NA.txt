@@ -50,6 +50,7 @@ political_decisions = {
 			num_of_ports = 1
 			is_vassal = no
 			civilized = yes
+			ai = no
 		}
 		
 		allow = {
@@ -66,8 +67,8 @@ political_decisions = {
 	}
 	
 
-	##### About the SKM-GNC union nation - Scylfiga Woning SCW  #########
-	annex_ginnaecer = {
+	##### About the SKM-GNC union nation - Scylfiga Woning SCW  #########	
+		annex_ginnaecer = {
 		picture = marching_soldiers
 		potential = {
 		OR = {
@@ -107,7 +108,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			badboy = 15
+			badboy = 7.5
 			GNC = { all_core = { add_core = THIS } }
 			set_country_flag = annex_ginnaecer
 		}
@@ -120,6 +121,7 @@ political_decisions = {
 			}
 		}
 	}
+
 	annex_skamisc = {
 		picture = marching_soldiers
 		potential = {
@@ -159,7 +161,7 @@ political_decisions = {
 
 		}		
 		effect = {
-			badboy = 15
+			badboy = 7.5
 			SKM = { all_core = { add_core = THIS } }
 			set_country_flag = annex_skamisc
 		}
@@ -172,6 +174,7 @@ political_decisions = {
 			}
 		}
 	}
+
 	annex_margaria = {
 		picture = marching_soldiers
 		potential = {
@@ -211,7 +214,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			badboy = 15
+			badboy = 7.5
 			MRG = { all_core = { add_core = THIS } }
 			set_country_flag = annex_margaria
 		}
@@ -223,7 +226,8 @@ political_decisions = {
 				badboy = 0.6
 			}
 		}
-	}		
+	}
+
 	form_scylfiga_woning = { 
 		picture = manifest_destiny
 		potential = {
@@ -238,21 +242,21 @@ political_decisions = {
 		allow = {
 			SKM = {
 				OR = {
-					is_vassal = yes
+					vassal_of = THIS
 					all_core = { owner = { in_sphere = THIS } }
 					all_core = { owned_by = THIS }
 				}
 			}
 			GNC = {
 				OR = {
-					is_vassal = yes
+					vassal_of = THIS
 					all_core = { owner = { in_sphere = THIS } }
 					all_core = { owned_by = THIS }
 				}
 			}
 			MRG = {
 				OR = {
-					is_vassal = yes
+					vassal_of = THIS
 					all_core = { owner = { in_sphere = THIS } }
 					all_core = { owned_by = THIS }
 				}
@@ -261,31 +265,41 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = skamisc
 			add_accepted_culture = margarian
-			add_accepted_culture = califiano
 			add_accepted_culture = afro_american
 			change_tag = SCW
+			SKM = { all_core = { add_core = SCW } }
+			GNC = { all_core = { add_core = SCW } }
+			MRG = { all_core = { add_core = SCW } }
+			inherit = SKM
+			inherit = GNC
+			inherit = MRG
 		}
 	}
-invade_the_mexicans_scw = {
+
+	scw_peace = { 
+		picture = manifest_destiny
 		potential = {
 			tag = SCW
-			NOT = { has_country_flag = mexico_invaded_scw }
-		}
+			NOT = { has_country_flag = scw_peace }
+			}
+
 		allow = {
-			SCW = { all_core = { owned_by = SCW } }
+			war = no
+			state_n_government = 1
+			SCW = { all_core = { owned_by = THIS } }
 		}
+
 		effect = {
+			set_country_flag = scw_peace
 			add_accepted_culture = meikan
-			add_accepted_culture = mellomsk
-			set_country_flag = mexico_invaded_scw
+			prestige = 15
 		}
+
 	}
 
-	### End SCW decisions #########
-
-	
-
+	##### Vestlandic Decisions #########
 	form_the_northeastern_union = {
+		picture = manifest_destiny
 		potential = {
 			OR = {
 				tag = VST
@@ -318,199 +332,246 @@ invade_the_mexicans_scw = {
 			}
 		}
 		effect = {
-			add_accepted_culture = vestlandic
-			add_accepted_culture = french_canadian
-			add_accepted_culture = nieuwlander
-			add_accepted_culture = afro_american
+			add_accepted_culture = margarian
 			inherit = NHL
 			inherit = QUE
-			VST = { all_core = { add_core = NEU } }
-			NHL = { all_core = { add_core = NEU } }
-			QUE = { all_core = { add_core = NEU } }
+			VST = { all_core = { 
+					add_core = NEU 
+					remove_core = VST } }
+			NHL = { all_core = { 
+					add_core = NEU 
+					remove_core = NHL } }
+			QUE = { all_core = { 
+					add_core = NEU 
+					remove_core = QUE } }
 			change_tag = NEU
-		}
-	}
-	annex_quebec = {
-		potential = {
-			OR = { 
-				tag = NHL
-				tag = VST
-			}
-			OR = {
-				ai = no
-				AND = {
-					ai = yes 
-					year = 1840
-				}
-			}
-			war = no
-			NOT = { alliance_with = QUE }
-			NOT = { has_country_flag = annex_quebec }
-		}
-		allow = {
-			OR = {
-				AND = {
-					tag = VST
-					neighbour = QUE
-				}
-				AND = {
-					tag = NHL
-					neighbour = QUE
-				}
-			}
-		}		
-		effect = {
-			badboy = 10
-			QUE = { all_core = { add_core = THIS } }
-			set_country_flag = annex_quebec
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.6
-			}
-		}
-	}	
-	annex_new_holland = {
-		potential = {
-			OR = { 
-				tag = QUE
-				tag = VST
-			}
-			OR = {
-				ai = no
-				AND = {
-					ai = yes 
-					year = 1840
-				}
-			}
-			war = no
-			NOT = { alliance_with = MRG }
-			NOT = { has_country_flag = annex_new_holland }
-		}
-		allow = {
-			OR = {
-				AND = {
-					tag = VST
-					neighbour = NHL
-				}
-				AND = {
-					tag = QUE
-					neighbour = NHL
-				}
-			}
-		}
-		effect = {
-			badboy = 10
-			NHL = { all_core = { add_core = THIS } }
-			set_country_flag = annex_new_holland
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.6
-			}
-		}
-	}	
-	annex_vestland = {
-		potential = {
-			OR = { 
-				tag = NHL
-				tag = QUE
-			}
-			OR = {
-				ai = no
-				AND = {
-					ai = yes 
-					year = 1840
-				}
-			}
-			war = no
-			NOT = { alliance_with = VST }
-			NOT = { has_country_flag = annex_vestland }
-		}
-		allow = {
-			OR = {
-				AND = {
-					tag = NHL
-					neighbour = VST
-				}
-				AND = {
-					tag = QUE
-					neighbour = VST
-				}
-			}
-		}		
-		effect = {
-			badboy = 10
-			VST = { all_core = { add_core = THIS } }
-			set_country_flag = annex_vestland
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.6
-			}
-		}
-	}	
-	invade_the_southern_europeans = {
-		potential = {
-			tag = MEX
-			NOT = { has_country_flag = south_invaded }
-		}
-		allow = {
-			YUC = { all_core = { owned_by = THIS } }
-		}
-		effect = {
-			badboy = 15
-			add_accepted_culture = mellomsk
-			MDT = { all_core = { add_core = MEX } }
-			MNK = { all_core = { add_core = MEX } }
-			YUC = { all_core = { add_core = MEX } }
-			set_country_flag = south_invaded
-		}
-	}
-	invade_the_north_mex = {
-		potential = {
-			tag = MEX
-			NOT = { has_country_flag = north_invaded_mex }
-		}
-		allow = {
-			USA_138 = { owned_by = THIS }
-			MEX_2142 = { owned_by = THIS }
-		}
-		effect = {
-			badboy = 15
-			add_accepted_culture = skamisc
-			add_accepted_culture = margarian
-			MEX_85 = { add_core = MEX }
-			MEX_2138 = { add_core = MEX }
-			100 = { add_core = MEX }
-			102 = { add_core = MEX }
-			set_country_flag = north_invaded_mex
+			political_reform = universal_weighted_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = all_trade_unions
+			political_reform = first_past_the_post
+			political_reform = gerrymandering
 		}
 	}
 
-	invade_the_north = {
+	vest_peace = { 
+		picture = manifest_destiny
 		potential = {
-			tag = MEL
-			NOT = { has_country_flag = north_invaded }
-		}
+			tag = NEU
+			NOT = { has_country_flag = vest_peace }
+			}
+
 		allow = {
-			YUC = { all_core = { owned_by = THIS } }
+			war = no
+			SHC = { all_core = { owned_by = THIS } }
 		}
+
 		effect = {
-			add_accepted_culture = meikan
+			set_country_flag = vest_peace
+			prestige = 15
+			remove_country_modifier = american_bloodbath 
+		}
+
+	}
+
+	
+	##### Native Nations Decisions #########
+	refute_westerners_SHC = {
+		picture = manifest_destiny
+		potential = {	
+			tag = SHC
+			NOT = { has_country_flag = native_chosen }
+		}
+		
+		allow = {
+			has_country_flag = native_crossroad
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+			set_country_flag = native_chosen
+			set_country_flag = native_rape
+			badboy = 5
+			prestige_factor = 0.25
+			MRG = { all_core = { add_core = SHC } }
+			add_country_modifier = {
+				name = native_societies3
+				duration = -1
+			}
+		}
+	}
+	
+	destroy_vestland = {
+		picture = manifest_destiny
+		potential = {	
+			tag = SHC
+			civilized = yes
+			has_country_flag = native_rape
+			NOT = { has_country_flag = vestland_rape }
+		}
+		
+		allow = {
+			war = no
+			OR = {
+				AND = {
+					VST = { all_core = { owned_by = THIS } }
+					QUE = { all_core = { owned_by = THIS } }
+					NHL = { all_core = { owned_by = THIS } }
+				}
+				NEU = { all_core = { owned_by = THIS } }
+			}
+		}
+		
+		effect = {
+			set_country_flag = vestland_rape
+			badboy = 5
+			VST = { all_core = { 
+					add_core = SHC 
+					remove_core = VST } }
+			NHL = { all_core = { 
+					add_core = SHC 
+					remove_core = NHL } }
+			QUE = { all_core = { 
+					add_core = SHC 
+					remove_core = QUE } }
+			NEU = { all_core = { 
+					add_core = SHC 
+					remove_core = NEU } }
+		}
+	}
+
+	destroy_margaria_SHC = {
+		picture = manifest_destiny
+		potential = {	
+			tag = SHC
+			civilized = yes
+			has_country_flag = native_rape
+			NOT = { has_country_flag = margaria_rape }
+		}
+		
+		allow = {
+			war = no
+			MRG = { all_core = { owned_by = THIS } }
+		}
+		
+		effect = {
+			set_country_flag = margaria_rape
+			MRG = { all_core = { remove_core = MRG } }
+		}
+	}
+
+	
+	embrace_westerners_INC = {
+		picture = manifest_destiny
+		potential = {	
+			tag = INC
+			NOT = { has_country_flag = embrace_westerners}
+		}
+		
+		allow = {
+			has_country_flag = native_crossroad
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+			clr_country_flag = native_crossroad
+			prestige_factor = 0.25
+			plurality = 25
+			set_country_flag = embrace_westerners
+			set_country_flag = south_american_immigrant_nation
+			set_country_flag = revolution_in_bloood
+			government = democracy
+			election = yes
+			political_reform = universal_weighted_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = all_trade_unions
+			political_reform = first_past_the_post
+			political_reform = gerrymandering
+			political_reform = yes_slavery
+			add_country_modifier = { name = the_homestead_act_mexico duration = 3000 }
+			remove_country_modifier = native_societies1
+		}
+	}
+
+	
+	clf_free = {
+		picture = bushire
+		potential = {
+			tag = MEX 
+			NOT = { has_country_flag = clf_yes }
+		}
+		
+		allow = {
+			CLF = { all_core = { owned_by = THIS } }
+			state_n_government = 1
+		}
+		
+		effect = {
+			CLF = { all_core = { add_core = THIS } }
 			add_accepted_culture = skamisc
-			add_accepted_culture = margarian
-			YUC = { all_core = { add_core = MEL } }
-			set_country_flag = north_invaded
+			set_country_flag = clf_yes
+		}
+	}
+	
+	
+	develop_land_MEX = {
+		picture = MEX_rancho
+		potential = {
+			tag = MEX 
+			NOT = { has_country_flag = development }
+		}
+		
+		allow = {
+			biologism = 1
+			early_railroad = 1
+			MEX = { all_core = { owned_by = THIS } }
+			money = 510000
+		}
+		
+		effect = {
+			prestige = 15
+			2170 = { life_rating = 3 }
+			2161 = { life_rating = 3 }
+			2173 = { life_rating = 3 }
+			2141 = { life_rating = 3 }
+			2146 = { life_rating = 3 }
+			2142 = { life_rating = 3 }
+			set_country_flag = development
+			money = -500000
+		}
+	}
+	
+	MEX_hegemony = {
+		picture = switch_to_might
+		potential = {
+			tag = MEX 
+			NOT = { has_global_flag = MEX_hegemony }
+		}
+		
+		allow = {
+			MEX = { all_core = { owned_by = THIS } }
+			owns = 89
+			owns = 2205
+			owns = 137
+			owns = 194
+			owns = 182
+		}
+		
+		effect = {
+			prestige = 50
+			set_global_flag = MEX_hegemony
+			set_country_flag = south_american_immigrant_nation
+			add_accepted_culture = afro_caribbean
+			add_accepted_culture = afro_american
+			add_accepted_culture = skamisc
+			add_accepted_culture = mellomsk
+			GNC = { all_core = { add_core = MEX } }
+			MNK = { all_core = { add_core = MEX } }
+			MDT = { all_core = { add_core = MEX } }
+			MRG = { all_core = { add_core = MEX } }
 		}
 	}
 }

@@ -47,31 +47,31 @@
     clergymen = {
         culture = afro_caribeno
         religion = catholic
-        size = 62
+        size = 74
     }
 
     artisans = {
         culture = afro_caribeno
         religion = catholic
-        size = 312
+        size = 374
     }
 
     soldiers = {
         culture = afro_caribeno
         religion = catholic
-        size = 50
+        size = 60
     }
 
     farmers = {
         culture = afro_caribeno
         religion = catholic
-        size = 3937
+        size = 4724
     }
 
     slaves = {
         culture = afro_caribeno
         religion = catholic
-        size = 1875
+        size = 2250
     }
 }
 #Paysandu (36000/9000 POPS)
@@ -109,7 +109,13 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 9093
+        size = 4000
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 6111
     }
 }
 #Tacumba (12000/3000 POPS)
@@ -151,27 +157,27 @@
     }
 
     clergymen = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 18
+        size = 21
     }
 
     artisans = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 62
+        size = 74
     }
 
     soldiers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 10
+        size = 12
     }
 
     farmers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 1156
+        size = 1387
     }
 }
 #Melo (40000/10000 POPS)
@@ -213,26 +219,26 @@
     }
 
     clergymen = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 62
+        size = 74
     }
 
     artisans = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 187
+        size = 224
     }
 
     soldiers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 25
+        size = 30
     }
 
     farmers = {
-        culture = guarani
+        culture = afro_caribeno
         religion = catholic
-        size = 3468
+        size = 4161
     }
 }

@@ -1,5 +1,5 @@
 capital = 65
-primary_culture = nieuwlander
+primary_culture = vestlandic
 religion = protestant
 government = democracy
 plurality = 10
@@ -25,6 +25,8 @@ anarcho_liberal = 0
 }
 
 set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
+
 
 # Political reforms
 slavery = no_slavery

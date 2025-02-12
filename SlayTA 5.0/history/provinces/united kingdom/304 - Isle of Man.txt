@@ -1,6 +1,6 @@
-owner = AEN
-controller = AEN
+owner = CLT
+controller = CLT
 add_core = AEN
 trade_goods = fish
-life_rating = 35
+life_rating = 35 
 

@@ -1,0 +1,152 @@
+#Cyprus Region (152000)
+#under the rule of greek Empire in 1836  
+#Nicosia (64000/16000 POPS)
+855 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 175
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1450
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 275
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 21150
+	}
+	clergymen = {
+		culture = anatolian
+		religion = orthodox
+		size = 125
+	}
+	artisans = {
+		culture = anatolian
+		religion = orthodox
+		size = 900
+	}
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 4875
+	}
+}
+#Limassol (44000/11000 POPS)
+856 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 555
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2300
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 37525
+	}
+	clergymen = {
+		culture = anatolian
+		religion = orthodox
+		size = 320
+	}
+	artisans = {
+		culture = anatolian
+		religion = orthodox
+		size = 1250
+	}
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 2750
+	}
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 8450
+	}
+}
+#Famagusta (44000/11000 POPS)
+857 = {
+	aristocrats = {
+		culture = anatolian
+		religion = orthodox
+		size = 400
+	}
+	clergymen = {
+		culture = anatolian
+		religion = orthodox
+		size = 75
+	}
+	artisans = {
+		culture = anatolian
+		religion = orthodox
+		size = 800
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 14525
+	}
+	clergymen = {
+		culture = anatolian
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = anatolian
+		religion = orthodox
+		size = 300
+	}
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 5700
+	}
+	
+}

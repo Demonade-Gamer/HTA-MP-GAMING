@@ -1,11 +1,11 @@
 owner = SLS
 controller = SLS
 add_core = SLS
-trade_goods = precious_metal
-life_rating = 35
+trade_goods = iron
+life_rating = 38
 state_building = {
 	level = 2 
-	building = explosives_factory
+	building = steel_factory
 	upgrade = yes
 }
 state_building = {
@@ -15,12 +15,12 @@ state_building = {
 }
 state_building = {
 	level = 2 
-	building = cement_factory
+	building = machine_parts_factory
 	upgrade = yes
 }
 state_building = {
 	level = 2 
-	building = small_arms_factory
+	building = cement_factory
 	upgrade = yes
 }
 

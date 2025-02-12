@@ -11,7 +11,7 @@ life_rating = 40
 
 state_building = {
 
-	level = 3
+	level = 2
 
 	building = ammunition_factory
 
@@ -21,7 +21,7 @@ state_building = {
 
 state_building = {
 
-	level = 3
+	level = 2
 
 	building = steel_factory
 
@@ -30,23 +30,23 @@ state_building = {
 }
 
 state_building = {
-	level = 3
+	level = 2
 	building = machine_parts_factory
 	upgrade = yes
 }
 state_building = {
-	level = 3
+	level = 2
 	building = canned_food_factory
 	upgrade = yes
 }
 
 state_building = {
-	level = 3
+	level = 2
 	building = explosives_factory
 	upgrade = yes
 }
 state_building = {
-	level = 3
+	level = 2
 	building = artillery_factory
 	upgrade = yes
 }

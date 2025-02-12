@@ -1,6 +1,5 @@
 capital = 605
-primary_culture = south_german
-culture = romansh
+primary_culture = romansh
 religion = protestant
 government = democracy
 plurality = 25.0
@@ -71,7 +70,6 @@ basic_chemistry = 1
 
 #Inventions
 authoritarianism = yes
-hierarchical_capital = yes
 traditionalism = yes
 political_religion = yes
 paternalism = yes

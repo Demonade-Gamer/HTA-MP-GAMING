@@ -28,22 +28,3 @@ army = {
 	}
 	
 }
-
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-	protect = { id="IRO" value=100 }
-	protect = { id="CHE" value=100 }
-
-	befriend = { id="IRO" value=100 }
-	befriend = { id="CHE" value=100 }
-
-	threat = { id="VST" value = 200 }
-	threat = { id="MRG" value = 150 }
-	threat = { id="QUE" value = 120 }
-}	

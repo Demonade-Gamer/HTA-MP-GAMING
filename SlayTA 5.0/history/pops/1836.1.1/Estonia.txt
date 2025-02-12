@@ -28,37 +28,37 @@
         size = 43225
     }
     farmers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 550
     }
     aristocrats = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 375
     }
     bureaucrats = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 75
     }
     officers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 125
     }
     clergymen = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 50
     }
     artisans = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 1825
     }
     soldiers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 250
     }
@@ -161,22 +161,22 @@
         size = 4650
     }
     clergymen = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 50
     }
     artisans = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 100
     }
     soldiers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 50
     }
     farmers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 300
     }
@@ -184,27 +184,27 @@
 #Parnu (92000/23000 POPS)
 351 = {
     clergymen = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 250
     }
     bureaucrats = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 225
     }
     artisans = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 550
     }
     soldiers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 250
     }
     farmers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 550
     }
@@ -252,27 +252,27 @@
 #Tartu/Dorpat (156000/39000 POPS)
 352 = {
     clergymen = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 50
     }
     bureaucrats = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 225
     }
     artisans = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 1550
     }
     soldiers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 50
     }
     farmers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 1100
     }
@@ -320,22 +320,22 @@
 #Kuressaare (16000/4000 POPS)
 353 = {
     clergymen = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 10
     }
     bureaucrats = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 50
     }
     artisans = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 50
     }
     soldiers = {
-        culture = north_german
+        culture = finnish
         religion = protestant
         size = 10
     }

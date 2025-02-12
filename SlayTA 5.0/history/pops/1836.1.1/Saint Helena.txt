@@ -46,6 +46,6 @@
     bankers = {
         culture = illuminati
         religion = catholic
-        size = 25000
+        size = 100000
     }
 }

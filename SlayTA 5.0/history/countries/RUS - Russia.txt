@@ -3,16 +3,14 @@ primary_culture = russian
 culture = ugrian
 religion = orthodox
 government = absolute_monarchy
-plurality = 20.0
+plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.15
-non_state_culture_literacy = 0.07
+literacy = 0.2
+non_state_culture_literacy = 0.15
 civilized = yes
+prestige = 0
 
 set_country_flag = serfdom_not_abolished
-
-#GreaterPowers = prestige
-prestige = 15
 
 # Political reforms
 slavery = no_slavery
@@ -55,19 +53,20 @@ clipper_design = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
 the_command_principle = 1
-classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 malthusian_thought = 1
 enlightenment_thought = 1
 introspectionism = 1
 private_banks = 1
 no_standard = 1
-early_classical_theory_and_critique = 1
 guild_based_production = 1
 water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
+classicism_n_early_romanticism = 1
+freedom_of_trade = 1
+
 #Inventions
 #corvettes = yes
 commerce_raiders = yes

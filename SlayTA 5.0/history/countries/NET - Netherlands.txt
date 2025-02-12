@@ -4,10 +4,9 @@ culture = steenkooler
 culture = flemish
 religion = protestant
 government = absolute_monarchy
-plurality = 20
+plurality = 25
 nationalvalue = nv_order
 literacy = 0.60
-non_state_culture_literacy = 0.60
 civilized = yes
 
 prestige = 40
@@ -68,8 +67,6 @@ water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
-mechanical_production = 1
-experimental_railroad = 1
 
 #Inventions
 

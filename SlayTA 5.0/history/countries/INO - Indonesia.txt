@@ -1,5 +1,7 @@
 capital = 1413
-primary_culture = javan
+primary_culture = malay
+culture = asian_minor
+culture = yue
 religion = sunni
 government = democracy
 plurality = 0.0

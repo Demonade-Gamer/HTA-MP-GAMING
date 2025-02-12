@@ -5,6 +5,6 @@ controller = MRG
 add_core = MRG
 trade_goods = cattle
 
-life_rating = 35
+life_rating = 35 
 
 

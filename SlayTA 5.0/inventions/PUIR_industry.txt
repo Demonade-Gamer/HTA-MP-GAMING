@@ -50,7 +50,7 @@ diode = {
 		}
 	}
 	effect = {
-		factory_goods_output = { electric_gear = 0.02 } 
+		factory_goods_output = { electric_gear = 0.01 } 
 	}
 }
 
@@ -81,7 +81,7 @@ triode = {
 		}			
 	}
 	effect = {
-		factory_goods_output = { electric_gear = 0.03 } 
+		factory_goods_output = { electric_gear = 0.015 } 
 	}
 }
 
@@ -96,7 +96,7 @@ tetrode = {
 		base = 1
 	}
 	effect = {
-		factory_goods_output = { electric_gear = 0.05 } 
+		factory_goods_output = { electric_gear = 0.025 } 
 	}
 }
 
@@ -120,7 +120,7 @@ crystal_radio = {
 		}
 	}
 	effect = {
-		factory_goods_output = { radio = 0.02 } 
+		factory_goods_output = { radio = 0.01 } 
 	}
 }
 
@@ -143,7 +143,7 @@ valve_radio_sets = {
 		}
 	}
 	effect = {
-		factory_goods_output = { radio = 0.05 } 
+		factory_goods_output = { radio = 0.025 } 
 	}
 }
 
@@ -166,7 +166,7 @@ carbon_transmitter = {
 		}
 	}
 	effect = {
-		factory_goods_output = { telephones = 0.02 } 
+		factory_goods_output = { telephones = 0.01 } 
 	}
 }
 
@@ -185,7 +185,7 @@ candlestick_telephone = {
 		}
 	}
 	effect = {
-		factory_goods_output = { telephones = 0.05 } 
+		factory_goods_output = { telephones = 0.025 } 
 	}
 }
 #Mechanical Production
@@ -255,7 +255,7 @@ double_seams = {
 	}
 	effect = {
 		factory_goods_output = {
-			canned_food = 0.04
+			canned_food = 0.02
 		}
 	}
 }
@@ -277,7 +277,7 @@ lombard_and_holts_continuous_track = {
 	effect = {
 		shared_prestige = 50
 		factory_goods_throughput = {
-			barrels = 0.03 
+			barrels = 0.015 
 		}
 	}	
 }
@@ -295,6 +295,9 @@ mercerization = {
 		rgo_goods_output = {
 			cotton = 0.05
 		}
+#		rgo_goods_output = {
+#			dye = 0.05
+#		}
 	}
 }
 
@@ -397,7 +400,7 @@ fluid_catalytic_cracking = {
 	}
 	effect = {
 		factory_goods_output = {
-			fuel = 0.025
+			fuel = 0.0125
 		}
 	}	
 }
@@ -434,7 +437,7 @@ fischer_tropsch_process = {
 	}
 	effect = {
 		factory_goods_output = {
-			oil = 0.04
+			oil = 0.02
 		}
 	}
 }
@@ -455,7 +458,7 @@ synthetic_cement = {
 	}
 	effect = {
 		factory_goods_output = {
-			cement = 0.025
+			cement = 0.0125
 		}
 	}
 	

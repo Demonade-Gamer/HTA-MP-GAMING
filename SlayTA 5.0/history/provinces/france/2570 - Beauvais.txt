@@ -2,5 +2,5 @@ owner = WLL
 controller = WLL
 add_core = WLL
 trade_goods = grain
-life_rating = 35
+life_rating = 35 
 

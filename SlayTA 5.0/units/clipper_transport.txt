@@ -1,7 +1,8 @@
 clipper_transport = {
 	icon = 6
 	naval_icon = 3
-
+	
+	sail = yes
 	
 	type = naval
 	sprite = Transportship
@@ -29,7 +30,7 @@ clipper_transport = {
 
 	supply_consumption = 1.0
 	supply_cost = {
-		clipper_convoy = 0.064
+		clipper_convoy = 0.05888
 	}
 	
 	#Naval Abilties

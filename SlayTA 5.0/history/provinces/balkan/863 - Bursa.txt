@@ -3,10 +3,20 @@ controller = BYZ
 add_core = BYZ
 add_core = ARM
 trade_goods = coal
-life_rating = 35
+life_rating = 35 
 state_building = {
 	level = 2 
-	building = glass_factory
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = explosives_factory
 	upgrade = yes
 }
 

@@ -45,31 +45,31 @@
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 37
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 3712
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 1875
     }
@@ -131,31 +131,31 @@
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 75
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 1020
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 375
     }
@@ -239,6 +239,35 @@
         religion = animist
         size = 7050
     }
+     clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
 }
 #Manizales (116000/29000 POPS)
 2250 = {
@@ -270,6 +299,35 @@
         culture = mellomsk
         religion = protestant
         size = 39975
+    }
+     clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
     }
 }
 #Cucuta (84000/21000 POPS)
@@ -327,6 +385,35 @@
         religion = animist
         size = 6975
     }
+     clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
 }
 #Antioquia Region (452000)
 #Ruled by Colombia 1836
@@ -363,31 +450,31 @@
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 600
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 112
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 8212
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 4500
     }
@@ -445,37 +532,37 @@
     farmers = {
         culture = mellomsk
         religion = protestant
-        size = 6600
+        size = 11600
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 112
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 525
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 112
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
-        size = 2250
+        size = 12250
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
-        size = 7500
+        size = 17500
     }
 }
 #Cartagena de Indias (144000/36000 POPS) The capital of Hoyekysten
@@ -507,7 +594,7 @@
     artisans = {
         culture = mellomsk
         religion = protestant
-        size = 3825
+        size = 8825
     }
 
     soldiers = {
@@ -519,59 +606,59 @@
     farmers = {
         culture = mellomsk
         religion = protestant
-        size = 51862
+        size = 91862
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 112
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 1575
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
-        size = 23512
+        size = 33512
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
-        size = 6000
+        size = 26000
     }
 
     clergymen = {
-        culture = guajiro
+        culture = afro_caribbean
         religion = animist
         size = 37
     }
 
     artisans = {
-        culture = guajiro
+        culture = afro_caribbean
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = guajiro
+        culture = afro_caribbean
         religion = animist
         size = 37
     }
 
     farmers = {
-        culture = guajiro
+        culture = afro_caribbean
         religion = animist
         size = 2775
     }
@@ -605,59 +692,59 @@
     farmers = {
         culture = mellomsk
         religion = protestant
-        size = 158587
+        size = 108587
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 1350
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 22200
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 4500
     }
 
     clergymen = {
-        culture = guajiro
+        culture = afro_caribbean
         religion = animist
         size = 90
     }
 
     artisans = {
-        culture = guajiro
+        culture = afro_caribbean
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = guajiro
+        culture = afro_caribbean
         religion = animist
         size = 750
     }
 
     farmers = {
-        culture = guajiro
+        culture = afro_caribbean
         religion = animist
         size = 9495
     }
@@ -709,31 +796,31 @@
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 225
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 3000
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 1125
     }
@@ -817,6 +904,35 @@
         religion = animist
         size = 8325
     }
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
 }
 #Buenaventura (60000/15000 POPS)
 2258 = {
@@ -851,31 +967,31 @@
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 37
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 112
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 2700
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 7500
     }
@@ -934,6 +1050,35 @@
         culture = quechua
         religion = animist
         size = 15412
+    }
+     clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
     }
 }
 #Rio Negro Region (128000) #see Brazil.txt for balance of region
@@ -1107,31 +1252,31 @@
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 37
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 225
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 37
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 2325
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = protestant
         size = 1875
     }

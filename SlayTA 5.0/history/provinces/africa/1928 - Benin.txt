@@ -1,8 +1,8 @@
 
 
-add_core = BEN
-add_core = OYO
+#BEN
+#OYO
 trade_goods = cattle
-life_rating = 15
+life_rating = 20
 fort = 1
 

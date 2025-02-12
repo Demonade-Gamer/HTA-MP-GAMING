@@ -1,57 +1,20 @@
-MOD = {
-	value = -75
-}
-
-VEN = {
-	value = -75
-}
-
-LOM = {
-	value = -75
-}
-
-GEN = {
-	value = -75
-}
-
-TUS = {
+PDN = {
 	value = -200
 }
 
-DAU = {
+BYZ = {
 	value = -25
 }
 
-AQT = {
+HIS = {
 	value = 100
 }
 
-leader = {
-	name = "Jacopo Brandozzi de Lucero"
-	picture = european_general_2
-	date = 1835.1.1
-	type = land
-	personality = calm
-	background = aristocrat
+PAP = {
+	value = 200
+	level = 4
 }
 
-leader = {
-	name = "Gianluca Ambroglio"
-	picture = european_general_4
-	date = 1832.8.3
-	type = land
-	personality = glory_hound
-	background = cavalry_school
-}
-
-leader = {
-	name = "Angelo de Librari"
-	picture = european_admiral_8
-	date = 1827.9.10
-	type = sea
-	personality = mediocre
-	background = war_college
-}
 leader = {
 	name = "Base guy 1"
 	picture = asian_general_3
@@ -109,7 +72,7 @@ army = {
 	regiment = {
 		name = "2a Guardia Riale"
 		type = infantry
-		home = 754
+		home = 752
 	}
 	regiment = {
 		name = "1a Fantaria 'e Linia"
@@ -120,6 +83,11 @@ army = {
 		name = "2a Fantaria 'e Linia"
 		type = infantry
 		home = 755
+	}
+	regiment = {
+		name = "1a Cavallaria"
+		type = hussar
+		home = 3257
 	}
 	regiment = {
 		name = "1a Artigleria"
@@ -136,53 +104,21 @@ army = {
 		type = artillery
 		home = 759
 	}
-}
-
-leader = {
-	name = "Giancarlo II Miravelli"
-	type = land
-	date = 1836.1.1
-	personality = bold_p
-	background = natural_born_leader
-}
-
-
-army = {
-	name = "Esercito Toscano"
-	location = 744
 	regiment = {
-		name= "1. Fanteria di Linea"
-		type = infantry
-		home = 744
-	}
-
-	regiment = {
-		name= "2. Fanteria di Linea"
-		type = infantry
-		home = 745
-	}
-
-	regiment = {
-		name= "3. Fanteria di Linea"
-		type = infantry
-		home = 748
-	}
-
-	regiment = {
-		name= "1. Guardia Artigleriale"
+		name = "4a Artigleria"
 		type = artillery
-		home = 747
+		home = 3255
 	}
-
 	regiment = {
-		name= "2. Guardia Artigleriale"
+		name = "5a Artigleria"
 		type = artillery
-		home = 746
+		home = 3255
 	}
 }
+
 army = {
 	name = "Divisione a Cavallu"
-	location = 748
+	location = 1731
 	regiment = {
 		name = "1a Cavallaria"
 		type = cuirassier
@@ -224,14 +160,34 @@ army = {
 		home = 741
 	}
 	regiment = {
-		name = "4a Artigleria"
+		name = "1a Cavallaria"
+		type = hussar
+		home = 3257
+	}
+	regiment = {
+		name = "1a Artigleria"
 		type = artillery
 		home = 751
 	}
 	regiment = {
-		name = "5a Artigleria"
+		name = "2a Artigleria"
 		type = artillery
 		home = 756
+	}
+	regiment = {
+		name = "3a Artigleria"
+		type = artillery
+		home = 3256
+	}
+	regiment = {
+		name = "4a Artigleria"
+		type = artillery
+		home = 3256
+	}
+	regiment = {
+		name = "5a Artigleria"
+		type = artillery
+		home = 854
 	}
 }
 navy = {
@@ -248,17 +204,17 @@ navy = {
 
 	ship = {
 		name= "Christina"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Riggina Vittoria"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Principe Franciscu"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -286,82 +242,51 @@ navy = {
 		type = clipper_transport
 	}
 
-}
-
-navy = {
-	name = "Squatra 'e Afreca"
-	location = 1784
-
 	ship = {
 		name= "Orguogliu"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Atena"
-		type = frigate
+		type = clipper_transport
 	}
-}
-
-navy = {
-	name = "Squatra 'e Innia"
-	location = 1312
 
 	ship = {
 		name= "Riggina 'e ll'Oriente"
-		type = manowar
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Re Manfredo"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Etna"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Monte Garambano"
-		type = frigate
+		type = clipper_transport
 	}
-}
-
-navy = {
-	name = "Squadra de Malacca"
-	location = 1384
 
 	ship = {
 		name= "Erculo"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Capri"
 		type = frigate
 	}
-}
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-
-	threat = { id="AQT" value = 150 }
-	threat = { id="RUM" value = 50 }
-	threat = { id="BYZ" value = 50 }
-	threat = { id="PDN" value = 50 }
-	threat = { id="PAP" value = 50 }
-
-
-	rival = { id="ARM" value=100 }
-	rival = { id="RUM" value=150 }
-	rival = { id="ABN" value=150 }
-	rival = { id="AQT" value=400 }
-	rival = { id="GER" value=150 }
-	rival = { id="BYZ" value=300 }
+	ship = {
+		name= "1a Squatrune"
+		type = frigate
+	}
+	ship = {
+		name= "2a Squatrune"
+		type = frigate
+	}
 }

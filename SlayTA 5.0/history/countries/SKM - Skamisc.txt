@@ -2,7 +2,7 @@ capital = 78
 primary_culture = skamisc
 religion = protestant
 government = democracy
-plurality = 20
+plurality = 25
 nationalvalue = nv_liberty
 literacy = 0.6
 civilized = yes
@@ -40,6 +40,8 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
+
 
 # Technologies
 post_napoleonic_thought = 1

@@ -55,8 +55,6 @@ on_surrender =
 
 on_new_great_nation = 
 {
-	10 = 19310
-	10 = 19320
 }
 
 on_lost_great_nation = 
@@ -96,8 +94,13 @@ on_election_tick = {
 # in events specified below, so can be executed several times
 # for each acquired state.
 
-on_state_conquest = {
+on_colony_to_state = 
+{
 	100 = 70000
+	100 = 70001
+}
+
+on_state_conquest = {
 }
 
 on_colony_to_state_free_slaves =
@@ -121,8 +124,6 @@ on_debtor_default_second =
 
 on_civilize =
 {
-	100 = 90900 # CHI
-	100 = 90903 # CHI substates
 	100 = 90910 # RotW
 }
 

@@ -1,7 +1,8 @@
 owner = ZUL
 controller = ZUL
 add_core = ZUL
-trade_goods = grain
-life_rating = 35
+add_core = SAF
+trade_goods = coal
+life_rating = 35 
 terrain = hills
 

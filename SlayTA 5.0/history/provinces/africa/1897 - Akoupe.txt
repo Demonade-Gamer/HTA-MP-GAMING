@@ -1,8 +1,8 @@
 
 
-add_core = MLI
-add_core = ASH
-add_core = KNG
+#MLI
+#ASH
+#KNG
 trade_goods = coffee
-life_rating = 15
+life_rating = 20
 

@@ -24,7 +24,7 @@ country_event = {
 				OR = {
 					trade_goods = iron
 					trade_goods = sulphur
-					trade_goods = precious_metal
+					
 				}
 				OR = {
 					AND = {
@@ -73,7 +73,7 @@ country_event = {
 				OR = {
 					trade_goods = coal
 					trade_goods = sulphur
-					trade_goods = precious_metal
+					
 				}
 				OR = {
 					AND = {
@@ -122,7 +122,7 @@ country_event = {
 				OR = {
 					trade_goods = coal
 					trade_goods = iron
-					trade_goods = precious_metal
+					
 				}
 				OR = {
 					AND = {
@@ -290,7 +290,7 @@ country_event = {
 				is_colonial = no
 				OR = {
 					terrain = forest
-					terrain = woods
+					terrain = montane_forest
 					terrain = jungle
 				}
 			}

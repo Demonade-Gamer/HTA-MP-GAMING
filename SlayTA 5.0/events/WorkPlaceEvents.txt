@@ -893,63 +893,6 @@ province_event = {
 	}
 }
 
-# Dyeworks Accident
-province_event = {
-	id = 12170
-	title = "EVTNAME12170"
-	desc = "EVTDESC12170"
-	
-	trigger = {
-		produces = dye
-		owner = {
-			dye = 15
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 1000
-		modifier = {
-			factor = 1.5
-			NOT = {
-				owner = {
-					OR = {
-						safety_regulations = no_safety
-						safety_regulations = trinket_safety
-					}
-				}
-			}
-		}
-		modifier = {
-			factor = 0.9
-			average_militancy = 5
-		}
-		modifier = {
-			factor = 1.1
-			average_consciousness = 5
-		}
-	}
-	
-	option = {
-		name = "EVTOPTA12170"
-		owner = {
-			dye = -15
-		}
-		poor_strata = {
-			militancy = -0.5
-		}
-	}
-	
-	option = {
-		name = "EVTOPTB12170"
-		owner = {
-			dye = 15
-		}
-		rich_strata = {
-			militancy = -0.5
-		}
-	}
-}
-
 # Cistern Explodes
 province_event = {
 	id = 12180
@@ -1340,7 +1283,6 @@ province_event = {
 	option = {
 		name = "EVTOPTA12250"
 		poor_strata = {
-			reduce_pop = 0.98
 			militancy = 1
 		}
 		
@@ -1349,17 +1291,16 @@ province_event = {
 	option = {
 		name = "EVTOPTB12250"
 		rich_strata = {
-			reduce_pop = 0.99
+			militancy = .5
 		}
 		poor_strata = {
-			reduce_pop = 0.99
+			militancy = .5
 		}
 	}
 	
 	option = {
 		name = "EVTOPTC12250"
 		rich_strata = {
-			reduce_pop = 0.98
 			militancy = 1
 		}
 	}

@@ -1,8 +1,8 @@
 owner = MGH
 controller = MGH
 add_core = MGH
-add_core = ALD
+#ALD
 trade_goods = wool
-life_rating = 35
+life_rating = 35 
 
 

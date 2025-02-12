@@ -1,8 +1,8 @@
 owner = SKM
 controller = SKM
-
+add_core = CLF
 trade_goods = cattle
-life_rating = 35
+life_rating = 35 
 
 
 

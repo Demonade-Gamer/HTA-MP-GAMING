@@ -1,7 +1,7 @@
-owner = NPL
-controller = NPL
-add_core = NPL
-trade_goods = fish
-life_rating = 35
+owner = TUS
+controller = TUS
+add_core = TUS
+trade_goods = coal
+life_rating = 35 
 
 

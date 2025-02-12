@@ -11,7 +11,40 @@
 
 ###World Bank
 
+world_bank_factory = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		iron = 4000000000
+		coal = 4000000000
+		cotton = 4000000000
+		wool = 4000000000
+		silk = 4000000000
+		sulphur = 4000000000
+		cattle = 4000000000
+		fish = 4000000000
+		fruit = 4000000000
+		grain = 4000000000
+		timber = 4000000000
+		tropical_wood = 4000000000
+		tobacco = 4000000000
+		tea = 4000000000
+		coffee = 4000000000
+		opium = 4000000000
+		rubber = 4000000000
+		oil = 4000000000
+	}
+	time = 30
+	visibility = yes
+	onmap = no
 
+	production_type = world_bank_factory
+	pop_build_factory = no
+	advanced_factory = no
+}
 
 ############# LATE GAME FACTORIES
 
@@ -517,7 +550,6 @@ canned_food_factory = {
 	pop_build_factory = yes
 }
 
-
 liquor_distillery = {
 	type = factory
 
@@ -602,46 +634,6 @@ fabric_factory = {
 	pop_build_factory = yes
 }
 
-#wool_fabric_factory = {
-#	type = factory
-#	on_completion = factory
-#	completion_size = 0.2
-#	max_level = 99
-#	goods_cost =
-#	{
-#		machine_parts = 20
-#		iron = 200
-#		cement = 200
-#		lumber = 200
-#	}
-#	time = 30
-#	visibility = yes
-#	onmap = no
-		
-#	production_type = wool_fabric_factory
-#	pop_build_factory = yes
-#}
-
-#leather_factory = {
-#	type = factory
-#	on_completion = factory
-#	completion_size = 0.2
-#	max_level = 99
-#	goods_cost =
-#	{
-#		machine_parts = 20
-#		iron = 200
-#		cement = 200
-#		lumber = 200
-#	}
-#	time = 30
-#	visibility = yes
-#	onmap = no
-		
-#	production_type = leather_factory
-#	pop_build_factory = yes
-#}
-
 cement_factory = {
 	type = factory
 	on_completion = factory
@@ -649,7 +641,8 @@ cement_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		cement = 200
+		#cement = 200
+		coal = 200
 		iron = 200
 		timber = 200
 	}
@@ -660,6 +653,8 @@ cement_factory = {
 	production_type = cement_factory
 	pop_build_factory = yes
 }
+
+
 
 glass_factory = {
 	type = factory
@@ -701,23 +696,20 @@ fertilizer_factory = {
 	production_type = fertilizer_factory
 	pop_build_factory = yes
 }
+
 province_selector = {
 	type = province_selector
-	goods_cost =
-	{
-	}
+	goods_cost = { }
 	time = 1
 	visibility = no
 	onmap = no
 	max_level = 2
 	province = yes
 	one_per_state = yes
-	
 }
 
 fort = {      
 	type = fort
-	cost = 400
 	goods_cost =
 	{
 		lumber = 600
@@ -726,7 +718,7 @@ fort = {
 		small_arms = 200
 		artillery = 180
 	}
-	time = 1080 
+	time = 360 
 	visibility = yes
 	onmap = yes
 	max_level = 6
@@ -734,31 +726,8 @@ fort = {
 	fort_level = 1
 }
 
-railroad = {   
-	type = infrastructure
-	cost = 500
-	goods_cost =
-	{
-		lumber = 200
-		cement = 100
-		steel = 100
-	}
-	time = 720
-	visibility = yes
-	onmap = yes
-	max_level = 6
-	province = yes
-	
-	infrastructure = 0.16
-	movement_cost = -0.05
-	
-	pop_build_factory = yes
-	spawn_railway_track = yes
-}
-
 naval_base = {    
 	type = naval_base
-	cost = 5000
 	goods_cost =
 	{
 		timber = 800
@@ -767,7 +736,7 @@ naval_base = {
 		steel = 800
 		machine_parts = 60
 	}
-	time = 1080
+	time = 360
 	naval_capacity = 1
 	capital = yes
 	onmap = yes
@@ -779,4 +748,25 @@ naval_base = {
 	one_per_state = yes
 	colonial_range = 50
 	local_ship_build = -0.05
+}
+       
+railroad = {   
+	type = infrastructure
+	goods_cost =
+	{
+		lumber = 200
+		cement = 100
+		steel = 100
+	}
+	time = 360
+	visibility = yes
+	onmap = yes
+	max_level = 6
+	province = yes
+	
+	infrastructure = 0.16
+	movement_cost = -0.05
+	
+	pop_build_factory = yes
+	spawn_railway_track = yes
 }

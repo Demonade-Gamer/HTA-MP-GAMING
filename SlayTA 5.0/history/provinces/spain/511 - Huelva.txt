@@ -1,6 +1,7 @@
 owner = HIS
 controller = HIS
 add_core = HIS
-trade_goods = grain
-life_rating = 35
+naval_base = 1
+trade_goods = sulphur
+life_rating = 35 
 

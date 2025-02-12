@@ -1,7 +1,7 @@
 
 
-add_core = DAH
+#DAH
 trade_goods = fish
-life_rating = 15
+life_rating = 20
 
 

@@ -1,8 +1,8 @@
-
-
-add_core = ASH
-trade_goods = precious_metal
-life_rating = 15
+owner = CLT
+controller = CLT
+#ASH
+trade_goods = iron
+life_rating = 35 
 fort = 1
 naval_base = 1
 colonial = 2

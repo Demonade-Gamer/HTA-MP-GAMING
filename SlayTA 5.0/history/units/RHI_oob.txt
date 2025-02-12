@@ -13,7 +13,7 @@ army = {
 	regiment = {
 		name = "I Infanterie"
 		type = infantry
-		home = 575
+		home = 573
 	}
 	regiment = {
 		name = "II Infanterie"
@@ -23,7 +23,22 @@ army = {
 	regiment = {
 		name = "III Infanterie"
 		type = infantry
-		home = 2561
+		home = 574
+	}
+	regiment = {
+		name = "III Infanterie"
+		type = infantry
+		home = 576
+	}
+	regiment = {
+		name = "I Artillerie"
+		type = artillery
+		home = 574
+	}
+	regiment = {
+		name = "II Artillerie"
+		type = artillery
+		home = 576
 	}
 	regiment = {
 		name = "I Artillerie"
@@ -33,11 +48,16 @@ army = {
 	regiment = {
 		name = "II Artillerie"
 		type = artillery
-		home = 576
+		home = 575
+	}
+	regiment = {
+		name = "I Artillerie"
+		type = artillery
+		home = 577
 	}
 	regiment = {
 		name = "I Reiter"
 		type = dragoon
-		home = 575
+		home = 573
 	}
 }

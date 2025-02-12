@@ -50,7 +50,7 @@ country_event = {
 			}
 			add_casus_belli = {
 				target = THIS
-				type = cut_down_to_size
+				type = demand_reperations
 				months = 12
 			}
 		}
@@ -84,7 +84,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA70002"
 		casus_belli = {
-			type = cut_down_to_size
+			type = demand_reperations
 			target = FROM
 			months = 12
 		}

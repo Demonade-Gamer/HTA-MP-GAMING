@@ -1,6 +1,6 @@
-owner = ARA
-controller = ARA
-add_core = ARA
+owner = SYR
+controller = SYR
+add_core = SYR
 trade_goods = wool
-life_rating = 35
+life_rating = 35 
 

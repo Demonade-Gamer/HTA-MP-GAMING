@@ -2,6 +2,6 @@ owner = USR
 controller = USR
 add_core = USR
 add_core = LTS
-trade_goods = fruit
-life_rating = 35
+trade_goods = coal
+life_rating = 35 
 

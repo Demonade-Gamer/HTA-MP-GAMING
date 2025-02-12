@@ -1,7 +1,9 @@
 ;;;;;;;;;;;;;x
 aenglisc;Aenglisc;;;;;;;;;;;;;x
+walloom;Walloon;;;;;;;;;;;;;x
 afro_american;Afro-Amerigan;;;;;;;;;x
-afro_platinean;Afro-Platinean;;;;;;;;;;;;;x
+amazonian;Jordracisc;x
+platinean;Novo Lusitano;;;;;;;;;;;;;x
 afro_uilsc;Afro-Uilsc;;;;;;;;;;;;;x
 anatolian;Anatolian;;;;;;;;;;;;;;x
 albanian;Arben;;;;;;;;;;x
@@ -12,7 +14,7 @@ aromanian;Aromanian;;;;;;;;;;;;;x
 assyrian;Assyrian;;;;;;;;;;;;x
 breton;Breton;;;;;;;;;;;;x
 byzantine;East Roman;;;;;;;;;;;;;;x
-califiano;Califiano;;;;;;;;;;;;;x
+skamisc;skamisc;;;;;;;;;;;;;x
 canadien;Canadien;;;;;;;;;;;;;x
 celtic;Celtic;;;;;;;;;x
 central_german;Central German;;;;;;;;;;;;;x
@@ -32,6 +34,7 @@ irish;Éireannaigh;;;;;;;;;;x
 italic_isolate;Italic Isolate;;;;;;;;x
 itsekari;Ijaw;;;;;;;;;;;;x
 jewish_cultures;Jewish Cultures;;;;;;;;;;;;x
+kazak;Turkic;;;;;;;;;;;;x
 kefficho;Kefficho;;;;;;;;;;;;x
 kuba;Bashong;;;;;;;;;;;;x
 largano;Largano;;;;;;;;;;;;;x
@@ -71,6 +74,8 @@ steenkooler;Steenkooler;;;;;;;;;;x
 tareconano;Tareconano;;;;;;;;;;;;;x
 tigray;Tigraway;;;;;;;;;;;;;x
 uilsc;Uilsc;;;;;;;;;;;;;x
+ukrainian;Cossack;;;;;;;;;;;;;x
 vestlandic;Vestlandic;;;;;;;;;;;;;x
 western_slavic;Sorbian;;;;;;;;;;;;x
 xhosa;Xhosa;;;;;;;;;;;;x
+ainu;Kirishitan;;;;;;;;;;;;x

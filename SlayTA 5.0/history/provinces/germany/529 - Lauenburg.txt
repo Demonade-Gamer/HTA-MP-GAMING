@@ -1,6 +1,5 @@
 owner = BRN
 controller = BRN
-add_core = BRE
 add_core = GER
 
 trade_goods = grain

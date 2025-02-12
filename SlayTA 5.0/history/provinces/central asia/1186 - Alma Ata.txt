@@ -2,5 +2,5 @@ owner = KZH
 controller = KZH
 add_core = KZH
 trade_goods = grain
-life_rating = 35
+life_rating = 35 
 

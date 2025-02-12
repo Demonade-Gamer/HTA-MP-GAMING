@@ -3,5 +3,5 @@ controller = GEL
 add_core = GEL
 add_core = MAJ
 trade_goods = cotton
-life_rating = 15
+life_rating = 30
 

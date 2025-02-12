@@ -1,6 +1,6 @@
-owner = NPL
-controller = NPL
-add_core = NPL
-trade_goods = silk
-life_rating = 35
+owner = TUS
+controller = TUS
+add_core = TUS
+trade_goods = grain
+life_rating = 35 
 

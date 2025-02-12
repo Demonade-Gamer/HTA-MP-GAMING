@@ -1,35 +1,31 @@
 political_decisions = {
-	claim_interior = {
+ter_immigrants = {
+		picture = found_the_imperial_academy
 		potential = {
 			tag = TER
-			NOT = { has_country_flag = claim_interior }
-		}
-		allow = {
+			number_of_states = 2
+			num_of_ports = 1
+			is_vassal = no
 			civilized = yes
-			medicine = 1
-			2489 = { empty = yes }
-			2495 = { empty = yes }
-			2500 = { empty = yes }
-			2503 = { empty = yes }
-			2507 = { empty = yes }
-			2601 = { empty = yes }
-			2603 = { empty = yes }
-			2605 = { empty = yes }
+			NOT = { has_country_flag = ter_imm }
 		}
+		
+		allow = {
+			OR = {
+				government = democracy
+				government = hms_government
+			}
+				has_country_flag = killed_NZ
+		}
+		
 		effect = {
-			prestige = 5
-			2489 = { secede_province = THIS }
-			2495 = { secede_province = THIS }
-			2500 = { secede_province = THIS }
-			2503 = { secede_province = THIS }
-			2507 = { secede_province = THIS }
-			2601 = { secede_province = THIS }
-			2603 = { secede_province = THIS }
-			2605 = { secede_province = THIS }		
-			set_country_flag = claim_interior
+			set_country_flag = ter_imm
+			add_country_modifier = { name = the_homestead_act_mexico duration = -1 }
 		}
 	}
-	kill_NZ = {
+
+	kill_NFB = {
+		picture = bushire
 		potential = { 
 			tag = TER
 			NOT = { has_country_flag = killed_NZ }
@@ -39,6 +35,29 @@ political_decisions = {
 		}
 		effect = {
 			NFB = { all_core = { add_core = TER remove_core = NFB } }
+			set_country_flag = killed_NZ
+		}
+	}
+	
+	colonize_guinea = {
+		picture = nusantara
+		potential = { 
+			tag = TER
+			NOT = { has_country_flag = colonized_guinea }
+		}
+		allow = {
+			war = no
+			1453 = { owned_by = THIS }
+			2528 = { empty = yes }
+			2529 = { empty = yes }
+		}
+		effect = {
+			AST_2528 = { life_rating = 15 }
+			GER_2530 = { life_rating = 15 }
+			2529 = { secede_province = TER }
+			2528 = { secede_province = TER }
+			2530 = { secede_province = TER }
+			2531 = { secede_province = TER } 
 		}
 	}
 }	

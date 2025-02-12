@@ -1,51 +1,5 @@
 #NB - also check decision in the decision file called HTA_Low_Countries
 political_decisions = {
-	gold_coast_treaty = {
-		picture = treaty_signing
-		potential = {
-			is_greater_power = yes
-			owns = 1908
-			is_canal_enabled = 2
-			NET = {
-				owns = 1909
-				owns = 1413
-				NOT = { owns = 1910 }
-			}
-			NOT = {
-				has_country_flag = gold_coast_treaty
-			}
-		}
-		
-		allow = {
-			war = no
-			money = 10000
-			NET = {
-				war = no
-				owns = 1909
-			}
-		}
-		
-		effect = {
-			set_country_flag = gold_coast_treaty
-			treasury = -10000
-			NET = { country_event = 36960 }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				truce_with = NET
-			}
-			modifier = {
-				factor = 0
-				NOT = {
-					relation = { who = NET value = 50 }
-				}
-			}
-		}
-	}
-
 #The following are from /gsg/Vickymod, moved here for purposes of consolidation
 	
 	education_decree_1863 = {
@@ -79,15 +33,15 @@ political_decisions = {
 			prestige = 5
 			any_pop = {
 				limit = {
-					NOT = { literacy = 0.2 }
+					NOT = { literacy = 0.4 }
 					location = { is_core = PHL }
 				}
 				literacy = 0.05
 			}
-			SPA_1455 = {
+			PHL = {
 				add_province_modifier = {
 					name = colonial_recruitment
-					duration = 1095
+					duration = 2095
 				}
 			}				
 		}

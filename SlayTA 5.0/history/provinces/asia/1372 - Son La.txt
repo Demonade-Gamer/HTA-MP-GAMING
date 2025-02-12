@@ -3,5 +3,5 @@ controller = GXI
 add_core = GXI
 add_core = DAI
 trade_goods = tropical_wood
-life_rating = 30
+life_rating = 35 
 

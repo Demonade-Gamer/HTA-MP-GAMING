@@ -1,8 +1,8 @@
-owner = NET
-controller = NET
-add_core = BRA
+owner = OLD
+controller = OLD
+add_core = OLD
 add_core = GER
+
 trade_goods = cattle
 life_rating = 38
 
-add_core = NET

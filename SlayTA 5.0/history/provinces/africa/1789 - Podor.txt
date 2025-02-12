@@ -1,7 +1,7 @@
 
 
-add_core = MLI
-add_core = TOO
+#MLI
+#TOO
 trade_goods = fruit
-life_rating = 15
+life_rating = 20
 

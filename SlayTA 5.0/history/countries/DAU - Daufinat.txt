@@ -1,11 +1,11 @@
 capital = 454
-primary_culture = aquitanian
-culture = north_italian
+primary_culture = north_italian
+culture = aquitanian
 religion = catholic
 government = absolute_monarchy
 plurality = 0.1
 nationalvalue = nv_equality
-literacy = 0.48
+literacy = 0.6
 civilized = yes
 prestige = 25
 

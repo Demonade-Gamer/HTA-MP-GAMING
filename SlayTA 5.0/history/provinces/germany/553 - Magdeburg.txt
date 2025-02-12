@@ -1,7 +1,7 @@
 owner = BRN
 controller = BRN
-add_core = BRA
 add_core = GER
+add_core = BRA
 trade_goods = cattle
 life_rating = 38
 

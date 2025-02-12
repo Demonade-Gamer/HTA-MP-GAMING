@@ -5,6 +5,7 @@ post_napoleonic_thought = {
 	cost = 3600
 	unciv_military = yes
 
+	regular_experience_level = 5
 	activate_unit = infantry_defensive
 	
 	activate_building = fort	
@@ -53,7 +54,7 @@ strategic_mobility = {
 	year = 1836
 	cost = 7200
 	unciv_military = yes
-	
+	regular_experience_level = 5
 	activate_unit = artillery_defensive
 	
 	army_base = {
@@ -109,6 +110,7 @@ point_defense_system = {
 	year = 1850
 	cost = 10800
 	unciv_military = yes
+	regular_experience_level = 5
 	engineer = {
 		support = 0.25
 	} 
@@ -164,6 +166,7 @@ deep_defense_system = {
 	year = 1870
 	cost = 14400
 	unciv_military = yes
+	regular_experience_level = 5
 	engineer = {
 		support = 0.25
 	}
@@ -219,6 +222,7 @@ infiltration = {
 	year = 1900
 	cost = 18000
 	unciv_military = yes
+	regular_experience_level = 5
 	activate_unit = tank
 	activate_building = barrel_factory 
 		
@@ -268,7 +272,7 @@ modern_army_doctrine = {
 	year = 1919
 	cost = 21600
 	unciv_military = yes
-	
+	regular_experience_level = 5
 	army_base = {
 		supply_consumption = 0.05
 	} 
@@ -896,7 +900,7 @@ military_staff_system = {
 	year = 1836
 	cost = 3600
 	unciv_military = yes
-	
+	reinforce_rate = 0.05
 	activate_unit = infantry_offensive
 	
 	army_base = {
@@ -942,7 +946,7 @@ military_plans = {
 	year = 1836
 	cost = 7200
 	unciv_military = yes
-	
+	reinforce_rate = 0.05
 	activate_unit = artillery_offensive
 	
 	army_base = {
@@ -988,7 +992,7 @@ military_statistics = {
 	year = 1850
 	cost = 10800
 	unciv_military = yes
-	
+	reinforce_rate = 0.05
 	army_base = {
 		default_organisation = 5
 		#supply_consumption = 0.05
@@ -1032,12 +1036,12 @@ military_logistics = {
 	year = 1870
 	cost = 14400
 	unciv_military = yes
-	
+	reinforce_rate = 0.05
 	army_base = {
 		default_organisation = 5
 		#supply_consumption = 0.05
 	}
-	mobilisation_size = 0.02
+	mobilisation_size = 0.01
 	
 	ai_chance = {
 		factor = 1.1
@@ -1077,7 +1081,7 @@ military_directionism = {
 	year = 1900
 	cost = 18000
 	unciv_military = yes
-	
+	reinforce_rate = 0.05
 	army_base = {
 		default_organisation = 10
 		supply_consumption = 0.05
@@ -1123,6 +1127,7 @@ aeronautics = {
 	area = military_science
 	year = 1914
 	cost = 21600
+	reinforce_rate = 0.05
 	activate_unit = plane
 	activate_building = aeroplane_factory
 	plane = {

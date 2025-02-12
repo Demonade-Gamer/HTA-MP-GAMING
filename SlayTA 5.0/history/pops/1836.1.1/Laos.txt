@@ -251,27 +251,27 @@
 		size = 8300
 	}
 	aristocrats = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 125
 	}
 	clergymen = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 75
 	}
 	artisans = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 350
 	}
 	soldiers = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 75
 	}
 	farmers = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 6375
 	}

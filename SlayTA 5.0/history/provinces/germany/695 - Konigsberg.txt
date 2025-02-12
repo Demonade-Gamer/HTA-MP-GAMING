@@ -2,11 +2,11 @@ owner = POL
 controller = POL
 add_core = POL
 add_core = PRS
-trade_goods = cattle
-life_rating = 35
+trade_goods = iron
+life_rating = 40
 fort = 1
 state_building = {
-	level = 2 
+	level = 1 
 	building = steel_factory
 	upgrade = yes
 }

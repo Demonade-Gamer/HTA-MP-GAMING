@@ -1,0 +1,36 @@
+army = {
+	name = "Valencian hooligans"
+	location = 503
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 504
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 505
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = artillery
+		home = 503
+	}
+}
+
+navy = {
+	name = "Cyneflota"
+	location = 503
+	ship = {
+		name = "Anmedla"
+		type = manowar
+	}
+	ship = {
+		name = "Andett"
+		type = manowar
+	}
+	ship = {
+		name = "Orlscip"
+		type = manowar
+	}
+}

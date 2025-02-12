@@ -65,7 +65,7 @@
         size = 37650
     }
     farmers = {
-        culture = sami
+        culture = finnish
         religion = protestant
         size = 3000
     }
@@ -105,7 +105,12 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 42750
+        size = 32750
+    }
+    craftsmen = {
+        culture = finnish
+        religion = protestant
+        size = 10000
     }
     artisans = {
         culture = norwegian

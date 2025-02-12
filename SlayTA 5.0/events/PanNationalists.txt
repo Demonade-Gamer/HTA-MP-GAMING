@@ -1026,13 +1026,8 @@ country_event = {
 				}
 				THIS = {
 					OR = {
-						primary_culture = assamese
 						primary_culture = bengali
-						primary_culture = panjabi
 						primary_culture = avadhi
-						primary_culture = kanauji
-						primary_culture = bihari
-						primary_culture = oriya
 					}
 				}
 				neighbour = THIS
@@ -1065,73 +1060,6 @@ country_event = {
 					tag = RAJ
 				}
 				THIS = { primary_culture = marathi }
-				neighbour = THIS
-				is_vassal = no
-				NOT = {
-					any_greater_power = { is_culture_group = south_asian }
-					exists = DRA
-					exists = HDU
-					exists = MRT
-					exists = HND
-				}
-			}
-			diplomatic_influence = {
-				who = THIS
-				value = 200
-			}
-			relation = {
-				who = THIS
-				value = 200
-			}		
-			country_event = 60130
-		}
-		random_country = {
-			limit = {
-				THIS = { NOT = { has_country_flag = crown_from_the_gutter } }
-				OR = {
-					primary_culture = tamil
-					primary_culture = kannada
-					primary_culture = telegu
-					primary_culture = malayalam
-				}
-				THIS = {
-					OR = {
-						primary_culture = tamil
-						primary_culture = kannada
-						primary_culture = telegu
-						primary_culture = malayalam
-					}
-				}
-				neighbour = THIS
-				is_vassal = no
-				NOT = {
-					any_greater_power = { is_culture_group = south_asian }
-					exists = DRA
-					exists = HDU
-					exists = MRT
-					exists = HND
-				}
-			}
-			diplomatic_influence = {
-				who = THIS
-				value = 200
-			}
-			relation = {
-				who = THIS
-				value = 200
-			}		
-			country_event = 60130
-		}
-		random_country = {
-			limit = {
-				THIS = { NOT = { has_country_flag = crown_from_the_gutter } }
-				primary_culture = rajput
-				THIS = {
-					OR = {
-						primary_culture = rajput
-						primary_culture = gujarati
-					}
-				}
 				neighbour = THIS
 				is_vassal = no
 				NOT = {

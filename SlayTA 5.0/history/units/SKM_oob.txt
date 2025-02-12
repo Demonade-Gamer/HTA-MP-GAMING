@@ -1,5 +1,5 @@
 army = {
-	name = "You've been buffed!"
+	name = "Calfiano Guard"
 	location = 84
 		regiment = {
 		name= "1. Brigada de Infantería"
@@ -27,6 +27,68 @@ army = {
 		home = 15
 	}
 }
+
+navy = {
+	name = "Cuneflota"
+	location = 78
+	ship = {
+		name = "Anmedla"
+		type = manowar
+	}
+	ship = {
+		name = "Gumcyst"
+		type = manowar
+	}
+	ship = {
+		name = "Are"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+}
+
 leader = {
 	name = "Base guy 1"
 	picture = asian_general_3
@@ -105,28 +167,4 @@ army = {
 		type = hussar
 		home = 14
 	}
-}
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-
-	threat = { id="HOY" value = 50 }
-	threat = { id="MEL" value = 50 }
-	threat = { id="MEX" value = 50 }
-	threat = { id="GIN" value = 50 }
-	threat = { id="MRG" value = 50 }
-	threat = { id="NEU" value = 50 }
-
-
-	rival = { id="VST" value=100 }
-	rival = { id="NEU" value=100 }
-	rival = { id="HOY" value=100 }
-	rival = { id="MEL" value=200 }
-	rival = { id="MEX" value=200 }
-	rival = { id="GIN" value=200 }
-	rival = { id="MRG" value=200 }
 }

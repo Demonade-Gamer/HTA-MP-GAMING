@@ -1,7 +1,6 @@
-owner = MGH
-controller = MGH
-add_core = MGH
+owner = TRI
+controller = NPL
 add_core = TRI
 trade_goods = wool
-life_rating = 35
+life_rating = 35 
 

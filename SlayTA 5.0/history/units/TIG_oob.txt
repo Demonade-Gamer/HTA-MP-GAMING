@@ -18,14 +18,6 @@ HAR = {
 	value = 30
 }
 
-leader = {
-   name = "Ras Wube Haile Mariam"
-   type = land
-   date = 1836.1.1
-   background = natural_born_leader
-   personality = aggressive
-}
-
 army = {
 	name = "Army of the Ras of Tigray"
 	location = 1857

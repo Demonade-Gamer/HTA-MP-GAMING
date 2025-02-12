@@ -69,6 +69,9 @@ mechanised_plantations = {
 		rgo_goods_throughput = {
 			tea = 0.1
 		}
+#		rgo_goods_throughput = {
+#			dye = 0.1
+#		}
 	}	
 }
 

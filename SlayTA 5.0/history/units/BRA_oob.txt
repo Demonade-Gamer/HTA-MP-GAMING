@@ -1,4 +1,4 @@
-OLD = {	value = 125 }
+
 leader = {
 	name = "Base guy 1"
 	picture = asian_general_3
@@ -71,12 +71,43 @@ army = {
 	regiment = {
 		name = "I Bremenische Infanterie"
 		type = artillery
-		home = 539
+		home = 582
 	}
 	regiment = {
 		name = "II Bremenische Infanterie"
 		type = artillery
-		home = 531
+		home = 582
+	}
+	regiment = {
+		name= "2. Oldenburgische Infanteriebrigade"
+		type = hussar
+		home = 577
+	}
+	regiment = {
+		name = "III Bremenische Infanterie"
+		type = artillery
+		home = 577
+	}
+
+	regiment = {
+		name = "IV Bremenische Infanterie"
+		type = artillery
+		home = 576
+	}
+	regiment = {
+		name = "I Westfalen Infanterie"
+		type = artillery
+		home = 575
+	}
+	regiment = {
+		name = "II Westfalen Infanterie"
+		type = artillery
+		home = 572
+	}
+	regiment = {
+		name = "III Westfalen Infanterie"
+		type = artillery
+		home = 572
 	}
 }
 army = {
@@ -110,7 +141,7 @@ army = {
 	regiment = {
 		name= "2. Braunschweigische Infanterie-Brigade"
 		type = artillery
-		home = 536
+		home = 566
 	}
 	regiment = {
 		name= "3. Braunschweigische Infanterie-Brigade"
@@ -120,69 +151,83 @@ army = {
 	regiment = {
 		name = "Lingenische Brigade"
 		type = artillery
-		home = 542
+		home = 566
 	}
 	regiment = {
 		name= "1. Braunschweigische Reiter-Brigade"
 		type = artillery
-		home = 553
+		home = 568
 	}
 	regiment = {
 		name= "1. Braunschweigische Artillerie-Brigade"
 		type = artillery
-		home = 528
+		home = 568
 	}	            	            
 }
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
 
+army = {
+	name = "Braunschweigische Chuds"
+	location = 573
+	regiment = {
+		name= "1. Oldenburgische InfanterieChuds"
+		type = hussar
+		home = 574
+	}
+	regiment = {
+		name= "1. Hannöversche InfanterieChuds"
+		type = artillery
+		home = 574
+	}
 
-	threat = { id="BRN" value = 50 }
-	threat = { id="BAV" value = 50 }
-	threat = { id="ZAC" value = 50 }
-	threat = { id="FRA" value = 50 }
-	threat = { id="NET" value = 50 }
+	regiment = {
+		name= "2. Hannöversche InfanterieChuds"
+		type = artillery
+		home = 573
+	}
+	regiment = {
+		name= "1. Hannöversche ArtillerieChuds"
+		type = artillery
+		home = 573
+	}
+	regiment = {
+		name = "I Bremenische InfanterieChuds"
+		type = artillery
+		home = 570
+	}
+	regiment = {
+		name = "II Bremenische InfanterieChuds"
+		type = artillery
+		home = 570
+	}
+	regiment = {
+		name= "2. Oldenburgische InfanterieChuds"
+		type = hussar
+		home = 571
+	}
+	regiment = {
+		name = "III Bremenische InfanterieChuds"
+		type = artillery
+		home = 571
+	}
 
-
-	rival = { id="ARM" value=200 }
-	rival = { id="NPL" value=100 }
-	rival = { id="RUM" value=100 }
-	rival = { id="ITA" value=100 }
-	rival = { id="ABN" value=150 }
-	rival = { id="AQT" value=200 }
-	rival = { id="SCW" value=100 }
-	rival = { id="VST" value=100 }
-	rival = { id="FRA" value=100 }
-	rival = { id="NEU" value=100 }
-	rival = { id="GER" value=150 }
-	rival = { id="HIS" value=200 }
-	rival = { id="AGR" value=100 }
-	rival = { id="BOH" value=100 }
-	rival = { id="ZAC" value=100 }
-	rival = { id="POL" value=150 }
-	rival = { id="RUS" value=200 }
-	rival = { id="SRU" value=100 }
-	rival = { id="FIN" value=100 }
-	rival = { id="SWE" value=100 }
-	rival = { id="SCA" value=150 }
-	rival = { id="PER" value=200 }
-	rival = { id="SML" value=100 }
-	rival = { id="BRN" value=100 }
-	rival = { id="BAV" value=150 }
-	rival = { id="HOY" value=200 }
-	rival = { id="MEL" value=100 }
-	rival = { id="USR" value=100 }
-	rival = { id="ARG" value=100 }
-	rival = { id="QIN" value=150 }
-	rival = { id="GXI" value=200 }
-	rival = { id="JAP" value=100 }
-	rival = { id="NET" value=100 }
-	rival = { id="MYS" value=100 }
-	rival = { id="PDN" value=100 }
-	rival = { id="BYZ" value=200 }
-	rival = { id="CLT" value=200 }
+	regiment = {
+		name = "IV Bremenische InfanterieChuds"
+		type = artillery
+		home = 2560
+	}
+	regiment = {
+		name = "I Westfalen InfanterieChuds"
+		type = artillery
+		home = 2560
+	}
+	regiment = {
+		name = "II Westfalen InfanterieChuds"
+		type = artillery
+		home = 579
+	}
+	regiment = {
+		name = "III Westfalen InfanterieChuds"
+		type = artillery
+		home = 579
+	}
 }

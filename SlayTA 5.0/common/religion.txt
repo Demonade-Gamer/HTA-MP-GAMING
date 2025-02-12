@@ -15,7 +15,7 @@ christian = {
 	}
 
 	obbite = {
-		icon = 16
+		icon = 4
 		color = { 0 0 0.5 }
 	}
 	
@@ -90,7 +90,7 @@ eastern = {
 
 	confucian = {
 		color = { 0.3 0.0 0.8 }
-		icon = 15
+		icon = 9
 	}
 
 }

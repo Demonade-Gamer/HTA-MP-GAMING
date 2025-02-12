@@ -1,4 +1,4 @@
-add_core = MLI
+#MLI
 trade_goods = coffee
-life_rating = 15
+life_rating = 25
 

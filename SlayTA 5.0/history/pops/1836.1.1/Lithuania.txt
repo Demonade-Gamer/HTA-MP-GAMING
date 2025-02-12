@@ -135,23 +135,23 @@
 		size = 550
 	}
 	clergymen = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 75
 	}
 	artisans = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 1800
 	}
 	soldiers = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 75
 	}
 	farmers = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 7050
 	}
 }
@@ -224,42 +224,42 @@
 		size = 4225
 	}
 	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 75
-	}
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1400
-	}
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size =  100
-	}
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 8425
-	}
-	clergymen = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 75
 	}
 	artisans = {
-		culture = north_german
+		culture = prussian
+		religion = protestant
+		size = 1400
+	}
+	soldiers = {
+		culture = prussian
+		religion = protestant
+		size =  100
+	}
+	farmers = {
+		culture = prussian
+		religion = protestant
+		size = 8425
+	}
+	clergymen = {
+		culture = prussian
+		religion = protestant
+		size = 75
+	}
+	artisans = {
+		culture = prussian
 		religion = protestant
 		size = 200
 	}
 	soldiers = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 50
 	}
 	farmers = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 3675
 	}
@@ -292,42 +292,42 @@
 		size = 35475
 	}
 	clergymen = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 75
 	}
 	artisans = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 3000
 	}
 	soldiers = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 100
 	}
 	farmers = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 6825
 	}
 	clergymen = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 25
 	}
 	artisans = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 200
 	}
 	soldiers = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 25
 	}
 	farmers = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 750
 	}
@@ -380,23 +380,23 @@
 		size = 40025
 	}
 	clergymen = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 125
 	}
 	artisans = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 1400
 	}
 	soldiers = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 75
 	}
 	farmers = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 5400
 	}
 }
@@ -428,42 +428,42 @@
 		size = 15825
 	}
 	clergymen = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 50
 	}
 	artisans = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 600
 	}
 	soldiers = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 25
 	}
 	farmers = {
-		culture = ashkenazi
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 2325
 	}
 	clergymen = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 25
 	}
 	artisans = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 100
 	}
 	soldiers = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 25
 	}
 	farmers = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 850
 	}
@@ -508,28 +508,28 @@
 		size = 1500 
 	}
 	artisans = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 400   
 	}
 	soldiers = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 50
 	}
 	farmers = {
-		culture = north_german
+		culture = prussian
 		religion = protestant
 		size = 1200 
 	}
 	clergymen = {
-		culture = north_german
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 5  
 	}
 	artisans = {
-		culture = north_german
-		religion = jewish
+		culture = prussian
+		religion = protestant
 		size = 145 
 	}
 	clergymen = {

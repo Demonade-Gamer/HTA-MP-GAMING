@@ -4,6 +4,7 @@ political_decisions = {
 		alert = no
 		potential = {
 			NOT = { has_global_flag = host_nation_picked }
+			tag = SIK
 		}
 	
 		allow = {
@@ -52,6 +53,62 @@ political_decisions = {
 		
 		effect = {
 			clr_country_flag = showing_host_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	show_meme_decisions = {
+		picture = troll
+		potential = {
+			NOT = { has_country_flag = showing_meme_decisions }
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			set_country_flag = showing_meme_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	hide_meme_decisions = {
+		picture = troll
+		potential = {
+			has_country_flag = showing_meme_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			clr_country_flag = showing_meme_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	meme_persia_armenia = {
+		picture = form_transcaucasia
+		potential = {
+			has_country_flag = showing_meme_decisions
+			has_country_flag = host_nation
+			NOT = { has_global_flag = persia_armenian }
+		}
+	
+		allow = {
+		}
+		
+		effect = {
+			any_country = {
+				set_global_flag = persia_armenian
+			}
 		}
 		ai_will_do = {
 			factor = 0

@@ -1,13 +1,27 @@
 owner = MEX
-controller = MEX
+
+controller = MEX
 add_core = MEX
-add_core = AZT
 trade_goods = grain
 life_rating = 40
 fort = 1
 state_building = {
-	level = 2 
+	level = 1
 	building = steel_factory
 	upgrade = yes
 }
-
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}

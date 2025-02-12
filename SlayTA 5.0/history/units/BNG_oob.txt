@@ -1,11 +1,3 @@
-leader = {
-	name = "Begum Sinha"
-	type = land
-	date = 1836.1.1
-	background = school_of_the_bayonet
-	personality = tactful
-	prestige = 0
-}
 
 army = {
 	name = "Army of Begum Sinha"

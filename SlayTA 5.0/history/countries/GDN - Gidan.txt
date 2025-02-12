@@ -1,6 +1,6 @@
 capital = 2276
-primary_culture = afro_caribbean
-culture = afro_antillean
+primary_culture = afro_antillean
+culture = afro_caribbean
 religion = catholic
 government = democracy
 plurality = 0.0
@@ -41,6 +41,8 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
+set_country_flag = south_american_immigrant_nation
+
 
 # Technologies
 post_napoleonic_thought = 1

@@ -5,10 +5,10 @@
 
 
 ##### POLITICAL EVENTS ######
-persia_rp_nerf = {
-	research_points_on_conquer = -0.5
-}
 banker_income_timer = {
+	icon = 17
+}
+statue_of_liberty = {
 	icon = 17
 }
 small_immigration_boom = {
@@ -45,7 +45,7 @@ global_liberal_agitation = {
 }
 
 potato_blight = {
-	population_growth = -0.02
+	population_growth = -0.002
 	pop_militancy_modifier = 0.01
 	icon = 20
 }
@@ -56,12 +56,14 @@ anti_jacobin_tract = {
 }
 
 cholera_epidemic_small = {
-	population_growth = -0.01
+	population_growth = -0.001
+	pop_militancy_modifier = 0.005
 	icon = 20
 }
 
 cholera_epidemic_big = {
-	population_growth = -0.02
+	population_growth = -0.002
+	pop_militancy_modifier = 0.01
 	icon = 20
 }
 
@@ -90,8 +92,32 @@ western_influences = {
 
 uncivilized_isolationism = {
 	global_pop_militancy_modifier = -0.01
-	global_pop_consciousness_modifier = -0.05
-	research_points_modifier = -0.2
+	global_pop_consciousness_modifier = -0.1
+	icon = 10
+}
+
+china_rp_nerf = {
+	research_points_on_conquer = -1000.0
+	icon = 10
+}
+
+ghost_rp_nerf = {
+	diplomatic_points_modifier = -1000.0
+	global_pop_militancy_modifier = -100.0
+	research_points_modifier = -1
+	prestige = -10
+	icon = 10
+}
+
+i_hate_you = {
+	research_points = -1
+	tax_efficiency = -1
+}
+
+world_bank_rp_nerf = {
+	global_pop_militancy_modifier = -100.0
+	research_points_modifier = -1
+	prestige = -10
 	icon = 10
 }
 
@@ -169,11 +195,26 @@ colonial_recruitment = {
 	immigrant_attract = 1		#100%
 	life_rating = 0.1
 	population_growth = 0.001
-	assimilation_rate = 0.25
+	assimilation_rate = 0.5
 	icon = 9
 }
 
+cisalpine_assimilation = {
+	life_rating = 0.1
+	population_growth = 0.001
+	assimilation_rate = 1.50
+	icon = 19
+}
+
+siberian_assimilation = {
+	mine_rgo_eff = 0.1
+	farm_rgo_eff = 0.1
+	immigrant_attract = 1
+	icon = 19
+}
+
 korean_assimilation = {
+	immigrant_attract = 1
 	population_growth = 0.001
 	assimilation_rate = 1.50
 	icon = 19
@@ -195,6 +236,13 @@ muhammad_alis_reforms = {
 	research_points_modifier = 0.2
 	icon = 5
 }
+
+christian_genocide = {
+	life_rating = -0.2
+	pop_militancy_modifier = 0.015
+	pop_consciousness_modifier = 0.05
+	icon = 20
+}	
 
 ##### SUFFRAGETTE MOVEMENTS #####
 
@@ -280,7 +328,7 @@ am_everywhere = {
 
 the_massacre = {
 	poor_everyday_needs = -0.2
-	population_growth = -0.01
+	#population_growth = -0.01
 	icon = 18
 }
 fascist_welfare = {
@@ -290,7 +338,7 @@ fascist_welfare = {
 }
 
 beer_hall_putsch = {
-	population_growth = -0.001	
+	#population_growth = -0.001	
 	pop_militancy_modifier = 0.2
 	icon = 18
 }
@@ -404,6 +452,12 @@ the_homestead_act = {
 the_homestead_act_mexico = {
 	global_immigrant_attract = 0.30	#30%
 	global_assimilation_rate = 0.25
+	icon = 9
+}
+
+the_homestead_act_mell = {
+	global_immigrant_attract = 0.25	#20%
+	global_assimilation_rate = 0.35
 	icon = 9
 }
 
@@ -540,15 +594,18 @@ germania_werft = {
 
 ruhr_boom = {
 	factory_owner_cost = -0.5
-	global_population_growth = 0.001
+	global_population_growth = 0.002
 	factory_throughput = 0.05
 	icon = 11
 }
 
 prussian_general_staff = {
 	org_regain = 0.1
-	land_organisation = 0.05
-	land_unit_start_experience = 0.5
+	land_organisation = 0.1
+	land_unit_start_experience = 0.2
+	naval_unit_start_experience = 0.2
+	unit_recruitment_time = -0.1
+	mobilisation_size = 0.01
 	supply_consumption = -0.05
 	icon = 15
 }
@@ -576,42 +633,44 @@ witwatersrand_gold_rush = {
 }
 
 ##### RGO Spread Events (modified to become national modifiers) #####
-country_tractors = {
-	rgo_output = 0.3
-	icon = 11
-}
-
-country_electricity = {
-	rgo_output = 0.3
-	factory_throughput = 0.05
-	icon = 11
-}
-
-country_nitroglycerin = {
-	rgo_output = 0.3
-	icon = 11
-}
-
-country_distribution_channels = {
-	rgo_output = 0.3
-	icon = 11
-}
-
-country_machine_tools = {
-	rgo_output = 0.3
-	factory_throughput = 0.05
-	icon = 11
-}
+#country_tractors = {
+#	rgo_output = 0.3
+#	icon = 11
+#}
+#
+#country_electricity = {
+#	rgo_output = 0.3
+#	factory_throughput = 0.05
+#	icon = 11
+#}
+#
+#country_nitroglycerin = {
+#	rgo_output = 0.3
+#	icon = 11
+#}
+#
+#country_distribution_channels = {
+#	rgo_output = 0.3
+#	icon = 11
+#}
+#
+#country_machine_tools = {
+#	rgo_output = 0.3
+#	factory_throughput = 0.05
+#	icon = 11
+#}
+#
 
 ##### Diseases & Famines #####
 pandemic_influenza = {
-	global_population_growth = -0.007
-	tax_efficiency = -0.05
-	factory_throughput = -0.3
-	rgo_output = -0.3
+	global_population_growth = -0.002
+	tax_efficiency = -0.01
+	factory_throughput = -0.1
+	rgo_output = -0.1
 	global_pop_consciousness_modifier = 0.1
 	icon = 18
 }
+
 
 immunity_from_influenza = {
 	icon = 17
@@ -683,7 +742,9 @@ the_yard = {
 
 #### SPA - Spain ####
 la_guardia_civil = {
-	tax_efficiency = 0.01
+	global_pop_militancy_modifier = -0.02
+	global_pop_consciousness_modifier = -0.02
+	administrative_efficiency = 0.10
 	icon = 1
 }
 
@@ -703,7 +764,7 @@ the_eiffel_tower = {
 signed_the_geneva_convention = {
 	war_exhaustion = -0.02
 	org_regain = 0.05
-	badboy = -0.04
+	badboy = -0.05
 	icon = 7
 }
 
@@ -774,10 +835,6 @@ the_walhalla = {
 	icon = 3
 }
 
- dar_al_funun = {
-	research_points_modifier = 0.05
-	icon = 3
-}
 
 #french_growth_nerf = {
 #	global_population_growth = -0.01
@@ -819,7 +876,7 @@ badboymod = {
 
 ### PUIR-Canada###
 dominion_lands_act = {
-	global_immigrant_attract = 0.10
+	global_immigrant_attract = 0.15
 	global_assimilation_rate = 0.25
 	icon = 17
 }
@@ -907,7 +964,7 @@ dmitry_alekseyevich_milyutin = {
 	unit_recruitment_time = -0.1
 	mobilisation_size = 0.01
 	army_tech_research_bonus = 0.1
-	land_organisation = -0.1
+	land_organisation = 0.1
 	supply_consumption = -0.1
 	min_military_spending = 0.3
 	icon = 17
@@ -984,7 +1041,7 @@ otto_von_bismarck = {
 	pop_consciousness_modifier = 0.02
 	diplomatic_points_modifier = 0.25
 	ruling_party_support = 0.5
-	badboy = -0.01
+	badboy = -0.03
 	icon = 17
 }
 ### POD-Irish Famine###
@@ -1094,7 +1151,7 @@ integration_refusal = {
 }
 
 core_integration = {
-	assimilation_rate = 0.1
+	assimilation_rate = 0.25
 	pop_consciousness_modifier = 0.05
 	non_accepted_pop_consciousness_modifier = 0.01
 	icon = 7
@@ -1120,6 +1177,34 @@ national_assimilation_acceptance = {
 }
 
 national_assimilation_complete = {
+	icon = 7
+}
+
+negotiating_treaty = {
+	icon = 12
+}
+
+negotiating_unequal_treaty = {
+	icon = 12
+}
+
+chinese_treaty_port = {
+	icon = 12
+}
+
+treaty_port_buff = {
+	mine_rgo_size = 4
+	farm_rgo_size = 4
+	local_rgo_output = 4
+	immigrant_attract = 3
+	icon = 7
+}
+
+pools_closed = {
+	assimilation_rate = 0.5
+	prestige = 0.01
+	pop_militancy_modifier = -0.01
+	pop_consciousness_modifier = -0.02
 	icon = 7
 }
 
@@ -1211,6 +1296,15 @@ classless_society_modifier = {
 	icon = 17
 }
 
+capital_supply_depot = {
+	max_attrition = -100
+	icon = 17
+}
+
+#### State Sizing
+
+sizing_cooldown = {	icon = 8 }
+sizing_cooldown1 = { icon = 8 }
 
 #### Communist modifiers ####
 communist_industry = {
@@ -1261,6 +1355,26 @@ native_societies2 = {
 	icon = 7
 }
 
+native_societies3 = {
+	global_population_growth = 0.005
+	assimilation_rate = 1.5
+	mobilisation_size = 0.01
+	mobilisation_economy_impact = -0.25
+	supply_consumption = -0.05
+	leadership_modifier = 0.2
+	icon = 7
+}
+
+american_bloodbath = {
+	badboy = 0.1
+	cb_generation_speed_modifier = -0.2
+	global_immigrant_attract = -0.20
+	mobilisation_size = 0.01
+	mobilisation_economy_impact = -0.25
+	global_population_growth = -0.003
+	icon = 8	
+}
+
 small_immigration_boom = {
 	global_immigrant_attract = 1
 	icon = 17
@@ -1284,34 +1398,6 @@ utility_modifier = {
 
 #Provencal stuff
 
-pier_moncani_influence1 = {
-	suppression_points_modifier = -0.25
-	global_pop_militancy_modifier = 0.25
-	global_pop_consciousness_modifier = 0.25
-	icon = 14
-}
-
-pier_moncani_influence2 = {
-	suppression_points_modifier = -0.1
-	global_pop_consciousness_modifier = 0.1
-	icon = 13
-}
-
-pier_moncani_outrage = {
-	suppression_points_modifier = -0.5
-	global_pop_militancy_modifier = 0.4
-	global_pop_consciousness_modifier = 0.3
-	icon = 18
-}
-
-pier_moncani = {
-	global_pop_militancy_modifier = -0.01
-	global_pop_consciousness_modifier = 0.01
-	factory_owner_cost = -0.1
-	factory_throughput = 0.015
-	icon = 17
-}
-
 #PDN/NPL/ITA stuff									¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 tax_exemptions = {
 	icon = 12
@@ -1320,8 +1406,8 @@ tax_exemptions = {
 #Roman stuff
 
 anatole_boom = {
-	assimilation_rate = 0.05
-	population_growth = 0.0025
+	assimilation_rate = 2
+	population_growth = 0.0015
 	icon = 19
 }
 
@@ -1363,8 +1449,9 @@ bohemian_partisans = {
 #Aquitanian stuff
 
 garda_civica = {
-	global_pop_militancy_modifier = -0.01
+	global_pop_militancy_modifier = -0.02
 	global_pop_consciousness_modifier = 0.005
+	mobilisation_size = 0.01
 	icon = 15
 }
 
@@ -1372,17 +1459,6 @@ stop_aqt_s_a_sale = {
 }
 
 challans = { }
-
-jacin_ilmunt = {
-	global_pop_consciousness_modifier = 0.05
-	global_pop_militancy_modifier = -0.1
-	ruling_party_support = 0.2
-	diplomatic_points_modifier = 0.1
-	leadership = 0.05
-	mobilisation_size = 0.005
-	issue_change_speed = 0.01
-	icon = 17
-}
 
 #Generic events
 
@@ -1498,11 +1574,21 @@ technological_assistance = {
 	icon = 3
 }
 
+irish_defense = {
+	combat_width = -0.25
+	fort_level = 1
+	life_rating = 0.2
+	local_repair = 0.5
+	local_ship_build = -0.5
+	icon = 11
+}
+
 #Russian/Smolenskii stuff
 
 vorontsov = {
 	prestige = -0.025
 	pop_consciousness_modifier = 0.05
+	mobilisation_size = 0.01
 	icon = 4
 }
 
@@ -1537,7 +1623,7 @@ successful_ds_reform = {
 
 unsuccessful_ds_reform = {
 	pop_militancy_modifier = 0.005
-	RGO_throughput = -0.02
+	RGO_throughput = 0.05
 	icon = 6
 }
 
@@ -1655,16 +1741,17 @@ party_scandal_evidence = {
 coup_risk = {
 	core_pop_militancy_modifier = 0.05
 	leadership_modifier = -0.2
-	land_organisation = -0.1
-	naval_organisation = -0.1
 	icon = 16
 }
 
 military_strife = {
+	war_exhaustion = 0.05
 	core_pop_militancy_modifier = 0.05
-	leadership_modifier = -0.5
-	land_organisation = -0.25
-	naval_organisation = -0.25
+	core_consciousness_modifier = 0.01
+	leadership_modifier = -0.3
+	land_organisation = -0.05
+	naval_organisation = -0.1
+	org_regain = 0.05
 	icon = 16
 }
 
@@ -1674,8 +1761,14 @@ recent_crisis = {
 }
 
 ### French Events ###
-french_cultural_unity = {
-	assimilation_rate = 1
+italian_cultural_unity = {
+	assimilation_rate = 2
+	icon = 19
+}
+
+### IRK Events ###
+greek_cultural_unity = {
+	assimilation_rate = 2
 	icon = 19
 }
 
@@ -1984,11 +2077,12 @@ ambitious_union_boss = {
 
  dar_al_funun = {
 	research_points_modifier = 0.2
+	research_points_on_conquer = 0.025
 	icon = 5
 }
 
 french_growth_nerf = {
-	global_population_growth = -0.01
+	#global_population_growth = -0.01
 	icon = 18
 }
 
@@ -2201,6 +2295,8 @@ rangaku = {
 
 ansei_purge = {
 	prestige = 0.02
+	research_points_modifier = -1
+	cb_generation_speed_modifier = -10000
 	global_pop_consciousness_modifier = 0.1
 	global_pop_militancy_modifier = 0.05
 	icon = 4
@@ -2239,8 +2335,8 @@ no_line_of_advantage = {
 }
 
 daimyo_draft = {
-	mobilisation_size = 0.18
-	war_exhaustion = -0.03
+	mobilisation_size = 0.35
+	war_exhaustion = 0.03
 	icon = 18
 }
 
@@ -2363,7 +2459,7 @@ end_the_war = {
 
 international_pariah = {
 	diplomatic_points_modifier = -0.25
-	non_accepted_pop_militancy_modifier = 0.2
+	cb_generation_speed_modifier = -0.8
 	prestige = -0.2
 	icon = 4
 }
@@ -2543,5 +2639,10 @@ new_world_province_attract_immigrants = {
 }
 
 force_reform  = {
+	icon = 5
+}
+
+diplomacy_points = {
+	diplomatic_points_modifier = 100
 	icon = 5
 }

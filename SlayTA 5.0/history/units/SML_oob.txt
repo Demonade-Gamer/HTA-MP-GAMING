@@ -30,60 +30,42 @@ army = {
 	regiment = {
 		name= "1.1-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 943
+		home = 1046
 	}
 
 	regiment = {
 		name= "2.1-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 943
+		home = 1046
 	}
 
 	regiment = {
 		name= "3.1-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 943
+		home = 1046
 	}
 
 	regiment = {
 		name= "1.2-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 1016
-	}
-
-	regiment = {
-		name= "2.2-ya Pekhotnaya Diviziya"
-		type = hussar
-		home = 1016
-	}
-
-	regiment = {
-		name= "3.2-ya Pekhotnaya Diviziya"
-		type = artillery
-		home = 1014
-	}
-
-	regiment = {
-		name= "1.3-ya Pekhotnaya Diviziya"
-		type = artillery
-		home = 1025
+		home = 1045
 	}
 
 	regiment = {
 		name= "2.3-ya Pekhotnaya Diviziya"
 		type = artillery
-		home = 1017
+		home = 1041
 	}
 
 	regiment = {
 		name= "3.3-ya Pekhotnaya Diviziya"
 		type = artillery
-		home = 1011
+		home = 1041
 	}
 	regiment = {
 		name= "3.Chornomoriya Cossacks"
 		type = artillery
-		home = 968
+		home = 718
 	}
 
 
@@ -95,19 +77,19 @@ army = {
 	regiment = {
 		name= "1.4-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 958
+		home = 943
 	}
 
 	regiment = {
 		name= "2.4-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 957
+		home = 1027
 	}
 
 	regiment = {
 		name= "3.4-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 949
+		home = 946
 	}
 
 	regiment = {
@@ -119,7 +101,7 @@ army = {
 	regiment = {
 		name= "2.5-ya Pekhotnaya Diviziya"
 		type = hussar
-		home = 943
+		home = 1027
 	}
 
 	regiment = {
@@ -137,18 +119,23 @@ army = {
 	regiment = {
 		name= "2.6-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 962
+		home = 1037
 	}
 
 	regiment = {
 		name= "3.6-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 978
+		home = 1037
 	}
 	regiment = {
 		name= "2.Chornomoriya Cossacks"
 		type = infantry
 		home = 1049
+	}
+	regiment = {
+		name= "Zelensky Cossacks"
+		type = infantry
+		home = 1019
 	}
 }
 
@@ -158,7 +145,7 @@ army = {
 	regiment = {
 		name = "1.7-ya Pehkotnaya Diviziya"
 		type = cavalry
-		home = 943
+		home = 1019
 	}
 	
 	regiment = {
@@ -170,13 +157,13 @@ army = {
 	regiment = {
 		name = "3.7-ya Pehkotnaya Diviziya"
 		type = cavalry
-		home = 963
+		home = 1040
 	}
 	
 	regiment = {
 		name = "1.8-ya Pehkotnaya Diviziya"
 		type = cavalry
-		home = 977
+		home = 958
 	}
 	
 	regiment = {
@@ -211,9 +198,73 @@ army = {
 	regiment = {
 		name= "1.Chornomoriya Cossacks"
 		type = cavalry
-		home = 964
+		home = 1040
 	}
 }
+
+army = {
+	name = "Azov Regiment"
+	location = 1012
+	regiment = {
+		name= "1.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1015
+	}
+
+	regiment = {
+		name= "2.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1015
+	}
+
+	regiment = {
+		name= "3.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1015
+	}
+
+	regiment = {
+		name= "1.5-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1047
+	}
+
+	regiment = {
+		name= "2.5-ya Pekhotnaya Diviziya"
+		type = hussar
+		home = 1047
+	}
+
+	regiment = {
+		name= "3.5-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1047
+	}
+
+	regiment = {
+		name= "1.6-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1047
+	}
+
+	regiment = {
+		name= "2.6-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1012
+	}
+
+	regiment = {
+		name= "3.6-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 979
+	}
+	regiment = {
+		name= "2.Chornomoriya Cossacks"
+		type = artillery
+		home = 979
+	}
+}
+
 
 
 
@@ -266,18 +317,4 @@ navy = {
 		type = frigate
 	}
 
-}
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
-
-	threat = { id="RUS" value=400 }
-
-	antagonize = { id="RUS" value=400 }
-
-	rival = { id="RUS" value=400 }
 }

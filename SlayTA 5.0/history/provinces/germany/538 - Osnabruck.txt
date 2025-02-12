@@ -1,7 +1,8 @@
-owner = NET
-controller = NET
-add_core = HAN
+owner = OLD
+controller = OLD
+add_core = OLD
 add_core = GER
+
 trade_goods = grain
 life_rating = 38
 state_building = {
@@ -9,5 +10,3 @@ state_building = {
 	building = glass_factory
 	upgrade = yes
 }
-add_core = BRA
-add_core = NET

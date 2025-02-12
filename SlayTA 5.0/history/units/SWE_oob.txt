@@ -117,79 +117,24 @@ army = {
 
 }
 
-navy = {
-	name = "Royal Navy"
-	location = 372
-	ship = {
-		name= "Danmark"
-		type = manowar
-	}
-
-	ship = {
-		name= "Dronning Marie"
-		type = manowar
-	}
-
-	ship = {
-		name= "Frederik den sjette"
-		type = manowar
-	}
-
-
-	ship = {
-		name= "Bellona"
-		type = frigate
-	}
-
-	ship = {
-		name= "DiABN"
-		type = frigate
-	}
-
-	ship = {
-		name= "Freja"
-		type = frigate
-	}
-
-	ship = {
-		name= "Fylla"
-		type = frigate
-	}
-	
-	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
-
-}
 
 army = {
-	name = "Svenska Armén"
+	name = "1. Svenska Arm n"
 	location = 322
 	regiment = {
 		name= "Svea Livgarde"
-		type = infantry
+		type = hussar
 		home = 322
 	}
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "S dermanlands Regemente"
 		type = infantry
 		home = 326
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "F rsta Livgrenadj rregementet"
 		type = infantry
 		home = 325
 	}
@@ -201,8 +146,8 @@ army = {
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
-		type = hussar
+		name= "V stg ta Regemente"
+		type = infantry
 		home = 330
 	}
 
@@ -213,21 +158,92 @@ army = {
 	}
 
 	regiment = {
-		name= "Jönköpings Regemente"
+		name= "J nk pings Regemente"
 		type = artillery
 		home = 333
 	}
 
 	regiment = {
-		name= "Götborgs Infanteriregementet"
+		name= "S dra Sk nska Infanteriregementet"
 		type = artillery
-		home = 329
+		home = 334
 	}
 
 	regiment = {
 		name= "Kronprinsens Husarregemente"
 		type = artillery
+		home = 335
+	}
+
+	regiment = {
+		name= "Norrlands Dragonregemente"
+		type = artillery
+		home = 321
+	}
+
+}
+
+army = {
+	name = "2. Svenska Arm n"
+	location = 330
+	regiment = {
+		name= "Svea Livgarde"
+		type = hussar
+		home = 305
+	}
+
+	regiment = {
+		name= "S dermanlands Regemente"
+		type = infantry
+		home = 309
+	}
+
+	regiment = {
+		name= "F rsta Livgrenadj rregementet"
+		type = infantry
+		home = 310
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 313
+	}
+
+	regiment = {
+		name= "V stg ta Regemente"
+		type = infantry
+		home = 317
+	}
+
+	regiment = {
+		name= "Kalmar Regemente"
+		type = artillery
 		home = 322
+	}
+
+	regiment = {
+		name= "J nk pings Regemente"
+		type = artillery
+		home = 322
+	}
+
+	regiment = {
+		name= "S dra Sk nska Infanteriregementet"
+		type = artillery
+		home = 323
+	}
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = artillery
+		home = 327
+	}
+
+	regiment = {
+		name= "Norrlands Dragonregemente"
+		type = artillery
+		home = 328
 	}
 
 }
@@ -246,7 +262,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Fäderneslandet"
+		name= "F derneslandet"
 		type = manowar
 	}
 
@@ -255,12 +271,51 @@ navy = {
 		type = manowar
 	}
 
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
 
 	ship = {
 		name= "Camilla"
 		type = frigate
 	}
 
+	ship = {
+		name= "Af Chapman"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Camilla"
+		type = frigate
+	}
+
+	ship = {
+		name= "Af Chapman"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea"
+		type = frigate
+	}
+	
 	ship = {
 		name= "Eurydice"
 		type = frigate
@@ -286,23 +341,40 @@ navy = {
 		name= "3rd Transport Flotilla"
 		type = clipper_transport
 	}
-
-}
-
-
-ai = {
-	initialized = yes
-	consolidate = yes
-	date = "1836.1.1"
-	static = no
-	personality = bold
 	
-	befriend = { id="NOR" value=50 }
-	befriend = { id="FIN" value=30 }
-	befriend = { id="RUS" value=80 }
-	befriend = { id="POL" value=60 }
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
 	
-	threat = { id="DEN" value=150 }
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
 	
-	antagonize = { id="DEN" value = 150 }
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
 }

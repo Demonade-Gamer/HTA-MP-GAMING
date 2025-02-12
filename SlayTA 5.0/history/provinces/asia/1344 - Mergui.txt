@@ -3,5 +3,5 @@ controller = HNG
 add_core = HNG
 add_core = KAR
 trade_goods = fish
-life_rating = 30
+life_rating = 35 
 

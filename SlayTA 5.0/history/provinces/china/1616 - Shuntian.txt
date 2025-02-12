@@ -2,6 +2,6 @@ owner = QIN
 controller = QIN
 add_core = CHI
 trade_goods = tea
-life_rating = 40
+life_rating = 32
 fort = 1
 

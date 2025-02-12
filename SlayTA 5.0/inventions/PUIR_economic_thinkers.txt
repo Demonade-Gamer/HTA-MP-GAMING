@@ -76,10 +76,10 @@ floating_international_exchange_rates = {
 		}
 	}
 	effect = {
-		tax_eff = 1
-		factory_cost = -0.05
-		factory_throughput = 0.05
-		RGO_throughput = 0.05
+		tax_eff = 0.5
+		factory_cost = -0.025
+		factory_throughput = 0.025
+		RGO_throughput = 0.025
 	}
 }
 
@@ -97,9 +97,9 @@ monetization_of_debt = {
 		}
 	}
 	effect = {
-		tax_eff = 1
-		factory_cost = 0.05
-		factory_output = 0.01
-		RGO_throughput = 0.05
+		tax_eff = 0.5
+		factory_cost = 0.025
+		factory_output = 0.021
+		RGO_throughput = 0.025
 	}
 }

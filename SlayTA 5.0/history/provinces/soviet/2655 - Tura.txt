@@ -1,4 +1,4 @@
-add_core = RUS
+add_core = SIB
 trade_goods = iron
-life_rating = 35 #to enable colonization
+life_rating = 35  #to enable colonization
 

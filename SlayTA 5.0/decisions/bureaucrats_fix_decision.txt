@@ -28,10 +28,10 @@ political_decisions = {
         potential = {
             ai = no
             NOT = { has_country_modifier = bureaucrats_fix_cooldown }
-			NOT = { tag = LCT }
+			NOT = { tag = JAN }
         }
         allow = {
-        }
+       }
         effect = {
             country_event = 40404040
             add_country_modifier = {

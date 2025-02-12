@@ -1,5 +1,5 @@
 capital = 50
-primary_culture = french_canadian
+primary_culture = vestlandic
 religion = catholic
 government = hms_government
 plurality = 0.2
@@ -39,6 +39,8 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
+
 
 # Technologies
 post_napoleonic_thought = 1

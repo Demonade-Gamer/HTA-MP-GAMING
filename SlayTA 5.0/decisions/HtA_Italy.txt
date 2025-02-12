@@ -1,224 +1,184 @@
 political_decisions = {
-	scaglia_decree = {
-		picture = the_rights_of_man
+	suppress_tuscan_resistance = {
+		picture = Execute_Bab
 		potential = {
-			OR = {
-				tag = NPL
-				tag = ITA
-			}
-			NOT = { has_country_flag = cis_accepted }
+			tag = NPL
+			TUS_744 = { owned_by = THIS }
+			NOT = { has_country_flag = post_war_tuscan_crackdown }
 		}
 		
 		allow = {
-			owns = 744
-			owns = 743
-			owns = 724
-			owns = 729
+			war = no
 		}
 		
 		effect = {
-			prestige = 5
-			add_accepted_culture = north_italian
-			set_country_flag = cis_accepted
-			TUS_744 = { add_core = THIS }
-			RMG = { all_core = { add_core = THIS } }
-			PDN = { all_core = { add_core = THIS } }
-			TUS = { all_core = { add_core = THIS } }
-		}
-	}
-	law_of_guarantees = {
-		potential = {
-			tag = ITA
-			NOT = { has_country_flag = law_of_guarantees_flag }
-			any_owned_province = {
-				OR = {
-					is_core = NPL
-					is_core = PAP
+			badboy = 5
+			set_country_flag = post_war_tuscan_crackdown
+			any_pop = {
+				limit = {
+					has_pop_culture = north_italian
 				}
+					#reduce_pop = 0.995
+					militancy = 3
 			}
+			TUS = { all_core = { add_core = THIS } }
+			RMG = { all_core = { add_core = THIS } }
+			}
+		}
+		
+	pope_annex = {
+		picture = negotiations
+		potential = {
+			tag = NPL
+			NOT = { has_country_flag = pope_annexed_flag }
+			PAP = { exists = yes }
 		}
 
 		allow = {
-			owns = 749
+			state_n_government = 1
+			PAP = { all_core = { OR = { owned_by = THIS owner = { vassal_of = THIS } } } }
+			war = no
 		}
 
 		effect = {
-			set_country_flag = law_of_guarantees_flag
-			capital = 749
+			set_country_flag = pope_annexed_flag
 			prestige = 5
 			badboy = -2
-			any_owned = {
-				limit = {
-					OR = {
-						is_core = NPL
-						is_core = PAP
-					}
-				}
-				add_core = ITA
-				remove_core = NPL
-				remove_core = PAP
+			inherit = PAP
+		}
+	}
+
+	pope_annex_2 = {
+		picture = marching_soldiers
+		potential = {
+			tag = NPL
+			NOT = { has_country_flag = pope_annexed_flag }
+			PAP = { exists = yes }
+			has_country_flag = post_war_tuscan_crackdown
+		}
+
+		allow = {
+			PAP = { all_core = { OR = { owned_by = THIS owner = { vassal_of = THIS } } } }
+			war = no
+		}
+
+		effect = {
+			set_country_flag = pope_annexed_flag
+			prestige = -10
+			badboy = 2
+			inherit = PAP
+		}
+	}
+
+
+	true_rome_greece = {
+		potential = {
+			picture = map_balkans
+			tag = ITA
+			NOT = { has_country_flag = italian_greece }
+		}
+
+		allow = {
+				owns = 749
+				TUR_832 = { owned_by = THIS } 
+				EGY_843 = { owned_by = THIS } 
+				GRE_837 = { owned_by = THIS }
+				TUR_805 = { owned_by = THIS }
+				revolution_n_counterrevolution = 1
 			}
+
+		effect = {
+			set_country_flag = italian_greece
+			prestige = 20
+			add_accepted_culture = greek
+			TUR_832 = { add_core = THIS } 
+			EGY_843 = { add_core = THIS } 
+			GRE_837 = { add_core = THIS }
+			TUR_805 = { add_core = THIS }
 		}
 	}
 	
 	#This one can be used for some future time when ITA and PDN have duked it out a bit and ITA decides to take over PDN
-	law_of_guarantees2 = {
-		picture = law_of_guarantees
+	conquest_of_cisalpines = {
+		picture = enslave_the_undesireables
 		potential = {
 			tag = ITA
-			has_country_flag = law_of_guarantees_flag
-			any_owned_province = {
-				OR = {
-					is_core = NPL
-					AND = { 
-						is_core = PDN
-						PDN = { exists = no }
+			NOT = { has_country_flag = cisalpine_conquered }
+			NOT = { has_country_flag = scaglia_decree }
+		}
+
+		allow = {
+			PDN = { exists = no }
+			PDN = { all_core = { owned_by = THIS } }
+			OR = {
+				nationalism_n_imperialism = 1
+				AND = {
+					has_country_flag = post_war_tuscan_crackdown
+					state_n_government = 1
+				}
+		}
+	}
+		effect = {
+				set_country_flag = cisalpine_conquered
+				add_accepted_culture = north_italian
+				PDN = { 
+					all_core = { 
+						add_core = ITA 
+						remove_core = PDN
 					}
-					is_core = SRD
-					is_core = DAU
-					is_core = MOD
-					is_core = TUS
-					is_core = LUC
-					is_core = PAR
-					is_core = PAP
-					is_core = PDN
-					is_core = LOM
-					is_core = RMG
-					is_core = GEN
-					is_core = VEN
-					is_core = DLM
 				}
-			}
-		}
-
-		allow = {
-			owns = 749
-			owns = 726
-		}
-
-		effect = {
-			any_owned = {
-				limit = {
-					is_core = ITA
+				TUS = { 
+					all_core = { 
+						add_core = ITA 
+						add_core = PDN
+						remove_core = TUS
+					}
 				}
-				remove_core = NPL
-				remove_core = SRD
-				remove_core = DAU
-				remove_core = CRS
-				remove_core = MOD
-				remove_core = TUS
-				remove_core = LUC
-				remove_core = PAR
-				remove_core = PAP
-				remove_core = LOM
-				remove_core = RMG
-				remove_core = GEN
-				remove_core = VEN
-				remove_core = DLM
-				remove_core = PDN
-			}
+				RMG = { 
+					all_core = { 
+						add_core = ITA 
+						remove_core = PDN
+						remove_core = RMG
+					}
+				}
 		}
-	}	
+	}
 
-	italia_irredenta = {
+	scaglia_decree = {
+		picture = negotiations
 		potential = {
-			tag = ITA
-			NOT = { has_country_flag = italia_ulterior }
-		}
-
-		allow = {
-			invention = national_fraternity
-			is_greater_power = yes
-		}
-
-		effect = {
-			set_country_flag = italia_ulterior
-			AUS_736 = {
-				add_core = ITA
-			}	
-			780 = {
-				add_core = ITA
+			primary_culture = south_italian
+			NOT = { TUS_744 = { owned_by = THIS } PAP_741 = { owned_by = THIS } }
+			NOT = { has_country_flag = scaglia_decree }
 			}
-			781 = {
-				add_core = ITA
+			
+			allow = {
+				war = no
 			}
-			782 = {
-				add_core = ITA
-			}
-			2582 = {
-				add_core = ITA
+		
+			effect = {
+				prestige = -10
+				badboy = -5
+				set_country_flag = scaglia_decree
+				TUS = { all_core = { remove_core = THIS } }
+				RMG = { all_core = { remove_core = THIS } }
 			}
 		}
-	}	
 	
-	claim_the_rest_of_the_adriatic = {
-		potential = { 
-			tag = ITA
-			has_country_flag = italia_ulterior
-			NOT = { has_country_flag = claimed_albania }
-		}
-		allow = {
-			AUS_736 = { owned_by = THIS }
-			780 = { owned_by = THIS }
-			781 = { owned_by = THIS }
-			782 = { owned_by = THIS }
-			2582 = { owned_by = THIS }
-		}
-		effect = {
-			TUR_853 = { add_core = ITA }
-			set_country_flag = claimed_albania
-			prestige = 15
-		}
-	}
-		
-
-	cisalpines_are_italian = {
-		picture = marching_soldiers
-		potential = {
-			tag = ITA
-			NOT = { has_country_flag = padan_claimed }
-		}
-		
-		allow = {
-			owns = 743
-		}
-		
-		effect = {
-			set_country_flag = padan_claimed
-			PDN = {
-				all_core = {
-					add_core = ITA
-				}
-			}
-			RMG = {
-				all_core = {
-					add_core = ITA
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.8
-			}
-		}
-	}
-
 	maretans_are_italian = {
-		picture = marching_soldiers
+		picture = WesternMed
 		potential = {
 			tag = ITA
 			NOT = { has_country_flag = maretans_are_italian }
 		}
 		
 		allow = {
-			owns = 744
+			war = no
 		}
 		
 		effect = {
 			prestige = 5
-			badboy = 5
+			badboy = 2
 			CRS = {
 				all_core = {
 					add_core = ITA

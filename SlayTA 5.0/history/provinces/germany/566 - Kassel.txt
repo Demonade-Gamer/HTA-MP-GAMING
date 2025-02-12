@@ -1,7 +1,6 @@
-owner = BRA
-controller = BRA
-add_core = HEK
-
+owner = NAS
+controller = NAS
+add_core = NAS
 add_core = GER
 trade_goods = grain
 life_rating = 38
@@ -11,11 +10,4 @@ state_building = {
 	building = steel_factory
 	upgrade = yes
 }
-state_building = {
-	level = 2
-	building = luxury_clothes_factory
-	upgrade = yes
-}
 
-
-add_core = BRA

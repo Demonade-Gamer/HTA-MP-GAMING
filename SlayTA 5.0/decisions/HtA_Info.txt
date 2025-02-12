@@ -5,6 +5,7 @@ political_decisions = {
 		picture = HtALion1
 		potential = {
 			ai = no
+			NOT = { year = 1838 }
 			OR = {
 				primary_culture = north_german
 				primary_culture = central_german
@@ -15,26 +16,24 @@ political_decisions = {
 		allow = { }
 		effect = { }
 	}
-
-	info_MLT = { #Basically just tells them not to play Malta lol
+	info_BRI = {
 		picture = HtALion1
 		potential = {
 			ai = no
-			tag = MLT
+			OR = {
+				tag = AEN
+				tag = CLT
+			}
 		}
-		allow =  { }
+		allow = { }
 		effect = { }
 	}
 	info_PDN = {
 		picture = HtALion1
 		potential = {
 			ai = no
-			OR = {
-				tag = LOM
-				tag = GEN
-				tag = MOD
-				tag = VEN
-			}
+			tag = PDN
+			NOT = { year = 1838 }
 		}
 		allow = { }
 		effect = { }
@@ -43,7 +42,11 @@ political_decisions = {
 		picture = HtALion1
 		potential = {
 			ai = no
-			tag = POL
+			OR = {
+				tag = BOH
+				tag = POL
+			}
+			NOT = { year = 1838 }
 		}
 		allow =  { }
 		effect = { }
@@ -53,6 +56,7 @@ political_decisions = {
 		potential = {
 			ai = no
 			tag = RUS
+			NOT = { year = 1838 }
 		}
 		allow = { }
 		effect = { }
@@ -62,6 +66,159 @@ political_decisions = {
 		potential = {
 			ai = no
 			tag = SML
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_ARM = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = ARM
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_AQT = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = AQT
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_SCA = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			OR = {
+				tag = FIN
+				tag = SWE
+			}
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_NA = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			OR = {
+				tag = SKM
+				tag = MEX
+				tag = VST
+				tag = MRG
+				tag = HOY
+			}
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_NPL = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = NPL
+			NOT = { year = 1838 }
+		}
+		allow = { }
+		effect = { }
+	}
+	info_SA = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			OR = {
+				tag = USR
+				tag = ARG
+			}
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_NET = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = NET
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_GXI = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = GXI
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_TER = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = TER
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_PER = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = PER
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_JAP = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = JAP
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_FRA = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = FRA
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_HIS = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = HIS
+			NOT = { year = 1838 }
+		}
+		allow =  { }
+		effect = { }
+	}
+	info_BYZ = {
+		picture = HtALion1
+		potential = {
+			ai = no
+			tag = BYZ
+			NOT = { year = 1838 }
 		}
 		allow =  { }
 		effect = { }

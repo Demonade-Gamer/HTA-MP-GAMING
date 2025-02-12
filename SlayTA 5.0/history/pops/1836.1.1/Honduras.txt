@@ -35,7 +35,27 @@
 	farmers = {
 		culture = mellomsk
 		religion = protestant
-		size = 40675
+		size = 37675
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 12000
 	}
 }
 #San Pedro Sula (92000/23000 POPS)
@@ -63,7 +83,27 @@
 	farmers = {
 		culture = mellomsk
 		religion = protestant
-		size = 20850
+		size = 16850
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 12000
 	}
 }
 #La Ceiba (68000/17000 POPS)
@@ -91,7 +131,27 @@
 	farmers = {
 		culture = mellomsk
 		religion = protestant
-		size = 32375
+		size = 20375
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 12000
 	}
 }
 #Puerto Lempira (12000/3000 POPS)
@@ -119,6 +179,26 @@
 	farmers = {
 		culture = mellomsk
 		religion = protestant
-		size = 27000
+		size = 13000
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 550
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 12000
 	}
 }

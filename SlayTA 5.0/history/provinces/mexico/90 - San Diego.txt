@@ -1,8 +1,10 @@
-owner = SKM
+owner = SKM
+
 controller = SKM
-
+add_core = CLF
+
 trade_goods = grain
-life_rating = 35
+life_rating = 40
 
 
 add_core = SKM

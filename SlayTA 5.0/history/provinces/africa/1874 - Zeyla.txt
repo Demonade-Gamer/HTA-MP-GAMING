@@ -1,6 +1,6 @@
 owner = WRS
 controller = WRS
-add_core = WRS
+#WRS
 add_core = MAJ
 trade_goods = grain
 life_rating = 30

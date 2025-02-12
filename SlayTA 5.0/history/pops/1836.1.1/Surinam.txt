@@ -3,47 +3,47 @@
 #Paramaribo (48640/12160 POPS)
 2240 = {
     aristocrats = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = catholic
         size = 225
     }
     bureaucrats = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = catholic
         size = 180
     }
     artisans = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = catholic
         size = 300
     }
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = catholic
         size = 550
     }
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = catholic
         size = 75
     }
     artisans = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = catholic
         size = 5250
     }
     farmers = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = catholic
         size = 3600
     }
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = catholic
         size = 550
     }
     farmers = {
-        culture = afro_caribbean
+        culture = afro_antillean
         religion = animist
         size = 27000
     }
