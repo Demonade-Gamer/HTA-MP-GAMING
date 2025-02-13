@@ -105,19 +105,19 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 450
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 2575
     }
@@ -699,25 +699,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 29925
     }
@@ -1070,7 +1070,7 @@
         size = 50
     }
 }
-#Felvidek Region (320000) #see Slovakia.txt and Ukraine.txt for balance of Region
+#Felvidek Region (320000) #see czechia.txt and Ukraine.txt for balance of Region
 #under the rule of Bohemia in 1836
 #Miskolc (320000/80000 POPS) #Part of Hungary Today
 646 = {
@@ -1159,25 +1159,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 6600
     }
@@ -1295,25 +1295,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1915
     }

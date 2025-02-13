@@ -692,61 +692,61 @@
 #Kolmar (424000/106000 POPS)
 410 = {
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 27600
     }
 
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 350
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 2500
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 41375
     }

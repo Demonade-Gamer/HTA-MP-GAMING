@@ -1,6 +1,6 @@
-owner = LIT
-controller = LIT
-add_core = LIT
+owner = PRS
+controller = PRS
+add_core = PRS
 trade_goods = cattle
 life_rating = 35 
 

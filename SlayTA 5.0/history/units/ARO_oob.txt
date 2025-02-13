@@ -1,4 +1,11 @@
 
+VAL = { value = -50 }
+GEN = { value = -50 }
+LOM = { value = -50 }
+AQT = { value = -50 }
+VEN = { value = -50 }
+HIS = { value = -50 }
+NPL = { value = -50 }
 army = {
 	name = "Saragossa Defence Force"
 	location = 495

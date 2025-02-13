@@ -2543,91 +2543,91 @@
 #Dresden (679000/169750 POPS)
 558 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1600
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1400
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 45
     }
 
     capitalists = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1625
     }
 
     clerks = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 5075
     }
 
     craftsmen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 21925
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 5250
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 135105
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 50
     }
 
     craftsmen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 925
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 3900
     }
@@ -2639,13 +2639,13 @@
     }
 
     clerks = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 15
     }
 
     craftsmen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 150
     }
@@ -2659,43 +2659,43 @@
 #Leipzig (420000/105000 POPS)
 559 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     clerks = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 75
     }
 
     craftsmen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 875
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 9050
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 90800
     }
@@ -2707,13 +2707,13 @@
     }
 
     clerks = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 15
     }
 
     craftsmen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 75
     }
@@ -2727,31 +2727,31 @@
 #Chemnitz (280000/70000 POPS)
 560 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 800
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 625
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 5500
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 62575
     }
@@ -2761,43 +2761,43 @@
 #Weimar (365000/91250 POPS)
 561 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 300
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 875
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 4250
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 83625
     }
@@ -2818,43 +2818,43 @@
 #Gotha (292000/73000 POPS)
 562 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 725
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 250
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 675
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 3650
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 66750
     }
@@ -2863,43 +2863,43 @@
 #Meiningen (208000/52000 POPS)
 563 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 510
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 180
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 2600
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 47350
     }
@@ -2909,73 +2909,73 @@
 #Frankfurt-am-Main (64000/16000 POPS)
 564 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 800
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 400
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 40
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 300
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 30000
     }
 
   craftsmen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 14000
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 5500
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 14625
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 160
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 7300
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 560
     }
@@ -2996,61 +2996,61 @@
 #Wiesbaden (402400/100600 POPS)
 565 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 475
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 350
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 450
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 3300
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 43600
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 525
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 3650
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 46825
     }
@@ -3071,73 +3071,73 @@
 #Kassel (445200/111300 POPS)
 566 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 875
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 2650
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 875
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 4500
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 77225
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 20475
     }
@@ -3157,55 +3157,55 @@
 #Fulda (248000/62000 POPS)
 568 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 2600
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 46850
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 10300
     }
@@ -3214,31 +3214,31 @@
 #Giessen (200000/50000 POPS)
 567 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 2500
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 46000
     }
@@ -3246,67 +3246,67 @@
 #Darmstadt (360000/90000 POPS)
 2560 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 800
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 3600
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 47300
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 2400
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 33875
     }
@@ -3385,55 +3385,55 @@
 #Mainz (242200/60550 POPS)
 570 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 5900
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 42600
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 8700
     }
@@ -3535,73 +3535,73 @@
 #Trier (220000/55000 POPS)
 572 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 600
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 3400
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 2700
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 47775
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 2800
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 55800
     }
@@ -3609,61 +3609,61 @@
 #Saarbrucken (308000/77000 POPS)
 573 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 225
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1250
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 22025
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 2600
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 46900
     }
@@ -3689,61 +3689,61 @@
 #Kreuznach (228000/57000 POPS)
 574 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 275
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 27575
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1350
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 24875
     }
@@ -3753,67 +3753,67 @@
 #Cologne (484000/121000 POPS)
 575 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1200
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 4200
     }
 
     capitalists = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 15
     }
 
     officers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1225
     }
 
     clerks = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 2125
     }
 
     craftsmen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 12500
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 11000
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 3625
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 85210
     }
@@ -3845,31 +3845,31 @@
 #Aachen (400000/100000 POPS)
 576 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 850
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 90450
     }
@@ -3889,61 +3889,61 @@
 #Kleves (356000/89000 POPS)
 577 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 800
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 800
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 4000
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 72400
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 450
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 8275
     }
@@ -3951,55 +3951,55 @@
 #Dusseldorf (364000/91000 POPS)
 578 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 700
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 675
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 4200
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 63525
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 19500
     }
@@ -4007,55 +4007,55 @@
 #Koblenz (200000/50000 POPS)
 579 = {
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 3700
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 450
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 2350
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 42250
     }
@@ -4063,55 +4063,55 @@
 #Siegburg (104000/26000 POPS)
 2561 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 18700
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 325
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 5500
     }
@@ -4337,55 +4337,55 @@
 #Siegen (104000/26000 POPS)
 583 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 12475
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 11875
     }
@@ -4393,55 +4393,55 @@
 #Korbach (128000/32000 POPS)
 584 = {
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 2050
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = protestant
         size = 16675
     }
 
     aristocrats = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = catholic
         size = 11125
     }
@@ -4588,55 +4588,55 @@
 #Freiburg (244000/61000 POPS)
 587 = {
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 600
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 575
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 2850
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 51975
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 3700
     }
@@ -4644,55 +4644,55 @@
 #Konstanz (164000/41000 POPS)
 588 = {
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 350
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1850
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 34025
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 3700
     }
@@ -4872,31 +4872,31 @@
 #Augsburg (364000/91000 POPS)
 592 = {
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1050
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 11000
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 65950
     }
@@ -4911,61 +4911,61 @@
 #Ulm (408000/102000 POPS)
 593 = {
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 550
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 550
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 550
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 6350
     }
 
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 900
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 925
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 4550
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 83750
     }
@@ -5228,85 +5228,85 @@
 #Munich (960000/220000 POPS)
 599 = {
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 2100
     }
 
     bureaucrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 4600
     }
 
     officers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 2050
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 11000
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 11000
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1100
     }
 
     craftsmen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 21000
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 162050
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 550
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = protestant
         size = 11475
     }
@@ -5332,31 +5332,31 @@
 #Landshut (164000/41000 POPS)
 600 = {
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 425
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 37725
     }
@@ -5364,31 +5364,31 @@
 #Ingolstadt (164000/41000 POPS)
 601 = {
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 425
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 37175
     }
@@ -5396,31 +5396,31 @@
 #Regensburg (248000/62000 POPS)
 602 = {
     aristocrats = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 650
     }
 
     clergymen = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 625
     }
 
     artisans = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 5500
     }
 
     soldiers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 2050
     }
 
     farmers = {
-        culture = central_german
+        culture = south_german
         religion = catholic
         size = 54725
     }
@@ -5632,25 +5632,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = prussian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = lithuanian
+        culture = prussian
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = prussian
         religion = protestant
         size = 550
     }
 
     farmers = {
-        culture = lithuanian
+        culture = prussian
         religion = protestant
         size = 5650
     }
@@ -5742,25 +5742,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = prussian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = lithuanian
+        culture = prussian
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = prussian
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = lithuanian
+        culture = prussian
         religion = protestant
         size = 3800
     }

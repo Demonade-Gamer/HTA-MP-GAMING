@@ -858,7 +858,7 @@
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 515
     }
@@ -888,25 +888,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1125
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 7675
     }
@@ -2165,25 +2165,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 2100
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 31825
     }
@@ -2610,31 +2610,31 @@
     }
 
     aristocrats = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 12825
     }
@@ -2778,25 +2778,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 4625
     }

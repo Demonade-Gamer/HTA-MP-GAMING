@@ -1,8 +1,8 @@
-owner = LIT
+owner = PRS
 
-controller = LIT
+controller = PRS
 
-add_core = LIT
+add_core = PRS
 
 trade_goods = iron
 

@@ -264,22 +264,22 @@
         size = 4625
     }
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 75
     }
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 450
     }
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 9375
     }

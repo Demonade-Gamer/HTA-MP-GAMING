@@ -15,7 +15,7 @@ steam_transport = {
 	priority = 10
 	max_strength = 100
 	default_organisation = 30
-	maximum_speed = 8
+	maximum_speed = 16
 	weighted_value = 4.0
 	can_build_overseas = yes
 
@@ -26,11 +26,12 @@ steam_transport = {
 	}
 	min_port_level = 1
 	limit_per_port = -1
-	supply_consumption_score = 4
+	supply_consumption_score = 1
 	
 	supply_consumption = 1.0
 	supply_cost = {
 		steamer_convoy = 0.10
+		coal = 0.1
 	}
 	
 	#Naval Abilties

@@ -1891,13 +1891,7 @@
     soldiers = {
         culture = south_italian
         religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = south_italian
-        religion = catholic
-        size = 1100
+        size = 10000
     }
 
     farmers = {
@@ -1929,7 +1923,7 @@
     soldiers = {
         culture = south_italian
         religion = catholic
-        size = 1100
+        size = 5000
     }
 
     farmers = {
@@ -1961,7 +1955,7 @@
     soldiers = {
         culture = south_italian
         religion = catholic
-        size = 1100
+        size = 4000
     }
 
     farmers = {
@@ -2007,7 +2001,7 @@
     soldiers = {
         culture = south_italian
         religion = catholic
-        size = 1100
+        size = 5000
     }
 
     farmers = {
@@ -2045,7 +2039,7 @@
     soldiers = {
         culture = south_italian
         religion = catholic
-        size = 1100
+        size = 4000
     }
 
     farmers = {
@@ -2083,7 +2077,7 @@
     soldiers = {
         culture = south_italian
         religion = catholic
-        size = 1100
+        size = 2000
     }
 
     farmers = {
@@ -2159,7 +2153,7 @@
     soldiers = {
         culture = sicilian
         religion = catholic
-        size = 1100
+        size = 4400
     }
 
     farmers = {
@@ -2221,7 +2215,7 @@
     soldiers = {
         culture = sicilian
         religion = catholic
-        size = 1100
+        size = 3000
     }
 
     farmers = {
@@ -2265,7 +2259,7 @@
     soldiers = {
         culture = south_italian
         religion = catholic
-        size = 1100
+        size = 5000
     }
 
     farmers = {

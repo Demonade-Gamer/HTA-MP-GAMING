@@ -843,7 +843,12 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 54200
+        size = 34200
+    }
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 60000
     }
     clergymen = {
         culture = catalan
@@ -853,7 +858,7 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 82900
+        size = 42900
     }
 }
 #Huesca (224000/56000 POPS)
@@ -886,7 +891,12 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 16900
+        size = 10000
+    }
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 27000
     }
     clergymen = {
         culture = catalan
@@ -906,7 +916,7 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 65800
+        size = 45800
     }
     farmers = {
         culture = basque
@@ -939,7 +949,12 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 67000
+        size = 37000
+    }
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 55000
     }
     artisans = {
         culture = catalan
@@ -954,7 +969,7 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 50000
+        size = 25000
     }
 }
 #Catalonia Region (1340000)
@@ -1309,7 +1324,12 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 61800
+        size = 41800
+    }
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 50000
     }
     aristocrats = {
         culture = catalan
@@ -1334,7 +1354,7 @@
     artisans = {
         culture = catalan
         religion = catholic
-        size = 47200
+        size = 37200
     }
     craftsmen = {
         culture = catalan
@@ -1349,7 +1369,7 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 87350
+        size = 67350
     }
     farmers = {
         culture = catalan
@@ -1382,7 +1402,12 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 53300
+        size = 27300
+    }
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 55000
     }
     aristocrats = {
         culture = catalan
@@ -1407,7 +1432,7 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 102550
+        size = 72550
     }
 }
 #Alicante (384000/96000 POPS)
@@ -1435,7 +1460,12 @@
     farmers = {
         culture = catalan
         religion = catholic
-        size = 99650
+        size = 59650
+    }
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 40000
     }
     aristocrats = {
         culture = catalan

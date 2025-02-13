@@ -2,6 +2,6 @@ owner = ARO
 controller = ARO
 add_core = ARO
 add_core = CAT
-trade_goods = grain
+trade_goods = iron
 life_rating = 35 
 

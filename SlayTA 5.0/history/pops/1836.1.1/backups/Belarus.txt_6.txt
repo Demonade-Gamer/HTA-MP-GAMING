@@ -81,25 +81,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = prussian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = lithuanian
+        culture = prussian
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = prussian
         religion = orthodox
         size = 60
     }
 
     farmers = {
-        culture = lithuanian
+        culture = prussian
         religion = orthodox
         size = 4700
     }
@@ -437,25 +437,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 29
     }
 
     farmers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 910
     }
@@ -529,25 +529,25 @@
 #Lida (192000/48000 POPS)
 938 = {
     clergymen = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 800
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 15875
     }
@@ -1175,25 +1175,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 60
     }
 
     farmers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 4625
     }
@@ -1201,25 +1201,25 @@
 #Pastavy (348000/87000 POPS)
 947 = {
     clergymen = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 960
     }
 
     farmers = {
-        culture = lithuanian
+        culture = prussian
         religion = catholic
         size = 55850
     }

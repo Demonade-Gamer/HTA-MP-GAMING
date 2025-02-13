@@ -1,9 +1,9 @@
-#Slovakia Region (1588000)
+#czechia Region (1588000)
 #under the rule of Austria in 1836
 #Bratislava (784000/196000 POPS)
 633 = {
     bureaucrats = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 375
     }
@@ -15,37 +15,37 @@
     }
 
     officers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1200
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 6200
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 3750
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 114000
     }
 
     craftsmen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 9000
     }
@@ -165,43 +165,43 @@
     }
 
     aristocrats = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1250
     }
 
     bureaucrats = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 825
     }
 
     officers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1175
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 14000
     }
@@ -227,25 +227,25 @@
 #Trencin (228000/57000 POPS)
 634 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 2600
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 800
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 47000
     }
@@ -331,25 +331,25 @@
 #Nitra (352000/88000 POPS)
 635 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 650
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 3400
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1650
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 63300
     }
@@ -457,25 +457,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 2750
     }
@@ -483,25 +483,25 @@
 #Banska Bystrica (224000/56000 POPS)
 636 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 475
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 2650
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 49375
     }
@@ -583,43 +583,43 @@
 #Kosice (712000/178000POPS)
 637 = {
     bureaucrats = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 225
     }
 
     officers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 975
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 5200
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 3550
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 53875
     }
 
     aristocrats = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 3000
     }
@@ -715,19 +715,19 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 275
     }
 
     officers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1250
     }
@@ -739,7 +739,7 @@
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 7600
     }
@@ -801,25 +801,25 @@
 #Roznava (148000/37000 POPS)
 638 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 18625
     }

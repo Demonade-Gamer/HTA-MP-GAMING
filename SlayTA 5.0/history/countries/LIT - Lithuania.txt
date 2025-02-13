@@ -1,6 +1,5 @@
 capital = 360
-primary_culture = lithuanian
-culture = prussian
+primary_culture = prussian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.2

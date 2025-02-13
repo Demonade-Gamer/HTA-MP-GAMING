@@ -455,7 +455,7 @@
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 8550
     }
@@ -541,7 +541,7 @@
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 700
     }
@@ -715,7 +715,7 @@
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }

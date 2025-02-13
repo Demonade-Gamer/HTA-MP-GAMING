@@ -13,7 +13,8 @@ GENERAL GAME CHANGES--
 	-Gave Senj and Karlovac from Old Croatia to Dalmatia
 	-Merged Arabian states into one
 	-Added a decision for Zachadia, Italy, Rome, and Rum for if they own all Serbian, Croatian, Solvene, and Montenegren cores they raise the liferating by 5, setting it to 40
-	-Added a STATUE OF LIBERTY to the new world, can be constructed for 500,000, and can be stolen via a CB that costs 24 warscore
+	-Added a STATUE OF LIBERTY to the new world, can be constructed for 500K, and can be stolen via a CB that costs 24 warscore
+	-Imported ship costs from IgoR_PRF (makes ships a tad more expensive goods wise, some steamers cost coal and/or canned goods)
 
 FRANCE/NETHERLANDS CHANGES-
 	- The Netherlands no longer owns East Frisia and Bremen, split up between Brandenburg and Oldenburg
@@ -21,16 +22,32 @@ FRANCE/NETHERLANDS CHANGES-
 	- Released Bar-Lorraine and Normandy from France (around 1.2 mil pops France has to retake, they have cores on Normandy only)
 		-Getting cores on Brittany now requires Normandy
 	-If France/Netherlands owns all of the cores of both the nations, they get a 2 LR buff in all their lands
+	-Gave Chalons province to Wallonia, and gave Challan to France (taken from Aquitania, sorry buddy)
 HISPANIA CHANGES- 
 	- Released Aragon and Valencia from Hispania (about 1.1 mil pop decrease)
 	- Hispania no longer gets Catalan accepted, but they still have basque
+		-To make it still reasonable to go FOR catalonia, there is now a significant minority of Spanish people in both Aragon and Valencia (about 1/3rd Spanish overall)
+		-Also moved both the Barcelona and Toledo iron mines to Zaragoza and Valencia
+	- Hispania NO LONGER gets Sicilian accepted and cored (be a good friend!)
+	
 	
 GERMANY CHANGES-
 	- Brunswick exploded into many little Germany AI
 	- Rebalanced Forcelimits of Bavaria and Brandenburg to be around equal day 1
+	- Reworked Central German to be more split between Brandenburg, Bavaria, and the new german minors
+		-BB and BAV don't start with central german, but get it when they form NGF or SGF, and get the other german when they form Germany
+		-Bavaria starts with 2 mil accepted, BB starts with 1.3 mil, but has more to expand into
+		-
 ITALY CHANGES-
 	-Padan is kill, exploded into a ton of AI
 	-Italy now gets Greek accepted (import from Lovesick)
+	-Naples now gets cores on Venice on forming Italy
+	
+MISC EUROPE CHANGES-
+	-Merged czech and slovak cultures (doesn't change anything unless for some unknown reason you roster an ardeal)
+	-Buff Finnish literacy (60% -> 70%)
+	-Expanded Prusai culture by merging it with Lithuanian, Lithuania is now Prusova
+	-
 PERSIA CHANGES-
 	-Persia now starts civilized, this is by all means a nerf, but it doesn't change much
 	-Persia no longer gets kurdish accepted
@@ -39,9 +56,11 @@ PERSIA CHANGES-
 	-Persia will automatically inherit syria if Rum forms or in 1845
 	-Split Syria and Iraq into 2 states each, both having one medium and one small state
 	-Gave Arabian Palestine state to Syrian puppet (they start at 1 mil pops)
+	-Split Arabia state in 2 (not nearly as crazy as it used to be)
 JAPAN CHANGES-
 	-Japan now starts civilized
 	-Japan now starts with almost no technology 
+	-Korea actually starts civ too (nerfed its lit to be only a little better than Japan's)
 ------------------------------------------------------------------------------------
 
 5.0

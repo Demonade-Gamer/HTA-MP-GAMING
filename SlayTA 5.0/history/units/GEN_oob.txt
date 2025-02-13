@@ -1,0 +1,37 @@
+
+VAL = { value = -50 }
+ARO = { value = -50 }
+LOM = { value = -50 }
+AQT = { value = -50 }
+VEN = { value = -50 }
+HIS = { value = -50 }
+NPL = { value = -50 }
+army = {
+	name = "Armada Reial"
+	location = 724
+	regiment = {
+		name= "Palace Guards"
+		type = infantry
+		home = 725
+	}
+	regiment = {
+		name= "Palace Guards"
+		type = infantry
+		home = 724
+	}
+	regiment = {
+		name= "1. Artilharia"
+		type = hussar
+		home = 723
+	}
+	regiment = {
+		name= "2. Artilharia"
+		type = artillery
+		home = 738
+	}
+	regiment = {
+		name= "1. Cavalaria"
+		type = artillery
+		home = 740
+	}
+}

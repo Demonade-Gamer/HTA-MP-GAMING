@@ -282,7 +282,7 @@
         size = 3775
     }
 }
-#Felvidek Region (856000) #see Hungary.txt and Slovakia.txt for balance of Region
+#Felvidek Region (856000) #see Hungary.txt and czechia.txt for balance of Region
 #under the rule of Austria in 1836
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
@@ -311,25 +311,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = catholic
         size = 15825
     }

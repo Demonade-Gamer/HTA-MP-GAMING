@@ -217,6 +217,8 @@ political_decisions = {
 				}
 				country_event = 11101
 			}
+			VEN = { all_core = { add_core = THIS } }
+			RMG = { all_core = { add_core = THIS } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -362,47 +364,15 @@ political_decisions = {
 		}	
 		allow = {
 			war = no
-			ideological_thought = 1
-			BRN = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
-								war = no
-							}
-						}
-						NOT = { culture = north_german }
-						owner = {
-							NOT = { is_culture_group = germanic }
-						}
-					}
-				}
+			OR = {
+				state_n_government = 1
+				NGF	= { exists = yes }
 			}
-			BRA = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
-								war = no
-							}
-						}
-						NOT = { culture = north_german }
-						owner = {
-							NOT = { is_culture_group = germanic }
-						}
-					}
-				}
-			}
+			PRU_575 = { owned_by = THIS }
+			PRU_570 = { owned_by = THIS }
+			GER_566 = { owned_by = THIS }
+			SAX_558 = { owned_by = THIS }
+			BAV_595 = { owned_by = THIS }
 		}
 		
 		effect = {
@@ -410,17 +380,11 @@ political_decisions = {
 			badboy = 3
 			clr_country_flag = crown_from_the_gutter
 			all_core = { add_core = BRC }
-			BRN = {
-				all_core = { add_core = BRC }
-			}
-			BRA = {
-				all_core = { add_core = BRC }
-			}
-			OLD = {
-				all_core = { add_core = BRC }
-			}
-			BAV_595 = { add_core = BRC }
+			PRU_575 = { add_core = BRC }
 			PRU_570 = { add_core = BRC }
+			GER_566 = { add_core = BRC }
+			SAX_558 = { add_core = BRC }
+			BAV_595 = { add_core = BRC }
 			change_tag = BRC
 			add_accepted_culture = central_german
 			set_country_flag = secondary_union_formation
@@ -449,45 +413,24 @@ political_decisions = {
 	form_south_german_confederation2 = {
 		picture = form_south_german_confederation
 		potential = {
-			OR = {
-				primary_culture = central_german
-				primary_culture = south_german
-			}
+			tag = BAV
 			NOT = {
 				has_country_flag = post_colonial_country
 				exists = SGF
 				exists = GER
 			}
-			
 		}	
 		allow = {
 			war = no
 			OR = {
-			state_n_government = 1
-			exists = NGF	
+				state_n_government = 1
+				NGF	= { exists = yes }
 			}
-			GER = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-								OR = {
-									is_vassal = no
-									vassal_of = THIS
-								}
-								war = no
-							}
-						}
-						NOT = { culture = south_german }
-						NOT = { culture = central_german }
-						owner = {
-							NOT = { is_culture_group = germanic }
-						}
-					}
-				}
-			}
+			PRU_575 = { owned_by = THIS }
+			PRU_570 = { owned_by = THIS }
+			GER_566 = { owned_by = THIS }
+			SAX_558 = { owned_by = THIS }
+			BAV_595 = { owned_by = THIS }
 		}
 		
 		effect = {
@@ -495,67 +438,13 @@ political_decisions = {
 			prestige = 5
 			badboy = -3
 			all_core = { add_core = SGF }
-			add_accepted_culture = north_german
-			RHI = {
-				all_core = { add_core = THIS }
-			}
-			PRU_554 = { add_core = THIS }
-			PRU_570 = { add_core = THIS }
-			any_owned = {
-				limit = {
-					NOT = { is_core = THIS }
-					any_core = {
-						exists = no
-						primary_culture = south_german
-						has_country_flag = wants_to_unify
-						NOT = { has_country_flag = post_colonial_country }
-					}
-				}
-				add_core = SGF
-			}
-			any_owned = {
-				limit = {
-					NOT = { is_core = THIS }
-					any_core = {
-						exists = no
-						primary_culture = central_german
-						has_country_flag = wants_to_unify
-						NOT = { has_country_flag = post_colonial_country }
-					}
-				}
-				add_core = SGF
-			}
+			add_accepted_culture = central_german
+			PRU_575 = { add_core = SGF }
+			PRU_570 = { add_core = SGF }
+			GER_566 = { add_core = SGF }
+			SAX_558 = { add_core = SGF }
+			BAV_595 = { add_core = SGF }
 			change_tag = SGF
-			set_country_flag = secondary_union_formation
-			any_country = {
-				limit = {
-					primary_culture = central_german
-					in_sphere = THIS
-					NOT = { tag = THIS }
-					NOT = { has_country_flag = post_colonial_country }
-					OR = {
-						is_vassal = no
-						vassal_of = THIS
-					}
-				}
-				country_event = 11106
-			}
-			any_country = {
-				limit = {
-					primary_culture = south_german
-					in_sphere = THIS
-					NOT = { tag = THIS }
-					NOT = { tag = BAN }
-					NOT = { tag = SWI }
-					NOT = { tag = SIE }
-					NOT = { has_country_flag = post_colonial_country }
-					OR = {
-						is_vassal = no
-						vassal_of = THIS
-					}
-				}
-				country_event = 11106
-			}
 		}
 		ai_will_do = {
 			factor = 1

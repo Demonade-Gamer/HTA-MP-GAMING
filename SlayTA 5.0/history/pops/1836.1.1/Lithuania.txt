@@ -3,39 +3,39 @@
 #Vilnius (168000/42000 POPS)
 360 = {
 	aristocrats = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1260
 	}
 	bureaucrats = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 225
 	}
 	officers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 250
 	}
 	
 	clergymen = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 250
 	}
 	artisans = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 5500
 	}
 	farmers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 30000
 	}
 	
 	soldiers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 2500
 	}
@@ -90,27 +90,27 @@
 #Kaunas (204000/51000 POPS)
 361 = {
 	aristocrats = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1200
 	}
 	clergymen = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 400
 	}
 	artisans = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1150
 	}
 	soldiers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1100
 	}
 	farmers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 37500
 	}
@@ -158,28 +158,28 @@
 #Marjampole (240000/60000 POPS)
 362 = {
 	aristocrats = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1950
 	}
 	
 	clergymen = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 250
 	}
 	artisans = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1500
 	}
 	soldiers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 550
 	}
 	farmers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 25000
 	}
@@ -267,27 +267,27 @@
 #Panevezys (204000/51000 POPS)
 363 = {
 	aristocrats = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1025
 	}
 	clergymen = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 375
 	}
 	artisans = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1750
 	}
 	soldiers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 375
 	}
 	farmers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 35475
 	}
@@ -355,27 +355,27 @@
 #Siauliai (200000/50000 POPS)
 364 = {
 	aristocrats = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 900
 	}
 	clergymen = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 400
 	}
 	artisans = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1250
 	}
 	soldiers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 425
 	}
 	farmers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 40025
 	}
@@ -403,27 +403,27 @@
 #Palanga (84000/21000 POPS)
 365 = {
 	aristocrats = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 350
 	}
 	clergymen = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 150
 	}
 	artisans = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 550
 	}
 	soldiers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 175
 	}
 	farmers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 15825
 	}
@@ -473,7 +473,7 @@
 #Memel (172000/43000 POPS) #now part of Lithuania 
 698 = {
 	aristocrats = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 750 
 	}
@@ -533,22 +533,22 @@
 		size = 145 
 	}
 	clergymen = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 250 
 	}
 	artisans = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1950
 	}
 	soldiers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 1600
 	}
 	farmers = {
-		culture = lithuanian
+		culture = prussian
 		religion = protestant
 		size = 25100
 	}

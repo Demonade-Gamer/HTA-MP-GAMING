@@ -25,9 +25,15 @@ HIS = {
 }
 
 
+VAL = { value = -50 }
+ARO = { value = -50 }
+LOM = { value = -50 }
+VEN = { value = -50 }
+GEN = { value = -50 }
+HIS = { value = -50 }
 MEX = { value = -50 }
 YUC = { value = -30 }
-NPL = { value = 5 }
+NPL = { value = -5 }
 leader = {
 	name = "Jacin Ilmunts"
 	picture = asian_general_3
@@ -174,7 +180,7 @@ army = {
 	regiment = {
 		name = "1. Enfantaria"
 		type = artillery
-		home = 470
+		home = 451
 	}
 	regiment = {
 		name = "2. Enfantaria"
@@ -209,7 +215,7 @@ army = {
 	regiment = {
 		name = "2. Enfantaria"
 		type = artillery
-		home = 472
+		home = 465
 	}
 }
 
@@ -274,7 +280,7 @@ army = {
 	regiment = {
 		name = "1. Fedehere"
 		type = infantry
-		home = 500
+		home = 445
 	}
 	regiment = {
 		name = "2. Fedehere"
@@ -289,7 +295,7 @@ army = {
 	regiment = {
 		name = "1. Fedehere"
 		type = hussar
-		home = 499
+		home = 457
 	}
 	regiment = {
 		name = "2. Fedehere"
@@ -299,7 +305,7 @@ army = {
 	regiment = {
 		name = "1. Fedehere"
 		type = artillery
-		home = 498
+		home = 463
 	}
 }
 
