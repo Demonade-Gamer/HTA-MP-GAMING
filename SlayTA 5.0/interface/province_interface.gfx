@@ -6,12 +6,6 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_province_selector_strip"
-		texturefile = "gfx\\interface\\province_selector_strip.dds"
-		noOfFrames = 2
-	}
-	
-	spriteType = {
 		name = "GFX_flashpoint_tension_icon"
 		texturefile = "gfx\\interface\\flashpoint_tension_icon.dds"
 	}
@@ -87,17 +81,17 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_province_fort_strip"
 		textureFile = "gfx\\interface\\province_fort_strip.dds"
-		noOfFrames = 8
+		noOfFrames = 7
 	}
 	spriteType = {
 		name = "GFX_province_navalbase_strip"
 		textureFile = "gfx\\interface\\province_navalbase_strip.dds"
-		noOfFrames = 8
+		noOfFrames = 7
 	}
 	spriteType = {
 		name = "GFX_province_infra_strip"
 		textureFile = "gfx\\interface\\province_infra_strip.dds"
-		noOfFrames = 8
+		noOfFrames = 7
 	}
 	spriteType = {
 		name = "GFX_province_expanding"
@@ -129,11 +123,6 @@ spriteTypes = {
 		
 	spriteType = {
 		name = "GFX_provinceview_bg"
-		texturefile = "gfx\\interface\\province_bg.tga"
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_province_bg"
 		texturefile = "gfx\\interface\\province_bg.dds"
 		norefcount = yes
 	}
@@ -317,20 +306,26 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_terrainimg_coastal_desert"
-		texturefile = "gfx\\interface\\terrain_coastal_desert.tga"
-		norefcount = yes
-	}
-	
-	spriteType = {
 		name = "GFX_terrainimg_arctic"
 		texturefile = "gfx\\interface\\terrain_arctic.tga"
 		norefcount = yes
 	}
 
 	spriteType = {
-		name = "GFX_terrainimg_urban"
-		texturefile = "gfx\\interface\\terrain_urban.tga"
+		name = "GFX_terrainimg_boreal"
+		texturefile = "gfx\\interface\\terrain_boreal.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_dryhills"
+		texturefile = "gfx\\interface\\terrain_dryhills.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_semidesert"
+		texturefile = "gfx\\interface\\terrain_semidesert.tga"
 		norefcount = yes
 	}
 	

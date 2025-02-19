@@ -50,6 +50,6 @@ nv_education = {
 nv_diplomacy = {
 	diplomatic_points_modifier = 2
 	influence_modifier = 0.5
-	badboy = -0.05
+	badboy = -0.15
 	cb_generation_speed_modifier = 0.5
 }

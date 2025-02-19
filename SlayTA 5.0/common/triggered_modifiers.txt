@@ -9,10 +9,6 @@ desperate_nation  = {
 
 		}
 	}
-	mobilisation_economy_impact = -0.80
-	#supply_consumption = -0.80
-	#mobilisation_size = 0.2
-	tax_efficiency = 0.50 #50% boost
 	icon = 6
 }
 microscopic_nation  = {
@@ -22,10 +18,6 @@ microscopic_nation  = {
 				total_pops = 125000 #125 thousand POPs/500 thousand population
 		}
 	}
-	mobilisation_economy_impact = -0.75
-	#supply_consumption = -0.75
-	#mobilisation_size = 0.1
-	tax_efficiency = 0.40 #40% boost
 	icon = 6
 }
 tiny_nation  = {
@@ -39,10 +31,6 @@ tiny_nation  = {
 
 		}
 	}
-	mobilisation_economy_impact = -0.50
-	#supply_consumption = -0.50
-	#mobilisation_size = 0.04
-	tax_efficiency = 0.25 #25% boost
 	icon = 6
 }
 
@@ -53,10 +41,6 @@ small_nation  = {
 				total_pops = 3750000 #3.75 million POPs/15 million population
 		}
 	}
-	mobilisation_economy_impact = -0.25
-	#supply_consumption = -0.25
-	#mobilisation_size = 0.03
-	tax_efficiency = 0.20 #20% boost
 	icon = 6
 }
 
@@ -74,10 +58,6 @@ medium_nation  = {
 			
 		}
 	}
-	mobilisation_economy_impact = -0.10
-	#supply_consumption = -0.10
-	#mobilisation_size = 0.01
-	tax_efficiency = 0.10 #10% boost
 	icon = 6
 }
 
@@ -240,7 +220,7 @@ ai_boost = {
 		}
 	}
 	tax_efficiency = 0.05 #5% increase
-	education_efficiency_modifier = 1.0 #100% boost
+	education_efficiency_modifier = 0.3 #30% boost
  	loan_interest = -0.03 #3% less interest on debts
 	icon = 9
 }
@@ -331,14 +311,14 @@ vassal_nation = {
 }
 bad_badboy = {
 		trigger = {
-			badboy = 1
+			badboy = 1.3
 		}
 		global_immigrant_attract = -1.5
 		land_organisation = -0.25
 		mobilisation_size = -0.05
 		naval_organisation = -0.2
-    		factory_throughput = -0.5
-    		RGO_throughput = -0.5
+    		factory_throughput = -1
+    		RGO_throughput = -1
 		supply_consumption = 0.30
 		prestige = -0.2
     		war_exhaustion = 2
@@ -382,7 +362,7 @@ own_suez_canal = {
 	}
 	icon = 9
 	#tariff_efficiency_modifier = 0.2
-	#tax_efficiency = 0.01
+	tax_efficiency = 0.02
 	prestige = 0.01
 }
 
@@ -395,7 +375,7 @@ own_panama_canal = {
 	}
 	icon = 9
 	#tariff_efficiency_modifier = 0.05
-	#tax_efficiency = 0.01
+	tax_efficiency = 0.02
 	prestige = 0.02
 }
 
@@ -416,7 +396,7 @@ DVG_badboy_1 = {
 		NOT = { year = 1860 }
 		is_greater_power = yes 
 	}
-	badboy = -0.15
+	badboy = -0.1
 	icon = 1
 
 }
@@ -427,7 +407,7 @@ DVG_badboy_2 = {
 		is_greater_power = no
 		is_secondary_power = yes
 	}
-	badboy = -0.12
+	badboy = -0.1
 	icon = 1
 
 }
