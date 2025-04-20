@@ -57,6 +57,6 @@ province_event = {
 	
 	option = {
 		name = "Fix me up!"
-		remove_core = VAL
+		remove_core = ARO
 	}
 }

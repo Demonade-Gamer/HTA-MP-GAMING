@@ -966,26 +966,6 @@ RGO_template_labourers = {
 	workforce = 40000
 }
 
-RGO_template_bankers = {
-	owner =
-	{
-		poptype = aristocrats
-		effect = output
-	}
-		
-	employees = {
-		{ 
-			poptype = bankers
-			effect = throughput
-			amount = 1
-		}
-	}
-	
-	type = rgo
-	workforce = 400000
-}
-
-
 cattle_ranch = {
 	template = RGO_template_farmers
 	output_goods = cattle 
@@ -1064,9 +1044,9 @@ orchard = {
 #}
 
 precious_metal_mine = {
-	template = RGO_template_bankers
+	template = RGO_template_labourers
 	output_goods = precious_metal 
-	value = 10000
+	value = 2
 	mine = yes
 }
 
@@ -1253,7 +1233,7 @@ artisan_machine_parts = {
 		steel = 12		#11.5  total input+maint = 66
 	}
 	output_goods = machine_parts 
-	value = 4.6				#91
+	value = 2.3				#91
 	
 	owner = {
 		poptype = artisans 
@@ -1291,7 +1271,7 @@ artisan_steamer = {
 	}
 	output_goods = steamer_convoy 
 	is_coastal = yes
-	value = 3			#120
+	value = 1			#120
 	
 	owner = {
 		poptype = artisans 
@@ -1352,7 +1332,7 @@ artisan_steel = {
 	}
 
 	output_goods = steel 		#94 
-	value = 25
+	value = 12
 	
 	owner = {
 		poptype = artisans 
@@ -1371,7 +1351,7 @@ artisan_artillery = {
 		steel = 6.5		#30.55   total input+maint = 62.9
 	}
 	output_goods = artillery 
-	value = 1.3				#65
+	value = 1.5				#65
 
 	owner = {
 		poptype = artisans 
@@ -1391,7 +1371,7 @@ artisan_clipper = {
 	}
 	output_goods = clipper_convoy 
 	is_coastal = yes
-	value = 10			#175
+	value = 1			#175
 	
 	owner = {
 		poptype = artisans 
@@ -1410,7 +1390,7 @@ artisan_small_arms = {
 		steel = 3.0		#14.1		total input+maint = 48.925
 	}
 	output_goods = small_arms 
-	value = 2.4			#50
+	value = 2			#50
 
 	owner = {
 		poptype = artisans 
@@ -1482,7 +1462,7 @@ artisan_explosives = {
 		ammunition = 1		#10	total input+maint = 50
 	}
 	output_goods = explosives 
-	value = 3.5				#60
+	value = 2.5				#60
 	
 	owner = {
 		poptype = artisans
@@ -1502,7 +1482,7 @@ artisan_ammunition = {
 		steel = 2		#10.5	total input+maint = 26.5
 	}
 	output_goods = ammunition 
-	value = 7.3				#30
+	value = 4.5				#30
 	
 	owner = {
 		poptype = artisans 
@@ -1522,7 +1502,7 @@ artisan_canned_food = {
 		fish = 2.5 		#3.75	total input+maint = 24.2
 	}
 	output_goods = canned_food 
-	value = 4.5				#30
+	value = 3.0				#30
 	
 	owner = {
 		poptype = artisans 

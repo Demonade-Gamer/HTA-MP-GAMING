@@ -33,7 +33,7 @@
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2745
     }
@@ -63,25 +63,25 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 675
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 6500
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 47000
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 5500
     }
@@ -105,7 +105,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 305
     }
@@ -161,25 +161,25 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1125
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1450
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 23400
     }
@@ -191,7 +191,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 125
     }
@@ -199,31 +199,31 @@
 #Kavala (160000/40000 POPS) #now part of Roman Empire
 823 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 850
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 650
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 8900
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 28575
     }
@@ -235,19 +235,19 @@
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 5800
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1800
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 14025
     }
@@ -271,7 +271,7 @@
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1500
     }
@@ -289,7 +289,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 200
     }
@@ -299,37 +299,37 @@
 #Florina (116000/29000 POPS) #now part of Roman Empire
 819 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1475
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 4100
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 630
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 25500
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 3400
     }
@@ -353,25 +353,25 @@
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 525
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1325
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 70
     }
@@ -379,37 +379,37 @@
 #Grevena (140000/35000 POPS) #now part of Roman Empire
 820 = {
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 425
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 4050
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1260
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 36000
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 10550
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 140
     }
@@ -417,25 +417,25 @@
 #Edessa (128000/32000 POPS) #now part of Roman Empire
 821 = {
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 650
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 27100
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1025
     }
@@ -459,31 +459,31 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 9000
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1575
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 7975
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 175
     }
@@ -493,109 +493,109 @@
 #Janina (504000/126000 POPS)
 824 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 725
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1725
     }
 
     officers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1687
     }
 
     aristocrats = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1600
     }
 
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 855
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 8075
     }
 
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 24000
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 4600
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 750
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 800
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 100450
     }
@@ -613,13 +613,13 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 188
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 95
     }
@@ -627,49 +627,49 @@
 #Arta (220000/55000 POPS)
 825 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 750
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 5675
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 805
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 425
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2150
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 70425
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 90
     }
@@ -678,19 +678,19 @@
 #Corfu (112200/28000 POPS)
 826 = {
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = protestant
         size = 5
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 100
     }
 
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1200
     }
@@ -702,7 +702,7 @@
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 25
     }
@@ -714,13 +714,13 @@
     }
 
     officers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 80
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 200
     }
@@ -738,13 +738,13 @@
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 585
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 28600
     }
@@ -774,7 +774,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 65
     }
@@ -782,31 +782,31 @@
 #Zante (76000/19000 POPS)
 827 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 275
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1450
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 135
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 19000
     }
@@ -830,7 +830,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 15
     }
@@ -840,31 +840,31 @@
 #Xanthi (72000/18000 POPS)
 829 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1425
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 575
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 800
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1575
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 31425
     }
@@ -906,7 +906,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 175
     }
@@ -944,19 +944,19 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1100
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 950
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 10250
     }
@@ -990,61 +990,61 @@
 #Larisa (140000/35000 POPS)
 831 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 600
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1350
     }
 
     officers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 350
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3750
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1305
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 6650
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 300
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2650
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 28050
     }
@@ -1062,7 +1062,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 145
     }
@@ -1070,61 +1070,61 @@
 #Volos (224000/56000 POPS)
 832 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1150
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 375
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2300
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 810
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 8925
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 450
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 53825
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 4225
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 90
     }
@@ -1132,61 +1132,61 @@
 #Trikala (44000/11000 POPS)
 833 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1200
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 495
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3450
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 350
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 19550
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 3050
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 55
     }
@@ -1196,61 +1196,61 @@
 #Athens (308000/77000 POPS)
 834 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2000
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2050
     }
 
     officers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 900
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3075
     }
 
     capitalists = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 890
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 65500
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 17000
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 5179
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 81750
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 9500
     }
@@ -1280,7 +1280,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 576
     }
@@ -1288,55 +1288,55 @@
 #Amfissa (76000/19000 POPS)
 835 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 600
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 4000
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 400
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1620
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 37500
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 4025
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 180
     }
@@ -1344,43 +1344,43 @@
 #Lamia (44000/11000 POPS)
 836 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3500
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1530
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 37000
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 170
     }
@@ -1388,55 +1388,55 @@
 #Missolonghi (140000/35000 POPS)
 837 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 200
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 350
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3750
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1890
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 40150
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 3750
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 210
     }
@@ -1444,55 +1444,55 @@
 #Khalkis (68000/17000 POPS)
 838 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 850
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3150
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 24500
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 4500
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 350
     }
@@ -1502,61 +1502,61 @@
 #Nafplion (72000/18000 POPS)
 839 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1250
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     officers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 400
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 220
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 4400
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3150
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 29070
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1600
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 350
     }
@@ -1564,73 +1564,73 @@
 #Corinth (40000/10000 POPS)
 840 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     aristocrats = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 50
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 350
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 700
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 450
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1350
     }
 
     soldiers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 495
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 22000
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 8600
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 55
     }
@@ -1638,43 +1638,43 @@
 #Kalamai (68000/17000 POPS)
 841 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2000
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1125
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 28000
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 125
     }
@@ -1682,55 +1682,55 @@
 #Patrai (40000/10000 POPS)
 842 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 4000
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 225
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 855
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 23007
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 2500
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 95
     }
@@ -1740,31 +1740,31 @@
 #Cyclades (40000/10000 POPS)
 845 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 450
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = catholic
         size = 495
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 12000
     }
@@ -1776,13 +1776,13 @@
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1200
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = catholic
         size = 55
     }
@@ -1791,31 +1791,31 @@
 #Chios (68000/17000 POPS)
 843 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2400
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 337
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 12750
     }
@@ -1851,7 +1851,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 38
     }
@@ -1859,31 +1859,31 @@
 #Mytilene (44000/11000 POPS)
 844 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 112
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 750
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 9925
     }
@@ -1901,7 +1901,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 13
     }
@@ -1909,43 +1909,43 @@
 #Rhodes (32000/8000 POPS)
 846 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 175
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 160
     }
 
     officers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 90
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 742
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 11175
     }
@@ -1981,7 +1981,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 83
     }
@@ -2009,37 +2009,37 @@
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 720
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 6520
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2200
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 12460
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 80
     }
@@ -2065,43 +2065,43 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1780
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1880
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 810
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 19760
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 325
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1900
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 38950
     }
@@ -2119,7 +2119,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 90
     }

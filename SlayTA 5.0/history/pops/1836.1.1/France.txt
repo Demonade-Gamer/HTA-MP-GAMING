@@ -47,7 +47,7 @@
     labourers = {
         culture = walloon
         religion = catholic
-        size = 55000
+        size = 35000
     }
 
     clergymen = {
@@ -221,7 +221,7 @@
     farmers = {
         culture = walloon
         religion = catholic
-        size = 50000
+        size = 40000
     }
 
     farmers = {
@@ -341,19 +341,19 @@
     farmers = {
         culture = walloon
         religion = catholic
-        size = 75525
+        size = 55525
     }
 
     farmers = {
         culture = walloon
         religion = catholic
-        size = 70525
+        size = 60525
     }
 
     farmers = {
         culture = french
         religion = catholic
-        size = 15000
+        size = 5000
     }
 }
 #Cambrai (280000/70000 POPS)
@@ -1438,37 +1438,37 @@
 #Nantes (476000/119000 POPS)
 423 = {
     aristocrats = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 1200
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 11000
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 11000
     }
 
     soldiers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 1100
     }
 
     labourers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 29450
     }
@@ -1660,37 +1660,37 @@
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 50
     }
 
     capitalists = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 50
     }
 
     clerks = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 1400
     }
 
     craftsmen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 5500
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 2250
     }
 
     soldiers = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 1100
     }
@@ -1811,31 +1811,31 @@
         size = 73650
     }
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 30
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 4000
     }
@@ -1873,31 +1873,31 @@
     }
 	
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 40
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 5200
     }
@@ -1935,19 +1935,19 @@
     }
 
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 3000
     }
@@ -1984,19 +1984,19 @@
         size = 119800
     }
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 3000
     }
@@ -2047,30 +2047,30 @@
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 50
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 6100
     }
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
@@ -2107,19 +2107,19 @@
         size = 66000
     }
    farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 3000
     }
@@ -2181,24 +2181,24 @@
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 34
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 4300
     }
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 20
     }
@@ -2284,13 +2284,13 @@
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 30
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 3600
     }
@@ -2328,31 +2328,31 @@
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = breton
         religion = catholic
         size = 600
     }
 
     aristocrats = {
-        culture = aquitanian
+        culture = breton
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = aquitanian
+        culture = breton
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = aquitanian
+        culture = breton
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = aquitanian
+        culture = breton
         religion = catholic
         size = 29450
     }
@@ -2415,13 +2415,13 @@
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 40
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 4100
     }
@@ -2458,19 +2458,19 @@
         size = 51950
     }
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
@@ -2507,19 +2507,19 @@
         size = 48200
     }
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
@@ -2557,19 +2557,19 @@
         size = 60500
     }
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 3000
     }
@@ -2620,7 +2620,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 20000
     }
@@ -2670,7 +2670,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 25000
     }
@@ -2753,7 +2753,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 12090
     }
@@ -2791,19 +2791,19 @@
     }
 
     farmers = {
-        culture = aquitanian
+        culture = french
         religion = catholic
         size = 30000
     }
 
     clergymen = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 20
     }
 
     artisans = {
-        culture = aquitanian
+        culture = french
         religion = jewish
         size = 3000
     }
@@ -2859,7 +2859,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 30000
     }
@@ -2898,7 +2898,7 @@
     }
 
     artisans = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 2000
     }
@@ -2910,7 +2910,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 50200
     }
@@ -3014,7 +3014,7 @@
 #Liyon (824000/206000 POPS)
 451 = {
     aristocrats = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 300
     }
@@ -3038,7 +3038,7 @@
     }
 
     clerks = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 750
     }
@@ -3056,7 +3056,7 @@
     }
 
     clergymen = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 550
     }
@@ -3068,13 +3068,13 @@
     }
 
     artisans = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 5000
     }
 
     artisans = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 10000
     }
@@ -3092,7 +3092,7 @@
     }
 
     soldiers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 2100
     }
@@ -3104,7 +3104,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 20100
     }
@@ -3165,7 +3165,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 21725
     }
@@ -3220,7 +3220,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = catholic
         size = 10000
     }

@@ -2,6 +2,7 @@ owner = ARM
 controller = ARM
 add_core = ARM
 add_core = BYZ
+terrain = hills
 trade_goods = coal
 life_rating = 35 
 

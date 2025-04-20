@@ -3,42 +3,42 @@
 #Ulcinj (36000/9000 POPS)
 800 = {
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 50
     }
     bureaucrats = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 20
     }
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 400
     }
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 7550
     }
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 25
     }
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 50
     }
     soldiers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 550
     }
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 825
     }
@@ -46,22 +46,22 @@
 #Niksic (52000/13000 POPS)
 2569 = {
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 100
     }
     bureaucrats = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 50
     }
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 550
     }
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 11400
     }
@@ -95,57 +95,57 @@
 #Cetinje (104000/26000 POPS)
 2583 = {
     aristocrats = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 100
     }
     bureaucrats = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 100
     }
     officers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 25
     }
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 275
     }
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1300
     }
     soldiers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 550
     }
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 23375
     }
 }
-#Kosovo-Sanjak Region (52000)  #see Serbia.txt for balance of region
+#Kosovo-Sanjak Region (52000)  #see croatia.txt for balance of region
 #under the rule of Ottoman Empire in 1836
 #Pljevlja (52000/13000 POPS) #now part of Montenegro
 2577 = {
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 75
     }
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 250
     }
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 8175
     }
@@ -220,17 +220,17 @@
         size = 700
     }
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 100
     }
     soldiers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 550
     }
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 10125
     }

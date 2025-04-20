@@ -1939,7 +1939,7 @@ unification_casus_belli_capital = {
 	can_use = {
 		NOT = { tag = JAN }
 		NOT = { tag = GHO }
-		has_country_flag = new_world_nation
+		THIS = { has_country_flag = new_world_nation }
 		any_state = {
 			any_owned_province = {
 				OR = {
@@ -2003,7 +2003,7 @@ unification_casus_belli_tiny = {
 	can_use = {
 		NOT = { tag = JAN }
 		NOT = { tag = GHO }
-		has_country_flag = new_world_nation
+		THIS = { has_country_flag = new_world_nation }
 		number_of_states = 2
 		any_state = {
 			any_owned_province = {
@@ -2067,7 +2067,7 @@ unification_casus_belli_small = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		has_country_flag = new_world_nation
+		THIS = { has_country_flag = new_world_nation }
 		number_of_states = 2
 		any_state = {
 			any_owned_province = {
@@ -2132,7 +2132,7 @@ unification_casus_belli_medium = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
 		number_of_states = 2
-		has_country_flag = new_world_nation
+		THIS = { has_country_flag = new_world_nation }
 		any_state = {
 			any_owned_province = {
 				OR = {
@@ -2196,7 +2196,7 @@ unification_casus_belli_large = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
 		number_of_states = 2
-		has_country_flag = new_world_nation
+		THIS = { has_country_flag = new_world_nation }
 		any_state = {
 			any_owned_province = {
 				OR = {
@@ -2260,7 +2260,7 @@ unification_casus_belli_huge = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
 		number_of_states = 2
-		has_country_flag = new_world_nation
+		THIS = { has_country_flag = new_world_nation }
 		any_state = {
 			any_owned_province = {
 				OR = {
@@ -2320,7 +2320,7 @@ unification_annex_casus_belli = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		has_country_flag = new_world_nation
+		THIS = { has_country_flag = new_world_nation }
 		NOT = {
 			number_of_states = 3
 		}

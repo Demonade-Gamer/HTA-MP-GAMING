@@ -1,6 +1,7 @@
-owner = GEN
-controller = GEN
-add_core = GEN
+owner = MOD
+controller = MOD
+add_core = MOD
+terrain = hills
 trade_goods = coal
 life_rating = 35 
 add_core = PDN

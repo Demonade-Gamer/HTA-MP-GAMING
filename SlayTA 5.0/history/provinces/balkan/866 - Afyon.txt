@@ -2,6 +2,7 @@ owner = BYZ
 controller = BYZ
 add_core = BYZ
 add_core = ARM
+terrain = hills
 trade_goods = opium
 life_rating = 35 
 

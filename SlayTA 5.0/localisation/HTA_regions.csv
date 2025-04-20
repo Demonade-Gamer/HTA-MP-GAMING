@@ -102,7 +102,7 @@ SPA_477;León;León;León;;León;;;;;;;;;x
 SPA_481;Cartagena;Cartagena;Cartagena;;Cartagena;;;;;;;;x
 SPA_492;Vasconia;Vasconia;Vasconia;;Vasconia;;;;;;;x 
 SPA_496;Aragon;Aragon;Aragon;;Aragon;;;;;;;;;x
-SPA_502;Balearic Islands;;;;;;;;x
+SPA_502;Albi;;;;;;;;x
 POR_521;Beira;x
 HAN_528;Lower Elbe;;;;;;;;;;;;x     
 HAN_534;Oder;;;;;;;;;x
@@ -110,7 +110,7 @@ HAN_540;East Friesland;;;;;;;;;;;;x
 PRU_536;Braunschweig;;;;;;;;;;x,,,
 PRU_544;Mecklenburg;;;;;;;;;;;;x   
 PRU_546;Pomerania;;;;;;;;;;;;x     
-PRU_554;Thuringia;;;;;;;;;;;;x  
+PRU_554;Naoned;;;;;;;;;;;;x  
 SAX_558;Saxony;;;;;;;;;;;;x        
 GER_565;Hesse;;;;;;;;;;;;x,,,
 GER_566;Kassel;;;;;;;;;;;x,,,
@@ -122,7 +122,7 @@ BAV_599;Upper Bavaria;;;;;;;;;;;;x
 SWI_603;Helvetia;;;;;;;;;x,,,
 SWI_605;Liguria;;;;;;;;;x,,,
 SPA_610;Caroline Islands;;;;;;;;;;;x
-AUS_652;Banat;;;;;;;;;;;;x         
+AUS_652;Eastern Slovakia;;;;;;;;;;;;x         
 AUS_654;Western Transylvania;;;;;;;;;x
 AUS_657;Eastern Transylvania;;;;;;;;;x
 TUR_674;Paristrion;;;;;;;;;;;;x,,,
@@ -134,14 +134,14 @@ PRU_695;Prusy;;;;;;;;;;;x,,,
 AUS_702;Lodomeria;;;;;;;;;x
 RUS_706;Masovia;;;;;;;;;;;;x      
 RUS_715;North Galicia;;;;;;;;;x
-SAR_720;Piemont;;;;;;;;;;x
+SAR_720;Po Valley;;;;;;;;;;x
 AUS_734;South Galicia;;;;;;;;;;;x
 SAR_765;Sardinia & Corsica;;;;;;;;;x
 AUS_771;Old Croatia;;;;;;;;;;x
-CRO_789;Krajina;;;;;;;;;;;;;x,,,
+CRO_789;Bari;;;;;;;;;;;;;x,,,
 FRA_801;Tahiti;;;;;;;;;;;;x        
 TUR_805;Thessalonikos;;;;;;;;;x
-TUR_806;Thessalonikos;;;;;;;;;x
+TUR_806;French-Comte;;;;;;;;;x
 TUR_809;Paradounavon;;;;;;;;;;;x,,,
 TUR_810;Bulgaria;;;;;;;;;;x,,,
 TUR_823;Nestos;;;;;;;;;;x
@@ -185,7 +185,7 @@ PER_1128;Lorestan;;;;;;;;;;;;x
 PER_1132;Khuzestan;;;;;;;;;;;;x    
 PER_1136;Fars;;;;;;;;;;;;x         
 PER_1140;Kerman;;;;;;;;;;;;x       
-YEM_1178;Sana'a;;;;;;;;;;;;x 
+YEM_1178;Ghent;;;;;;;;;;;;x 
 RUS_1182;Mezhdumorya;;;;;;;;;;x
 RUS_1185;Zhetsyu;;;;;;;;;x,,,
 AFG_1209;Pashtunistan;;;;;;;;;;;;x 
@@ -389,8 +389,12 @@ TON_2540;Tonga;;;;;;;;;;;;x
 USA_2543;Samoa;;;;;;;;;;;;x
 HES_2560;Hessen;;;;;;;;;;;;x       
 USA_2556;Temahi;;;;;;;;;;x,,,
-RUS_2587;Kuollanta;;;;;;;;;x
+RUS_2587;Lodz;;;;;;;;;x
 CHI_2678;Outer Mongolia;;;;;;;;;x
 RUS_2694;Central Siberia;;;;;;;;;;x
-PAP_752;Malta;;;;;;;;;;x
+PAP_752;Lazio;;;;;;;;;;x
 MOD_739;Abruzzo-Marche;;;;;;;;;;x
+AUS_777;Foggia;;;;;;;;;;x
+AUS_768;Modena;;;;;;;;;;x
+MON_2582;Rouen;;;;;;;;;;x
+AUS_633;Western Slovakia;;;;;;;;;;x

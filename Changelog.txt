@@ -11,14 +11,15 @@ GENERAL GAME CHANGES--
 	- This mod DOES have tiered national focuses, but each tier only gives 1% extra promotion, and has heavily nerfed other types of national focuses
 	- Carved up the Slovenia state, giving Postojna to Friuli state and the other two provinces to Old Croatia
 	- Gave Senj and Karlovac from Old Croatia to Dalmatia
-	- Merged Arabian states into one
-	- Added a decision for Zachadia, Italy, Rome, and Rum for if they own all Serbian, Croatian, Solvene, and Montenegren cores they raise the liferating by 5, setting it to 40
+	- Merged Arabian states into two
+	- Added a decision for Zachadia, Italy, Rome, and Rum for if they own all Illyrian cores they raise the liferating by 5, setting it to 40
 	- Added a STATUE OF LIBERTY to the new world, can be constructed for 500K, and can be stolen via a CB that costs 24 warscore
 	- Imported ship costs from IgoR_PRF (makes ships a tad more expensive goods wise, some steamers cost coal and/or canned goods)
 	- Buffed Diplomacy National Value (now gives -0.15 infamy decay instead of -0.05 like it was before)
 	- Buffed normal peace time infamy decay from 0.1 to 0.15 (wartime infamy decay still at -0.1)
 	- Nerfed the early game infamy decay from a scaling -0.1 to -0.15 depending on gp status to just a flat -0.1
 	- REMOVED THE PROVINCE SELECTOR
+	- REMOVED THE WORLD BANK
 
 FRANCE/NETHERLANDS CHANGES-
 	- The Netherlands no longer owns East Frisia and Bremen, split up between Brandenburg and Oldenburg
@@ -27,13 +28,16 @@ FRANCE/NETHERLANDS CHANGES-
 		-Getting cores on Brittany now requires Normandy
 	- If France/Netherlands owns all of the cores of both the nations, they get a 2 LR buff in all their lands
 	- Gave Chalons province to Wallonia, and gave Challan to France (taken from Aquitania, sorry buddy)
+	- Netherlands now gets French accepted
+	- Converted all aquitanians in France to french (RIP)
 HISPANIA CHANGES- 
 	- Released Aragon and Valencia from Hispania (about 1.1 mil pop decrease)
-	- Hispania no longer gets Catalan accepted, but they still have basque
-		- To make it still reasonable to go FOR catalonia, there is now a significant minority of Spanish people in both Aragon and Valencia (about 1/3rd Spanish overall)
-		- Also moved both the Barcelona and Toledo iron mines to Zaragoza and Valencia
+	- Teralarga now starts in their sphere
+	- Moved both the Barcelona and Toledo iron mines to Zaragoza and Valencia
 	- Hispania NO LONGER gets Sicilian accepted and cored (be a good friend!)
-	
+	- Moved about 400k pops from Hispania to Italy (mostly to Naples) 
+		- Hispania goes from 11.34 mil to 10.96 mil
+		- Naples goes from 2.68 mil to 2.95 mil
 	
 GERMANY CHANGES-
 	- Brunswick exploded into many little Germany AI
@@ -44,14 +48,24 @@ GERMANY CHANGES-
 		-
 ITALY CHANGES-
 	- Padan is kill, exploded into a ton of AI
-	- Italy now gets Greek accepted (import from Lovesick)
+	- Italy now gets Illyrian (all yugoslav cultures merged into this) accepted
 	- Naples now gets cores on Venice on forming Italy
+	- Moved about 400k pops from Hispania to Italy (mostly to Naples) 
+		- Hispania goes from 11.34 mil to 10.96 mil
+		- Naples goes from 2.68 mil to 2.95 mil
+	- Rebalanced states in Italy, added two in the South, range in pop for most states from 400k to 300k
+	
+AQUITANIA CHANGES 
+	- Aquitania and France now have a shared pool that they can contribute to that in 1850 gives them a modifier that lasts 5, 10, or 15 years depending on amount invested (they need to invest 3, 9, and 12 million to get the respective length)
+	- Aquitania now starts with ideological thought instead of army professionalism
+	- Converted all french pops in aquitania to aquitanian (RIP)
+	- Rebalanced states in Aquitania (added two new states, split them up to be a lot more even)
 	
 MISC EUROPE CHANGES-
 	- Merged czech and slovak cultures (doesn't change anything unless for some unknown reason you roster an ardeal)
 	- Buff Finnish literacy (60% -> 70%)
 	- Expanded Prusai culture by merging it with Lithuanian, Lithuania is now Prusova
-	-
+	- Moved around and added a couple states in Zachadia 
 PERSIA CHANGES-
 	- Persia now starts civilized, this is by all means a nerf, but it doesn't change much
 	- Persia no longer gets kurdish accepted

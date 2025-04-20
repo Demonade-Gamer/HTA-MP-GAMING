@@ -2390,7 +2390,62 @@ customs_union = {
 	icon = 7
 }
 
+# Dutch South Africa
 
+saf_industrialize_1 = { 
+	factory_throughput = 0.025
+	local_factory_input = -0.05
+	local_factory_output = 0.1
+	icon = 9
+}
+saf_industrialize_2 = {
+	factory_throughput = 0.05
+	local_factory_input = -0.075
+	local_factory_output = 0.15
+	icon = 9
+}
+saf_industrialize_3 = {
+	factory_throughput = 0.075
+	local_factory_input = -0.1
+	local_factory_output = 0.2
+	icon = 9
+}
+saf_industrialize_4 = {
+	factory_throughput = 0.1
+	local_factory_input = -0.125
+	local_factory_output = 0.25
+	icon = 9
+}
+saf_industrialize_5 = {
+	factory_throughput = 0.125
+	local_factory_input = -0.15
+	local_factory_output = 0.3
+	icon = 9
+}
+saf_industrialize_6 = {
+	population_growth = 0.001
+	local_factory_throughput = 0.15
+	local_factory_input = -0.15
+	local_factory_output = 0.3
+	icon = 9
+}
+
+# France/Aqui boom
+5_big_booms = {
+	global_population_growth = 0.001
+	factory_throughput = 0.125
+	prestige = 0.01
+}
+10_big_booms = {
+	global_population_growth = 0.001
+	factory_throughput = 0.125
+	prestige = 0.1
+}
+15_big_booms = {
+	global_population_growth = 0.001
+	factory_throughput = 0.125
+	prestige = 1
+}
 ### American Events ###
 
 gateway_to_harbor = {

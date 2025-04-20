@@ -1,33 +1,33 @@
 #Cyprus Region (152000)
-#under the rule of greek Empire in 1836
+#under the rule of roman Empire in 1836
 #Nicosia (64000/16000 POPS)
 855 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1450
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 247
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 21150
     }
@@ -51,7 +51,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 28
     }
@@ -59,43 +59,43 @@
 #Limassol (44000/11000 POPS)
 856 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     officers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1350
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 555
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2300
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 37525
     }
@@ -131,7 +131,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
@@ -157,13 +157,13 @@
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 270
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 14525
     }
@@ -187,7 +187,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 30
     }

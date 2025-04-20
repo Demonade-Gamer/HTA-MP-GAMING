@@ -1,6 +1,7 @@
 owner = ARM
 controller = ARM
 add_core = ARM
+terrain = hills
 trade_goods = wool
 life_rating = 35 
 

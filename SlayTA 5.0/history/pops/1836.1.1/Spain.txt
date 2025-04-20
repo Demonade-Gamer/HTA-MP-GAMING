@@ -39,7 +39,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 55700
+        size = 40700
     }
     artisans = {
         culture = spanish
@@ -72,7 +72,7 @@
     artisans = {
         culture = spanish
         religion = catholic
-        size = 11000
+        size = 6000
     }
     soldiers = {
         culture = spanish
@@ -125,7 +125,7 @@
     farmers = {
         culture = portuguese
         religion = catholic
-        size = 111000
+        size = 96000
     }
 }
 #Leon Region (888000)
@@ -169,7 +169,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 125200
+        size = 110200
     }
 }
 #Santander (178000/44500) POPS
@@ -197,7 +197,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 71400
+        size = 56400
     }
     clergymen = {
         culture = basque
@@ -240,7 +240,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 105350
+        size = 90350
     }
        clergymen = {
         culture = basque
@@ -283,7 +283,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 83800
+        size = 68800
     }
 }
 #Castilla Vieja Region (724000)
@@ -322,7 +322,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 123400
+        size = 108400
     }
 }
 #Soria (216000/54000 POPS)
@@ -350,7 +350,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 99500
+        size = 84500
     }
 }
 #Salamanca (224000/56000 POPS)
@@ -378,7 +378,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 98500
+        size = 83500
     }
 }
 #Extremadura Region (580000)
@@ -417,7 +417,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 91300
+        size = 76300
     }
 }
 #Almendralejo (192000/48000 POPS)
@@ -445,7 +445,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 87400
+        size = 72400
     }
 }
 #Caceres (172000/43000 POPS)
@@ -473,7 +473,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 77450
+        size = 62450
     }
 }
 #Castilla Nueva Region (1504000)
@@ -502,7 +502,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 60200
+        size = 45200
     }
 }
 #Siguenza (204000/51000 POPS)
@@ -530,7 +530,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 91600
+        size = 76600
     }
         clergymen = {
         culture = basque
@@ -588,7 +588,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 147400
+        size = 132400
     }
 }
 #Cuenca (346000/86500 POPS)
@@ -616,7 +616,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 150550
+        size = 135550
     }
 }
 #Ciudad Real (288000/74000 POPS)
@@ -644,7 +644,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 131200
+        size = 116200
     }
 }
 #Vizcaya-Navarra Region (710000)
@@ -1529,7 +1529,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 84750
+        size = 69750
     }
 }
 #Murcia (92000/23000 POPS)
@@ -1585,7 +1585,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 91200
+        size = 76200
     }
 }
 #Andalucia Region (1176000)
@@ -1652,7 +1652,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 137000
+        size = 122000
     }
 }
 #Huelva (140000/35000 POPS)
@@ -1708,7 +1708,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 100300
+        size = 85300
     }
 }
 #Alpujarras Region (1296000)
@@ -1752,7 +1752,7 @@
     labourers = {
         culture = spanish
         religion = catholic
-        size = 113700
+        size = 98700
     }
 }
 #Malaga (402000/100500 POPS)
@@ -1780,7 +1780,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 155800
+        size = 140800
     }
 }
 #Almeria (242000/60500 POPS)
@@ -1808,7 +1808,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 105200
+        size = 90200
     }
 }
 #Jaen (270000/67500 POPS)
@@ -1836,7 +1836,7 @@
     farmers = {
         culture = spanish
         religion = catholic
-        size = 116400
+        size = 101400
     }
 }
 #Canary Islands Region (208000)

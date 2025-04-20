@@ -1323,6 +1323,5 @@ zprovince_migration_new_world_title;§GMigration Attraction;;;;;;;;;x;;;;
 zprovince_migration_new_world_desc;Gives a large bonus to migration to the targeted state. This decision does not increase the chance of receiving immigrants from other countries, it only redirects them to the targetted state. If a province has more than 5% RGO unemployment then the modifier will stop working in that province.;;;;;;;;;x;;;;
 province_attract_immigrants;Immigration Focus;;;;;;;;;;;;;x
 new_world_province_attract_immigrants;Immigration Focus;;;;;;;;;;;;;x
-bankers;Bankers;;;;;;;;;;;;;;x
 illuminati;Bankers;;;;;;;;;;;;;;;;;;;;;;;x
 JAN;World Bank;;;;;;;;;;;;;x

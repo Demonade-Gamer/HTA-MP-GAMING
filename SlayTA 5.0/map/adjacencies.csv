@@ -197,9 +197,7 @@ From;To;Type;Through;Data;Comment
 722;605;impassable;0;0;Novara-Bern                        
 2568;722;impassable;0;0;Lugano-Novara                     
 609;722;impassable;0;0;Sitten-Novara                      
-606;722;impassable;0;0;Lucerne-Novara                     
-465;720;impassable;0;0;Turin-Enneci                     
-533;471;impassable;0;0;Coni-Frejus
+606;722;impassable;0;0;Lucerne-Novara   
 465;454;impassable;0;0;Enneci-Grenoblo
 
 #Carpathians                                              

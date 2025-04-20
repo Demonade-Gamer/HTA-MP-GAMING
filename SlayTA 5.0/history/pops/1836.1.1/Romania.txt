@@ -316,7 +316,7 @@
         size = 4150
     }
 }
-#Banat-Bacska Region (1240000) #See Serbia.txt and Croatia.txt for balance of region
+#Banat-Bacska Region (1240000) #See croatia.txt and Croatia.txt for balance of region
 #under the rule of Austria in 1836
 #Temesvar (940000/235000 POPS) #part of Romania today
 652 = {
@@ -483,25 +483,25 @@
     }
 
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 550
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 3000
     }
 
     soldiers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 750
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 49500
     }
@@ -539,25 +539,25 @@
     }
 
     clergymen = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 750
     }
 
     soldiers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 16150
     }

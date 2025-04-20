@@ -43,9 +43,9 @@
 }
 #Tristan da Cunha (100/25 POPS) - Hispania
 2132 = {
-    bankers = {
-        culture = illuminati
+    labourers = {
+        culture = outremer
         religion = catholic
-        size = 100000
+        size = 1000
     }
 }

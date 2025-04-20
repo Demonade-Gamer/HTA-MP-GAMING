@@ -69,13 +69,13 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 9750
     }
@@ -167,7 +167,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 22775
     }
@@ -223,7 +223,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 17025
     }
@@ -241,7 +241,7 @@
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 4500
     }
@@ -311,25 +311,25 @@
     }
 
     bureaucrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1550
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 8150
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 10790
     }
@@ -469,19 +469,19 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 550
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 13050
     }
@@ -543,7 +543,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1375
     }

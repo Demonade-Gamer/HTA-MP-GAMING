@@ -75,22 +75,21 @@ political_decisions = {
 		potential = {
 			picture = map_balkans
 			tag = ITA
-			NOT = { has_country_flag = italian_greece }
+			NOT = { has_country_flag = italian_illyria }
 		}
 
 		allow = {
-				owns = 749
-				TUR_832 = { owned_by = THIS } 
-				EGY_843 = { owned_by = THIS } 
-				GRE_837 = { owned_by = THIS }
-				TUR_805 = { owned_by = THIS }
-				revolution_n_counterrevolution = 1
-			}
+			CRO = { all_core = { owned_by = THIS } }
+			SER = { all_core = { owned_by = THIS } }
+			SLO = { all_core = { owned_by = THIS } }
+			MNT = { all_core = { owned_by = THIS } }
+			revolution_n_counterrevolution = 1
+		}
 
 		effect = {
-			set_country_flag = italian_greece
+			set_country_flag = italian_illyria
 			prestige = 20
-			add_accepted_culture = greek
+			add_accepted_culture = croat
 			TUR_832 = { add_core = THIS } 
 			EGY_843 = { add_core = THIS } 
 			GRE_837 = { add_core = THIS }
@@ -110,14 +109,8 @@ political_decisions = {
 		allow = {
 			PDN = { exists = no }
 			PDN = { all_core = { owned_by = THIS } }
-			OR = {
-				nationalism_n_imperialism = 1
-				AND = {
-					has_country_flag = post_war_tuscan_crackdown
-					state_n_government = 1
-				}
+			state_n_government = 1
 		}
-	}
 		effect = {
 				set_country_flag = cisalpine_conquered
 				add_accepted_culture = north_italian

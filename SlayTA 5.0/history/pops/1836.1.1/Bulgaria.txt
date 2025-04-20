@@ -3,37 +3,37 @@
 #Petrich (192000/48000 POPS) #now part of Bulgaria
 808 = {
     aristocrats = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1100
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 400
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1080
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 34200
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = orthodox
         size = 1500
     }
@@ -63,7 +63,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 120
     }
@@ -151,13 +151,13 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 850
     }
@@ -175,7 +175,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1200
     }
@@ -521,7 +521,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 2900
     }
@@ -621,19 +621,19 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 1600
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3300
     }
@@ -737,7 +737,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 6850
     }
@@ -799,25 +799,25 @@
     }
 
     clergymen = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 45
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 3675
     }
@@ -847,7 +847,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 5
     }

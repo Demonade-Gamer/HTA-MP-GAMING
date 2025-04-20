@@ -267,7 +267,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 134000
+        size = 149000
     }
 
     clergymen = {
@@ -725,7 +725,7 @@
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 8200
     }
@@ -897,13 +897,13 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 4000
     }
@@ -915,13 +915,13 @@
     }
 
     soldiers = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 6300
     }
@@ -959,25 +959,25 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = catholic
         size = 30375
     }
@@ -1035,7 +1035,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 100000
+        size = 120000
     }
     farmers = {
         culture = south_italian
@@ -1090,7 +1090,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 108750
+        size = 123750
     }
     farmers = {
         culture = south_italian
@@ -1137,7 +1137,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 38700
+        size = 53700
     }
     farmers = {
         culture = south_italian
@@ -1199,7 +1199,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 80650
+        size = 95650
     }
 	
     farmers = {
@@ -1247,7 +1247,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 36575
+        size = 51575
     }
     farmers = {
 	culture = south_italian
@@ -1295,7 +1295,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 54425
+        size = 69425
     }
     farmers = {
 	culture = south_italian
@@ -1672,7 +1672,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 230750
+        size = 245750
     }
 
     clergymen = {
@@ -1716,7 +1716,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 40150
+        size = 55150
     }
 }
 #Umbria-Abruzzi Region (1056000)
@@ -1762,7 +1762,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 94750
+        size = 109750
     }
 }
 #Ancona (180000/45000 POPS)
@@ -1794,7 +1794,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 35025
+        size = 50025
     }
 }
 #under the rule of Two Sicilies in 1836
@@ -1845,7 +1845,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 111875
+        size = 126875
     }
 }
 #Campania Region (2312000)
@@ -1897,7 +1897,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 182925
+        size = 197925
     }
 }
 #Salerno (572000/143000 POPS)
@@ -1929,7 +1929,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 136175
+        size = 151175
     }
 }
 #Gaeta (436000/109000 POPS)
@@ -1961,7 +1961,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 98350
+        size = 113350
     }
 }
 #Apulia Region (1424000)
@@ -2005,7 +2005,7 @@
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = catholic
         size = 3000
     }
@@ -2013,7 +2013,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 124800
+        size = 139800
     }
 }
 #Foggia (572000/143000 POPS)
@@ -2043,7 +2043,7 @@
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = catholic
         size = 3000
     }
@@ -2051,7 +2051,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 125800
+        size = 140800
     }
 }
 #Brindisi (280000/70000 POPS)
@@ -2083,17 +2083,17 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 52000
+        size = 67000
     }
 
     farmers = {
-        culture = serb
+        culture = croat
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 5500
     }
@@ -2165,11 +2165,11 @@
     farmers = {
         culture = sicilian
         religion = catholic
-        size = 72000
+        size = 87000
     }
 
     farmers = {
-        culture = greek
+        culture = roman
         religion = orthodox
         size = 5500
     }
@@ -2227,7 +2227,7 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 46675
+        size = 61675
     }
 }
 #Potenza (572000/143000 POPS)
@@ -2265,13 +2265,13 @@
     farmers = {
         culture = sicilian
         religion = catholic
-        size = 34000
+        size = 39000
     }
 
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 95325
+        size = 105325
     }
 }
 #Sicily Region (1816000)
@@ -2340,7 +2340,7 @@
     farmers = {
         culture = sicilian
         religion = catholic
-        size = 120075
+        size = 135075
     }
 
     farmers = {
@@ -2390,7 +2390,7 @@
     farmers = {
         culture = sicilian
         religion = catholic
-        size = 75150
+        size = 90150
     }
 }
 #Catania (720000/180000 POPS)
@@ -2502,7 +2502,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 19500
+        size = 34500
     }
 }
 #Sardinia Region (524000)
@@ -2565,7 +2565,7 @@
     farmers = {
         culture = sicilian
         religion = catholic
-        size = 70095
+        size = 85095
     }
 
     farmers = {
@@ -2639,7 +2639,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 2000
+        size = 17000
     }
 }
     #Benevento

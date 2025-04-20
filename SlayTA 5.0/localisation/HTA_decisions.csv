@@ -782,14 +782,14 @@ claim_north_cauc_title;Liberate the Steppe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 claim_the_cauc_desc;By rights, the Caucasus region belongs as part of our country just as do its people.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 claim_the_cauc_title;Claim the Caucasus;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 claim_the_rest_of_the_adriatic_title;Annex Arbenon;;;;;;;;;;;x
-claim_the_rest_of_the_adriatic_desc;In the early 1800s, a significant historical event unfolded as Italy, a rising power within the Mediterranean region, sought to expand its influence by annexing the land of Albania into the vast expanse of the Roman Empire.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+claim_the_rest_of_the_adriatic_desc;As we expand our empire, it is only natural that we conquer the remaining lands of the Adriatic.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 scw_peace_title;Peace in Magellania;;;;;;;;;;;x
 scw_peace_desc;We are a simple people, we do not desire to settle scores or conquer vast swathes of land. Our stability has lead to many of the first immigrants to choose our fair land as their destination.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 vest_peace_title;Peace in Magellania;x
 vest_peace_desc;Our main rivals: the Shawnee, have been entirely aborbed into our nation after a series of successful military campaigns. Now with the threat of raids by the Shawnee gone, we should encourage immigration to help settle and replace this 'empty' land.;x
 SAF_homestead_title;Ramp up Immigration Efforts;x
 SAF_homestead_desc;For a while, we didn't need to put that much efforts in attracting immigrants: Compared to the other options in South Magellania we're a paradise. However, they've slowly started to get their act together and are diverting more immigrants to their shores. We need to put more effort into this: else we will fall behind.;x
-beautification_of_yugoslavia_title;Beautification of the former Serbian, Croatian, Slovene, and Montenegran territories!;x
+beautification_of_yugoslavia_title;Beautification of the Illyrian territories!;x
 beautification_of_yugoslavia_desc;As we have secured these new lands, it is only natural that they be rebuilt to suit our standards.;x
 accept_the_french_title;Accept the French;x
 accept_the_french_desc;Our conquest of the French lands has allowed us to greatly improve cultural ties between the French and Dutch people, it turns out that they are just like the Walloons,;x
@@ -797,3 +797,7 @@ consolidate_our_holdings_title;Consolidate our holdings;x
 consolidate_our_holdings_desc;Our conquest of the French, Dutch, and Walloon lands has allowed us to greatly expand cities across the nation, allowing for life expectancy and quality to rise drastically throughout our core lands on the European continent.;x
 accept_the_mashriq_people_title;Accept the Mashriqi;x
 accept_the_mashriq_people_desc;When young Joshua (Michael Stephenson) learns that he will be going on vacation with his family to a small town called Nilbog, he protests adamantly.;x
+add_to_the_pool_aqt_title;Add to the investment pool!;x
+add_to_the_pool_aqt_desc;Investing more in this pool gives you a better buff in 1850, you need to invest 3 million to get 5 years of 0.01% pop growth and 12.5% factory throughput, 9 million for 10 years, and 12 million for 15 years. (You also get more ticking prestige per level, ending at +1 prestige a month for 15 years);x
+add_to_the_pool_fra_title;Add to the investment pool!;x
+add_to_the_pool_fra_desc;Investing more in this pool gives you a better buff in 1850, you need to invest 3 million to get 5 years of 0.01% pop growth and 12.5% factory throughput, 9 million for 10 years, and 12 million for 15 years. (You also get more ticking prestige per level, ending at +1 prestige a month for 15 years);x

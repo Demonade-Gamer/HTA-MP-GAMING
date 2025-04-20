@@ -1,6 +1,6 @@
-owner = SRI
-controller = SRI
+owner = CLT
+controller = CLT
 add_core = SRI
-trade_goods = tea
+trade_goods = precious_metal
 life_rating = 32
 

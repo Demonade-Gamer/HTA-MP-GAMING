@@ -3,7 +3,7 @@ controller = AQT
 
 trade_goods = fruit
 life_rating = 35 
-terrain = hills
+terrain = farmlands
 
 
 add_core = AQT

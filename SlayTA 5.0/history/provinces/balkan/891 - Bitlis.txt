@@ -2,6 +2,7 @@ owner = ARM
 controller = ARM
 add_core = ARM
 add_core = KDS
+terrain = hills
 trade_goods = grain
 life_rating = 35 
 

@@ -4922,11 +4922,6 @@
         size = 550
     }
 
-    soldiers = {
-        culture = south_german
-        religion = protestant
-        size = 550
-    }
 
     soldiers = {
         culture = south_german
@@ -4961,7 +4956,7 @@
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 550
+        size = 1100
     }
 
     farmers = {

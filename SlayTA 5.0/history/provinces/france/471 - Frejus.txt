@@ -1,6 +1,6 @@
 owner = AQT
 controller = AQT
-
+terrain = farmlands
 trade_goods = silk
 life_rating = 35 
 

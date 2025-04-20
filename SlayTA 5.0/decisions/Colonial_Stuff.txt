@@ -26,5 +26,175 @@ political_decisions = {
 		}
         }
     }
+	invest_in_SAF = {
+        picture = the_union_of_south_africa
+        potential = {
+		NOT = { has_country_flag = SAFinvest1 }
+		has_country_flag = SAFtreaty
+		OR = {
+			tag = NET
+			tag = SAF
+        }
+	}
+
+        allow = {
+			SAF = {all_core = {owned_by = THIS}}
+			money = 1000000
+        }
+
+        effect = {
+			treasury = -1000000
+			set_country_flag = SAFinvest1
+			set_country_flag = investing
+			clr_country_flag = SAFtreaty
+			SAF = {
+				all_core = { add_province_modifier = { name = saf_industrialize_1 duration = -1 } }
+			}
+        }
+    }
+	invest_in_SAF_2 = {
+        picture = the_union_of_south_africa
+        potential = {
+		NOT = { has_country_flag = SAFinvest2 }
+		has_country_flag = SAFinvest1
+		OR = {
+			tag = NET
+			tag = SAF
+        }
+	}
+
+        allow = {
+			SAF = {all_core = {owned_by = THIS}}
+			money = 1000000
+        }
+
+        effect = {
+			treasury = -1000000
+			set_country_flag = SAFinvest2
+			clr_country_flag = SAFinvest1
+			SAF = {
+				all_core = { 
+					life_rating = 1
+					add_province_modifier = { name = saf_industrialize_2 duration = -1 }	
+					remove_province_modifier = 	saf_industrialize_1	
+				}
+			}
+        }
+    }
+	invest_in_SAF_3 = {
+        picture = the_union_of_south_africa
+        potential = {
+		NOT = { has_country_flag = SAFinvest3 }
+		has_country_flag = SAFinvest2
+		OR = {
+			tag = NET
+			tag = SAF
+        }
+	}
+
+        allow = {
+			SAF = {all_core = {owned_by = THIS}}
+			money = 1500000
+        }
+
+        effect = {
+			treasury = -1500000
+			set_country_flag = SAFinvest3
+			clr_country_flag = SAFinvest2
+			SAF = {
+				all_core = { 
+					life_rating = 1
+					add_province_modifier = { name = saf_industrialize_3 duration = -1 } 
+					remove_province_modifier = 	saf_industrialize_2	
+				}
+			}
+        }
+    }
+	invest_in_SAF_4 = {
+        picture = the_union_of_south_africa
+        potential = {
+		NOT = { has_country_flag = SAFinvest4 }
+		has_country_flag = SAFinvest3
+		OR = {
+			tag = NET
+			tag = SAF
+        }
+	}
+
+        allow = {
+			SAF = {all_core = {owned_by = THIS}}
+			money = 1500000
+        }
+
+        effect = {
+			treasury = -1500000
+			set_country_flag = SAFinvest4
+			clr_country_flag = SAFinvest3
+			SAF = {
+				all_core = { 
+					life_rating = 1
+					add_province_modifier = { name = saf_industrialize_4 duration = -1 }
+					remove_province_modifier = 	saf_industrialize_3	
+					}
+			}
+        }
+    }
+	invest_in_SAF_5 = {
+        picture = the_union_of_south_africa
+        potential = {
+		NOT = { has_country_flag = SAFinvest5 }
+		has_country_flag = SAFinvest4
+		OR = {
+			tag = NET
+			tag = SAF
+        }
+	}
+
+        allow = {
+			SAF = {all_core = {owned_by = THIS}}
+			money = 1500000
+        }
+
+        effect = {
+			treasury = -1500000
+			set_country_flag = SAFinvest5
+			clr_country_flag = SAFinvest4
+			SAF = {
+				all_core = { 
+					life_rating = 2
+					add_province_modifier = { name = saf_industrialize_5 duration = -1 }
+					remove_province_modifier = 	saf_industrialize_4
+				}
+			}
+        }
+    }
+	invest_in_SAF_6 = {
+        picture = the_union_of_south_africa
+        potential = {
+		NOT = { has_country_flag = SAFinvest6 }
+		has_country_flag = SAFinvest5
+		OR = {
+			tag = NET
+			tag = SAF
+        }
+	}
+
+        allow = {
+			SAF = {all_core = {owned_by = THIS}}
+			money = 2000000
+        }
+
+        effect = {
+			treasury = -2000000
+			set_country_flag = SAFinvest6
+			clr_country_flag = SAFinvest5
+			SAF = {
+				all_core = { 
+					add_province_modifier = { name = saf_industrialize_6 duration = -1 } 
+					remove_province_modifier = 	saf_industrialize_5	
+				}
+			}
+        }
+    }
 	
 }

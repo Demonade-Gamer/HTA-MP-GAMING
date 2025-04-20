@@ -1,6 +1,6 @@
-owner = SUA
-controller = SUA
-add_core = SUA
+owner = XHO
+controller = XHO
+add_core = XHO
 add_core = SAF
 trade_goods = coal
 life_rating = 35 

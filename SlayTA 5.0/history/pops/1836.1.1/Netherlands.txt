@@ -218,7 +218,7 @@
     farmers = {
         culture = dutch
         religion = protestant
-        size = 35300
+        size = 75300
     }
     artisans = {
         culture = flemish
@@ -277,7 +277,7 @@
     farmers = {
         culture = dutch
         religion = protestant
-        size = 50500
+        size = 60500
     }
     clergymen = {
         culture = flemish
@@ -325,7 +325,7 @@
     labourers = {
         culture = dutch
         religion = protestant
-        size = 35050
+        size = 55050
     }
 }
 #Maastricht (164200/41050 POPS)

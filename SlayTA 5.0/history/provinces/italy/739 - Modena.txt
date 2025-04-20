@@ -1,5 +1,6 @@
-owner = NPL
-controller = NPL
+owner = MOD
+controller = MOD
+add_core = MOD
 
 trade_goods = coal
 life_rating = 37
@@ -8,7 +9,4 @@ state_building = {
 	building = canned_food_factory
 	upgrade = yes
 }
-
-
 add_core = PDN
-add_core = RMG
