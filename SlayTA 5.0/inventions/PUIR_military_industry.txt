@@ -7,7 +7,7 @@ basic_ship_building_R&D = {
 	limit = { iron_steamers = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {
@@ -23,7 +23,7 @@ improved_ship_building_R&D = {
 	limit = { steel_steamers = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {
@@ -39,7 +39,7 @@ late_colonial_ships = {
 	limit = { steam_turbine_ships = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {
@@ -55,7 +55,7 @@ early_modern_oil_ship = {
 	limit = { oil_driven_ships = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {
@@ -68,7 +68,7 @@ ship_artillery_making = {
 	limit = { naval_statistics = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {
@@ -81,7 +81,7 @@ ship_cannon_building = {
 	limit = { naval_logistics = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {
@@ -94,7 +94,7 @@ late_colonial_armaments_industry = {
 	limit = { naval_directionism = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {
@@ -107,7 +107,7 @@ modern_armaments_industry = {
 	limit = { naval_integration = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {

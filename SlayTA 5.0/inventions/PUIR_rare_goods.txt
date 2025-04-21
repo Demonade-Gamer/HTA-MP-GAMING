@@ -9,7 +9,7 @@ accelerated_vulcanization = {
 		year = 1900
         }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			year = 1910
@@ -38,7 +38,7 @@ silk_waste_spinning = {
                 mechanical_production = 1
         }
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = -7
 				NOT = { year = 1880 }
@@ -70,7 +70,7 @@ advanced_drilling_techniques = {
 	limit = { assembly_line = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {
@@ -83,7 +83,7 @@ mechanized_wells = {
 	limit = { shift_work = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {

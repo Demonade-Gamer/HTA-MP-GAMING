@@ -1,5 +1,7 @@
 capital = 873
 primary_culture = anatolian
+culture = armenian
+culture = kurdish
 culture = roman
 religion = orthodox
 government = absolute_monarchy
@@ -7,7 +9,7 @@ plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.45
 civilized = yes
-prestige = 70
+prestige = 7
 
 # Political reforms
 slavery = no_slavery

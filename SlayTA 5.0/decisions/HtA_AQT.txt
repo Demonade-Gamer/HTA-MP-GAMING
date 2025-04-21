@@ -62,6 +62,8 @@ political_decisions = {
 			badboy = 5
 			set_country_flag = catalans_embraced
 			inherit = CAT
+			inherit = ARO
+			inherit = VAL
 			CAT = {
 				all_core = { add_core = AQT } }
 			add_accepted_culture = catalan

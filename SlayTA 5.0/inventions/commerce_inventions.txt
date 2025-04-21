@@ -3,7 +3,7 @@ multitude_of_financial_instruments = {
 	limit = { stock_exchange = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_liberty
@@ -21,7 +21,7 @@ insurance_companies = {
 	limit = { stock_exchange = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -39,7 +39,7 @@ regulated_buying_and_selling_of_stocks = {
 	limit = { stock_exchange = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -58,7 +58,7 @@ liquidation_of_assets = {
 	limit = { business_banks = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -94,7 +94,7 @@ distribution_channels = {
 	limit = { business_banks = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -114,7 +114,7 @@ industrial_rnd_investments = {
 	limit = { investment_banks = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			economic_policy = state_capitalism
@@ -133,7 +133,7 @@ industrial_production_investments = {
 	limit = { investment_banks = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -151,7 +151,7 @@ industrial_distribution_investments = {
 	limit = { investment_banks = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -170,7 +170,7 @@ private_bank_monitoring = {
 	limit = { bank_inspection_board = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			economic_policy = interventionism
@@ -194,7 +194,7 @@ market_behaviour_monitoring = {
 	limit = { bank_inspection_board = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -213,7 +213,7 @@ buying_on_margin = {
 	limit = { mutual_funds = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -232,7 +232,7 @@ silver_standard = {
 	limit = { ad_hoc_money_bill_printing = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			nationalvalue = nv_equality
@@ -250,7 +250,7 @@ decimal_monetary_system = {
 	limit = { ad_hoc_money_bill_printing = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -269,7 +269,7 @@ double_standard = {
 	limit = { private_bank_money_bill_printing = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = silver_standard
@@ -287,7 +287,7 @@ fixed_intramonetary_exchange_rates = {
 	limit = { private_bank_money_bill_printing = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			average_consciousness = 2
@@ -306,7 +306,7 @@ gold_standard = {
 	limit = { central_bank_money_bill_printing = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			invention = double_standard
@@ -328,7 +328,7 @@ international_monetary_exchange_rates = {
 	limit = { central_bank_money_bill_printing = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = fixed_intramonetary_exchange_rates
@@ -351,7 +351,7 @@ state_bond_monetary_mechanism = {
 	limit = { modern_central_bank_system = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -369,7 +369,7 @@ interest_inflation_weapon = {
 	limit = { modern_central_bank_system = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = international_monetary_exchange_rates
@@ -392,7 +392,7 @@ hyperinflation = {
 	limit = { market_determined_exchange_rates = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			economic_policy = laissez_faire
@@ -413,7 +413,7 @@ john_ramsay_mcculloch = {
 	limit = { early_classical_theory_and_critique = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			prestige = 30
@@ -431,7 +431,7 @@ nassau_william_sr = {
 	limit = { early_classical_theory_and_critique = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -449,7 +449,7 @@ james_mill = {
 	limit = { early_classical_theory_and_critique = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_equality
@@ -468,7 +468,7 @@ john_elliot_cairnes = {
 	limit = { late_classical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_liberty
@@ -486,7 +486,7 @@ robert_torrens = {
 	limit = { late_classical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -504,7 +504,7 @@ john_stuart_mill = {
 	limit = { late_classical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_equality
@@ -523,7 +523,7 @@ pierre_joseph_proudhon = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			nationalvalue = nv_equality
@@ -541,7 +541,7 @@ karl_marx = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			ruling_party_ideology = communist
@@ -564,7 +564,7 @@ friedrich_engels = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = karl_marx
@@ -582,7 +582,7 @@ eduard_bernstein = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = friedrich_engels
@@ -612,7 +612,7 @@ sidney_webb = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			invention = friedrich_engels
@@ -641,7 +641,7 @@ karl_kautsky = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = friedrich_engels
@@ -667,7 +667,7 @@ jean_jaur = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			economic_policy = planned_economy
@@ -690,7 +690,7 @@ friedrich_list = {
 	limit = { the_historical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -708,7 +708,7 @@ wilhelm_roscher = {
 	limit = { the_historical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -726,7 +726,7 @@ bruno_hildebrand = {
 	limit = { the_historical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -744,7 +744,7 @@ karl_knies = {
 	limit = { the_historical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -762,7 +762,7 @@ gustav_von_schmoller = {
 	limit = { the_historical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -780,7 +780,7 @@ adolph_wagner = {
 	limit = { the_historical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			average_consciousness = 2
@@ -798,7 +798,7 @@ william_cunningham = {
 	limit = { the_historical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			is_greater_power = yes
@@ -817,7 +817,7 @@ johann_heinrich_von_thnen = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			ruling_party_ideology = conservative
@@ -836,7 +836,7 @@ leon_walras = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = planned_economy
@@ -855,7 +855,7 @@ stanley_jevons = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -874,7 +874,7 @@ carl_menger = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -893,7 +893,7 @@ thorstein_veblen = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			average_consciousness = 4
@@ -912,7 +912,7 @@ alfred_marshall = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -931,7 +931,7 @@ augustin_cournot = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			average_consciousness = 3
@@ -950,7 +950,7 @@ jules_dupuit = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -969,7 +969,7 @@ vilfredo_pareto = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -988,7 +988,7 @@ knut_wicksell = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1007,7 +1007,7 @@ irving_fischer = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			trade_policy = protectionism
@@ -1026,7 +1026,7 @@ joseph_schumpeter = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1045,7 +1045,7 @@ eugen_von_bohm_bawerk = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -1065,7 +1065,7 @@ john_maynard_keynes = {
 	limit = { keynesian_economics = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			NOT = {
@@ -1086,7 +1086,7 @@ richard_kahn = {
 	limit = { keynesian_economics = 1 }
 	news = no
 	chance = {
-		base = 3
+		base = 30
 		modifier = {
 			factor = 3
 			invention = john_maynard_keynes
@@ -1128,7 +1128,7 @@ friedrich_hayek = {
 	limit = { keynesian_economics = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			is_ideology_enabled = socialist
@@ -1156,7 +1156,7 @@ polypoly_structure = {
 		}	
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -1182,7 +1182,7 @@ oligopoly_structure = {
 		}		
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -1208,7 +1208,7 @@ monopoly_structure = {
 		}	
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_equality
@@ -1227,7 +1227,7 @@ limited_partnership_company = {
 	limit = { business_regulations = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1245,7 +1245,7 @@ joint_stock_company = {
 	limit = { business_regulations = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = limited_partnership_company
@@ -1263,7 +1263,7 @@ patent = {
 	limit = { business_regulations = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -1285,7 +1285,7 @@ trademark = {
 	limit = { business_regulations = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1308,7 +1308,7 @@ anti_trust_laws = {
 	limit = { market_regulations = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -1330,7 +1330,7 @@ financial_regulations = {
 	limit = { market_regulations = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1348,7 +1348,7 @@ banking_regulations = {
 	limit = { market_regulations = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1367,7 +1367,7 @@ working_board_of_directors = {
 	limit = { economic_responsibility = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -1385,7 +1385,7 @@ bankruptcy_proceedings = {
 	limit = { economic_responsibility = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1403,7 +1403,7 @@ annual_report_proceedings = {
 	limit = { economic_responsibility = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1422,7 +1422,7 @@ priming_the_pump_ = {
 	limit = { government_interventionism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1441,7 +1441,7 @@ mixed_economy = {
 	limit = { government_interventionism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1482,7 +1482,7 @@ autarky = {
 	limit = { government_interventionism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			economic_policy = planned_economy
@@ -1508,7 +1508,7 @@ import_substitution_industrialization = {
 	limit = { government_interventionism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 8
 			economic_policy = planned_economy
@@ -1535,7 +1535,7 @@ work_classification = {
 	limit = { organized_factories = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1553,7 +1553,7 @@ work_specialization = {
 	limit = { organized_factories = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = work_classification
@@ -1575,7 +1575,7 @@ work_control_and_hierarchy = {
 	limit = { organized_factories = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = work_specialization
@@ -1598,7 +1598,7 @@ sequence_planning = {
 	limit = { scientific_management = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1616,7 +1616,7 @@ inventory_planning = {
 	limit = { scientific_management = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1634,7 +1634,7 @@ quality_assurance_procedure = {
 	limit = { scientific_management = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1653,7 +1653,7 @@ time_studies = {
 	limit = { time_saving_measures = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -1671,7 +1671,7 @@ time_clock = {
 	limit = { time_saving_measures = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1689,7 +1689,7 @@ lighting = {
 	limit = { time_saving_measures = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 4
 			electricity = 1
@@ -1708,7 +1708,7 @@ old_style_family_business = {
 	limit = { management_strategy = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1728,7 +1728,7 @@ anynomous_investor_business = {
 	limit = { management_strategy = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			average_consciousness = 3
@@ -1746,7 +1746,7 @@ marketized_smallholder_business = {
 	limit = { management_strategy = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			trade_policy = free_trade
@@ -1765,7 +1765,7 @@ i_scientific_management = {
 	limit = { organizational_development = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1783,7 +1783,7 @@ human_resource_development = {
 	limit = { organizational_development = 1 }
 	news = no
 	chance = {
-		base = 3
+		base = 30
 		modifier = {
 			factor = 2
 			average_consciousness = 3

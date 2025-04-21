@@ -8,7 +8,7 @@ william_hamilton = {
 	limit = { associationism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			invention = immanuel_kant
@@ -23,7 +23,7 @@ soren_kierkegaard  = {
 	limit = { associationism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 	}
 	effect = {
 		permanent_prestige = 5
@@ -34,7 +34,7 @@ alexander_bain  = {
 	limit = { associationism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = john_stuart_mill
@@ -49,7 +49,7 @@ thomas_brown  = {
 	limit = { associationism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = alexander_bain
@@ -65,7 +65,7 @@ wilhelm_wundt  = {
 	limit = { experimental_psychology = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 	}
 	effect = {
 		permanent_prestige = 5		
@@ -76,7 +76,7 @@ edward_titchener  = {
 	limit = { experimental_psychology = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = wilhelm_wundt
@@ -91,7 +91,7 @@ william_james  = {
 	limit = { experimental_psychology = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			functionalism = 1
@@ -106,7 +106,7 @@ gs_hall  = {
 	limit = { experimental_psychology = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			biologism = 1
@@ -121,7 +121,7 @@ hermann_ebbinghaus  = {
 	limit = { experimental_psychology = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			biologism = 1
@@ -156,7 +156,7 @@ francis_galton  = {
 	limit = { psychological_intelligence = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = darwinism
@@ -249,7 +249,7 @@ sigmund_freud  = {
 	limit = { psychoanalysis = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		permanent_prestige = 5		
@@ -261,7 +261,7 @@ carl_jung  = {
 	limit = { psychoanalysis = 1 }
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 4
 			invention = sigmund_freud
@@ -277,7 +277,7 @@ alfred_adler  = {
 	limit = { psychoanalysis = 1 }
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 4
 			invention = sigmund_freud
@@ -327,7 +327,7 @@ ivan_pavlov  = {
 	limit = { behaviorism = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		permanent_prestige = 5		
@@ -338,7 +338,7 @@ el_thorndike  = {
 	limit = { behaviorism = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		permanent_prestige = 5		
@@ -349,7 +349,7 @@ jb_watson  = {
 	limit = { behaviorism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 		factor = 3
 			invention = ivan_pavlov
@@ -364,7 +364,7 @@ ec_tolman  = {
 	limit = { behaviorism = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			invention = jb_watson
@@ -381,7 +381,7 @@ cinematographic_propaganda = {
 	}
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 10
 			war = yes

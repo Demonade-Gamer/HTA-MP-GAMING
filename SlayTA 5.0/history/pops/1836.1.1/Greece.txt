@@ -41,7 +41,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 11575
+        size = 9575
     }
 
     clergymen = {
@@ -181,7 +181,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 23400
+        size = 20400
     }
 
     farmers = {
@@ -225,7 +225,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 28575
+        size = 20575
     }
 
     clergymen = {
@@ -249,7 +249,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 14025
+        size = 10025
     }
 
     clergymen = {
@@ -325,7 +325,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 25500
+        size = 20500
     }
 
     farmers = {
@@ -399,7 +399,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 36000
+        size = 30000
     }
 
     farmers = {
@@ -573,7 +573,7 @@
     farmers = {
         culture = croat
         religion = orthodox
-        size = 24000
+        size = 30000
     }
 
     farmers = {
@@ -597,7 +597,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 100450
+        size = 90450
     }
 
     clergymen = {
@@ -665,7 +665,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 70425
+        size = 60425
     }
 
     farmers = {
@@ -746,7 +746,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 28600
+        size = 27600
     }
 
     farmers = {
@@ -884,7 +884,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 19050
+        size = 18050
     }
 
     clergymen = {
@@ -1046,7 +1046,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 28050
+        size = 26050
     }
 
     clergymen = {
@@ -1114,7 +1114,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 53825
+        size = 48825
     }
 
     farmers = {
@@ -1228,7 +1228,7 @@
     artisans = {
         culture = roman
         religion = orthodox
-        size = 65500
+        size = 62500
     }
 
     artisans = {
@@ -1246,7 +1246,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 81750
+        size = 61750
     }
 
     farmers = {
@@ -1259,12 +1259,6 @@
         culture = roman
         religion = orthodox
         size = 18950
-    }
-
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 10950
     }
 
     clergymen = {
@@ -1376,7 +1370,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 37000
+        size = 35000
     }
 
     farmers = {
@@ -1420,7 +1414,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 40150
+        size = 35150
     }
 
     farmers = {
@@ -1546,7 +1540,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 29070
+        size = 27070
     }
 
     farmers = {

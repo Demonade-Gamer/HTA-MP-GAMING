@@ -384,7 +384,6 @@ political_decisions = {
 		}
 		
 		allow = {
-			has_country_flag = native_crossroad
 			civilized = yes
 			war = no
 		}

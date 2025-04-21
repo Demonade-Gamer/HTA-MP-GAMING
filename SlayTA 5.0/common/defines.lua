@@ -594,14 +594,14 @@ diplomacy = {
 	CRISIS_WARGOAL_MILITANCY_MULT = 0, -- Applied to all militancy from failed wargoals in a crisis
 	CRISIS_INTEREST_WAR_EXHAUSTION_LIMIT = 20, -- GPs with WE above this will not get invited to a crisis
 	
-	RANK_1_TENSION_DECAY = -0.08, -- extra flashpoint tension decay for GPs
-	RANK_2_TENSION_DECAY = -0.07,
-	RANK_3_TENSION_DECAY = -0.06,
-	RANK_4_TENSION_DECAY = -0.05,
-	RANK_5_TENSION_DECAY = -0.04,
-	RANK_6_TENSION_DECAY = -0.03,
-	RANK_7_TENSION_DECAY = -0.03,
-	RANK_8_TENSION_DECAY = -0.03,
+	RANK_1_TENSION_DECAY = -0.8, -- extra flashpoint tension decay for GPs
+	RANK_2_TENSION_DECAY = -0.7,
+	RANK_3_TENSION_DECAY = -0.6,
+	RANK_4_TENSION_DECAY = -0.5,
+	RANK_5_TENSION_DECAY = -0.4,
+	RANK_6_TENSION_DECAY = -0.3,
+	RANK_7_TENSION_DECAY = -0.3,
+	RANK_8_TENSION_DECAY = -0.3,
 
 	TWS_FULFILLED_SPEED = 0.1, -- Ticking War Score grows up with this speed daily once CB is fulfilled
 	TWS_NOT_FULFILLED_SPEED = 0.1, -- Ticking War Score falls down when CB is not fulfilled (or after grace period)

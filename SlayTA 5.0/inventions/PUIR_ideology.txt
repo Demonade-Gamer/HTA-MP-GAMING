@@ -8,7 +8,7 @@ social_democracy = {
 		mass_politics = 1
 	}
 	chance = {
-		base = 1
+		base = 15
 			modifier = {
 				factor = 1
 				invention = social_justice
@@ -41,7 +41,7 @@ marxism_leninism = {
 		mass_politics = 1
 	}
 	chance = {
-		base = 1
+		base = 15
 			modifier = {
 				factor = 4
 				invention = vangaurd_party
@@ -75,7 +75,7 @@ national_socialism = {
 		great_war_experience = 1
 	}
 	chance = {
-		base = 1
+		base = 15
 			modifier = {
 				factor = 2
 				invention = social_darwinism
@@ -115,7 +115,7 @@ the_police_state = {
 		} 
 	}
 	chance = {
-		base = 25
+		base = 305
 			modifier = {
 				factor = 45
 				invention = secret_police
@@ -155,7 +155,7 @@ the_one_party_state = {
 		} 
 	}
 	chance = {
-		base = 25
+		base = 305
 			modifier = {
 				factor = 25
 				invention = secret_police

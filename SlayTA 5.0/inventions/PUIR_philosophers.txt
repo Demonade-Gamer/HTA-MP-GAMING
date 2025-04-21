@@ -9,7 +9,7 @@ montesquieu = {
 	limit = { late_enlightenment_philosophy = 1 }
 	news = no
 	chance = {
-		base = 10
+		base = 50
 	}
 	effect = {
 		permanent_prestige = 1
@@ -20,7 +20,7 @@ rousseau = {
 	limit = { late_enlightenment_philosophy = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			invention = montesquieu
@@ -35,7 +35,7 @@ denis_diderot = {
 	limit = { late_enlightenment_philosophy = 1 }
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 2
 			invention = rousseau
@@ -54,7 +54,7 @@ immanuel_kant = {
 	limit = { late_enlightenment_philosophy = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			invention = david_hume
@@ -69,7 +69,7 @@ david_hume = {
 	limit = { late_enlightenment_philosophy = 1 }
 	news = no
 	chance = {
-		base = 10
+		base = 50
 	}
 	effect = {
 		permanent_prestige = 1
@@ -80,7 +80,7 @@ mary_wollstonecraft = {
 	limit = { late_enlightenment_philosophy = 1 }
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 3
 			invention = rousseau
@@ -95,7 +95,7 @@ cesare_beccaria = {
 	limit = { late_enlightenment_philosophy = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			invention = montesquieu
@@ -110,7 +110,7 @@ thomas_jefferson = {
 	limit = { late_enlightenment_philosophy = 1 }
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 2
 			invention = montesquieu

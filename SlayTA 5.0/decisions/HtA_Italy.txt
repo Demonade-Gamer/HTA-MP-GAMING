@@ -90,10 +90,10 @@ political_decisions = {
 			set_country_flag = italian_illyria
 			prestige = 20
 			add_accepted_culture = croat
-			TUR_832 = { add_core = THIS } 
-			EGY_843 = { add_core = THIS } 
-			GRE_837 = { add_core = THIS }
-			TUR_805 = { add_core = THIS }
+			MNT = { all_core = { add_core = THIS } }
+			SLO = { all_core = { add_core = THIS } }
+			SER = { all_core = { add_core = THIS } }
+			CRO = { all_core = { add_core = THIS } }
 		}
 	}
 	

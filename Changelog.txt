@@ -16,7 +16,7 @@ GENERAL GAME CHANGES--
 	- Added a STATUE OF LIBERTY to the new world, can be constructed for 500K, and can be stolen via a CB that costs 24 warscore
 	- Imported ship costs from IgoR_PRF (makes ships a tad more expensive goods wise, some steamers cost coal and/or canned goods)
 	- Buffed Diplomacy National Value (now gives -0.15 infamy decay instead of -0.05 like it was before)
-	- Buffed normal peace time infamy decay from 0.1 to 0.15 (wartime infamy decay still at -0.1)
+	- Buffed normal peace time infamy decay from 0.1 to 0.2 (wartime infamy decay still at -0.1)
 	- Nerfed the early game infamy decay from a scaling -0.1 to -0.15 depending on gp status to just a flat -0.1
 	- REMOVED THE PROVINCE SELECTOR
 	- REMOVED THE WORLD BANK
@@ -30,6 +30,7 @@ FRANCE/NETHERLANDS CHANGES-
 	- Gave Chalons province to Wallonia, and gave Challan to France (taken from Aquitania, sorry buddy)
 	- Netherlands now gets French accepted
 	- Converted all aquitanians in France to french (RIP)
+	- Tripled the pop in South Africa, but 2/3rds of the pop are Yoruba (so the steenkooler pops stay the same)
 HISPANIA CHANGES- 
 	- Released Aragon and Valencia from Hispania (about 1.1 mil pop decrease)
 	- Teralarga now starts in their sphere
@@ -48,7 +49,7 @@ GERMANY CHANGES-
 		-
 ITALY CHANGES-
 	- Padan is kill, exploded into a ton of AI
-	- Italy now gets Illyrian (all yugoslav cultures merged into this) accepted
+	- Italy now gets Illyrian (all yugoslav cultures merged into this) accepted instead of Greek
 	- Naples now gets cores on Venice on forming Italy
 	- Moved about 400k pops from Hispania to Italy (mostly to Naples) 
 		- Hispania goes from 11.34 mil to 10.96 mil
@@ -67,14 +68,33 @@ MISC EUROPE CHANGES-
 	- Expanded Prusai culture by merging it with Lithuanian, Lithuania is now Prusova
 	- Moved around and added a couple states in Zachadia 
 PERSIA CHANGES-
-	- Persia now starts civilized, this is by all means a nerf, but it doesn't change much
-	- Persia no longer gets kurdish accepted
-	- Syria is now a puppet that owns both Syria the state and part of the palestine state, it also starts civilized and has no tech
-	- Persia accepts both mashriqi and bedouin IF Rum forms and they have all syrian cores in 1855
-	- Persia will automatically inherit syria if Rum forms or in 1845
-	- Split Syria and Iraq into 2 states each, both having one medium and one small state
+	- Persia now starts civilized
+	- Massively buffed Perrsian tech to be like a regular civ nation (5 in each category except for experimental railroads)
+	- Persia now gets Armenian accepted on top of Kurdish, both in 1855 and requiring their respective nation's cores.
+	- Syria is now a puppet that owns both Syria the state and palestine state, it also starts civilized and has same tech as persia
+	- Persia inherits Syria and accepts both mashriqi and bedouin in 1845
+	- Split Syria and Iraq into 2 states each
 	- Gave Arabian Palestine state to Syrian puppet (they start at 1 mil pops)
 	- Split Arabia state in 2 (not nearly as crazy as it used to be)
+	- Buffed Persian and Syrian literacy to be around 25-28%
+	
+ROME CHANGES-
+	- Rome has been massively nerfed
+		- Bulgaria and Makedonia have all been released
+		- Killed 400k Romans in Greece, Thrace, and Anatolia
+	- To compensate for this, Anatolia and the Balkans now have universal 38 Life Rating 
+	- Rome no longer starts with a core in any anatolian state that it does not own
+	- Greek and Roman are now merged
+	- Slightly changed the Rome map color to be less purple-byzantine-y
+	
+ARMENIA CHANGES- 
+	- it is dead. Split into 3 different nations (one of them still Armenia but... it's not the same T-T)
+
+SCANDINAVIA/FINLAND CHANGES
+	- It is no longer a 1v1, they are friends! (no longer get accepted or cores on each other)
+	- Scandinavia now goes into the Isles, getting Scottish accepted if they own both Scottish states and all of Northumbria
+	- Finland gets nothing to compensate for the lack of swedish and norwiegen accepted, but Godog buffed the amount of Ugrian in Russia so have fun!
+
 JAPAN CHANGES-
 	- Japan now starts civilized
 	- Japan now starts with almost no technology 

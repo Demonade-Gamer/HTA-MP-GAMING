@@ -104,6 +104,8 @@ political_decisions = {
 		effect = {
 			set_country_flag = kilikia_claimed
 			TUR_894 = { add_core = THIS }
+			TUR_873 = { add_core = THIS }
+			TUR_876 = { add_core = THIS }
 			add_accepted_culture = anatolian
 		}
 	}

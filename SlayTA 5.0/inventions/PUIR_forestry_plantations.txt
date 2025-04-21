@@ -7,7 +7,7 @@
 tree_plantations = {
 	limit = { publishing_industry = 1 }
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {
@@ -25,7 +25,7 @@ tree_plantations = {
 cotton_gin = {
 	limit = { publishing_industry = 1 }
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = -100
 			not = { civilized = yes }
@@ -44,7 +44,7 @@ mechanised_plantations = {
 	limit = { high_n_low_pressure_steam_engines = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = 2
 			invention = combine_harvesters
@@ -78,7 +78,7 @@ mechanised_plantations = {
 mechanized_sawmills = {
 	limit = { high_n_low_pressure_steam_engines = 1 }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 4
 			invention = mechanical_saw
@@ -108,7 +108,7 @@ regenerative_forestry = {
 	limit = { malthusian_thought = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {

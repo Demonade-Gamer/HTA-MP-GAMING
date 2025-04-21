@@ -1,10 +1,14 @@
 capital = 893
 primary_culture = kurdish
+culture = anatolian
+culture = armenian
+culture = mashriqi
 religion = sunni
 government = absolute_monarchy
 plurality = 0.4
 nationalvalue = nv_order
-literacy = 0.15
+civilized = yes
+literacy = 0.4
 
 # Political reforms
 slavery = yes_slavery

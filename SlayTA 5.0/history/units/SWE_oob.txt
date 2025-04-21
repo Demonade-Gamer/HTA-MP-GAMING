@@ -50,72 +50,7 @@ leader = {
 	prestige = 0.001
 }
 NOR = { value = 75 }
-DEN = { value = -55 }
 FIN = { value = -5 }
-army = {
-	name = "Danske Haeren"
-	location = 372
-	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 372
-	}
-
-	regiment = {
-		name= "2.1. Infanteridivision"
-		type = infantry
-		home = 372
-	}
-
-	regiment = {
-		name= "3.1. Infanteridivision"
-		type = infantry
-		home = 373
-	}
-	
-	regiment = {
-		name= "1.2. Infanteridivision"
-		type = infantry
-		home = 366
-	}
-
-	regiment = {
-		name= "2.2. Infanteridivision"
-		type = hussar
-		home = 366
-	}
-
-	regiment = {
-		name= "3.2. Infanteridivision"
-		type = artillery
-		home = 372
-	}
-	
-	regiment = {
-		name= "1.1. Artilleridivision"
-		type = artillery
-		home = 372
-	}
-	
-	regiment = {
-		name= "1.2. Artilleridivision"
-		type = artillery
-		home = 530
-	}
-	
-	regiment = {
-		name= "1.3. Artilleridivision"
-		type = artillery
-		home = 373
-	}
-
-	regiment = {
-		name= "1.1. Kavalleridivision"
-		type = artillery
-		home = 373
-	}
-
-}
 
 
 army = {
@@ -130,55 +65,55 @@ army = {
 	regiment = {
 		name= "S dermanlands Regemente"
 		type = infantry
-		home = 326
+		home = 372
 	}
 
 	regiment = {
 		name= "F rsta Livgrenadj rregementet"
 		type = infantry
-		home = 325
+		home = 374
 	}
 
 	regiment = {
 		name= "Upplands Regemente"
 		type = infantry
-		home = 324
+		home = 373
 	}
 
 	regiment = {
 		name= "V stg ta Regemente"
 		type = infantry
-		home = 330
+		home = 373
 	}
 
 	regiment = {
 		name= "Kalmar Regemente"
 		type = artillery
-		home = 332
+		home = 366
 	}
 
 	regiment = {
 		name= "J nk pings Regemente"
 		type = artillery
-		home = 333
+		home = 367
 	}
 
 	regiment = {
 		name= "S dra Sk nska Infanteriregementet"
 		type = artillery
-		home = 334
+		home = 2557
 	}
 
 	regiment = {
 		name= "Kronprinsens Husarregemente"
 		type = artillery
-		home = 335
+		home = 371
 	}
 
 	regiment = {
 		name= "Norrlands Dragonregemente"
 		type = artillery
-		home = 321
+		home = 371
 	}
 
 }

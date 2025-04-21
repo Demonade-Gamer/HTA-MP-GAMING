@@ -8,7 +8,7 @@ spinning_jenny = {
 	limit = { water_wheel_power = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = -100
 			not = { civilized = yes }
@@ -30,7 +30,7 @@ industrial_tanneries = {
 	limit = { water_wheel_power = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = -100
 			not = { civilized = yes }
@@ -51,7 +51,7 @@ seafood_packing = {
 	}
 	news = no
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = 5
 			invention = food_packing_system
@@ -69,7 +69,7 @@ combine_harvesters = {
 	limit = { high_n_low_pressure_steam_engines = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {
@@ -114,7 +114,7 @@ turbine_driven_trawlers = {
 cattle_breeding_program = {
 	limit = { steam_turbine = 1 }
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {
@@ -126,7 +126,7 @@ cattle_breeding_program = {
 traction_engines = {
 	limit = { steam_turbine = 1 }
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {
@@ -178,7 +178,7 @@ mechanized_farming_equipment = {
 	limit = { combustion_engine = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = 5
 			assembly_line = 1
@@ -226,7 +226,7 @@ oil_powered_fishing_trawlers = {
 industrial_farming = {
 	limit = { shift_work = 1 }
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {
@@ -259,7 +259,7 @@ industrial_farming = {
 industrial_livestock_husbandry = {
 	limit = { shift_work = 1 }
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_output = {
@@ -276,7 +276,7 @@ inclosure = {
 	limit = { malthusian_thought = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = 2
 		invention = sharp_n_roberts_power_loom
@@ -296,7 +296,7 @@ inclosure = {
 zacherlin = {
 	limit = { inorganic_chemistry = 1 }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 4
 			year = 1860
@@ -334,7 +334,7 @@ rotenone = {
 ddt = {
 	limit = { synthetic_polymers = 1 }
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 9
 			year = 1930
@@ -351,7 +351,7 @@ ddt = {
 brixham_trawlers = {
 	limit = { clipper_design = 1 }
 	chance = {
-		base = 5
+		base = 50
 		modifier = {
 			factor = 5
 			invention = building_station_shipyards	

@@ -436,13 +436,13 @@ SER_794 = { 794 797 796 798 795 804 } #Northern Serbia
 
 TUR_803 = { 802 803 799 806 807 } #Southern Serbia
 
-TUR_805 = { 805 819 820 821 822 823 808 829 } #Southern Macedonia/Thessalonikos
+TUR_805 = { 805 819 820 821 822 823 829 } #Southern Macedonia/Thessalonikos
 
 #TUR_806 = { 806 807 } #Northern Macedonia/Makedonia
 
 TUR_809 = { 817 811 813 814 } #Eastern Rumelia/Paradounavon
 
-TUR_810 = { 809 810 812 815 816 } #Bulgaria
+TUR_810 = { 808 809 810 812 815 816 } #Bulgaria
 
 #TUR_823 = { 823 808 829 830 } #Eastern Macedonia/Neston
 

@@ -7,7 +7,7 @@
 alite = {
 	limit = { practical_steam_engine = 1 }
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_input = {
@@ -21,7 +21,7 @@ portland_cement = {
 	limit = { high_n_low_pressure_steam_engines = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_output = {
@@ -39,7 +39,7 @@ diode = {
 	}
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 2
 			invention = edison_light_bulb
@@ -62,7 +62,7 @@ triode = {
 	}
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 1
 			invention = edison_light_bulb
@@ -93,7 +93,7 @@ tetrode = {
 	}
 	news = no
 	chance = {
-		base = 1
+		base = 15
 	}
 	effect = {
 		factory_goods_output = { electric_gear = 0.025 } 
@@ -109,7 +109,7 @@ crystal_radio = {
 	}
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 2
 			invention = edison_light_bulb
@@ -132,7 +132,7 @@ valve_radio_sets = {
 	}
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 2
 			invention = tetrode
@@ -155,7 +155,7 @@ carbon_transmitter = {
 	}
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 2
 			invention = edison_light_bulb
@@ -178,7 +178,7 @@ candlestick_telephone = {
 	}
 	news = no
 	chance = {
-		base = 1
+		base = 15
 		modifier = {
 			factor = 2
 			invention = diode 
@@ -215,7 +215,7 @@ bullough_n_kenworthys_lancashire_loom = {
 machine_made_steel_cans = {
 	limit = { semi_automatization = 1 }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = pre_planned_depot_systems
@@ -239,7 +239,7 @@ machine_made_steel_cans = {
 double_seams = {
 	limit = { shift_work = 1 }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			invention = electric_rolling_techniques
@@ -286,7 +286,7 @@ lombard_and_holts_continuous_track = {
 mercerization = {
 	limit = { basic_chemistry = 1 }
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		factory_goods_throughput = {
@@ -305,7 +305,7 @@ mercerization = {
 alfred_nobel = {
 	limit = { inorganic_chemistry = 1 }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 6
 			invention = nitroglycerin
@@ -446,7 +446,7 @@ synthetic_cement = {
 	limit = { synthetic_polymers = 1 }
 	news = no
 	chance = {
-		base = 10
+		base = 50
 		modifier = {
 			factor = 5
 			invention = import_substitution_industrialization

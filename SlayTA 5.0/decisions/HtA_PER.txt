@@ -89,14 +89,39 @@ political_decisions = {
 			tag = PER
 		}
 		allow = {
-			RUM = { exists = yes }
 			SYR = { all_core = { owned_by = PER } }
-			year = 1855
+			year = 1845
 		}
 		effect = {
 			prestige = 15
 			add_accepted_culture = mashriqi
 			add_accepted_culture = bedouin
+		}
+	}
+	accept_the_kurdish_people = {
+		potential = {
+			tag = PER
+		}
+		allow = {
+			KDS = { all_core = { owned_by = PER } }
+			year = 1855
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = kurdish
+		}
+	}
+	accept_the_armenian_people = {
+		potential = {
+			tag = PER
+		}
+		allow = {
+			ARM = { all_core = { owned_by = PER } }
+			year = 1855
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = armenian
 		}
 	}
 }

@@ -27,6 +27,14 @@ claim_scandanavia = {
 		potential = {
 			tag = FIN
 			NOT = { has_country_flag = claim_scandi }
+			SWE = { ai = yes }
+			SCA = { ai = yes }
+			year = 1860
+			SCA = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
 		}
 		allow = {
 			owns = 322
@@ -37,7 +45,7 @@ claim_scandanavia = {
 			add_accepted_culture = norwegian
 			set_country_flag = claim_scandi
 			SWE = {
-				all_core = { NOT = { core = DEN }add_core = FIN }
+				all_core = { limit = { NOT = { core = DEN } } add_core = FIN }
 			}
 			
 			NOR = {

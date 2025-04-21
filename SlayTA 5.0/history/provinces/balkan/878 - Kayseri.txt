@@ -1,9 +1,9 @@
-owner = ARM
-controller = ARM
-add_core = ARM
+owner = ANA
+controller = ANA
+add_core = ANA
 terrain = hills
 trade_goods = wool
-life_rating = 35 
+life_rating = 38 
 
 
 

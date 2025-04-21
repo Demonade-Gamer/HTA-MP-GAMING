@@ -9,7 +9,7 @@ sanitation = {
 		impressionism = 1
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 4
 			practical_steam_engine = 1
@@ -32,7 +32,7 @@ thomas_robert_malthus ={
 		malthusian_thought = 1 
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 5 
 			civilized = no
@@ -55,7 +55,7 @@ prophylactics = {
 	limit = { inorganic_chemistry = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 5
 			nationalvalue = nv_equality
@@ -76,7 +76,7 @@ cholera_vaccine = {
 		organic_chemistry = 1	
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 4
 			year = 1875
@@ -100,7 +100,7 @@ antitoxins = {
 		military_logistics = 1
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 4
 			synthetic_polymers = 1
@@ -125,7 +125,7 @@ defamation_of_women = {
 	}
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 1
 			invention = mary_wollstonecraft

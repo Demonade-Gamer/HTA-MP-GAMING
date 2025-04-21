@@ -8,7 +8,7 @@ adam_smith = {
 	limit = { early_classical_theory_and_critique = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -27,7 +27,7 @@ jean_baptiste_say = {
 	limit = { early_classical_theory_and_critique = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -46,7 +46,7 @@ david_ricardo = {
 	limit = { early_classical_theory_and_critique = 1 }
 	news = no
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -64,7 +64,7 @@ david_ricardo = {
 floating_international_exchange_rates = {
 	limit = { market_determined_exchange_rates  = 1 }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			keynesian_economics = 1
@@ -86,7 +86,7 @@ floating_international_exchange_rates = {
 monetization_of_debt = {
 	limit = { market_determined_exchange_rates = 1 }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 2
 			keynesian_economics = 1

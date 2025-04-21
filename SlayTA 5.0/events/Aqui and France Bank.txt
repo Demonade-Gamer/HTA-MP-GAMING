@@ -9,19 +9,18 @@ country_event = { ##The Baby boom
 		tag = FRA
 	}
 	year = 1850
-	NOT = { has_country_flag = aqui_boom }
-	AQT = { 
+	NOT = { has_country_flag = aqui_boom } 
+	AQT = {
 		check_variable = {
-					which = aqui_boom
-					value = 30
+				which = aqui_boom
+				value = 30
 		}
 	}
 	NOT = { 
 		AQT = {
-				check_variable = {
-					which = aqui_boom
-					value = 90
-				}
+			check_variable = {
+				which = aqui_boom
+				value = 90
 			}
 		}
 	}
@@ -115,33 +114,41 @@ country_event = { ## investment
 	name = "100000 pounds"
 	ai_chance = {factor = 100}
 	treasury = -100000
-	change_variable = {
-		which = aqui_boom
-		value = 1
+	AQT = {
+		change_variable = {
+			which = aqui_boom
+			value = 1
+		}
 	}
 }
 	option = {
 	name = "250000 pounds"
 	treasury = -250000
-	change_variable = {
-		which = aqui_boom
-		value = 2.5
+	AQT = { 
+		change_variable = {
+			which = aqui_boom
+			value = 2.5
+		}
 	}
 }
 	option = {
 	name = "500000 pounds"
 	treasury = -500000
-	change_variable = {
-		which = aqui_boom
-		value = 5
+	AQT = { 
+		change_variable = {
+			which = aqui_boom
+			value = 5
+		}
 	}
 }  
 	option = {
 	name = "1000000 pounds"
 	treasury = -1000000
-	change_variable = {
-		which = aqui_boom
-		value = 10
+	AQT = { 
+		change_variable = {
+			which = aqui_boom
+			value = 10
+		}
 	}
 }  
 }

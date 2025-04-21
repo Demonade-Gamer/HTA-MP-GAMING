@@ -47,7 +47,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 59825
+        size = 39825
     }
 
     clergymen = {
@@ -133,7 +133,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 41575
+        size = 20575
     }
 
     clergymen = {
@@ -213,7 +213,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 59600
+        size = 50600
     }
 
     farmers = {
@@ -307,7 +307,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 208000
+        size = 130000
     }
 
     bureaucrats = {
@@ -328,11 +328,7 @@
         size = 8150
     }
 
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 10790
-    }
+
 
     clergymen = {
         culture = bulgarian
@@ -420,12 +416,6 @@
         size = 1800
     }
 
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 18000
-    }
-
     soldiers = {
         culture = roman
         religion = orthodox
@@ -435,13 +425,13 @@
     craftsmen = {
         culture = roman
         religion = orthodox
-        size = 30000
+        size = 28000
     }
 
     farmers = {
         culture = roman
         religion = orthodox
-        size = 44250
+        size = 41250
     }
 
     clergymen = {
@@ -465,7 +455,7 @@
     farmers = {
         culture = anatolian
         religion = orthodox
-        size = 45375
+        size = 39375
     }
 
     clergymen = {
@@ -483,7 +473,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 13050
+        size = 10050
     }
 
     farmers = {
@@ -521,7 +511,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 47250
+        size = 36250
     }
 
     clergymen = {
@@ -539,7 +529,7 @@
     farmers = {
         culture = anatolian
         religion = orthodox
-        size = 32475
+        size = 30475
     }
 
     farmers = {
@@ -603,7 +593,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 80575
+        size = 75575
     }
 
     clergymen = {
@@ -671,7 +661,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 58325
+        size = 50325
     }
 
     clergymen = {
@@ -727,7 +717,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 44600
+        size = 40600
     }
 
     clergymen = {
@@ -809,7 +799,7 @@
     farmers = {
         culture = anatolian
         religion = orthodox
-        size = 18930
+        size = 16930
     }
 
     farmers = {
@@ -853,7 +843,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 34725
+        size = 28725
     }
 
     clergymen = {
@@ -921,7 +911,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 35550
+        size = 25550
     }
 
     clergymen = {
@@ -991,7 +981,7 @@
     farmers = {
         culture = anatolian
         religion = orthodox
-        size = 14350
+        size = 10350
     }
 
     clergymen = {
@@ -1003,7 +993,7 @@
     artisans = {
         culture = anatolian
         religion = orthodox
-        size = 34000
+        size = 28000
     }
 
     farmers = {
@@ -1047,7 +1037,7 @@
     artisans = {
         culture = roman
         religion = orthodox
-        size = 12500
+        size = 10000
     }
 
     soldiers = {
@@ -1059,7 +1049,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 35800
+        size = 20800
     }
 
     clergymen = {
@@ -1115,7 +1105,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 17000
+        size = 6000
     }
 
     clergymen = {
@@ -1133,7 +1123,7 @@
     farmers = {
         culture = anatolian
         religion = orthodox
-        size = 63725
+        size = 60725
     }
 
     farmers = {
@@ -1162,12 +1152,6 @@
         size = 9100
     }
 
-    farmers = {
-        culture = roman
-        religion = orthodox
-        size = 4175
-    }
-
     clergymen = {
         culture = anatolian
         religion = orthodox
@@ -1177,7 +1161,7 @@
     artisans = {
         culture = anatolian
         religion = orthodox
-        size = 7100
+        size = 7000
     }
 
     soldiers = {
@@ -1189,7 +1173,7 @@
     farmers = {
         culture = anatolian
         religion = orthodox
-        size = 58875
+        size = 50875
     }
 
     farmers = {
@@ -1832,12 +1816,6 @@
         size = 325
     }
 
-    artisans = {
-        culture = roman
-        religion = orthodox
-        size = 3650
-    }
-
     soldiers = {
         culture = roman
         religion = orthodox
@@ -1847,7 +1825,7 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 22825
+        size = 20825
     }
 
     clergymen = {
@@ -1865,7 +1843,7 @@
     soldiers = {
         culture = anatolian
         religion = orthodox
-        size = 4275
+        size = 4075
     }
 
     farmers = {
@@ -1915,19 +1893,13 @@
     farmers = {
         culture = roman
         religion = orthodox
-        size = 41125
+        size = 38125
     }
 
     clergymen = {
         culture = anatolian
         religion = orthodox
         size = 250
-    }
-
-    artisans = {
-        culture = anatolian
-        religion = orthodox
-        size = 3150
     }
 
     farmers = {

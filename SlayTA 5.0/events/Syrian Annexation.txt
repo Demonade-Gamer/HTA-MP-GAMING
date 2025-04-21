@@ -6,10 +6,7 @@ country_event = {
 	
 	trigger = {
 		war = no
-		OR = {
-			year = 1855
-			RUM = { exists = yes }
-		}
+		year = 1845
 		tag = PER
 		SYR = { vassal_of = THIS }
 		NOT = { has_country_flag = whomustgo }

@@ -7,7 +7,7 @@ nitrate_extraction_process = {
 	limit = { clean_coal = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {
@@ -25,7 +25,7 @@ bituminous_coal_for_coking = {
 		cheap_steel = 1
 	}
 	chance = {
-		base = 5
+		base = 50
 	}
 
 	effect = {
@@ -40,7 +40,7 @@ pneumatic_drill = {
 		cheap_steel = 1
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			interchangeable_parts = 1
@@ -157,7 +157,7 @@ modern_mine_hoists = {
                 electric_furnace = 1
         }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = -10
 				NOT = { electricity = 1 }
@@ -195,7 +195,7 @@ mine_cutting_machines = {
                 electric_furnace = 1
         }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = -10
 				NOT = { electricity = 1 }
@@ -231,7 +231,7 @@ steam_shovel = {
                 high_n_low_pressure_steam_engines = 1
         }
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 4
 			iron_railroad = 1
@@ -264,7 +264,7 @@ conveyor_belt = {
 		electrical_power_generation = 1
 	}
 	chance = {
-		base = 2
+		base = 30
 		modifier = {
 			factor = 3
 			electricity = 1 
@@ -304,7 +304,7 @@ artficial_nitrates = {
 	limit = { inorganic_chemistry = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 50
 	}
 	effect = {
 		rgo_goods_throughput = {

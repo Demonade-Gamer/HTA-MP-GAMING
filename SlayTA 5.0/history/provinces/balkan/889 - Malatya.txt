@@ -1,9 +1,9 @@
-owner = ARM
-controller = ARM
-add_core = ARM
+owner = KDS
+controller = KDS
+add_core = KDS
 terrain = hills
 trade_goods = iron
-life_rating = 35 
+life_rating = 38 
 
 
 

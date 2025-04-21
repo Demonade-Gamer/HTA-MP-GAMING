@@ -153,6 +153,7 @@ take_statue = {
 			OR = { 
 				has_country_flag = south_american_immigrant_nation
 				has_country_flag = north_american_immigrant_nation
+				tag = SAF
 			}
 		}
 	}
@@ -338,7 +339,7 @@ conquest = {
 		}
 	}
 
-	badboy_factor = 1.1
+	badboy_factor = 2.0
 	prestige_factor = 5
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -2631,7 +2632,7 @@ conquest_low = {
 		is_independant = yes
 	}
 
-	badboy_factor = 0.5
+	badboy_factor = 1.1
 	prestige_factor = 5
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -2666,7 +2667,7 @@ take_capital = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.5
+	badboy_factor = 2.5
 	prestige_factor = 10
 	peace_cost_factor = 0.016
 	penalty_factor = 1
@@ -3469,7 +3470,7 @@ acquire_core_state_strat = {
 	sprite_index = 5
 	is_triggered_only = yes
 	months = 12
-	
+	always = yes
 	construction_speed = 2
 	
 	badboy_factor = 0
@@ -3525,6 +3526,7 @@ acquire_core_state_small = {
 	is_triggered_only = yes
 	months = 12
 	
+	always = yes
 	construction_speed = 2
 	
 	badboy_factor = 0
@@ -3580,6 +3582,7 @@ acquire_core_state_medium = {
 	is_triggered_only = yes
 	months = 12
 	
+	always = yes
 	construction_speed = 2
 	
 	badboy_factor = 0
@@ -3633,6 +3636,7 @@ acquire_core_state_large = {
 	is_triggered_only = yes
 	months = 12
 	
+	always = yes
 	construction_speed = 2
 	
 	badboy_factor = 0
@@ -3686,6 +3690,7 @@ acquire_core_state_huge = {
 	is_triggered_only = yes
 	months = 12
 	
+	always = yes
 	construction_speed = 2
 	
 	badboy_factor = 0
@@ -3740,7 +3745,7 @@ acquire_state_strat = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.1
+	badboy_factor = 2.2
 	prestige_factor = 2
 	peace_cost_factor = 0.003
 	penalty_factor = 1
@@ -3843,7 +3848,7 @@ acquire_state_small = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.1
+	badboy_factor = 2.2
 	prestige_factor = 2
 	peace_cost_factor = 0.006
 	penalty_factor = 1
@@ -3947,7 +3952,7 @@ acquire_state_medium = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.1
+	badboy_factor = 2.2
 	prestige_factor = 2
 	peace_cost_factor = 0.008
 	penalty_factor = 1
@@ -4051,7 +4056,7 @@ acquire_state_large = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.1
+	badboy_factor = 2.2
 	prestige_factor = 2
 	peace_cost_factor = 0.012
 	penalty_factor = 1
@@ -4155,7 +4160,7 @@ acquire_state_huge = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.1
+	badboy_factor = 2.2
 	prestige_factor = 2
 	peace_cost_factor = 0.016
 	penalty_factor = 1

@@ -4,7 +4,7 @@ culture = sicilian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0
-nationalvalue = nv_diplomacy
+nationalvalue = nv_order
 literacy = 0.50
 civilized = yes
 
