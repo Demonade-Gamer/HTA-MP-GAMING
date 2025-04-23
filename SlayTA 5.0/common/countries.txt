@@ -7,6 +7,7 @@ REB 	= 	"countries/rebels.txt"
 
 AEN		= "countries/Aengland.txt"
 BYZ		= "countries/Byzantium.txt"
+RME		= "countries/Roman Empire.txt"
 RUS		= "countries/Russia.txt"
 FRA		= "countries/France.txt"
 GER		= "countries/Germany.txt"

@@ -6,7 +6,6 @@ IMPORTS KEPT FROM LOVESICK-
 	- Straights that go form Italy to North Africa
 	- Bavaria starts with South German accepted (to make up for lack of Brunswick)
 	- The lit fixes for minorities that SHOULD be literate but weren't (I did remove the bad word though)
-	- The Anatolian Pop Boom is a decision that can be taken instead of an event
 GENERAL GAME CHANGES--
 	- This mod DOES have tiered national focuses, but each tier only gives 1% extra promotion, and has heavily nerfed other types of national focuses
 	- Carved up the Slovenia state, giving Postojna to Friuli state and the other two provinces to Old Croatia
@@ -86,6 +85,7 @@ ROME CHANGES-
 	- Rome no longer starts with a core in any anatolian state that it does not own
 	- Greek and Roman are now merged
 	- Slightly changed the Rome map color to be less purple-byzantine-y
+	- Removed anatolian pop boom
 	
 ARMENIA CHANGES- 
 	- it is dead. Split into 3 different nations (one of them still Armenia but... it's not the same T-T)

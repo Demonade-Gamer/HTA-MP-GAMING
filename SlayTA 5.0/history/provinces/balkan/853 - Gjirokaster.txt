@@ -1,7 +1,0 @@
-owner = MCD
-controller = MCD
-add_core = MCD
-add_core = ALB
-trade_goods = cattle
-life_rating = 38 
-

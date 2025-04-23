@@ -22,35 +22,35 @@ political_decisions = {
             set_country_flag = blt_accepted
         }
     }
-claim_scandanavia = {
-		picture = reform_kalmar
-		potential = {
-			tag = FIN
-			NOT = { has_country_flag = claim_scandi }
-			SWE = { ai = yes }
-			SCA = { ai = yes }
-			year = 1860
-			SCA = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-		}
-		allow = {
-			owns = 322
-			owns = 313
-		}
-		effect = {
-			add_accepted_culture = swedish
-			add_accepted_culture = norwegian
-			set_country_flag = claim_scandi
-			SWE = {
-				all_core = { limit = { NOT = { core = DEN } } add_core = FIN }
-			}
-			
-			NOR = {
-				all_core = { add_core = FIN }
-			}
-		}
-	}
-}
+#claim_scandanavia = {
+#		picture = reform_kalmar
+#		potential = {
+#			tag = FIN
+#			NOT = { has_country_flag = claim_scandi }
+#			SWE = { ai = yes }
+#			SCA = { ai = yes }
+#			year = 1860
+#			SCA = {
+#				all_core = {
+#					owned_by = THIS
+#				}
+#			}
+#		}
+#		allow = {
+#			owns = 322
+#			owns = 313
+#		}
+#		effect = {
+#			add_accepted_culture = swedish
+#			add_accepted_culture = norwegian
+#			set_country_flag = claim_scandi
+#			SWE = {
+#				all_core = { limit = { NOT = { core = DEN } } add_core = FIN }
+#			}
+#			
+#			NOR = {
+#				all_core = { add_core = FIN }
+#			}
+#		}
+#	}
+#}

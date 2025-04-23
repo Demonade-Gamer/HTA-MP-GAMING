@@ -57,32 +57,32 @@ political_decisions = {
 			}
 		}
 	}
-	expand_east = {
-		picture = dreams_of_empire
-		potential = {
-			tag = SCA
-			NOT = { has_country_flag = trolled_him }
-			year = 1860
-			FIN = { ai = yes }
-			FIN = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-		}
-		allow = {
-			war = no
-		}
-		effect = {
-			add_accepted_culture = finnish
-			add_accepted_culture = estonian
-			add_accepted_culture = latvian
-			add_accepted_culture = lithuanian
-			add_accepted_culture = prussian
-			FIN = { all_core = { add_core = SCA } }
-			set_country_flag = trolled_him
-		}
-	}	
+#	expand_east = {
+#		picture = dreams_of_empire
+#		potential = {
+#			tag = SCA
+#			NOT = { has_country_flag = trolled_him }
+#			year = 1860
+#			FIN = { ai = yes }
+#			FIN = {
+#				all_core = {
+#					owned_by = THIS
+#				}
+#			}
+#		}
+#		allow = {
+#			war = no
+#		}
+#		effect = {
+#			add_accepted_culture = finnish
+#			add_accepted_culture = estonian
+#			add_accepted_culture = latvian
+#			add_accepted_culture = lithuanian
+#			add_accepted_culture = prussian
+#			FIN = { all_core = { add_core = SCA } }
+#			set_country_flag = trolled_him
+#		}
+#	}	
 	expand_west = {
 		picture = dreams_of_empire
 		potential = {

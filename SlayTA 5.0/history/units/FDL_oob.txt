@@ -1,9 +1,0 @@
-army = {
-	name = "Army of Fadhli"
-	location = 1176
-	regiment = {
-		name= "Fadhli Army"
-		type = irregular
-		home = 1176
-	}
-}
