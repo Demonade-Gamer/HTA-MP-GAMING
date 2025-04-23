@@ -1,0 +1,32 @@
+
+VAL = { value = -50 }
+ARO = { value = -50 }
+VEN = { value = -50 }
+AQT = { value = -50 }
+GEN = { value = -50 }
+HIS = { value = -50 }
+
+army = {
+	name = "Armada Reial"
+	location = 726
+	regiment = {
+		name= "Palace Guards"
+		type = infantry
+		home = 726
+	}
+	regiment = {
+		name= "1. Artilharia"
+		type = hussar
+		home = 728
+	}
+	regiment = {
+		name= "2. Artilharia"
+		type = artillery
+		home = 727
+	}
+	regiment = {
+		name= "1. Cavalaria"
+		type = artillery
+		home = 726
+	}
+}

@@ -1,0 +1,11 @@
+owner = BAV
+controller = BAV
+
+trade_goods = iron
+life_rating = 35 
+fort = 1
+
+
+
+add_core = BAV
+add_core = SWI

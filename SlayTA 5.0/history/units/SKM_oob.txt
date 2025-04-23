@@ -1,0 +1,170 @@
+army = {
+	name = "Calfiano Guard"
+	location = 84
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 19
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 13
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 1
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 14
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 15
+	}
+}
+
+navy = {
+	name = "Cuneflota"
+	location = 78
+	ship = {
+		name = "Anmedla"
+		type = manowar
+	}
+	ship = {
+		name = "Gumcyst"
+		type = manowar
+	}
+	ship = {
+		name = "Are"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+}
+
+leader = {
+	name = "Base guy 1"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 2"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 3"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 4"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 5"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+army = {
+	name = "Now you've had your way"
+	location = 87
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 2137
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 2137
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 89
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 81
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 78
+	}
+		regiment = {
+		name= "1. Brigada de Infantería"
+		type = hussar
+		home = 14
+	}
+}

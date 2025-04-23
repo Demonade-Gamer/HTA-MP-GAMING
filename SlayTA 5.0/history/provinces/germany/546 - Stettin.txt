@@ -1,0 +1,19 @@
+owner = BRN
+controller = BRN
+add_core = GER
+trade_goods = fish
+life_rating = 38
+state_building = {
+	level = 2 
+	building = fertilizer_factory
+	upgrade = yes
+}
+
+state_building = {
+	level = 2 
+	building = canned_food_factory
+	upgrade = yes
+}
+
+
+add_core = BRN

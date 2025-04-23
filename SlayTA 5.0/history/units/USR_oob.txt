@@ -1,0 +1,158 @@
+
+
+leader = {
+	name = "Base guy 1"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 2"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 3"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 4"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 5"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+army = {
+	name = "Folks Here"
+	location = 2410
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 2410
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 2447
+	}
+	regiment = {
+		name = "1. Artiliehere"
+		type = hussar
+		home = 2447
+	}
+	regiment = {
+		name = "2. Artiliehere"
+		type = artillery
+		home = 2450
+	}
+	regiment = {
+		name = "1. Radehere"
+		type = artillery
+		home = 2410
+	}
+}
+army = {
+	name = "Folks Here"
+	location = 2448
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 2451
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 2453
+	}
+	regiment = {
+		name = "1. Artiliehere"
+		type = hussar
+		home = 2450
+	}
+	regiment = {
+		name = "2. Artiliehere"
+		type = artillery
+		home = 2455
+	}
+	regiment = {
+		name = "1. Radehere"
+		type = artillery
+		home = 2451
+	}
+}
+army = {
+	name = "Folks Here"
+	location = 2451
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 2444
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 2445
+	}
+	regiment = {
+		name = "1. Artiliehere"
+		type = hussar
+		home = 2449
+	}
+	regiment = {
+		name = "2. Artiliehere"
+		type = artillery
+		home = 2450
+	}
+	regiment = {
+		name = "1. Radehere"
+		type = artillery
+		home = 2444
+	}
+}
+navy = {
+	name = "Cyneflota"
+	location = 2447
+	ship = {
+		name = "Byre"
+		type = manowar
+	}
+	ship = {
+		name = "Eastanwind"
+		type = frigate
+	}
+	ship = {
+		name = "Nordanwind"
+		type = frigate
+	}
+	ship = {
+		name = "Weastanwind"
+		type = frigate
+	}
+	ship = {
+		name = "Sujanwind"
+		type = frigate
+	}
+}

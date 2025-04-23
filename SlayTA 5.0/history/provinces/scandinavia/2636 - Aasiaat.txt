@@ -1,0 +1,7 @@
+#Now the province of Abitibi in Dabimon (Ontario)
+owner = QUE
+controller = QUE
+add_core = QUE
+trade_goods = grain
+life_rating = 35 
+

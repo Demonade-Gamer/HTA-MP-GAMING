@@ -1,0 +1,23 @@
+owner = AQT
+controller = AQT
+add_core = AQT
+fort = 2
+trade_goods = fruit
+life_rating = 40
+state_building = {
+	level = 2 
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = small_arms_factory
+	upgrade = yes
+}
+
+add_core = DAU

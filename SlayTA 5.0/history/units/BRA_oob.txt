@@ -1,0 +1,256 @@
+BRT = { value = -200 }
+WLL = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+SER = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+ARM = { value = -200 }
+leader = {
+	name = "Base guy 1"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 2"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 3"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 4"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 5"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+army = {
+	name = "Hannöversche Heer"
+	location = 534
+	regiment = {
+		name= "1. Oldenburgische Infanteriebrigade"
+		type = hussar
+		home = 540
+	}
+	regiment = {
+		name= "1. Hannöversche Infanteriebrigade"
+		type = artillery
+		home = 534
+	}
+
+	regiment = {
+		name= "2. Hannöversche Infanteriebrigade"
+		type = artillery
+		home = 535
+	}
+	regiment = {
+		name= "1. Hannöversche Artilleriebrigade"
+		type = artillery
+		home = 534
+	}
+	regiment = {
+		name = "I Bremenische Infanterie"
+		type = artillery
+		home = 582
+	}
+	regiment = {
+		name = "II Bremenische Infanterie"
+		type = artillery
+		home = 582
+	}
+	regiment = {
+		name= "2. Oldenburgische Infanteriebrigade"
+		type = hussar
+		home = 577
+	}
+	regiment = {
+		name = "III Bremenische Infanterie"
+		type = artillery
+		home = 577
+	}
+
+	regiment = {
+		name = "IV Bremenische Infanterie"
+		type = artillery
+		home = 576
+	}
+	regiment = {
+		name = "I Westfalen Infanterie"
+		type = artillery
+		home = 575
+	}
+	regiment = {
+		name = "II Westfalen Infanterie"
+		type = artillery
+		home = 572
+	}
+	regiment = {
+		name = "III Westfalen Infanterie"
+		type = artillery
+		home = 572
+	}
+}
+army = {
+	name = "Braunschweigische Armee"
+	location = 536
+	regiment = {
+		name = "1. Infanterie-Regiment"
+		type = infantry
+		home = 581
+	}
+	regiment = {
+		name = "2. Infanterie-Regiment"
+		type = infantry
+		home = 580
+	}
+	regiment = {
+		name = "1. Artillerie-Regiment"
+		type = infantry
+		home = 581
+	}
+	regiment = {
+		name = "1. Dragoner-Regiment"
+		type = infantry
+		home = 580
+	}
+	regiment = {
+		name= "1. Braunschweigische Infanterie-Brigade"
+		type = hussar
+		home = 536
+	}
+	regiment = {
+		name= "2. Braunschweigische Infanterie-Brigade"
+		type = artillery
+		home = 566
+	}
+	regiment = {
+		name= "3. Braunschweigische Infanterie-Brigade"
+		type = artillery
+		home = 537
+	}
+	regiment = {
+		name = "Lingenische Brigade"
+		type = artillery
+		home = 566
+	}
+	regiment = {
+		name= "1. Braunschweigische Reiter-Brigade"
+		type = artillery
+		home = 568
+	}
+	regiment = {
+		name= "1. Braunschweigische Artillerie-Brigade"
+		type = artillery
+		home = 568
+	}	            	            
+}
+
+army = {
+	name = "Braunschweigische Chuds"
+	location = 573
+	regiment = {
+		name= "1. Oldenburgische InfanterieChuds"
+		type = hussar
+		home = 574
+	}
+	regiment = {
+		name= "1. Hannöversche InfanterieChuds"
+		type = artillery
+		home = 574
+	}
+
+	regiment = {
+		name= "2. Hannöversche InfanterieChuds"
+		type = artillery
+		home = 573
+	}
+	regiment = {
+		name= "1. Hannöversche ArtillerieChuds"
+		type = artillery
+		home = 573
+	}
+	regiment = {
+		name = "I Bremenische InfanterieChuds"
+		type = artillery
+		home = 570
+	}
+	regiment = {
+		name = "II Bremenische InfanterieChuds"
+		type = artillery
+		home = 570
+	}
+	regiment = {
+		name= "2. Oldenburgische InfanterieChuds"
+		type = hussar
+		home = 571
+	}
+	regiment = {
+		name = "III Bremenische InfanterieChuds"
+		type = artillery
+		home = 571
+	}
+
+	regiment = {
+		name = "IV Bremenische InfanterieChuds"
+		type = artillery
+		home = 2560
+	}
+	regiment = {
+		name = "I Westfalen InfanterieChuds"
+		type = artillery
+		home = 2560
+	}
+	regiment = {
+		name = "II Westfalen InfanterieChuds"
+		type = artillery
+		home = 579
+	}
+	regiment = {
+		name = "III Westfalen InfanterieChuds"
+		type = artillery
+		home = 579
+	}
+}

@@ -1,0 +1,9 @@
+owner = BAV
+controller = BAV
+
+trade_goods = timber
+life_rating = 35 
+
+
+add_core = BAV
+add_core = SWI

@@ -1,0 +1,676 @@
+#Halab Region (572000)  #see Turkey.txt for balance of region
+#under the rule of Egypt in 1836
+#Aleppo (316000/79000 POPS) #now part of Syria
+897 = {
+    aristocrats = {
+        culture = persian
+        religion = shiite
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = persian
+        religion = shiite
+        size = 175
+    }
+
+    officers = {
+        culture = persian
+        religion = shiite
+        size = 250
+    }
+
+    clergymen = {
+        culture = persian
+        religion = shiite
+        size = 150
+    }
+
+    artisans = {
+        culture = persian
+        religion = shiite
+        size = 1900
+    }
+
+    soldiers = {
+        culture = persian
+        religion = shiite
+        size = 1100
+    }
+
+    farmers = {
+        culture = persian
+        religion = shiite
+        size = 10050
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = catholic
+        size = 5450
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 175
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 2700
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 22350
+    }
+
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 1200
+    }
+
+    bureaucrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 2450
+    }
+
+    officers = {
+        culture = mashriqi
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 10900
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 88000
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = armenian
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = armenian
+        religion = orthodox
+        size = 6350
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 2900
+    }
+}
+#Dayr al-Zour (256000/64000 POPS) #now part of Syria  mashriqi-catholic = assyrian
+901 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 1300
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 22600
+    }
+
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 700
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 3600
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 61950
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 7450
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = catholic
+        size = 24700
+    }
+}
+#Suriye Region (720000)  #see Jordan.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Damascus (328000/82000 POPS)
+902 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = catholic
+        size = 1800
+    }
+
+    bureaucrats = {
+        culture = mashriqi
+        religion = catholic
+        size = 3850
+    }
+
+    officers = {
+        culture = mashriqi
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 1150
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = catholic
+        size = 22000
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 8000
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 60400
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = catholic
+        size = 30400
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = shiite
+        size = 100
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = shiite
+        size = 1100
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = shiite
+        size = 2900
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 11000
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 28650
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 3900
+    }
+}
+#Homs (80000/20000 POPS)
+903 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 1700
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 31050
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = shiite
+        size = 100
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = shiite
+        size = 200
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = shiite
+        size = 3700
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 1950
+    }
+}
+#Hama (108000/27000 POPS)
+904 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 1600
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 24950
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 2950
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = catholic
+        size = 2150
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = shiite
+        size = 150
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = shiite
+        size = 900
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = shiite
+        size = 14950
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 3750
+    }
+}
+#Latakia (112000/28000 POPS)
+905 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 33450
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 1050
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 800
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 13050
+    }
+
+    farmers = {
+        culture = armenian
+        religion = orthodox
+        size = 3050
+    }
+
+    farmers = {
+        culture = roman
+        religion = orthodox
+        size = 1050
+    }
+}
+#Suwayda (92000/23000 POPS)
+906 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 1900
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 34800
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 400
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 7450
+    }
+}
+#Badiyat al-Sham Region (444000)  #see Jordan.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1836
+#Palmyra (44000/11000 POPS)
+907 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 105
+    }
+
+    officers = {
+        culture = mashriqi
+        religion = sunni
+        size = 10
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 3540
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 700
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 16950
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 950
+    }
+}

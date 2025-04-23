@@ -1,0 +1,29 @@
+owner = BAV
+controller = BAV
+add_core = AUS
+add_core = GER
+trade_goods = grain
+life_rating = 37
+fort = 1
+state_building = {
+	level = 2 
+	building = fertilizer_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}
+
+add_core = BAV

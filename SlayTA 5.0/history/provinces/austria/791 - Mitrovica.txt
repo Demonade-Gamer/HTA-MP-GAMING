@@ -1,0 +1,14 @@
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = HUN
+add_core = SRM
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+}
+trade_goods = timber
+life_rating = 35 
+
+

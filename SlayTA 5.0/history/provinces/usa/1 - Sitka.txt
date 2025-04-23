@@ -1,0 +1,11 @@
+owner = SKM
+controller = SKM
+add_core = SKM
+trade_goods = timber
+life_rating = 20
+
+state_building = {
+	level = 2 
+	building = canned_food_factory
+	upgrade = yes
+}

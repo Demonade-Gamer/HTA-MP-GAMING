@@ -1,0 +1,8 @@
+owner = MAT
+controller = MAT
+add_core = MAT
+trade_goods = coal
+life_rating = 35 
+terrain = forest
+
+add_core = SAF

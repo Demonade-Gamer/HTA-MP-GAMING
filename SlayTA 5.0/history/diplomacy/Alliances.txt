@@ -1,0 +1,31 @@
+
+
+# Hispania-Navarra
+alliance = {
+	first = HIS
+	second = NAV
+	start_date = 1836.1.1
+	end_date = 1949.1.1
+}
+# Hispania-Pope
+alliance = {
+	first = HIS
+	second = PAP
+	start_date = 1836.1.1
+	end_date = 1949.1.1
+}
+#Hongsawatoi-Siam
+alliance = {
+	first = HNG
+	second = SIA
+	start_date = 1836.1.1
+	end_date = 1949.1.1
+}
+
+#NPL-Pope
+alliance = {
+	first = NPL
+	second = PAP
+	start_date = 1836.1.1
+	end_date = 1949.1.1
+}

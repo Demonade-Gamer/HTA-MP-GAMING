@@ -1,0 +1,22 @@
+owner = BAV
+controller = BAV
+add_core = BAV
+
+add_core = GER
+trade_goods = cattle
+life_rating = 38
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}

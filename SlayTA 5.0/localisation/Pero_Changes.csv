@@ -1,0 +1,177 @@
+#############################################;;;;;;;;;;;;;;x
+#Size Tags;;;;;;;;;;;;;;x
+#############################################;;;;;;;;;;;;;;x
+STR;即Strategic State Flag\n劬This flag dynamically assigns a size to this state. Currently it's set to Strategic, as it's either below 80k pops before 1870 or below 120k pops after 1870.;;;;;;;;;;;;;x
+SMA;即Small State Flag\n劬This flag dynamically assigns a size to this state. Currently it's set to Small, as it's either below 360k pops before 1870 or below 500k pops after 1870.;;;;;;;;;;;;;x
+MED;即Medium State Flag\n劬This flag dynamically assigns a size to this state. Currently it's set to Medium, as it's either below 680k pops before 1870 or below 800k pops after 1870.;;;;;;;;;;;;;x
+LRG;即Large State Flag\n劬This flag dynamically assigns a size to this state. Currently it's set to Large, as it's either below 900k pops before 1870 or below 1,1m pops after 1870.;;;;;;;;;;;;;x
+HUG;即Huge State Flag\n劬This flag dynamically assigns a size to this state. Currently it's set to Huge, as it's either above 900k pops before 1870 or above 1,1m pops after 1870.;;;;;;;;;;;;;x
+#############################################;;;;;;;;;;;;;;x
+#Sized CBs;;;;;;;;;;;;;;x
+#############################################;;;;;;;;;;;;;;x
+acquire_core_state_strat;Take Strategic Core State;;;;;;;;;;;;;;x
+acquire_core_state_strat_short;Acquire $STATE$;;;;;;;;;;;;;;x
+acquire_core_state_strat_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+acquire_core_state_strat_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+acquire_core_state_small;Take Small Core State;;;;;;;;;;;;;;x
+acquire_core_state_small_short;Acquire $STATE$;;;;;;;;;;;;;;x
+acquire_core_state_small_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+acquire_core_state_small_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+acquire_core_state_medium;Take Medium Core State;;;;;;;;;;;;;;x
+acquire_core_state_medium_short;Acquire $STATE$;;;;;;;;;;;;;;x
+acquire_core_state_medium_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+acquire_core_state_medium_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+acquire_core_state_large;Take Large Core State;;;;;;;;;;;;;;x
+acquire_core_state_large_short;Acquire $STATE$;;;;;;;;;;;;;;x
+acquire_core_state_large_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+acquire_core_state_large_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+acquire_core_state_huge;Take Huge Core State;;;;;;;;;;;;;;x
+acquire_core_state_huge_short;Acquire $STATE$;;;;;;;;;;;;;;x
+acquire_core_state_huge_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+acquire_core_state_huge_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+acquire_state_strat_early;Take Strategic State Earlygame;;;;;;;;;;;;;x
+acquire_state_strat_early_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_strat_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_strat_early_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_small_early;Take Small State Earlygame;;;;;;;;;;;;;x
+acquire_state_small_early_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_small_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_small_early_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_medium_early;Take Medium State Earlygame;;;;;;;;;;;;;x
+acquire_state_medium_early_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_medium_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_medium_early_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_large_early;Take Large State Earlygame;;;;;;;;;;;;;x
+acquire_state_large_early_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_large_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_large_early_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_huge_early;Take Huge State Earlygame;;;;;;;;;;;;;x
+acquire_state_huge_early_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_huge_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_huge_early_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_strat;Take Strategic State;;;;;;;;;;;;;x
+acquire_state_strat_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_strat_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_strat_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_small;Take Small State;;;;;;;;;;;;;x
+acquire_state_small_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_small_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_small_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_medium;Take Medium State;;;;;;;;;;;;;x
+acquire_state_medium_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_medium_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_medium_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_large;Take Large State;;;;;;;;;;;;;x
+acquire_state_large_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_large_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_large_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+acquire_state_huge;Take Huge State;;;;;;;;;;;;;x
+acquire_state_huge_short;Acquire $STATE$;;;;;;;;;;;;;x
+acquire_state_huge_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+acquire_state_huge_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+free_peoples_strat_early;Free Strategic Strategic Earlygame;;;;;;;;;;;;;x
+free_peoples_strat_early_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_strat_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_strat_early_setup;Demand that $RECIPIENT$ return territory.;;;;;;;;;;;;;x
+free_peoples_small_early;Free Small State Earlygame;;;;;;;;;;;;;x
+free_peoples_small_early_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_small_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_small_early_setup;Demand that $RECIPIENT$ return territory.;;;;;;;;;;;;;x
+free_peoples_medium_early;Free Medium State Earlygame;;;;;;;;;;;;;x
+free_peoples_medium_early_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_medium_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_medium_early_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+free_peoples_large_early;Free Large State Earlygame;;;;;;;;;;;;;x
+free_peoples_large_early_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_large_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_large_early_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+free_peoples_huge_early;Free Huge State Earlygame;;;;;;;;;;;;;x
+free_peoples_huge_early_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_huge_early_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_huge_early_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+free_peoples_strat;Free Strategic State;;;;;;;;;;;;;x
+free_peoples_strat_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_strat_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_strat_setup;Demand that $RECIPIENT$ return territory.;;;;;;;;;;;;;x
+free_peoples_small;Free Small State;;;;;;;;;;;;;x
+free_peoples_small_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_small_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_small_setup;Demand that $RECIPIENT$ return territory.;;;;;;;;;;;;;x
+free_peoples_medium;Free Medium State;;;;;;;;;;;;;x
+free_peoples_medium_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_medium_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_medium_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+free_peoples_large;Free Large State;;;;;;;;;;;;;x
+free_peoples_large_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_large_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_large_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+free_peoples_huge;Free Huge State;;;;;;;;;;;;;x
+free_peoples_huge_short;Free $STATE$;;;;;;;;;;;;;x
+free_peoples_huge_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+free_peoples_huge_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+demand_concession_strat;Take Strategic Concession;;;;;;;;;;;;;x
+demand_concession_strat_short;Acquire $STATE$;;;;;;;;;;;;;x
+demand_concession_strat_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+demand_concession_strat_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+demand_concession_small;Take Small Concession;;;;;;;;;;;;;x
+demand_concession_small_short;Acquire $STATE$;;;;;;;;;;;;;x
+demand_concession_small_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+demand_concession_small_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+demand_concession_medium;Take Medium Concession;;;;;;;;;;;;;x
+demand_concession_medium_short;Acquire $STATE$;;;;;;;;;;;;;x
+demand_concession_medium_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+demand_concession_medium_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+demand_concession_large;Take Large Concession;;;;;;;;;;;;;x
+demand_concession_large_short;Acquire $STATE$;;;;;;;;;;;;;x
+demand_concession_large_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+demand_concession_large_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+demand_concession_huge;Take Huge Concession;;;;;;;;;;;;;x
+demand_concession_huge_short;Acquire $STATE$;;;;;;;;;;;;;x
+demand_concession_huge_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+demand_concession_huge_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+place_in_the_sun_strat;Take Strategic Concession;;;;;;;;;;;;;x
+place_in_the_sun_strat_short;Acquire $STATE$;;;;;;;;;;;;;x
+place_in_the_sun_strat_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+place_in_the_sun_strat_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+place_in_the_sun_small;Take Small Concession;;;;;;;;;;;;;x
+place_in_the_sun_small_short;Acquire $STATE$;;;;;;;;;;;;;x
+place_in_the_sun_small_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+place_in_the_sun_small_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+place_in_the_sunn_medium;Take Medium Concession;;;;;;;;;;;;;x
+place_in_the_sun_medium_short;Acquire $STATE$;;;;;;;;;;;;;x
+place_in_the_sun_medium_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+place_in_the_sun_medium_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+place_in_the_sun_large;Take Large Concession;;;;;;;;;;;;;x
+place_in_the_sun_large_short;Acquire $STATE$;;;;;;;;;;;;;x
+place_in_the_sun_large_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+place_in_the_sun_large_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+place_in_the_sun_huge;Take Huge Concession;;;;;;;;;;;;;x
+place_in_the_sun_huge_short;Acquire $STATE$;;;;;;;;;;;;;x
+place_in_the_sun_huge_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
+place_in_the_sun_huge_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
+unification_casus_belli_tiny;Magallian Wars Strategic State;;;;;;;;;;;;;;x
+unification_casus_belli_tiny_short;Acquire $STATE$;;;;;;;;;;;;;;x
+unification_casus_belli_tiny_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+unification_casus_belli_tiny_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+unification_casus_belli_small;Magallian Wars Small State;;;;;;;;;;;;;;x
+unification_casus_belli_small_short;Acquire $STATE$;;;;;;;;;;;;;;x
+unification_casus_belli_small_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+unification_casus_belli_small_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+unification_casus_belli_medium;Magallian Wars Medium State;;;;;;;;;;;;;;x
+unification_casus_belli_medium_short;Acquire $STATE$;;;;;;;;;;;;;;x
+unification_casus_belli_medium_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+unification_casus_belli_medium_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+unification_casus_belli_large;Magallian Wars Large State;;;;;;;;;;;;;;x
+unification_casus_belli_large_short;Acquire $STATE$;;;;;;;;;;;;;;x
+unification_casus_belli_large_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+unification_casus_belli_large_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+unification_casus_belli_huge;Magallian Wars Huge State;;;;;;;;;;;;;;x
+unification_casus_belli_huge_short;Acquire $STATE$;;;;;;;;;;;;;;x
+unification_casus_belli_huge_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+unification_casus_belli_huge_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;;x
+unification_annex_casus_belli;Annex Magallian Wars;;;;;;;;;;;;;;x
+unification_annex_casus_belli_short;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+unification_annex_casus_belli_setup;Demand that $RECIPIENT$ be annexed.;;;;;;;;;;;;;;x
+unification_casus_belli_capital;Magallian Wars Take Capital;;;;;;;;;;;;;;x
+unification_casus_belli_capital_short;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;;x
+unification_casus_belli_capital_setup;Demand that $RECIPIENT$ secede their capital territory.;;;;;;;;;;;;;;x

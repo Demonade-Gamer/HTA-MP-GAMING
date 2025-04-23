@@ -1,0 +1,7 @@
+#Now the island of Qeshm/Hormuz in Persia
+owner = PER
+controller = PER
+add_core = PER
+trade_goods = fish
+life_rating = 35 
+

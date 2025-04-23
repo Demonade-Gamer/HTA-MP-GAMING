@@ -1,0 +1,7 @@
+owner = GNC
+controller = GNC
+add_core = GNC
+trade_goods = coal
+life_rating = 35 
+
+

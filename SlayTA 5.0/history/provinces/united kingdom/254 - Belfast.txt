@@ -1,0 +1,23 @@
+owner = CLT
+controller = CLT
+
+trade_goods = cattle
+life_rating = 35 
+naval_base = 1
+fort = 1
+state_building = {
+	level = 2 
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}
+add_core = CLT

@@ -1,0 +1,8 @@
+owner = AGR
+controller = AGR
+add_core = AGR
+add_core = GWA
+add_core = HND
+trade_goods = coal
+life_rating = 32
+

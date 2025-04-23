@@ -1,0 +1,176 @@
+#Costa Rica Region (84000)
+#Ruled by Central America 1836
+#San Jose (52000/13000 POPS)
+2201 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 600
+    }
+    bureaucrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 150
+    }
+    officers = {
+        culture = mellomsk
+        religion = protestant
+        size = 75
+    }
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 382
+    }
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 2025
+    }
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 1687
+    }
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 35587
+    }
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 35587
+    }
+    clergymen = {
+		culture = afro_caribbean
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = animist
+		size = 100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = animist
+		size = 25
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = animist
+		size = 1100
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = animist
+		size = 750
+	}
+}
+#Liberia (20000/5000 POPS)
+2202 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 675
+    }
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 1875
+    }
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 36750
+    }
+    clergymen = {
+		culture = afro_caribbean
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = animist
+		size = 100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = animist
+		size = 25
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = animist
+		size = 1100
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = animist
+		size = 750
+	}
+}
+#Limon (12000/3000 POPS)
+2203 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 450
+    }
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 750
+    }
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 2250
+    }
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 40500
+    }
+    clergymen = {
+		culture = afro_caribbean
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = animist
+		size = 100
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = animist
+		size = 25
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = animist
+		size = 1100
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = animist
+		size = 750
+	}
+}

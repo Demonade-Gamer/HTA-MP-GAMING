@@ -1,0 +1,45 @@
+#Greenland (7500)
+#Ruled by Denmark 1836
+#Godthab (4220/1055 POPS)
+251 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = protestant
+		size = 25
+	}
+	clergymen = {
+		culture = icelandic
+		religion = protestant
+		size = 15
+	}
+	artisans = {
+		culture = icelandic
+		religion = protestant
+		size = 15
+	}
+	farmers = {
+		culture = shawnee
+		religion = protestant
+		size = 1100
+	}
+}
+#Holsteinborg (1232/308 POPS)
+2591 = {
+	clergymen = {
+		culture = icelandic
+		religion = protestant
+		size = 4
+	}
+	artisans = {
+		culture = icelandic
+		religion = protestant
+		size = 4
+	}
+	farmers = {
+		culture = shawnee
+		religion = protestant
+		size = 300
+	}
+}
+#2632 Augsmagsalik or whatever has been moved to Iran/Persia
+#2636 Egdeseminde or whatever, moved to Canada

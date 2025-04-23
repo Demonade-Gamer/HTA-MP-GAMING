@@ -1,0 +1,23 @@
+army = {
+	name = "Firgens Here"
+	location = 2215
+	regiment = {
+		name= "1. Futshere"
+		type = irregular
+		home = 2213
+	}
+
+	regiment = {
+		name= "2. Futshere"
+		type = irregular
+		home = 2213
+	}
+
+	regiment = {
+		name= "3. Futshere"
+		type = irregular
+		home = 2215
+	}
+
+}
+

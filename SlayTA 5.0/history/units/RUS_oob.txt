@@ -1,0 +1,309 @@
+
+POL = {
+	truce_until = 1837.1.1
+}
+BYZ = {
+	truce_until = 1837.1.1
+}
+ARM = {
+	truce_until = 1837.1.1
+}
+BOH = {
+	truce_until = 1837.1.1
+}
+SWE = {
+	truce_until = 1837.1.1
+}
+FIN = {
+	truce_until = 1837.1.1
+}
+SML = {
+	value = -180
+	level = 0
+}
+
+army = {
+	name = "Army Corps of the Guard"
+	location = 998
+	regiment = {
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1008
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1020
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1026
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1026
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 1031
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1009
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1022
+	}
+
+	regiment = {
+		name= "1.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 1013
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 1028
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 1006
+	}
+}
+
+army = {
+	name = "1st Line Corps"
+	location = 1000
+	regiment = {
+		name = "1.1-ya Pekhotnaya Divisiya"
+		type = infantry
+		home = 989
+	}
+	
+	regiment = {
+		name = "2.1-ya Pekhotnaya Divisiya"
+		type = infantry
+		home = 1001
+	}
+	
+	regiment = {
+		name = "3.1-ya Pekhotnaya Divisiya"
+		type = infantry
+		home = 1008
+	}
+	
+	regiment = {
+		name = "1.2-ya Pekhotnaya Divisiya"
+		type = infantry
+		home = 1030
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		type = hussar
+		home = 991
+	}
+	
+	regiment = {
+		name = "2.2-ya Pekhotnaya Divisiya"
+		type = hussar
+		home = 998
+	}
+	
+	regiment = {
+		name = "3.2-ya Pekhotnaya Divisiya"
+		type = infantry
+		home = 1026
+	}
+	
+	regiment = {
+		name = "1.1-ya Artilleriskaya Diviziya"
+		type = infantry
+		home = 1032
+	}
+
+	regiment = {
+		name = "2.1-ya Artilleriskaya Diviziya"
+		type = infantry
+		home = 991
+	}
+
+	regiment = {
+		name = "3.1-ya Artilleriskaya Diviziya"
+		type = infantry
+		home = 1023
+	}
+}
+
+army = {
+	name = "1. Cavalry Corps"
+	location = 1005
+	regiment = {
+		name = "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 998
+	}
+	regiment = {
+		name = "2.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 999
+	}
+	regiment = {
+		name = "4.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 1029
+	}
+	regiment = {
+		name = "1.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 990
+	}
+
+	regiment = {
+		name = "2.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 990
+	}
+
+	regiment = {
+		name = "3.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 987
+	}
+
+	regiment = {
+		name = "4.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 1058
+	}
+	regiment = {
+		name = "5.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 1058
+	}
+	regiment = {
+		name = "6.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 1030
+	}
+	regiment = {
+		name = "7.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 1030
+	}
+	regiment = {
+		name = "8.1-ya Kavaleriiskaya Diviziya"
+		type = cavalry
+		home = 2659
+	}
+}
+
+army = {
+	name = "Wagner Group"
+	location = 1020
+	regiment = {
+		name = "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 2690
+	}
+
+	regiment = {
+		name = "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1062
+	}
+
+	regiment = {
+		name = "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1062
+	}
+
+	regiment = {
+		name = "3.5-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1062
+	}
+
+	regiment = {
+		name = "1.7-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 987
+	}
+
+	regiment = {
+		name = "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 2685
+	}
+
+	regiment = {
+		name = "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 2685
+	}
+
+	regiment = {
+		name = "1.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 2682
+	}
+
+	regiment = {
+		name = "2.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 990
+	}
+
+	regiment = {
+		name = "3.4-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 1006
+	}
+}
+
+
+navy = {
+	name = "Imperial Fleet"
+	location = 981
+	ship = {
+		name= "Dvenadtsat' Apostolov"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Ratnyi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Hiagudil"
+		type = manowar
+	}
+
+	ship = {
+		name= "Paraskevia"
+		type = manowar
+	}
+
+	ship = {
+		name= "Borislav"
+		type = frigate
+	}
+
+}

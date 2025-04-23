@@ -1,0 +1,16 @@
+owner = BAV
+controller = BAV
+
+trade_goods = fruit
+life_rating = 35 
+fort = 1
+
+state_building = {
+	level = 2 
+	building = artillery_factory
+	upgrade = yes
+}
+
+
+add_core = BAV
+add_core = SWI

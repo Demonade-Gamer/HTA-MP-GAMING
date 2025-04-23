@@ -1,0 +1,8 @@
+owner = USR
+controller = USR
+add_core = USR
+add_core = LTS
+trade_goods = sulphur
+life_rating = 40
+naval_base = 1
+
