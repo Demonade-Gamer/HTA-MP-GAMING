@@ -19,6 +19,7 @@ GENERAL GAME CHANGES--
 	- Nerfed the early game infamy decay from a scaling -0.1 to -0.15 depending on gp status to just a flat -0.1
 	- REMOVED THE PROVINCE SELECTOR
 	- REMOVED THE WORLD BANK
+	- Added ToK host decisions (besides the nation annexing ofc)
 
 FRANCE/NETHERLANDS CHANGES-
 	- The Netherlands no longer owns East Frisia and Bremen, split up between Brandenburg and Oldenburg
@@ -30,6 +31,7 @@ FRANCE/NETHERLANDS CHANGES-
 	- Netherlands now gets French accepted
 	- Converted all aquitanians in France to french (RIP)
 	- Tripled the pop in South Africa, but 2/3rds of the pop are Yoruba (so the steenkooler pops stay the same)
+	- If the Dutch lose, they can escape and form South Africa, getting the biggest SAF investment bonus but never being able to go back to Europe.
 HISPANIA CHANGES- 
 	- Released Aragon and Valencia from Hispania (about 1.1 mil pop decrease)
 	- Teralarga now starts in their sphere
@@ -54,6 +56,7 @@ ITALY CHANGES-
 		- Hispania goes from 11.34 mil to 10.96 mil
 		- Naples goes from 2.68 mil to 2.95 mil
 	- Rebalanced states in Italy, added two in the South, range in pop for most states from 400k to 300k
+	- If they mega-win, if Aquitania and Rome both don't exist and Italy owns all their land, they can form a Red Rome, real larp hours.
 	
 AQUITANIA CHANGES 
 	- Aquitania and France now have a shared pool that they can contribute to that in 1850 gives them a modifier that lasts 5, 10, or 15 years depending on amount invested (they need to invest 3, 9, and 12 million to get the respective length)

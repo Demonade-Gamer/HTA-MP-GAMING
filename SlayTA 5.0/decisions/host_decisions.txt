@@ -1,20 +1,19 @@
 political_decisions = {
 	become_host_nation = {
-		picture = zombie_freak115
-		alert = no
+	picture = host
 		potential = {
 			NOT = { has_global_flag = host_nation_picked }
-			tag = SIK
+			ai = no
 		}
 	
 		allow = {
-			NOT = { has_global_flag = host_nation_picked }
+		 always = yes
 		}
 		
 		effect = {
 			set_global_flag = host_nation_picked
 			set_country_flag = host_nation
-			GHO = {
+			SIK = {
 				country_event = 999990	
 			}
 		}
@@ -23,7 +22,7 @@ political_decisions = {
 		}
 	}
 	show_host_decisions = {
-		picture = zombie_freak115
+	picture = host
 		potential = {
 			NOT = { has_country_flag = showing_host_decisions }
 			has_country_flag = host_nation
@@ -41,14 +40,14 @@ political_decisions = {
 		}
 	}
 	hide_host_decisions = {
-		picture = zombie_freak115
+	picture = host
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
 		}
 	
 		allow = {
-			
+			always = yes
 		}
 		
 		effect = {
@@ -58,64 +57,8 @@ political_decisions = {
 			factor = 0
 		}
 	}
-	show_meme_decisions = {
-		picture = troll
-		potential = {
-			NOT = { has_country_flag = showing_meme_decisions }
-			has_country_flag = host_nation
-		}
-	
-		allow = {
-			
-		}
-		
-		effect = {
-			set_country_flag = showing_meme_decisions
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-	hide_meme_decisions = {
-		picture = troll
-		potential = {
-			has_country_flag = showing_meme_decisions
-			has_country_flag = host_nation
-		}
-	
-		allow = {
-			
-		}
-		
-		effect = {
-			clr_country_flag = showing_meme_decisions
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-	meme_persia_armenia = {
-		picture = form_transcaucasia
-		potential = {
-			has_country_flag = showing_meme_decisions
-			has_country_flag = host_nation
-			NOT = { has_global_flag = persia_armenian }
-		}
-	
-		allow = {
-		}
-		
-		effect = {
-			any_country = {
-				set_global_flag = persia_armenian
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
 	ally_all_countries = {
-		picture = zombie_freak115
+	picture = ally_yes
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -135,7 +78,7 @@ political_decisions = {
 		}
 	}
 	unally_all_countries = {
-		picture = zombie_freak115
+	picture = ally_no
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -155,7 +98,7 @@ political_decisions = {
 		}
 	}
 	get_militaryaccess_with_all_countries = {
-		picture = zombie_freak115
+	picture = milaccess_yes
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -175,7 +118,7 @@ political_decisions = {
 		}
 	}
 	remove_militaryaccess_with_all_countries = {
-		picture = zombie_freak115
+	picture = milaccess_no
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -195,7 +138,7 @@ political_decisions = {
 		}
 	}
 	transfer_host_nation = {
-		picture = zombie_freak115
+	picture = swap_host
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -220,7 +163,7 @@ political_decisions = {
 		}
 	}
 	kick_players_no_milaccess = {
-		picture = zombie_freak115
+	picture = kickedlol
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -244,7 +187,7 @@ political_decisions = {
 		}
 	}
 	unsige_country_no_milaccess = {
-		picture = zombie_freak115
+	picture = unsiege
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -267,10 +210,11 @@ political_decisions = {
 		}
 	}
 	choose_country_to_siege = {
-		picture = zombie_freak115
+	picture = host
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
+			NOT = { has_country_flag = has_chosen_siege_country }
 		}
 	
 		allow = {
@@ -294,7 +238,7 @@ political_decisions = {
 		}
 	}
 	siege_country = {
-		picture = zombie_freak115
+	picture = siege
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -313,6 +257,206 @@ political_decisions = {
 				country_event = 999994
 			}
 			clr_country_flag = has_chosen_siege_country
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	increase_infamy = {
+	picture = more_infamy
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				badboy = 1
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	decrease_infamy = {
+	picture = less_infamy
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				badboy = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	give_sanctions = {
+	picture = troll
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			country_event = 999995
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	swap_country = {
+		picture = hostswap
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			random_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				country_event = 1000002
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	swap_country_host_flag_yes = {
+		picture = host_flag_tagswap_yes
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+			NOT = { has_global_flag = host_flag_tagmove }
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			set_global_flag = host_flag_tagmove
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	swap_country_host_flag_no = {
+		picture = host_flag_tagswap_no
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+			has_global_flag = host_flag_tagmove
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			clr_global_flag = host_flag_tagmove
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	select_country_to_swap = {
+		picture = select_swap
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+			NOT = { has_global_flag = has_chosen_swap }
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			random_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				set_country_flag = picked_to_swap
+				set_global_flag = has_chosen_swap
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	select_country_to_swap_to = {
+		picture = select_swap_to
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+			has_global_flag = has_chosen_swap
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			random_country = {
+				limit = {
+					NOT = { has_country_flag = picked_to_swap }
+					NOT = { military_access = THIS }
+				}
+				country_event = 1000006
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	reset_swap_selection = {
+		picture = cancel_swap
+		potential = {
+			has_country_flag = showing_host_decisions
+			has_country_flag = host_nation
+			has_global_flag = has_chosen_swap
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					has_country_flag = picked_to_swap
+				}
+				clr_country_flag = picked_to_swap
+				clr_global_flag = has_chosen_swap
+			}
 		}
 		ai_will_do = {
 			factor = 0
