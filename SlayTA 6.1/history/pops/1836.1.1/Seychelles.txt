@@ -1,0 +1,25 @@
+#Seychelles - 5500
+#ruled by Hispania 1836
+#Seychelles (5000/1250 POPS)
+2127 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 20
+	}
+	clergymen = {
+		culture = yoruba
+		religion = catholic
+		size = 30
+	}
+	artisans = {
+		culture = yoruba
+		religion = catholic
+		size = 75
+	}
+	farmers = {
+		culture = yoruba
+		religion = catholic
+		size = 1175
+	}
+}

@@ -1,0 +1,22 @@
+owner = GEN
+controller = GEN
+add_core = GEN
+
+state_building = {
+	level = 2 
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = clipper_shipyard
+	upgrade = yes
+}
+
+
+trade_goods = coal
+life_rating = 37
+naval_base = 2
+
+
+add_core = PDN

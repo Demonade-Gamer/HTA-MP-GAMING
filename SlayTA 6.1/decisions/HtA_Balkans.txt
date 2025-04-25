@@ -1,0 +1,42 @@
+political_decisions = { 
+	beautification_of_yugoslavia = {
+	picture = claim_greater_bosnia
+	potential = { 
+		OR = {
+			tag = ITA
+			tag = BYZ
+			tag = RUM
+			tag = BOH
+			tag = ZAC
+		}
+		NOT = { has_global_flag = beautified_yugo }
+	}
+	allow = {
+		CRO = { all_core = { owned_by = THIS } }
+		SER = { all_core = { owned_by = THIS } }
+		SLO = { all_core = { owned_by = THIS } }
+		MNT = { all_core = { owned_by = THIS } }
+	}
+	effect = {
+		AUS_771 = { life_rating = 2 }
+		AUS_736 = { life_rating = 2 }
+		AUS_780 = { life_rating = 2 }
+		TUR_788 = { life_rating = 2 }
+		SER_794 = { life_rating = 2 }
+		TUR_803 = { life_rating = 2 }
+		CRO = { all_core = { add_core = THIS } }
+		SER = { all_core = { add_core = THIS } }
+		SLO = { all_core = { add_core = THIS } }
+		MNT = { all_core = { add_core = THIS } }
+		MNT = {
+			all_core = {
+				limit = {
+					NOT = { province_id = 2582 }
+				}
+			life_rating = 5 
+			}
+		}
+		set_global_flag = beautified_yugo
+	}
+}
+}

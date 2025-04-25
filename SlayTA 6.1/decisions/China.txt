@@ -1,0 +1,298 @@
+political_decisions = {
+	torching_of_the_summer_palace = {
+		potential = {
+			NOT = { tag = QIN }
+			QIN = { owns = 1616 }
+			civilized = yes
+			is_greater_power = yes
+			state_n_government = 1
+			war_with = QIN
+			NOT = { has_global_flag = summer_palace_torched }
+		}
+		allow = {
+			controls = 1616
+		}
+		effect = {
+			set_global_flag = summer_palace_torched
+			badboy = 3
+			QIN = { country_event = 13355 }
+		}
+	}
+
+	restore_China_QIN = {
+			potential = {
+				tag = QIN
+				NOT = { has_global_flag = china_restored }
+			}
+			allow = {
+				civilized = yes
+				GXI = { all_core = { owned_by = THIS } }
+				}
+			effect = {
+				set_global_flag = china_restored
+				add_accepted_culture = yue
+				GXI = {
+					all_core = {
+						add_core = QIN
+						remove_core = GXI
+					}
+				}
+			}
+		}
+	
+	unequal_treaty = {
+		potential = {
+			any_owned_province = { continent = asia }
+			civilized = yes 
+			NOT = { has_country_flag = intervened_boxer_war }
+			NOT = {
+				AND = {
+					OR = {
+						tag = JAP
+						tag = TKG
+					}
+					NOT = { has_country_flag = negotiate_treaty_shimonoseki }
+				}
+				has_country_flag = negotiate_unequal_treaty
+				is_culture_group = east_asian
+			}
+			QIN = {
+				civilized = no
+				war_with = THIS
+				NOT = { has_country_flag = negotiate_unequal_treaty }
+				OR = {
+					owns = 1498 #Macao
+					owns = 1538 #Shanghai
+					owns = 1566 #Qindao
+					owns = 1481 #Port Arthur
+					owns = 1569 #Weihaiwei
+					owns = 1606 #Jiaxing
+					owns = 1496 #Hong Kong
+					owns = 1608 #Ningbo
+					owns = 1540 #Taicangzhou
+					owns = 1499 #Hainan
+				}
+			}
+		}
+		
+		allow = {
+			war_with = QIN
+			QIN = {
+				OR = {
+					war_exhaustion = 50
+					any_owned_province = { controlled_by = THIS }
+				}
+				OR = {
+					national_provinces_occupied = 0.05
+					blockade = 0.50
+				}
+				war_exhaustion = 10
+			}
+		}
+		
+		effect = {
+			set_country_flag = negotiate_unequal_treaty
+			badboy = 2
+			QIN = {
+				set_country_flag = negotiate_unequal_treaty
+				country_event = 1316082
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	unequal_treaty_TPG = {
+		picture = unequal_treaty
+		potential = {
+			any_owned_province = { continent = asia }
+			NOT = {
+				AND = {
+					OR = {
+						tag = JAP
+						tag = TKG
+					}
+					NOT = { has_country_flag = negotiate_treaty_shimonoseki }
+				}
+				has_country_flag = negotiate_unequal_treaty
+				is_culture_group = east_asian
+			}
+			TPG = {
+				civilized = no
+				war_with = THIS
+				NOT = { has_country_flag = negotiate_unequal_treaty }
+				OR = {
+					owns = 1498 #Macao
+					owns = 1538 #Shanghai
+					owns = 1566 #Qindao
+					owns = 1481 #Port Arthur
+					owns = 1569 #Weihaiwei
+					owns = 1606 #Jiaxing
+					owns = 1496 #Hong Kong
+					owns = 1608 #Ningbo
+					owns = 1540 #Taicangzhou
+					owns = 1499 #Hainan
+				}
+			}
+		}
+		
+		allow = {
+			war_with = TPG
+			TPG = {
+				OR = {
+					war_exhaustion = 50
+					any_owned_province = { controlled_by = THIS }
+				}
+				OR = {
+					national_provinces_occupied = 0.05
+					blockade = 0.50
+				}
+				war_exhaustion = 10
+			}
+		}
+		
+		effect = {
+			set_country_flag = negotiate_unequal_treaty
+			badboy = 2
+			TPG = {
+				set_country_flag = negotiate_unequal_treaty
+				country_event = 1316082
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	unequal_treaty_nanyue = {
+		picture = unequal_treaty
+		potential = {
+			any_owned_province = { continent = asia }
+			NOT = {
+				AND = {
+					OR = {
+						tag = JAP
+						tag = TKG
+					}
+					NOT = { has_country_flag = negotiate_treaty_shimonoseki }
+				}
+				has_country_flag = negotiate_unequal_treaty
+				OR = {
+					is_culture_group = east_asian
+					is_culture_group = southeast_asian
+				}
+			}
+			GXI = {
+				civilized = no
+				war_with = THIS
+				NOT = { has_country_flag = negotiate_unequal_treaty }
+				OR = {
+					owns = 1498 #Macao
+					owns = 1538 #Shanghai
+					owns = 1566 #Qindao
+					owns = 1481 #Port Arthur
+					owns = 1569 #Weihaiwei
+					owns = 1606 #Jiaxing
+					owns = 1496 #Hong Kong
+					owns = 1608 #Ningbo
+					owns = 1540 #Taicangzhou
+					owns = 1499 #Hainan
+				}
+			}
+		}
+		
+		allow = {
+			war_with = GXI
+			GXI= {
+				OR = {
+					war_exhaustion = 50
+					any_owned_province = { controlled_by = THIS }
+				}
+				OR = {
+					national_provinces_occupied = 0.05
+					blockade = 0.50
+				}
+				war_exhaustion = 10
+			}
+		}
+		
+		effect = {
+			set_country_flag = negotiate_unequal_treaty
+			badboy = 2
+			GXI= {
+				set_country_flag = negotiate_unequal_treaty
+				country_event = 1316082
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	unequal_treaty_manchu = {
+		picture = unequal_treaty
+		potential = {
+			any_owned_province = { continent = asia }
+			NOT = {
+				AND = {
+					OR = {
+						tag = JAP
+						tag = TKG
+					}
+					NOT = { has_country_flag = negotiate_treaty_shimonoseki }
+				}
+				has_country_flag = negotiate_unequal_treaty
+				is_culture_group = east_asian
+			}
+			MCK = {
+				civilized = no
+				war_with = THIS
+				NOT = { has_country_flag = negotiate_unequal_treaty }
+				OR = {
+					owns = 1498 #Macao
+					owns = 1538 #Shanghai
+					owns = 1566 #Qindao
+					owns = 1481 #Port Arthur
+					owns = 1569 #Weihaiwei
+					owns = 1606 #Jiaxing
+					owns = 1496 #Hong Kong
+					owns = 1608 #Ningbo
+					owns = 1540 #Taicangzhou
+					owns = 1499 #Hainan
+				}
+			}
+		}
+		
+		allow = {
+			war_with = MCK
+			MCK = {
+				OR = {
+					war_exhaustion = 50
+					any_owned_province = { controlled_by = THIS }
+				}
+				OR = {
+					national_provinces_occupied = 0.05
+					blockade = 0.50
+				}
+				war_exhaustion = 10
+			}
+		}
+		
+		effect = {
+			set_country_flag = negotiate_unequal_treaty
+			badboy = 2
+			MCK = {
+				set_country_flag = negotiate_unequal_treaty
+				country_event = 1316082
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

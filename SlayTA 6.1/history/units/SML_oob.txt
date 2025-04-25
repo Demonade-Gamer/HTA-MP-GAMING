@@ -1,0 +1,343 @@
+BRT = { value = -200 }
+WLL = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+SER = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+POL = {
+	truce_until = 1837.1.1
+}
+BYZ = {
+	truce_until = 1837.1.1
+}
+ARM = {
+	value = -200
+	truce_until = 1837.1.1
+}
+BOH = {
+	truce_until = 1837.1.1
+}
+SWE = {
+	truce_until = 1837.1.1
+}
+FIN = {
+	truce_until = 1837.1.1
+}
+RUS = {
+	value = -180
+}
+DON = {
+	value = 30
+}
+
+army = {
+	name = "1. Line Corps"
+	location = 1015
+	regiment = {
+		name= "1.1-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1046
+	}
+
+	regiment = {
+		name= "2.1-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1046
+	}
+
+	regiment = {
+		name= "3.1-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1046
+	}
+
+	regiment = {
+		name= "1.2-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1045
+	}
+
+	regiment = {
+		name= "2.3-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1041
+	}
+
+	regiment = {
+		name= "3.3-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1041
+	}
+	regiment = {
+		name= "3.Chornomoriya Cossacks"
+		type = artillery
+		home = 718
+	}
+
+
+}
+
+army = {
+	name = "2. Line Corps"
+	location = 1016
+	regiment = {
+		name= "1.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 943
+	}
+
+	regiment = {
+		name= "2.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1027
+	}
+
+	regiment = {
+		name= "3.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 946
+	}
+
+	regiment = {
+		name= "1.5-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1010
+	}
+
+	regiment = {
+		name= "2.5-ya Pekhotnaya Diviziya"
+		type = hussar
+		home = 1027
+	}
+
+	regiment = {
+		name= "3.5-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 977
+	}
+
+	regiment = {
+		name= "1.6-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 977
+	}
+
+	regiment = {
+		name= "2.6-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1037
+	}
+
+	regiment = {
+		name= "3.6-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1037
+	}
+	regiment = {
+		name= "2.Chornomoriya Cossacks"
+		type = infantry
+		home = 1049
+	}
+	regiment = {
+		name= "Zelensky Cossacks"
+		type = infantry
+		home = 1019
+	}
+}
+
+army = {
+	name = "3. Line Corps"
+	location = 1017
+	regiment = {
+		name = "1.7-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 1019
+	}
+	
+	regiment = {
+		name = "2.7-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 1018
+	}
+	
+	regiment = {
+		name = "3.7-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 1040
+	}
+	
+	regiment = {
+		name = "1.8-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 958
+	}
+	
+	regiment = {
+		name = "2.8-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 1021
+	}
+	
+	regiment = {
+		name = "3.8-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 1039
+	}
+	
+	regiment = {
+		name = "1.9-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 1039
+	}
+	
+	regiment = {
+		name = "2.9-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 1042
+	}
+	
+	regiment = {
+		name = "3.9-ya Pehkotnaya Diviziya"
+		type = cavalry
+		home = 1035
+	}
+	regiment = {
+		name= "1.Chornomoriya Cossacks"
+		type = cavalry
+		home = 1040
+	}
+}
+
+army = {
+	name = "Azov Regiment"
+	location = 1012
+	regiment = {
+		name= "1.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1015
+	}
+
+	regiment = {
+		name= "2.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1015
+	}
+
+	regiment = {
+		name= "3.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1015
+	}
+
+	regiment = {
+		name= "1.5-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1047
+	}
+
+	regiment = {
+		name= "2.5-ya Pekhotnaya Diviziya"
+		type = hussar
+		home = 1047
+	}
+
+	regiment = {
+		name= "3.5-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1047
+	}
+
+	regiment = {
+		name= "1.6-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1047
+	}
+
+	regiment = {
+		name= "2.6-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1012
+	}
+
+	regiment = {
+		name= "3.6-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 979
+	}
+	regiment = {
+		name= "2.Chornomoriya Cossacks"
+		type = artillery
+		home = 979
+	}
+}
+
+
+
+
+navy = {
+	name = "Black Sea Fleet"
+	location = 967
+
+	ship = {
+		name= "Tri Svyatitelei"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sv Pavel"
+		type = manowar
+	}
+
+	ship = {
+		name= "Feodor Stralitat"
+		type = frigate
+	}
+
+	ship = {
+		name= "Navarchia V Gospodne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Archipelag"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tosmanska"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nazareth"
+		type = frigate
+	}
+
+	ship = {
+		name= "Getoi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Venus"
+		type = frigate
+	}
+
+}

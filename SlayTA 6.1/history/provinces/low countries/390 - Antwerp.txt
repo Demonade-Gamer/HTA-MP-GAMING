@@ -1,0 +1,9 @@
+owner = NET
+controller = NET
+
+trade_goods = cattle
+life_rating = 35 
+railroad = 1
+
+
+add_core = NET

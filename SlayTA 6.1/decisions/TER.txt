@@ -1,0 +1,63 @@
+political_decisions = {
+ter_immigrants = {
+		picture = found_the_imperial_academy
+		potential = {
+			tag = TER
+			number_of_states = 2
+			num_of_ports = 1
+			is_vassal = no
+			civilized = yes
+			NOT = { has_country_flag = ter_imm }
+		}
+		
+		allow = {
+			OR = {
+				government = democracy
+				government = hms_government
+			}
+				has_country_flag = killed_NZ
+		}
+		
+		effect = {
+			set_country_flag = ter_imm
+			add_country_modifier = { name = the_homestead_act_mexico duration = -1 }
+		}
+	}
+
+	kill_NFB = {
+		picture = bushire
+		potential = { 
+			tag = TER
+			NOT = { has_country_flag = killed_NZ }
+		}
+		allow = {
+			NFB = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			NFB = { all_core = { add_core = TER remove_core = NFB } }
+			set_country_flag = killed_NZ
+		}
+	}
+	
+	colonize_guinea = {
+		picture = nusantara
+		potential = { 
+			tag = TER
+			NOT = { has_country_flag = colonized_guinea }
+		}
+		allow = {
+			war = no
+			1453 = { owned_by = THIS }
+			2528 = { empty = yes }
+			2529 = { empty = yes }
+		}
+		effect = {
+			AST_2528 = { life_rating = 15 }
+			GER_2530 = { life_rating = 15 }
+			2529 = { secede_province = TER }
+			2528 = { secede_province = TER }
+			2530 = { secede_province = TER }
+			2531 = { secede_province = TER } 
+		}
+	}
+}	

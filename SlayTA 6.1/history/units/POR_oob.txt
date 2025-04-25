@@ -1,0 +1,201 @@
+BRT = { value = -200 }
+WLL = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+SER = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+ARM = { value = -200 }
+
+HIS = {
+	truce_until = 1839.9.25
+}
+
+army = {
+
+	name = "Exército Português"
+
+	location = 521
+
+	regiment = {
+
+		name= "1. Brigada de Infantaria"
+
+		type = infantry
+
+		home = 521
+	}
+
+
+	regiment = {
+
+		name= "2. Brigada de Infantaria"
+
+		type = infantry
+
+		home = 524
+
+	}
+
+
+	regiment = {
+
+		name= "3. Brigada de Infantaria"
+
+		type = infantry
+
+		home = 518
+
+	}
+
+
+	regiment = {
+
+		name= "4. Brigada de Infantaria"
+
+		type = infantry
+
+		home = 520
+
+	}
+
+
+	regiment = {
+
+		name= "5. Brigada de Infantaria"
+
+		type = infantry
+
+		home = 522
+
+	}
+
+
+	regiment = {
+
+		name= "1. Brigada de Caballaria"
+
+		type = cuirassier
+
+		home = 519
+
+	}
+
+}
+
+
+
+navy = {
+
+	name = "Portugese Royal Navy"
+
+	location = 524
+
+	ship = {
+
+		name= "Rainha de Portugal"
+
+		type = manowar
+
+	}
+
+
+	ship = {
+
+		name= "Dom João VI"
+
+		type = manowar
+
+	}
+
+
+	ship = {
+
+		name= "Nossa Senhora da Conceição"
+
+		type = manowar
+
+	}
+
+
+	ship = {
+
+		name= "São Sebastião"
+
+		type = manowar
+
+	}
+
+
+	ship = {
+
+		name= "Maria"
+
+		type = manowar
+
+	}
+
+
+	ship = {
+
+		name= "Princesa Carlota"
+
+		type = manowar
+
+	}
+
+
+	ship = {
+
+		name= "Teresa"
+
+		type = manowar
+
+	}
+
+
+
+	ship = {
+
+		name= "1o Navios de Transporte"
+
+		type = clipper_transport
+
+	}
+
+
+	ship = {
+
+		name= "2o Navios de Transporte"
+
+		type = clipper_transport
+
+	}
+
+
+	ship = {
+
+		name= "3o Navios de Transporte"
+
+		type = clipper_transport
+
+	}
+
+
+}

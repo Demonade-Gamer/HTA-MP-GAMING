@@ -1,0 +1,7 @@
+owner = CLT
+controller = CLT
+trade_goods = grain
+life_rating = 30
+colonial = 2
+naval_base = 1
+terrain = small_island

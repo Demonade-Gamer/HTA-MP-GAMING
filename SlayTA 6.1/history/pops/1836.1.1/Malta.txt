@@ -1,0 +1,49 @@
+#Malta - 120000
+#Valetta (120000/30000 POPS)
+854 = {
+	aristocrats = {
+		culture = sicilian
+		religion = catholic
+		size = 300
+	}
+	bureaucrats = {
+		culture = sicilian
+		religion = catholic
+		size = 50
+	}
+	soldiers = {
+		culture = sicilian
+		religion = catholic
+		size = 1140
+	}
+	artisans = {
+		culture = sicilian
+		religion = catholic
+		size = 3000
+	}
+	farmers = {
+		culture = sicilian
+		religion = catholic
+		size = 20475
+	}
+	bureaucrats = {
+		culture = sicilian
+		religion = catholic
+		size = 30
+	}
+	clergymen = {
+		culture = sicilian
+		religion = catholic
+		size = 285
+	}
+	artisans = {
+		culture = sicilian
+		religion = catholic
+		size = 1250
+	}
+	farmers = {
+		culture = sicilian
+		religion = catholic
+		size = 4475
+	}
+}

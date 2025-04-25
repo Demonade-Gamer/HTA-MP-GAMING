@@ -1,0 +1,33 @@
+political_decisions = {
+	
+	begin_zemene_mesafint = {
+		potential = {
+			civilized = no
+			primary_culture = amhara
+			any_neighbor_country = { primary_culture = amhara }
+			NOT = { 
+				has_global_flag = is_negusa_nagast
+				has_country_modifier = zemene_mesafint
+				foreign_training = yes_foreign_training
+			}
+		}
+		
+		allow = {
+			any_neighbor_country = {
+				primary_culture = amhara
+				war_with = THIS
+			}
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = zemene_mesafint
+				duration = 365
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

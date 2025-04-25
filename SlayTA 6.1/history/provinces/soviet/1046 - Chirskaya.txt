@@ -1,0 +1,7 @@
+owner = SML
+controller = SML
+add_core = SML
+
+trade_goods = coal
+life_rating = 35 
+

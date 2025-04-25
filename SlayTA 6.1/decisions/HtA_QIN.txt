@@ -1,0 +1,89 @@
+political_decisions = {	
+	gxi_seasia_destiny = {
+		picture = organize_indochina
+		potential = {
+			tag = GXI 
+			war = no
+			NOT = { has_country_flag = nanyue_destiny }
+		}
+		
+		allow = {
+			civilized = yes
+			state_n_government = 1
+			prestige = 30
+		}
+		
+		effect = {
+			set_country_flag = nanyue_destiny
+			badboy = 10
+			prestige = 20
+			add_accepted_culture = khmer
+			add_accepted_culture = thai
+			add_accepted_culture = min
+			add_accepted_culture = burmese
+			SIA = {
+				all_core = { add_core = THIS }
+				leave_alliance = THIS 
+				relation = { who = THIS value = -100 }
+				diplomatic_influence = { who = THIS value = -150 }
+			}
+			LXA = {
+				all_core = { add_core = THIS }
+				leave_alliance = THIS 
+				relation = { who = THIS value = -100 }
+				diplomatic_influence = { who = THIS value = -150 }
+			}
+			LUA = {
+				all_core = { add_core = THIS }
+				leave_alliance = THIS 
+				relation = { who = THIS value = -100 }
+				diplomatic_influence = { who = THIS value = -150 }
+			}
+			CAM = {
+				all_core = { add_core = THIS }
+				leave_alliance = THIS 
+				relation = { who = THIS value = -100 }
+				diplomatic_influence = { who = THIS value = -150 }
+			}
+			CHP = {
+				all_core = { add_core = THIS }
+				leave_alliance = THIS 
+				relation = { who = THIS value = -100 }
+				diplomatic_influence = { who = THIS value = -150 }
+			}
+		}
+	}
+	
+	open_qin = {
+		picture = organize_indochina
+		potential = {
+			NOT = { has_global_flag = qin_opened }
+			QIN = {
+				exists = yes
+				civilized = no
+			}
+			OR = {
+				AND = {
+					year = 1870
+					QIN = { NOT = { civilization_progress = 0.6 } }
+				}
+				AND = {
+					year = 1860
+					QIN = { has_country_modifier = uncivilized_isolationism }
+				}
+			}
+		}
+		
+		allow = {
+			nationalism_n_imperialism = 1
+			any_owned_province = { continent = asia }
+			war = no
+		}
+		
+		effect = {
+			set_global_flag = qin_opened
+			prestige = 5
+			QIN = { country_event = 53019 }
+		}
+	}
+}

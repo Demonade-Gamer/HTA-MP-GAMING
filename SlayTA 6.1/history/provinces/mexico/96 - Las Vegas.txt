@@ -1,0 +1,6 @@
+owner = SKM
+controller = SKM
+trade_goods = iron
+life_rating = 35 
+add_core = CLF
+add_core = SKM

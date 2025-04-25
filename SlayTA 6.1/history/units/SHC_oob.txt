@@ -1,0 +1,30 @@
+army = {
+	name = "Warband of the Confederation"
+	location = 182
+	regiment = {
+		name = "Regiment of the Chalagata"
+		type = infantry
+		home = 182
+	}
+	regiment = {
+		name = "Mississinewa's Regiment"
+		type = infantry
+		home = 169
+	}
+	regiment = {
+		name = "Watawaga Warriors"
+		type = irregular
+		home = 188
+	}
+	regiment = {
+		name = "Pekowi Warriors"
+		type = irregular
+		home = 185
+	}
+	regiment = {
+		name = "Pakuahoan Riders"
+		type = cavalry
+		home = 211
+	}
+	
+}

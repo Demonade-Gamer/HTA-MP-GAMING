@@ -1,0 +1,244 @@
+#Uruguay Region (200000)
+#Under rule of Uruguay 1836
+#Montevideo (112000/28000 POPS)
+2344 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 718
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 187
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 62
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 312
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 1225
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 25118
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 74
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 374
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 60
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 4724
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 2250
+    }
+}
+#Paysandu (36000/9000 POPS)
+2345 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 37
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 93
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 562
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 4000
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 6111
+    }
+}
+#Tacumba (12000/3000 POPS)
+2346 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 31
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 18
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 125
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 2250
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 21
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 74
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 12
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1387
+    }
+}
+#Melo (40000/10000 POPS)
+2347 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 187
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 18
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 437
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 6812
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 74
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 224
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 30
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 4161
+    }
+}

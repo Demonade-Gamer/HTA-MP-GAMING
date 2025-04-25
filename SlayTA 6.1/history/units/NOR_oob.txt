@@ -1,0 +1,99 @@
+DEN = { value = 100 }
+SWE = { value = 100 }
+FIN = { value = -5 }
+RUS = { value = 150 }
+ICL = { value = 125 }
+
+army = {
+	name = "Norsk Haeren"
+	location = 313
+	regiment = {
+		name = "1. Infanteribataljon"
+		type = infantry
+		home = 313
+	}
+	regiment = {
+		name = "2. Infanteribataljon"
+		type = infantry
+		home = 309
+	}
+	regiment = {
+		name = "3. Infanteribataljon"
+		type = infantry
+		home = 313
+	}
+	regiment = {
+		name = "1. Artilleribataljon"
+		type = artillery
+		home = 305
+	}
+}
+
+army = {
+	name = "Gullkystens Garnison"
+	location = 1907
+	regiment = {
+		name = "1. Colonibataljon"
+		type = infantry
+		home = 310
+	}
+	regiment = {
+		name = "2. Colonibataljon"
+		type = infantry
+		home = 1907
+	}
+}
+
+navy = {
+	name = "Konelig Norske Marine"
+	location = 310
+	ship = {
+		name = "Otra"
+		type = manowar
+	}
+	ship = {
+		name = "Karmøy"
+		type = manowar
+	}
+	ship = {
+		name = "Glomma"
+		type = frigate
+	}
+	ship = {
+		name = "Uredd"
+		type = frigate
+	}
+	ship = {
+		name = "Steil"
+		type = frigate
+	}
+	ship = {
+		name = "1st Transport Squadron"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2nd Transport Squadron"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Gyllkustens Skvadron"
+	location = 1907
+	ship = {
+		name = "Hysnes"
+		type = frigate
+	}
+	ship = {
+		name = "Hellen"
+		type = frigate
+	}
+	ship = {
+		name = "3rd Transport Squadron"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4th Transport Squadron"
+		type = clipper_transport
+	}
+}

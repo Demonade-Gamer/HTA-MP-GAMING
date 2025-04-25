@@ -1,0 +1,48 @@
+political_decisions = {
+
+	secure_silesia = {
+		picture = negotiations
+		potential = {
+			neighbour = SLS
+			NOT = { tag = SLS }
+			NOT = { tag = BRN }
+			is_greater_power = yes
+			SLS = {
+				NOT = { is_secondary_power = yes }
+				NOT = { is_greater_power = yes }
+			}
+			NOT = { has_country_flag = silesia_secured }
+			NOT = { has_country_flag = silesia_secured2 }
+		}
+		
+		allow = {
+			SLS = { in_sphere = THIS }
+			year = 1840
+		}
+		
+		effect = {
+			badboy = 3
+			inherit = SLS
+			add_accepted_culture = silesian
+			SLS = { nationalize = yes }
+			set_country_flag = silesia_secured
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+			modifier = {
+				factor = 0
+				economic_policy = laissez_faire
+			}
+			modifier = {
+				factor = 0
+				war_policy = pacifism
+			}
+		}
+	}
+	
+}

@@ -1,0 +1,95 @@
+political_decisions = {
+	claim_the_cauc = {
+		picture = form_transcaucasia
+		potential = {
+			OR = {
+			tag = RUM
+			tag = ARM
+			}
+			NOT = { has_country_flag = cauc_claimed }
+		}
+		allow = { 
+			war = no
+			owns = 1090
+			1102 = {
+				OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { has_country_flag = newly_released_nation }
+					owner = {
+						primary_culture = azerbaijani
+						war = no
+						civilized = yes
+						relation = { who = THIS value = 150 }
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			1098 = {
+				OR = {
+					owned_by = THIS
+					owner = { in_sphere = THIS }
+					owner = { has_country_flag = newly_released_nation }
+					owner = {
+						primary_culture = armenian
+						war = no
+						civilized = yes
+						relation = { who = THIS value = 150 }
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+		add_accepted_culture = north_caucasian
+		add_accepted_culture = armenian
+		add_accepted_culture = azerbaijani
+		add_accepted_culture = georgian
+		AZB = { all_core = { add_core = THIS } }
+		GEO = { all_core = { add_core = THIS } }
+		
+		set_country_flag = cauc_claimed
+		any_country = {
+				limit = {
+					NOT = { is_culture_group = THIS }
+					in_sphere = THIS
+					war = no
+				}
+				any_owned = {
+					limit = { is_core = THIS }
+					secede_province = THIS
+				}
+			}
+		any_country = {
+				limit = {
+					war = no
+					OR = {
+						primary_culture = armenian
+						primary_culture = georgian
+						primary_culture = azerbaijani
+					}
+					OR = {
+						in_sphere = THIS
+						has_country_flag = newly_released_nation
+						AND = {
+							war = no
+							civilized = yes
+							relation = { who = THIS value = 150 }
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				country_event = 98650
+			}
+		}
+	}
+}

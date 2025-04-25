@@ -1,0 +1,261 @@
+country_event = {
+	id = 53000 # Shi Jiahao
+	title = EVTNAME53000
+	desc = EVTDESC53000
+	picture = "asian_ruler"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = GXI 
+		year = 1836
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+	
+	option = {
+		name = "The bureaucracy need to be improved."
+		prestige = 10
+		economic_reform = yes_education_reform
+		economic_reform = yes_land_reform
+		GXI = { activate_technology = malthusian_thought }
+		GXI = { activate_technology = water_wheel_power }
+		GXI = { activate_technology = mechanized_mining }
+		random_country = {
+			limit = {
+				OR = {
+					AND = {
+						tag = CLT
+						CLT = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = NET
+						NPL = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = HIS
+						HIS = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = AEN
+						AEN = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = FIN
+						FIN = { any_owned_province = { continent = africa } }
+					}
+					AND = {
+						tag = NPL
+						NPL = { any_owned_province = { continent = asia } }
+					}
+				}
+				num_of_ports = 1
+			}
+			country_event = 53001
+		}
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "Focus on trade." # needs more
+		prestige = 10
+		economic_reform = yes_transport_improv
+		economic_reform = yes_finance_reform
+		GXI = { activate_technology = experimental_railroad }
+		GXI = { activate_technology = private_banks }
+		random_country = {
+			limit = { 
+				OR = {
+					AND = {
+						tag = CLT
+						CLT = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = NET
+						NPL = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = HIS
+						HIS = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = AEN
+						AEN = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = FIN
+						FIN = { any_owned_province = { continent = africa } }
+					}
+					AND = {
+						tag = NPL
+						NPL = { any_owned_province = { continent = asia } }
+					}
+				}
+				num_of_ports = 1
+			}
+			country_event = 53001
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	option = {
+		name = "Let us first build a strong army."
+		prestige = 10
+		military_reform = yes_foreign_officers
+		military_reform = yes_foreign_training
+		GXI = { activate_technology = army_command_principle }
+		GXI = { activate_technology = post_napoleonic_thought }
+		random_country = {
+			limit = {
+				OR = {
+					AND = {
+						tag = CLT
+						CLT = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = NET
+						NPL = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = HIS
+						HIS = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = AEN
+						AEN = { any_owned_province = { continent = asia } }
+					}
+					AND = {
+						tag = FIN
+						FIN = { any_owned_province = { continent = africa } }
+					}
+					AND = {
+						tag = NPL
+						NPL = { any_owned_province = { continent = asia } }
+					}
+				}
+				num_of_ports = 1
+			}
+			country_event = 53001
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	option = {
+		name = "Old ways are the best ways!"
+		prestige = 5 
+		any_pop = {
+			scaled_militancy = {
+				ideology = conservative
+				factor = -4
+			}
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = reactionary
+				factor = -6
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 53001
+	title = "EVTNAME53001"
+	desc = "EVTDESC53001"
+	picture = "treaty"
+	
+	is_triggered_only = yes
+		
+	option = {
+		name = "A splendid proposition!"
+		prestige = 10
+		relation = { who = FROM value = 100 }
+		1498 = {
+			secede_province = THIS
+			remove_core = GXI
+		}
+		diplomatic_influence = {
+			who = FROM
+			value = 200
+		}
+		FROM = {
+			add_country_modifier = {
+				name = technological_assistance
+				duration = -1
+			}
+		}
+		set_country_flag = giving_nanyue_tech_assistance
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "Sounds like a chore."
+		prestige = -5
+		ai_chance = {
+			factor = 0
+			}
+		}
+	}
+
+
+#Nanyue no longer receives technological assistance
+country_event = {
+	id = 53021
+	title = "No More Foreign Assistance"
+	desc = "The deal we made to exchange Macao for technological assistance is no longer valid, whether because of war or the fact that we no longer need it."
+
+	trigger = {
+		tag = GXI
+		1498 = { NOT = { owned_by = THIS } }
+		has_country_modifier = technological_assistance
+		OR = {
+			civilized = yes
+			1498 = {
+				owner = {
+					has_country_flag = giving_nanyue_tech_assistance
+					war_with = THIS
+				}
+			}
+			1498 = {
+				owner = {
+					has_country_flag = giving_nanyue_tech_assistance
+					NOT = { relation = {
+						who = THIS
+						value = 0
+					} }
+				}
+			}
+			1498 = {
+				owner = {
+					NOT = { has_country_flag = giving_nanyue_tech_assistance }
+				}
+			}
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	option = {
+		name = "We don't need it anymore, anyways."
+		any_country = {
+			limit = {
+				has_country_flag = giving_nanyue_tech_assistance
+			}
+			clr_country_flag = giving_nanyue_tech_assistance
+		}
+		remove_country_modifier = technological_assistance
+		1498 = { add_core = THIS }
+	}
+}

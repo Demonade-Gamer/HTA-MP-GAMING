@@ -1,0 +1,246 @@
+political_decisions = {
+
+#Decisions for the Empire
+
+
+	
+	#Restoration of Cherson
+	greek_sevastopol = {
+		picture = map_crimea
+		potential = {
+			tag = BYZ
+			NOT = { has_country_flag = claim_chersonesus }
+		}
+
+		allow = {
+			war = no
+			owns = 967
+		}
+
+		effect = {
+			prestige = 10
+			set_country_flag = claim_chersonesus
+			967 = {
+				state_scope = {
+					change_region_name = "Cherson"
+				}
+			}
+			967 = {
+				change_province_name = "Chersonesus"
+				remove_core = SML
+				add_core = BYZ
+			}
+			966 = {
+				change_province_name = "Pantikapaion"
+				
+				remove_core = SML
+				add_core = BYZ
+			}
+			964 = {
+				change_province_name = "Sympheropolis"
+				
+				remove_core = SML
+				add_core = BYZ
+			}
+			SML= {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = roman
+							has_pop_culture = greek
+						}
+					}
+					reduce_pop = 1.2
+					consciousness = 2
+					militancy = -1
+					move_pop = 967
+				}
+			}
+			SRU = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = roman
+							has_pop_culture = greek
+						}
+					}
+					reduce_pop = 1.2
+					consciousness = 2
+					militancy = -1
+					move_pop = 967
+				}
+			}
+			RUS = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = roman
+							has_pop_culture = greek
+						}
+					}
+					reduce_pop = 1.2
+					consciousness = 2
+					militancy = -1
+					move_pop = 967
+				}
+			}			
+		}	
+	}
+	
+	expand_to_kilikia = {
+		picture = military_parade
+		potential = {
+			tag = BYZ
+			NOT = { has_country_flag = kilikia_claimed }
+			NOT = { war_with = GRE }
+		}
+		
+		allow = {
+			owns = 873
+			owns = 878
+			state_n_government = 1
+		}
+		
+		effect = {
+			set_country_flag = kilikia_claimed
+			TUR_894 = { add_core = THIS }
+			TUR_873 = { add_core = THIS }
+			TUR_876 = { add_core = THIS }
+			add_accepted_culture = anatolian
+		}
+	}
+	
+
+	rome_larp_reform = {
+		picture = map_italy
+		potential = {
+			tag = ITA
+			accepted_culture = illyrian 
+		}
+
+		allow = {
+			year = 1900
+			AQT = { exists = no }
+			BYZ = { exists = no }
+			ITA = { all_core = { owned_by = THIS } }
+			FRA_455 = { owned_by = THIS }
+			FRA_458 = { owned_by = THIS }
+			FRA_451 = { owned_by = THIS }
+			FRA_442 = { owned_by = THIS }
+			FRA_448 = { owned_by = THIS }
+			FRA_461 = { owned_by = THIS }
+			SAR_466 = { owned_by = THIS }
+			FRA_467 = { owned_by = THIS }
+			SPA_502 = { owned_by = THIS }
+			GRE_837 = { owned_by = THIS }
+			EGY_843 = { owned_by = THIS }
+			TUR_832 = { owned_by = THIS }
+			TUR_853 = { owned_by = THIS }
+			TUR_860 = { owned_by = THIS }
+			TUR_810 = { owned_by = THIS }
+			TUR_809 = { owned_by = THIS }
+			TUR_805 = { owned_by = THIS }
+			TUR_803 = { owned_by = THIS }
+			BYZ_867 = { owned_by = THIS }
+			BYZ_869 = { owned_by = THIS }
+			TUR_880 = { owned_by = THIS }
+			TUR_863 = { owned_by = THIS }
+		}
+
+		effect = {
+			prestige = 250
+			change_tag = RME
+			FRA_455 = { add_core = THIS }
+			FRA_458 = { add_core = THIS }
+			FRA_451 = { add_core = THIS }
+			FRA_442 = { add_core = THIS }
+			FRA_448 = { add_core = THIS }
+			FRA_461 = { add_core = THIS }
+			SAR_466 = { add_core = THIS }
+			FRA_467 = { add_core = THIS }
+			SPA_502 = { add_core = THIS }
+			GRE_837 = { add_core = THIS }
+			EGY_843 = { add_core = THIS }
+			TUR_832 = { add_core = THIS }
+			TUR_853 = { add_core = THIS }
+			TUR_860 = { add_core = THIS }
+			TUR_810 = { add_core = THIS }
+			TUR_809 = { add_core = THIS }
+			TUR_805 = { add_core = THIS }
+			TUR_803 = { add_core = THIS }
+			BYZ_867 = { add_core = THIS }
+			BYZ_869 = { add_core = THIS }
+			TUR_880 = { add_core = THIS }
+			TUR_863 = { add_core = THIS }
+			add_accepted_culture = roman
+			add_accepted_culture = aquitanian
+		}
+	}
+	roman_italians = {		
+		picture = map_italy
+		potential = {
+			tag = BYZ
+			NOT = { accepted_culture = south_italian }
+		}
+
+		allow = {	
+			SIC_753 = { owned_by = THIS }
+			SIC_754 = { owned_by = THIS }
+			SIC_763 = { owned_by = THIS }
+			SAR_765 = { owned_by = THIS }
+			PAP_752 = { owned_by = THIS }
+			MOD_739 = { owned_by = THIS }
+			AUS_777 = { owned_by = THIS }
+			CRO_789 = { owned_by = THIS }
+		}
+
+		effect = {
+			SIC_753 = { add_core = THIS }
+			SIC_754 = { add_core = THIS }
+			SIC_763 = { add_core = THIS }
+			SAR_765 = { add_core = THIS }
+			PAP_752 = { add_core = THIS }
+			CRO_789 = { add_core = THIS }
+			MOD_739 = { add_core = THIS }
+			AUS_777 = { add_core = THIS }
+			add_accepted_culture = south_italian
+			add_accepted_culture = sicilian
+			prestige = 25
+		}
+	}
+	rum_anatole_boom = {
+	picture = switch_to_supremacy
+		potential = {
+		NOT = { has_country_flag = anatolia_reclaimed }
+		OR = {	
+			tag = ARM
+			tag = RUM
+			}
+		}
+		allow = {
+			war = no
+			owns = 873
+			owns = 878
+			owns = 864
+			owns = 870
+		}
+		effect = {
+		set_global_flag = rom_cucked		
+		prestige = 2
+		any_owned = {
+			limit = {
+			OR = {
+				is_core = AZB
+				is_core = GEO
+				is_core = THIS
+				}
+			}
+			add_province_modifier = {
+				name = anatole_boom
+				duration = 3000
+			}
+		}
+		set_country_flag = anatolia_reclaimed
+	}
+}
+}

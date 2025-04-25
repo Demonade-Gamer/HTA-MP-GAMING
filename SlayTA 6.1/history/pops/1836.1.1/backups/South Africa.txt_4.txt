@@ -1,0 +1,3964 @@
+#file includes modern South Africa, Lesotho and Swaziland
+#Western Cape Region (395100)
+#Ruled by the Netherlands 1836
+#Boer POPs represent post-Great Trek migration
+#Cape Town (173000/43250 POPS)
+2087 = {
+    clergymen = {
+        culture = steenkooler
+        religion = protestant
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = protestant
+        size = 765
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = protestant
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = protestant
+        size = 9231
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 765
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 1581
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 12291
+    }
+
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 70
+    }
+
+    bureaucrats = {
+        culture = dutch
+        religion = protestant
+        size = 120
+    }
+
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 550
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 4250
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 31
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 163
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 474
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 3621
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 2524
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 18793
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 20
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = obbite
+        size = 112
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 184
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = obbite
+        size = 1836
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = obbite
+        size = 612
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = obbite
+        size = 5355
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = protestant
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = protestant
+        size = 1485
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = protestant
+        size = 17919
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 1485
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 23859
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 59
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 317
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 921
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 7029
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 36482
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = obbite
+        size = 40
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = obbite
+        size = 218
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = obbite
+        size = 356
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = obbite
+        size = 3564
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = obbite
+        size = 10395
+    }
+}
+#Worcester (117700/29425 POPS)
+2089 = {
+    clergymen = {
+        culture = steenkooler
+        religion = protestant
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = protestant
+        size = 255
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = protestant
+        size = 7752
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 76
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 6834
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 9843
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 660
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 102
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 102
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 1224
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 5329
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 31
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = obbite
+        size = 133
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 224
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = obbite
+        size = 2091
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = obbite
+        size = 1754
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = obbite
+        size = 6273
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = protestant
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = protestant
+        size = 495
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = protestant
+        size = 15048
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 149
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 13266
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 19107
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 198
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 198
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 2376
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 10346
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = obbite
+        size = 59
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = obbite
+        size = 257
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = obbite
+        size = 436
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = obbite
+        size = 4059
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = obbite
+        size = 12177
+    }
+}
+#Swettenham (69700/17425 POPS)
+2090 = {
+    clergymen = {
+        culture = steenkooler
+        religion = protestant
+        size = 76
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = protestant
+        size = 204
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = protestant
+        size = 6757
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 76
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 14968
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 660
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 8
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 82
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 76
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 592
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 7573
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 15
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = obbite
+        size = 102
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 143
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = obbite
+        size = 1734
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = obbite
+        size = 1581
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = obbite
+        size = 5151
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = protestant
+        size = 149
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = protestant
+        size = 396
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = protestant
+        size = 13118
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 149
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 29057
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 16
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 158
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 149
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 1148
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 14702
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = obbite
+        size = 30
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = obbite
+        size = 198
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = obbite
+        size = 277
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = obbite
+        size = 3366
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = obbite
+        size = 9999
+    }
+}
+#Mossel Bay (34700/8675 POPS)
+2091 = {
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 153
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 1627
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 5686
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 1800
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 36
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 2948
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = protestant
+        size = 102
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = protestant
+        size = 1887
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 10
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = obbite
+        size = 51
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = obbite
+        size = 102
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = obbite
+        size = 816
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = obbite
+        size = 306
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = obbite
+        size = 3315
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 297
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 1089
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 11039
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 5722
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = protestant
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = protestant
+        size = 3663
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = obbite
+        size = 20
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = obbite
+        size = 99
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = obbite
+        size = 198
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = obbite
+        size = 1584
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = obbite
+        size = 6435
+    }
+}
+#Namaqualand Region (12000) #see Namibia.txt for balance of region
+#uncolonized 1836
+#Springbok (12000/3000 POPS)
+2088 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 1581
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 2805
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 5445
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 50
+    }
+}
+#Karoo Region (244500)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration
+#Beaufort (34600/8650 POPS)
+2092 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 76
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 173
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 255
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 2805
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 1581
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 4896
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 79
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 149
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 337
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 5445
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 9504
+    }
+}
+#Calvinia (23300/5825 POPS)
+2093 = {
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 194
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 1555
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 2958
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 1581
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 1912
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 89
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 376
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 3020
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 5742
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 3713
+    }
+}
+#De Aar (30600/7650 POPS)
+2558 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 1581
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 5814
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 31
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 82
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 388
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 459
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 3315
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 11286
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 59
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 158
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 752
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 6435
+    }
+}
+#Uncolonized in 1836
+#Kimberley (156000/39000 POPS)
+2094 = {
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 255
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 408
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 408
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1632
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 1581
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 26724
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 495
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 792
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 792
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 3168
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 51876
+    }
+}
+#Bechuanaland Region (20000) #see Botswana.txt for balance of region
+#Dikathong (20000/5000 POPS)
+2095 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 4743
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 9207
+    }
+}
+#Eastern Cape Region (232000)
+#Ruled by Britain 1836
+#Port Elizabeth (44000/11000 POPS)
+2096 = {
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1550
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 1650
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 51
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 204
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 286
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 2142
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 10710
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 82
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 71
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 7956
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 31
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 31
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 2030
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 5916
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 99
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 396
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 554
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 4158
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 20790
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 158
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 139
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 15444
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 59
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 59
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 3940
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 11484
+    }
+}
+#Graaf Reinet (36000/9000 POPS)
+2097 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 153
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 148
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 688
+    }
+
+    officers = {
+        culture = steenkooler
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 11245
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 3876
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 15
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 867
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 3927
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 297
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 287
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 1337
+    }
+
+    officers = {
+        culture = yoruba
+        religion = catholic
+        size = 59
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 21830
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 7524
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 30
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 1683
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 7623
+    }
+}
+#uncolonized/ruled by the Xhosa 1836
+#Bisho (80000/20000 POPS)
+2098 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1122
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 17748
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 255
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 2178
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 34452
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 495
+    }
+}
+#Mathele (80000/20000 POPS)
+2099 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1122
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 17748
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 153
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 2178
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 34452
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 297
+    }
+}
+#Umtata (144000/36000 POPS)
+2100 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 408
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 408
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1836
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 32640
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 792
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 792
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 3564
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 63360
+    }
+}
+#Transorangia Region (509000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#Boer POPs represent post-Great Trek migration
+#Bloemfontein (194000/48500 POPS)
+2101 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 102
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 204
+    }
+
+    officers = {
+        culture = steenkooler
+        religion = catholic
+        size = 31
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 245
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 2448
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 943
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 484
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 2422
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 33150
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 198
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 396
+    }
+
+    officers = {
+        culture = yoruba
+        religion = catholic
+        size = 59
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 475
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 4752
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 1832
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 941
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 4703
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 64350
+    }
+}
+#Winburg (102000/25500 POPS)
+2102 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 82
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 51
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 153
+    }
+
+    officers = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 816
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 357
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 229
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1122
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 18589
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 76
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 255
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 1581
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 4666
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 158
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 99
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 297
+    }
+
+    officers = {
+        culture = yoruba
+        religion = catholic
+        size = 40
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 1584
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 693
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 446
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 2178
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 36086
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 149
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 495
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 9059
+    }
+}
+#Philippolis (85000/21250 POPS)
+2103 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 51
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 82
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 82
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 704
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 408
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1045
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 19048
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 99
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 158
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 158
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 1366
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 792
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 2030
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 36977
+    }
+}
+#Thaba Bosiu (256000/64000 POPS) #now Lesotho
+2104 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 1275
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = animist
+        size = 255
+    }
+
+    officers = {
+        culture = steenkooler
+        religion = animist
+        size = 255
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 663
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 3264
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 58752
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 2475
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = animist
+        size = 495
+    }
+
+    officers = {
+        culture = yoruba
+        religion = animist
+        size = 495
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 1287
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 6336
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 114048
+    }
+}
+#Transvaal Region (349000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#Boer POPs represent post-Great Trek migration
+#Pretoria (137600/34400 POPS)
+2105 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 204
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 173
+    }
+
+    officers = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 153
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 2448
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 663
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 357
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1377
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 21726
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 396
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 337
+    }
+
+    officers = {
+        culture = yoruba
+        religion = catholic
+        size = 40
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 297
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 4752
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 1287
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 693
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 2673
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 42174
+    }
+}
+#Johannesburg (102400/25600 POPS)
+2106 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 51
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 102
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 102
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 1224
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 433
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 255
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1275
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 19150
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 99
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 198
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 2376
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 842
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 495
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 2475
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 37175
+    }
+}
+#uncolonized in 1836/dominated by the Ndebele
+#Klerksdorp (109000/27250 POPS)
+2107 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 51
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 102
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 663
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 229
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 127
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1632
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 15223
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 280
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 612
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 9001
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 99
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 1287
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 446
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 248
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 3168
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 29552
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 545
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 1188
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 17474
+    }
+}
+#Limpopo Region (129000)
+#uncolonized in 1836/dominated by the Ndebele
+#Boer POPs represent post-Great Trek migration
+#Mosega (48200/12050 POPS)
+2108 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 306
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 612
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 1275
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 7777
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 127
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 76
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 357
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 8542
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 40
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 594
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 1188
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 15098
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 248
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 149
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 693
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 16583
+    }
+}
+#uncolonized in 1836/dominated by the Zulu
+#Lydenburg (52600/13150 POPS)
+2109 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 51
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 229
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 127
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 663
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 12087
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 99
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 1089
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 446
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 248
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 1287
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 23463
+    }
+}
+#owned by the Matabele Nguni
+#Thohoyandu (28200/7050 POPS)
+2110 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 15
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 51
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 204
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 76
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 4794
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 76
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 178
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 1785
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 30
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 99
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 396
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 149
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 9306
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 149
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 347
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 3465
+    }
+}
+#Natal Region (682000)
+#ruled/dominated by the Zulu in 1836
+#Boer POPs represent post-Great Trek migration
+#Durban (126000/31500 POPS)
+2111 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 51
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = catholic
+        size = 102
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = catholic
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 428
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 76
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 408
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 7420
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 433
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 229
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1071
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 11271
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = catholic
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 99
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = catholic
+        size = 198
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 832
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 149
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 792
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 14405
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 842
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 446
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 2079
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 21879
+    }
+}
+#Ladysmith (156000/39000 POPS)
+2112 = {
+    clergymen = {
+        culture = steenkooler
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = catholic
+        size = 255
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 765
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 408
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1989
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 19278
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = catholic
+        size = 495
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 1485
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 792
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 3861
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 37422
+    }
+}
+#Ulundi (320000/80000 POPS)
+2113 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 1581
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = animist
+        size = 204
+    }
+
+    officers = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 841
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 4080
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 78999
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 3069
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = animist
+        size = 396
+    }
+
+    officers = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 1634
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 7920
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 153351
+    }
+}
+#Ruled by Suazi 1836
+#Mbabane (160000/40000 POPS)  #now Swaziland
+2114 = {
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 255
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 153
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 714
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 13005
+    }
+
+    aristocrats = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    bureaucrats = {
+        culture = steenkooler
+        religion = animist
+        size = 102
+    }
+
+    clergymen = {
+        culture = steenkooler
+        religion = animist
+        size = 255
+    }
+
+    artisans = {
+        culture = steenkooler
+        religion = animist
+        size = 1326
+    }
+
+    soldiers = {
+        culture = steenkooler
+        religion = animist
+        size = 561
+    }
+
+    farmers = {
+        culture = steenkooler
+        religion = animist
+        size = 23409
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 495
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 297
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 1386
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 25245
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = animist
+        size = 1089
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = animist
+        size = 198
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = animist
+        size = 495
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = animist
+        size = 2574
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = animist
+        size = 45441
+    }
+}

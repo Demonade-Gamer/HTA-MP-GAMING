@@ -1,0 +1,143 @@
+country_event = {
+	id = 776410
+	title = "776405"
+	desc = "EVTDESC776405"
+	picture = "xinhai"
+	
+	trigger = {
+		tag = GHO
+		NOT = { has_country_flag = american_economic_compensation }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		name = "EVTOPTA776405"
+		set_country_flag = american_economic_compensation
+		any_country = {	
+			any_pop = {
+				limit = {
+					OR = {
+				has_pop_culture = croat
+				has_pop_culture = sephardic
+				has_pop_culture = steenkooler
+					}
+				}
+					reduce_pop = 1.20
+				}
+			}
+		}
+	
+	option = {
+		name = "Thanks!"
+	}
+}
+
+
+
+country_event = {
+	id = 776406
+	title = "776406"
+	desc = "EVTDESC776405"
+	picture = "xinhai"
+	
+	trigger = {
+		tag = GHO
+		NOT = { has_country_flag = chinese_genocide }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		name = "EVTOPTA776405"
+		set_country_flag = chinese_genocide
+		any_country = {			
+			any_owned = {
+				limit = {
+				OR = {
+					is_core = XBI
+					is_core = YNN
+					}
+				}
+				any_pop = {
+						reduce_pop = 0.3
+				}
+			}
+	}
+ }
+	option = {
+		name = "Thanks!"
+	}
+}
+
+country_event = {
+	id = 776419
+	title = "776406"
+	desc = "EVTDESC776405"
+	picture = "xinhai"
+	
+	trigger = {
+		tag = GHO
+		NOT = { has_country_flag = manchu_genocide }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		name = "EVTOPTA776405"
+		set_country_flag = manchu_genocide
+		any_country = {
+			any_pop = {
+				limit = { has_pop_culture = manchu }
+				reduce_pop = 0.3
+			}
+		}
+	}
+
+	option = {
+		name = "Thanks!"
+	}
+}
+
+country_event = {
+	id = 776420
+	title = "776405"
+	desc = "EVTDESC776405"
+	picture = "xinhai"
+	
+	trigger = {
+		tag = GHO
+		NOT = { has_country_flag = indian_economic_compensation }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		name = "EVTOPTA776405"
+		set_country_flag = indian_economic_compensation
+		any_country = {
+			any_pop = {
+				limit = {
+					OR = {
+					has_pop_culture = bengali
+					has_pop_culture = marathi
+					has_pop_culture = avadhi
+					}			
+			}
+		reduce_pop = 0.6
+		}
+	}
+}
+	
+	option = {
+		name = "Thanks!"
+	}
+}

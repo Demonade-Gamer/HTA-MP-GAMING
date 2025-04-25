@@ -1,0 +1,1315 @@
+#Cundinamarca Region (584000)
+#Ruled by Colombia 1836
+#Bogota (240000/60000 POPS)
+2247 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 1875
+    }
+
+    bureaucrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 1179
+    }
+
+    officers = {
+        culture = mellomsk
+        religion = protestant
+        size = 262
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 1237
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 3900
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 3150
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 77812
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = animist
+        size = 5550
+    }
+}
+#Ibaque (88000/22000 POPS)
+2248 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 675
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 600
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 1425
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 25800
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 15
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1020
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 375
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = animist
+        size = 37
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = animist
+        size = 37
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = animist
+        size = 2775
+    }
+}
+#Tunja (56000/14000 POPS)
+2249 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 450
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 675
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 12075
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = animist
+        size = 375
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = animist
+        size = 7050
+    }
+     clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
+}
+#Manizales (116000/29000 POPS)
+2250 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 937
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 562
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 2175
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 1650
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 39975
+    }
+     clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
+}
+#Cucuta (84000/21000 POPS)
+2251 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 525
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 1200
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 262
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 21787
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = animist
+        size = 375
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = animist
+        size = 6975
+    }
+     clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
+}
+#Antioquia Region (452000)
+#Ruled by Colombia 1836
+#Medellin (128000/32000 POPS)
+2252 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 975
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 1050
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 1650
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 2550
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 25312
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 112
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 8212
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 4500
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = animist
+        size = 37
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = animist
+        size = 225
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = animist
+        size = 37
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = animist
+        size = 4200
+    }
+}
+#Quibdo (48000/12000 POPS)
+2253 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 375
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 11600
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 112
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 525
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 112
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 12250
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 17500
+    }
+}
+#Cartagena de Indias (144000/36000 POPS) The capital of Hoyekysten
+2254 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 2100
+    }
+
+    bureaucrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 787
+    }
+
+    officers = {
+        culture = mellomsk
+        religion = protestant
+        size = 187
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 2362
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 8825
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 3750
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 91862
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 112
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1575
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 33512
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 26000
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = animist
+        size = 37
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = animist
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = animist
+        size = 2775
+    }
+}
+#Barranquilla (132000/33000 POPS)
+2255 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 975
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 787
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 975
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 2850
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 108587
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1350
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 22200
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 4500
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = animist
+        size = 90
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = animist
+        size = 750
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = animist
+        size = 9495
+    }
+}
+#Cauca Region (300000)
+#Ruled by Colombia 1836
+#Cali (92000/23000 POPS)
+2256 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 712
+    }
+
+    bureaucrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 525
+    }
+
+    officers = {
+        culture = mellomsk
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 412
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 1275
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 1050
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 21450
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 225
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3000
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1125
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = animist
+        size = 225
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = animist
+        size = 37
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = animist
+        size = 4162
+    }
+}
+#Popayan (68000/17000 POPS)
+2257 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 525
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 825
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 187
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 14812
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 112
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 112
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 8325
+    }
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
+}
+#Buenaventura (60000/15000 POPS)
+2258 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 487
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 262
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 675
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 4650
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 112
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 2700
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 7500
+    }
+}
+#Pasto (80000/20000 POPS)
+2259 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 637
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 675
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 11887
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 825
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 187
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 15412
+    }
+     clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3712
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
+}
+#Rio Negro Region (128000) #see Brazil.txt for balance of region
+#Ruled by Colombia 1836
+#San Jose del Guaviare (36000/9000 POPS)
+2260 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 112
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 187
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 225
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 4012
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 112
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 8212
+    }
+}
+#Obando (20000/5000 POPS)
+2261 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 112
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 375
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 6862
+    }
+}
+#Casanare (60000/15000 POPS)
+2262 = {
+    aristocrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 187
+    }
+
+    bureaucrats = {
+        culture = mellomsk
+        religion = protestant
+        size = 129
+    }
+
+    officers = {
+        culture = mellomsk
+        religion = protestant
+        size = 37
+    }
+
+    clergymen = {
+        culture = mellomsk
+        religion = protestant
+        size = 172
+    }
+
+    artisans = {
+        culture = mellomsk
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = mellomsk
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = mellomsk
+        religion = protestant
+        size = 5250
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 187
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 112
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 112
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 10987
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 225
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 2325
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1875
+    }
+}
+#El Encanto (12000/3000 POPS)
+2263 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 112
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 225
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 37
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 4050
+    }
+}

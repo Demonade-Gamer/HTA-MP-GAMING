@@ -1,0 +1,164 @@
+#HtA stuff is here mostly
+political_decisions = {
+
+# Move the capital back to Paris
+	move_capital_to_paris = {
+	picture = of_state_n_government
+		potential = {
+			tag = FRA
+			capital = 428
+			NOT = { has_country_flag = paris_capital }
+		}
+
+		allow = {
+			owns = 425
+		}
+
+		effect = {
+			capital = 425
+			prestige = 5
+			set_country_flag = paris_capital
+		}
+	}
+
+# Bretagne belongs to France! (annex BRT)
+
+	BRT_is_France = {
+		picture = military_parade
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = BRT_annexation_demanded }
+		}
+		
+		allow = {
+			NRM = { all_core = { owned_by = THIS } }
+			NOT = { truce_with = BRT}
+		}
+		
+		effect = {
+			BRT = {
+				all_core = { add_core = FRA }
+			}
+			set_country_flag = BRT_annexation_demanded
+			badboy = 5
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
+
+# The Picards and Walloons are French! - planned to have some war to annex them ################################################################# (notice this, Savs)
+#NB - they're called walloon in the code, not walloon
+
+#Walloon Societal Integration
+	FRA_embrace_walloons = {
+		picture = become_wallonia
+		potential = {
+			tag = FRA
+			NOT = { accepted_culture = walloon }
+		}
+		
+		allow = {
+			OR = {
+				owns = 398
+				owns = 403
+			}
+		}
+		
+		effect = {
+			add_accepted_culture = walloon
+			add_accepted_culture = flemish
+		}
+	}
+
+	#Integrate the Bretons
+FRA_embrace_bretons = {
+		picture = genocide_minorities
+		potential = {
+			tag = FRA
+			NOT = { accepted_culture = breton }
+		}
+		
+		allow = {
+			owns = 423
+			OR = {
+				BRT = { exists = no }
+				BRT = { vassal_of = THIS }
+			}
+		}
+		
+		effect = {
+			prestige = -2
+			add_accepted_culture = breton
+		}
+	}
+
+
+consolidate_our_holdings = {
+	potential = {
+		OR = {
+			tag = FRA
+			tag = NET
+		}
+		NOT = { has_country_flag = consolidated_holdings }
+	}
+	allow = {
+		NET_375 = { owned_by = THIS }
+		NET_379 = { owned_by = THIS }
+		NET_385 = { owned_by = THIS }
+		BEL_387 = { owned_by = THIS }
+		BEL_394 = { owned_by = THIS }
+		FRA_399 = { owned_by = THIS }
+		FRA_445 = { owned_by = THIS }
+		FRA_411 = { owned_by = THIS }
+		FRA_418 = { owned_by = THIS }
+		FRA_425 = { owned_by = THIS }
+		FRA_428 = { owned_by = THIS }
+		FRA_438 = { owned_by = THIS }
+		FRA_420 = { owned_by = THIS }
+	}
+	effect = {
+		FRA = { all_core = { add_core = THIS } }
+		NET = { all_core = { add_core = THIS } }
+		NET_375 = { life_rating = 2 }
+		NET_379 = { life_rating = 2 }
+		NET_385 = { life_rating = 2 }
+		BEL_387 = { life_rating = 2 }
+		BEL_394 = { life_rating = 2 }
+		FRA_399 = { life_rating = 2 }
+		FRA_445 = { life_rating = 2 }
+		FRA_411 = { life_rating = 2 }
+		FRA_418 = { life_rating = 2 }
+		FRA_425 = { life_rating = 2 }
+		FRA_428 = { life_rating = 2 }
+		FRA_438 = { life_rating = 2 }
+		FRA_420 = { life_rating = 2 }
+		set_country_flag = consolidated_holdings
+	}
+}
+}	
+#	integrate_the_aquitanians = {
+#		potential = {
+#			tag = FRA
+#			NOT = { has_country_flag = aqt_accepted }
+#		}		
+#		allow = {
+#			year = 1840
+#			owns = 442
+#			owns = 437
+#		}		
+#		effect = {
+#			AQT = { all_core = { add_core = FRA } }
+#			add_accepted_culture = aquitanian
+#			set_country_flag = aqt_accepted
+#		}
+#	}

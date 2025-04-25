@@ -1,0 +1,67 @@
+#Events for the Indonesia region
+
+#Sulawesi Protectorate
+country_event = {
+	id = 51503
+	title = "EVTNAME51503"
+	desc = "EVTDESC51503"
+	picture = "ships_to_bangkok"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		owns = 1432
+		owns = 1436
+		exists = SLW
+		SLW = { neighbour = THIS owns = 1430 }
+		year = 1842
+		war = no
+		is_disarmed = no
+		OR = {
+			is_greater_power = yes
+			is_secondary_power = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "Send in the troops."
+		casus_belli = {
+			target = SLW
+			type = establish_protectorate_casus_belli
+			months = 3
+		}
+		war = {
+			target = SLW
+			attacker_goal = { casus_belli = establish_protectorate_casus_belli }
+		}
+		
+		ai_chance = {
+			factor = 80
+			modifier = {
+				factor = 100
+				has_global_flag = railroading_on
+			}
+		}
+	}
+	
+	option = {
+		name = "Use diplomacy to resolve the situation."
+		prestige = 1
+		relation = {
+			who = SLW
+			value = 50
+		}
+		diplomatic_influence = {
+			who = SLW
+			value = 100
+		}
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+}

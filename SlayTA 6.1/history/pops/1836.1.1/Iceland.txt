@@ -1,0 +1,70 @@
+#Iceland (56000)
+#Ruled by Denmark in 1836
+#Reykjavik (56000/28540 POPS)
+252 = {
+	aristocrats = {
+		culture = icelandic
+		religion = protestant
+		size = 650
+	}
+	
+	bureaucrats = {
+		culture = icelandic
+		religion = protestant
+		size = 110
+	}
+	clergymen = {
+		culture = icelandic
+		religion = protestant
+		size = 245
+	}
+	artisans = {
+		culture = icelandic
+		religion = protestant
+		size = 1900
+	}
+	
+	officers = {
+		culture = icelandic
+		religion = protestant
+		size = 45
+	}
+	soldiers = {
+		culture = icelandic
+		religion = protestant
+		size = 620
+	}
+	farmers = {
+		culture = icelandic
+		religion = protestant
+		size = 32050
+	}
+}
+#Saskylah (1000/250 POPS) #but actually Akureyri
+2653 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = protestant
+		size = 80
+	}
+	clergymen = {
+		culture = icelandic
+		religion = protestant
+		size = 175
+	}
+	artisans = {
+		culture = icelandic
+		religion = protestant
+		size = 1525
+	}
+	soldiers = {
+		culture = icelandic
+		religion = protestant
+		size = 375
+	}
+	farmers = {
+		culture = icelandic
+		religion = protestant
+		size = 22550
+	}
+}

@@ -1,0 +1,7 @@
+owner = CLT
+controller = CLT
+
+trade_goods = coal
+life_rating = 37
+
+add_core = CLT

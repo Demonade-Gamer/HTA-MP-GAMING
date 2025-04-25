@@ -1,0 +1,9 @@
+owner = CLT
+controller = CLT
+add_core = CLT
+trade_goods = fish
+life_rating = 35 
+terrain = small_island
+naval_base = 1
+#Now actually Orkney up north. The Channel Islands aren't interesting
+

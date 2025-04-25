@@ -1,0 +1,678 @@
+country_event = {
+	id = 40404048
+	title = "Special Military Operation to De-nazi Smolensk"
+	desc = "War will be won in 30 days. (This is intended to make the Russian Civil war way more painful for the players, have fun :D)"
+	picture = "Opiumwar"
+	trigger = {
+	tag = RUS
+	}
+	fire_only_once = yes
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "ZZZZZZZZZZZZZZZ"
+		prestige = -15
+		add_country_modifier = {
+		name = military_strife
+			duration = -1
+		}
+	}	
+		
+}
+
+
+country_event = {
+	id = 40404049
+	title = "Great Patriotic War"
+	desc = "It's over for the Moscovites. (This is intended to make the Russian Civil war way more painful for the players, have fun :D)"
+	picture = "Opiumwar"
+	trigger = {
+	tag = SML
+	}
+	fire_only_once = yes
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "SLAVA"
+		prestige = -15
+		add_country_modifier = {
+		name = military_strife
+			duration = -1
+		}
+	}	
+		
+}
+#Events 50350-50399 reserved for Russia, Smolensk, and related countries
+#Event to end the Yakut War
+country_event = {
+	id = 50350
+	title = "EVTNAME50350"
+	desc = "EVTDESC50350"
+	picture = "ambush_army"
+	
+	trigger = {
+		primary_culture = russian
+		2648 = { owned_by = THIS }
+		YKT = { exists = no }
+		NOT = { has_global_flag = yakuts_subjugated }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		modifier = {
+			factor = 0.1
+			year = 1838
+		}
+	}
+	
+	option = {
+		name = "For $COUNTRY$!"
+		prestige = 2
+		any_owned = {
+		limit = {
+			is_core = YKT
+				}
+			remove_core = YKT
+		}
+		set_global_flag = yakuts_subjugated
+	}
+}
+
+#Western coast fully explored!
+country_event = {
+	id = 50351
+	title = "EVTNAME50351"
+	desc = "EVTDESC50351"
+	picture = "expansion"
+	
+	trigger = {
+		primary_culture = russian
+		YKT = { exists = no }
+		owns = 1072
+		owns = 2618
+		owns = 1074
+		owns = 2590
+		owns = 2660
+		NOT = { has_country_flag = western_coast_explored }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Excellent work by our intrepid explorers!"
+		prestige = 5
+		set_country_flag = western_coast_explored
+		1072 = { life_rating = 15 }
+		1073 = { life_rating = 10 }
+		1074 = { life_rating = 10 }
+		2616 = { life_rating = 5 }
+		2618 = { life_rating = 10 }
+		2634 = { life_rating = 5 }
+		2637 = { life_rating = 5 }
+		2638 = { life_rating = 5 }
+		2639 = { life_rating = 10 }
+		2641 = { life_rating = 15 }
+		2642 = { life_rating = 15 }
+		2663 = { life_rating = 5 }
+	}
+}
+
+#$COUNTRY_ADJ$ Steppe
+country_event = {
+	id = 50352
+	title = "The $COUNTRY_ADJ$ Steppe"
+	desc = "Our peoples have claimed the lands to the northeast of the Caspian Sea, lands which were hitherto sparsely populated at best. None can claim to own them, so now we do!"
+	picture = "expansion"
+
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		owns = 1194
+		1194 = { NOT = { is_core = THIS } }
+		owns = 2702
+		2702 = { NOT = { is_core = THIS } }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "$COUNTRY$ expands ever outwards!"
+		prestige = 1
+		1194 = {
+			add_core = THIS
+		}
+		2702 = {
+			add_core = THIS
+		}
+	}
+}
+
+#$COUNTRY_ADJ$ Steppe (when only one of the countries exists)
+country_event = {
+	id = 50353
+	title = "The $COUNTRY_ADJ$ Steppe"
+	desc = "Our peoples have claimed the lands to the northeast of the Caspian Sea, lands which were hitherto sparsely populated at best. None can claim to own them, so now we do!"
+	picture = "expansion"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		OR = {
+			tag = RUS
+			NOT = { exists = SML }
+		}
+		OR = {
+			tag = SML
+			NOT = { exists = RUS }
+		}
+		OR = {
+			tag = SRU
+			NOT = { exists = RUS }
+		}
+		owns = 1194
+		1194 = { NOT = { is_core = THIS } }
+		owns = 2702
+		2702 = { NOT = { is_core = THIS } }
+	}
+	
+	mean_time_to_happen = {
+		months = 4
+	}
+	
+	option = {
+		name = "The land between the sea is ours!"
+		prestige = 1
+		1194 = {
+			add_core = THIS
+		}
+		2702 = {
+			add_core = THIS
+		}
+	}
+}
+
+
+#########Added in 0.36 - The Russia Update
+
+#New Tsar/Knyaz, choose a regent
+country_event = {
+	id = 50354
+	title = "EVTNAME50354"
+	desc = "EVTDESC50354"
+	picture = "autocracy"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		year = 1872
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+	
+	immediate = {
+		add_country_modifier = {
+			name = russian_regency
+			duration = 2487
+		}
+		remove_country_modifier = tsar_batyushka
+	}
+	
+	option = {
+		name = "Daniil Vorontsov, errant mystic and family confidant."
+		#meh modifier for 10ish years as a political leader
+		add_country_modifier = {
+			name = vorontsov
+			duration = 2855
+		}
+		
+		ai_chance = {
+			factor = 40
+			modifier = {
+				factor = 100
+				has_global_flag = railroading_on
+			}
+		}
+	}
+	
+	option = {
+		name = "General Igor Orlov, head military advisor."
+		#good military modifier
+		add_country_modifier = {
+			name = orlov
+			duration = 2855
+		}
+		
+		ai_chance = {
+			factor = 40
+			modifier = {
+				factor = 0
+				has_global_flag = railroading_on
+			}
+		}
+	}
+	
+	option = {
+		name = "Afanasii Derzhavin, advisor and former governor of Moscow county."
+		#ok gov modifier
+		add_country_modifier = {
+			name = derzhavin
+			duration = 2855
+		}
+		
+		ai_chance = {
+			factor = 20
+			modifier = {
+				factor = 0
+				has_global_flag = railroading_on
+			}
+		}
+	}
+}
+
+#Backlash over regent choice
+country_event = {
+	id = 50355
+	title = "EVTNAME50355"
+	desc = "EVTDESC50355"
+	picture = "communist_riot"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		has_country_modifier = vorontsov
+	}
+	
+	mean_time_to_happen = {
+		months = 8
+	}
+	
+	option = {
+		name = "They should respect the choice!"
+		set_country_flag = vorontsov_backlash
+		any_pop = {
+			limit = {
+				OR = {
+					type = bureaucrats
+					type = soldiers
+					type = officers
+				}
+			}
+			militancy = 5
+			consciousness = 2
+		}
+	}
+}
+
+#Heir Vsevolod dies
+country_event = {
+	id = 50364
+	title = "EVTNAME50364"
+	desc = "EVTDESC50364"
+	picture = "Vsevolod"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		year = 1868
+		owns = 1013
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+	
+	option = {
+		name = "God rest his soul."
+		any_pop = {
+			militancy = -0.1
+		}
+		1013 = {
+			add_province_modifier = {
+				name = government_sanitarium
+				duration = -1
+			}
+		}
+	}
+}
+
+#Tsar Michael comes of age
+country_event = {
+	id = 50365
+	title = "EVTNAME50365"
+	desc = "EVTDESC50365"
+	picture = "Michael"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		year = 1880
+		NOT = { has_country_modifier = russian_regency }
+	}
+	
+	#mean_time_to_happen = {	}							#Will make the event fire instantly if no MTTH is assigned
+
+	option = {
+		name = "May God protect the Tsar!"
+		any_pop = {
+			militancy = -0.5
+		}
+		set_country_flag = tsar_michael
+		remove_country_modifier = derzhavin
+		remove_country_modifier = orlov
+		remove_country_modifier = vorontsov
+	}
+}
+
+#Tsar Batyushka Feodor II
+country_event = {
+	id = 50366
+	title = "EVTNAME50366"
+	desc = "EVTDESC50366"
+	picture = "Feodor"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		year = 1853
+	}
+	
+	mean_time_to_happen = {
+		months = 18
+	}
+	
+	option = {
+		name = "Tsar Batyushka watches over us, father to all."
+		add_country_modifier = {
+			name = tsar_batyushka
+			duration = -1
+		}
+	}
+}
+		
+###Flavour events###
+
+#Development of Sevastopol
+province_event = {
+	id = 50391
+	title = "EVTNAME50391"
+	desc = "EVTDESC50391"
+	picture = "sevastopol"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		province_id = 967
+		country = { primary_culture = russian }
+		OR = {
+			NOT = { has_building = naval_base }
+			NOT = { has_building = fort }
+		}
+		year = 1842
+	}
+	
+	mean_time_to_happen = {
+		months = 9
+	}
+	
+	option = {
+		name = "We will rule the Black Sea!"
+		THIS = {
+			money = -1000
+			prestige = 2
+		}
+		naval_base = 1
+		fort = 1
+	}
+}
+
+#Dead souls
+country_event = {
+	id = 50392
+	title = "EVTNAME50392"
+	desc = "EVTDESC50392"
+	picture = "Gogol"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = russian
+		year = 1842
+		has_country_flag = serfdom_not_abolished
+		NOT = { has_country_flag = dead_souls }
+	}
+	
+	mean_time_to_happen = {
+		months = 9
+	}
+	
+	option = {
+		name = "Carpe diem! Let us attempt this reform."
+		any_pop = {
+			limit = {
+				type = bureaucrats
+			}
+			militancy = 2
+			money = -50
+		}
+		money = 3000
+		any_pop = {
+			limit = {
+				strata = poor
+			}
+			consciousness = 1
+		}
+		random = {
+			chance = 50
+			add_country_modifier = {
+				name = unsuccessful_ds_reform
+				duration = 3650
+			}
+		}
+		set_country_flag = dead_souls
+	}
+	
+	option = {
+		name = "There is no need to change."
+		prestige = -2
+		any_pop = {
+			limit = {
+				OR = {
+					type = farmers
+					type = labourers
+				}
+			}
+			militancy = 0.5
+			consciousness = 1
+		}
+		any_pop = {
+			limit = {
+				type = bureaucrats
+			}
+			militancy = -1
+		}
+	}
+}
+
+#Workaround to get a truly random effect for the above
+country_event = {
+	id = 50393
+	title = "Ignore me"
+	desc = "I'm just fixing something with the Dead Souls event."
+	
+	fire_only_once = yes
+	
+	trigger = {
+		ai = yes
+		RUS = {
+			has_country_flag = dead_souls
+			NOT = { has_country_modifier = successful_ds_reform }
+			NOT = { has_country_modifier = unsuccessful_ds_reform }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		modifier = {
+			factor = 0.01
+			year = 1840
+		}
+	}
+	
+	option = {
+		name = "There we go."
+		RUS = {
+			add_country_modifier = {
+				name = successful_ds_reform
+				duration = 7000
+			}
+			clr_country_flag = dead_souls
+		}
+	}
+}
+
+
+country_event = {
+	id = 50399
+	title = "EVTNAME50350"
+	desc = "EVTDESC50350"
+	picture = "ambush_army"
+	
+	trigger = {
+		tag = SIB
+		NOT = { has_country_flag = siberian_cucked }
+	}
+	
+	mean_time_to_happen = {
+		days = 0
+	}
+	
+	option = {
+		set_country_flag = siberian_cucked
+		SIB = {
+			all_core = {
+			limit = { empty = yes }
+			secede_province = SIB
+			}
+			any_pop = {
+				limit = {
+					type = soldiers
+					}
+				pop_type = labourers
+				}
+		}
+		YKT = {
+			all_core = {
+				add_core = SIB
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 50397
+	title = "EVTNAME50350"
+	desc = "EVTDESC50350"
+	picture = "ambush_army"
+	
+	trigger = {
+		tag = SIB
+		month = 1
+		NOT = { has_country_flag = siberian_uncucked }
+		NOT = { year = 1837 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		set_country_flag = siberian_uncucked
+		any_pop = {
+		limit = {
+			NOT = {
+				has_pop_culture = ugrian
+				}
+			}
+		reduce_pop = 3
+		}
+	}
+}
+
+country_event = {
+	id = 50396
+	title = "EVTNAME50350"
+	desc = "EVTDESC50350"
+	picture = "ambush_army"
+	
+	trigger = {
+		tag = YKT
+		month = 1
+		NOT = { has_country_flag = yakut_uncucked }
+		NOT = { year = 1837 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		set_country_flag = yakut_uncucked
+		any_country = {
+			RUS_1064 = {
+				add_core = SIB
+				}
+			RUS_1026 = {
+				add_core = SIB
+				}
+			RUS_2685 = {
+				add_core = SIB
+				}
+			RUS_1065  = {
+				add_core = SIB
+				}
+			RUS_1026 = {
+				add_core = SIB
+				}
+			RUS_1060  = {
+				add_core = SIB
+				}	
+			}
+	}
+}
+
+country_event = {
+	id = 50398
+	title = "EVTNAME50350"
+	desc = "EVTDESC50350"
+	picture = "ambush_army"
+	
+	trigger = {
+		tag = SIB
+		month = 2
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		any_owned_province = {
+			change_controller = THIS
+		}
+		FROM = { inherit = THIS }
+	}
+}

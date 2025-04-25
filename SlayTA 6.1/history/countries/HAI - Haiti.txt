@@ -1,0 +1,52 @@
+capital = 2213
+primary_culture = afro_caribbean
+religion = catholic
+government = presidential_dictatorship
+plurality = 25.1
+nationalvalue = nv_liberty
+literacy = 0.08
+non_state_culture_literacy = 0.55
+civilized = no
+prestige = 1
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+ruling_party = HAI_liberal
+upper_house = {
+	fascist = 0
+	liberal = 35
+	conservative = 44
+	reactionary = 15
+	anarcho_liberal = 6
+	socialist = 0
+	communist = 0
+}
+
+set_country_flag = new_world_nation
+
+# Technologies
+
+# Inventions
+
+#Starting Consciousness
+consciousness = 2
+nonstate_consciousness = 0
+
+oob = "HAI_oob.txt"

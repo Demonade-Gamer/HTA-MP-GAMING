@@ -1,0 +1,19 @@
+owner = BRN
+controller = BRN
+add_core = BRN
+add_core = GER
+trade_goods = silk
+life_rating = 40
+railroad = 1
+fort = 1
+state_building = {
+	level = 2
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = explosives_factory
+	upgrade = yes
+}
+

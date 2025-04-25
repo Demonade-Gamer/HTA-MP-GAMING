@@ -1,0 +1,9 @@
+owner = NET
+controller = NET
+add_core = SAF
+trade_goods = wool
+terrain = mountain
+life_rating = 35 
+
+
+

@@ -1,0 +1,329 @@
+#Event IDs 50300-50349 reserved for HIS and other Iberian countries
+# Halesca Purchase 1/3 - Events 50300-50302
+country_event = {
+	id = 50300
+	title = "EVTNAME50300" #the Alaskan Purchase
+	desc = "EVTDESC50300"
+	picture = "alaska"
+	
+	trigger = {
+		HIS = {
+			war = no
+			any_owned_province = {
+				region = USA_1
+			}
+		}
+		NOT = {
+			has_global_flag = alaska_purchase_process_global
+			has_global_flag = alaska_purchase_completed
+			has_country_flag = refused_alaska
+			any_owned_province = { is_core = HIS }
+			truce_with = HIS
+		}
+		OR = {
+			tag = SKM
+			relation = { who = HIS value = 0 }
+			alliance_with = HIS
+		}
+		#is_greater_power = yes
+		war = no
+		#state_n_government = 1
+		has_country_flag = alaska_purchase_interest
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+		modifier = {
+			factor = 0.5
+			tag = SKM
+		}
+		modifier = {
+			factor = 0.8
+			alliance_with = HIS
+		}
+		modifier = {
+			factor = 0.8
+			relation = { who = HIS value = 100 }
+		}
+		modifier = {
+			factor = 1.2
+			NOT = { relation = { who = HIS value = 50 } }
+		}
+		modifier = {
+			factor = 0.1
+			year = 1870
+		}
+	}
+	
+	immediate = {
+		set_global_flag = alaska_purchase_process_global
+	}
+	
+	option = {
+		name = "Make the offer."
+		treasury = -25000
+		HIS = { country_event = 50301 }
+		ai_chance = {
+			factor = 95
+			modifier = {
+				factor = 0.1
+				NOT = { money = 10000 }
+			}
+		}
+	}
+	
+	option = {
+		name = "We don't need it."
+		clr_country_flag = alaska_purchase_interest
+		set_country_flag = refused_alaska
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 2
+				NOT = { money = 10000 }
+			}
+			modifier = {
+				factor = 0
+				tag = SKM
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 50301
+	title = "EVTNAME50301" #the Alaskan Purchase
+	desc = "EVTDESC50301"
+	picture = "alaska"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Sell it."
+		set_global_flag = alaska_purchase_completed
+		prestige = 10
+		treasury = 25000
+		USA_1 = { remove_core = HIS }
+		FROM = { country_event = 50302 }
+		ai_chance = {
+			factor = 75
+		}
+	}
+	
+	option = {
+		name = "Refuse, but find another buyer."
+		clr_global_flag = alaska_purchase_process_global
+		FROM = {
+			clr_country_flag = alaska_purchase_interest
+			country_event = 50303
+		}
+		any_country = {
+			limit = {
+				NOT = { tag = HIS }
+				NOT = { has_country_flag = refused_alaska }
+				OR = {
+					is_greater_power = yes
+					is_secondary_power = yes
+				}
+				any_owned_province = {
+					OR = {
+						region = USA_78
+						region = RUS_2590
+						region = JAP_1088
+					}
+				}					
+			}
+			set_country_flag = alaska_purchase_interest
+		}
+		ai_chance = {
+			factor = 25
+			modifier = {
+				factor = 0
+				FROM = {
+					tag = SKM
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "We have changed our mind. Halesca is not for sale."
+		prestige = -10
+		USA_1 = { add_core = HIS }
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+country_event = {
+	id = 50302
+	title = "Hispania Agrees"
+	desc = "Hispania has agreed to the sale. Halesca is ours!"
+	picture = "alaska"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We welcome this new addition."
+		prestige = 10
+		USA_1 = { add_core = THIS }
+		FROM = {
+			any_owned = {
+				limit = { is_core = LSK }
+				secede_province = THIS
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 50303
+	title = "Hispania Refuses"
+	desc = "The talks with Hispania have broken down. They refuse to sell Halesca to us."
+	picture = "alaska"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "How disappointing."
+		prestige = -5
+		treasury = 25000
+		relation = { who = HIS value = -25 }
+	}
+}
+
+#############END HALESCA PURCHASE EVENTS#########################
+
+# Hispania proposes union with Basque provinces, events 50304-50306
+country_event = {
+	id = 50304 
+	title = "EVTNAME50304" # Hispania invites Navarra 
+	desc = "EVTDESC50304"
+	picture = "carlists"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We agree!"
+		HIS = { country_event = 50305}
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 2
+					OR = {
+						alliance_with = HIS 
+						relation = { who = HIS value = 150 }
+					}
+			}
+			modifier = { 
+				factor = 0.5 
+				is_secondary_power = yes 
+			}
+		}
+	}
+	
+	option = {
+		name = "We refuse."
+		prestige = 15 
+		HIS = { country_event = 50306 }
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 2 
+				is_secondary_power = yes 
+			}
+			modifier = {
+				factor = 1.5 
+				government = democracy
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 50305 
+	title = "EVTNAME50305" # Navarra accepts union 
+	desc = "EVTDESC50305"
+	picture = "threehurrahs"
+	
+	is_triggered_only = yes 
+	
+	option = { 
+		name = "We welcome back our Navarran brothers."
+		badboy = 3 
+		prestige = 10 
+		create_vassal = FROM 
+		AQT = {
+			relation = { who = THIS value = -50 }
+			leave_alliance = THIS
+		}
+		ai_chance = {
+			factor = 95 
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}	
+	}
+	
+	option = { 
+		name = "Now is not the right time."
+		prestige = -10
+		badboy = -3 
+		relation = { who = FROM value = -50 }
+		ai_chance = {
+			factor = 5 
+		}
+	}
+}
+
+country_event = {
+	id = 50306
+	title = "EVTNAME50306" # Navarra refuses union 
+	desc = "EVTDESC50306"
+	picture = "carlists"
+	
+	is_triggered_only = yes 
+	
+	option = {
+		name = "An unfortunate choice."
+		badboy = 10 
+		diplomatic_influence = { who = FROM value = -400 }
+		relation = { who = FROM value = -400 }
+		FROM = {
+			all_core = { add_core = HIS }
+		}
+		AQT = {
+			relation = { who = THIS value = -50 }
+			leave_alliance = THIS
+		}
+		ai_chance = {
+			factor = 60 
+			modifier = {
+				factor = 0.1
+				badboy = 0.2
+			}
+		}
+	}
+	option = {
+		name = "We shall accept their decision."
+		prestige = -15
+		badboy = -3 
+		relation = { who = FROM value = 50 }
+		ai_chance = {
+			factor = 30 
+			modifier = {
+				factor = 3 
+					OR = {
+					war_policy = anti_military
+					war_policy = pacifism
+				}
+			}
+			modifier = {
+				factor = 0.5
+				war_policy = jingoism
+			}
+		}
+	}
+}

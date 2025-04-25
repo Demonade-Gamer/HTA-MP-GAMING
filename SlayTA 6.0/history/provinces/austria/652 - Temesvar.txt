@@ -1,9 +1,0 @@
-owner = BOH
-controller = BOH
-add_core = BOH
-add_core = HUN
-add_core = VOL
-add_core = BAN
-trade_goods = grain
-life_rating = 35 
-

@@ -1,0 +1,13 @@
+owner = BAV
+controller = BAV
+
+add_core = GER
+trade_goods = fruit
+life_rating = 38
+#state_building = {
+#	level = 2 
+#	building = lumber_mill
+#	upgrade = yes
+#}
+
+add_core = BAV

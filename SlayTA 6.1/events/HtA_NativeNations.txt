@@ -1,0 +1,184 @@
+#Event to set up native nations
+country_event = {
+
+	title = "EVTNAME95599"
+	desc = "EVTDESC95599"
+	id = 95599
+
+	picture = "geronimo"
+
+	trigger = {
+		OR = {
+			tag = SHC
+			tag = INC
+			is_culture_group = native_american
+		}
+		NOT = {
+			has_country_flag = has_native_societies
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+		modifier = {
+			factor = 0.01
+			year = 1836
+		}
+	}
+
+	option = {
+		name = "EVTOPTA95599"
+		set_country_flag = has_native_societies
+		add_country_modifier = {
+			name = native_societies1
+			duration = -1
+		}
+		add_country_modifier = {
+			name = native_societies2
+			duration = -1
+		}
+	}
+}	
+	country_event = {
+	title = "EVTNAME95600" ## The New Leader
+	desc = "EVTDESC95600" ## The Shawnee Confederation was established in the 18th century in the wake of the successful defensive wars against Norway. In 1811, the French prince and explorer Henri Tournus wedded Nonhelema, the sister of Chief Hokolesqua, under agreement that their children would take the Chief's family name of Spithotha. After Hokolesqua passed away, a council of elders was convened to select his successor. Among the choices available were Lalawethika, the first born son of Hokolesqua, who favored a traditional relationship with the land and maintaining a hard line against European encroachment. His primary rival was the son of Henri and Honhelema, Tenskwatawa Ulysse, who had received a partial European education and favored modernizing the Confederation. 
+	id = 95600
+	picture = "seattle_1870"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = SHC
+		has_country_flag = has_native_societies
+		ai = no
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+		modifier = {
+			factor = 0.01
+			year = 1836
+		}
+	}
+	
+	option = {
+		name = "Lalawethika, a man of tradition."
+		prestige = 5
+		define_general = {
+			name = "Lalawethika Spithotha"
+			personality = attack_4.1
+			background = defence_4.1
+		}
+	}
+	
+	option = {
+		name = "Tenskwatawa Ulysse, for progress!"
+		set_global_flag = shc_modernizing
+		economic_reform = yes_education_reform
+		economic_reform = yes_land_reform
+		economic_reform = yes_western_science
+		plurality = 25
+		SHC = { activate_technology = malthusian_thought }
+		SHC = { activate_technology = water_wheel_power }
+		SHC = { activate_technology = late_enlightenment_philosophy }
+		add_country_modifier = {
+			name = "western_influences"
+			duration = -1
+		}
+		add_country_modifer = {
+			name = technological_assistance
+			duration = -1
+		}
+		years_of_research = 5
+		}
+	}
+
+country_event = {
+	title = "End of the Natives"
+	desc = "With the last of the Native Amerigan tribes having been conquered, their existence on this continent is fast becoming a dim memory. It is time for their people to become integrated into our modern society."
+	id = 95605
+	
+	picture = "geronimo"
+	
+	trigger = {
+		year = 1885
+		NOT = {
+			exists = SHC
+			exists = INC
+		}
+		any_owned_province = {
+			OR = {
+				is_core = SHC
+				is_core = INC
+			}
+		}
+		NOT = { has_country_flag = native_cores_removed }
+		NOT = { has_global_flag = native_civved }
+	}
+	
+	mean_time_to_happen = {
+		years = 5
+		modifier = {
+			factor = 0.5
+			revolution_n_counterrevolution = 1
+		}
+		modifier = {
+			factor = 0.5
+			biologism = 1
+		}
+	}
+	
+	option = {
+		name = "It is for the best."
+		any_owned = {
+			limit = {
+				OR = {
+					is_core = SHC
+					is_core = INC
+				}
+			}
+			remove_core = SHC
+			remove_core = INC
+		}
+		any_pop = {
+			limit = {
+				OR = {
+					is_accepted_culture = yes
+					is_primary_culture = yes
+				}
+			}
+			consciousness = 0.5
+		}
+		set_country_flag = native_cores_removed
+	}
+}
+
+
+country_event = {
+	id = 95608
+	title = "EVTNAME95608"
+	desc = "EVTDESC95608" 
+	picture = "geronimo"
+
+	trigger = {
+		OR = {
+			tag = SHC 
+			tag = INC
+			is_culture_group = native_american
+		}
+		civilized = yes
+		has_country_modifier = native_societies2
+	}
+
+	mean_time_to_happen = {
+		days = -1
+	}
+
+	option = {
+		name = "We will surely stand on our own."
+		set_country_flag = native_crossroad
+		remove_country_modifier = native_societies2 	#pop growth +0.008
+		remove_country_modifier = technological_assistance
+		set_global_flag = native_civved
+	}
+}
