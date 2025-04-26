@@ -90,7 +90,8 @@ FRA_411;Bar-Lorraine;;;;;;;;;;;x
 FRA_412;Elsaß;;;;;;;;;;x
 FRA_438;Orléans;;;;;;;;;;;;;;;x,,,
 FRA_442;Peitau;;;;;;;;;;;;;;;x,,,
-FRA_445;Årdene;;;;;;;;;;;;;;;x,,,
+FRA_445;Årdene;;;;;;;;;;;;;;;x,,,  
+PRU_554;Naoned;;;;;;;;;;;;x    
 FRA_448;Auvernha;;;;;;;;;;;;;;;x,,,
 FRA_451;Ròse;;;;;;;;;;;;;;x
 FRA_455;Miègjorn;;;;;;;;;;;;;;;x,,,
@@ -110,7 +111,6 @@ HAN_540;East Friesland;;;;;;;;;;;;x
 PRU_536;Braunschweig;;;;;;;;;;x,,,
 PRU_544;Mecklenburg;;;;;;;;;;;;x   
 PRU_546;Pomerania;;;;;;;;;;;;x     
-PRU_554;Naoned;;;;;;;;;;;;x  
 SAX_558;Saxony;;;;;;;;;;;;x        
 GER_565;Hesse;;;;;;;;;;;;x,,,
 GER_566;Kassel;;;;;;;;;;;x,,,
@@ -398,3 +398,5 @@ AUS_777;Foggia;;;;;;;;;;x
 AUS_768;Modena;;;;;;;;;;x
 MON_2582;Rouen;;;;;;;;;;x
 AUS_633;Western Slovakia;;;;;;;;;;x
+RUS_2615;Lintou;;;;;;;;;;x
+RUS_2590;Hong Kong;;;;;;;;;;x
