@@ -106,7 +106,7 @@ political_decisions = {
         potential = {
 		NOT = { has_country_flag = SAFinvest2 }
 		has_country_flag = SAFinvest1
-		tag = SAF
+		tag = NET
 	}
 
         allow = {
@@ -132,10 +132,7 @@ political_decisions = {
         potential = {
 		NOT = { has_country_flag = SAFinvest3 }
 		has_country_flag = SAFinvest2
-		OR = {
-			tag = NET
-			tag = SAF
-        }
+		tag = NET
 	}
 
         allow = {
@@ -187,10 +184,7 @@ political_decisions = {
         potential = {
 		NOT = { has_country_flag = SAFinvest5 }
 		has_country_flag = SAFinvest4
-		OR = {
-			tag = NET
-			tag = SAF
-        }
+		tag = NET
 	}
 
         allow = {
@@ -216,10 +210,7 @@ political_decisions = {
         potential = {
 		NOT = { has_country_flag = SAFinvest6 }
 		has_country_flag = SAFinvest5
-		OR = {
-			tag = NET
-			tag = SAF
-        }
+		tag = NET
 	}
 
         allow = {

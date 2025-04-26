@@ -10,9 +10,6 @@ country_event = {
 		NOT = { has_global_flag = money_injected }
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	option = {
 		name = "Great!"

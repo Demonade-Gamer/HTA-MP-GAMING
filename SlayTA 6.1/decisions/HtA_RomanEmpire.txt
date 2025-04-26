@@ -115,7 +115,7 @@ political_decisions = {
 		picture = map_italy
 		potential = {
 			tag = ITA
-			accepted_culture = illyrian 
+			accepted_culture = croat 
 		}
 
 		allow = {

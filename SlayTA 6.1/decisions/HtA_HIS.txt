@@ -276,7 +276,7 @@ political_decisions = {
 					}
 					any_owned_province = {
 						OR = {
-							region = USA_78
+							region = USA_81
 							region = RUS_2590
 							region = JAP_1088
 						}

@@ -795,6 +795,12 @@ consolidate_our_holdings_title;Consolidate our holdings;x
 consolidate_our_holdings_desc;Our conquest of the French, Dutch, and Walloon lands has allowed us to greatly expand cities across the nation, allowing for life expectancy and quality to rise drastically throughout our core lands on the European continent.;x
 accept_the_mashriq_people_title;Accept the Mashriqi;x
 accept_the_mashriq_people_desc;When young Joshua (Michael Stephenson) learns that he will be going on vacation with his family to a small town called Nilbog, he protests adamantly.;x
+accept_the_armenian_people_title;Accept the Armenians!;x
+accept_the_armenian_people_desc;We must protect the Armenian people from Roman incursions into Anatolia!;x
+accept_the_kurdish_people_title;Accept the Kurdish people!;x
+accept_the_kurdish_people_desc;We must protect the Kurdish people from Roman incursions into Anatolia!;x
+annex_syria_title;Annex the Syrian Kingdom.;x
+annex_syria_desc;Too long has Syria remained a majorly independent kingdom, it is time to bring them back into the fold and use their land for OUR benefit!;x
 add_to_the_pool_aqt_title;Add to the investment pool!;x
 add_to_the_pool_aqt_desc;Investing more in this pool gives you a better buff in 1850, you need to invest 3 million to get 5 years of 0.01% pop growth and 12.5% factory throughput, 9 million for 10 years, and 12 million for 15 years. (You also get more ticking prestige per level, ending at +1 prestige a month for 15 years);x
 add_to_the_pool_fra_title;Add to the investment pool!;x
@@ -815,3 +821,5 @@ invest_in_SAF_5_title;Invest government resources into developing South Afrika;x
 invest_in_SAF_5_desc;South Afrika needs more of our treasury to continue developing into a true metropolis!;x
 invest_in_SAF_6_title;Invest government resources into developing South Afrika;x
 invest_in_SAF_6_desc;South Afrika needs more of our treasury to continue developing into a true metropolis and second homeland for the Dutch!;x
+expand_west_title;Expand our reach into the Isles!;x
+exoand_west_desc;It is time for Scandinavia to rule over the North Sea, we must take down those pesky celts and aenglish in the isles and cement a name for ourselves in history!;x

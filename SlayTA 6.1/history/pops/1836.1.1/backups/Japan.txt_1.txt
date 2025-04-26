@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = japanese
         religion = protestant
-        size = 2247
+        size = 749
     }
 
     officers = {
@@ -41,7 +41,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 92403
+        size = 93337
     }
 
     aristocrats = {
@@ -71,7 +71,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 26690
+        size = 26960
     }
 }
 #Okayama (504000/126000 POPS)
@@ -103,7 +103,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 66833
+        size = 67509
     }
 
     aristocrats = {
@@ -133,7 +133,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 27076
+        size = 27350
     }
 }
 #Yamaguchi (512000/128000 POPS)
@@ -165,7 +165,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 82110
+        size = 82940
     }
 
     aristocrats = {
@@ -195,7 +195,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 20489
+        size = 20696
     }
 }
 #Matsue (548000/137000 POPS)
@@ -227,7 +227,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 76743
+        size = 77519
     }
 
     aristocrats = {
@@ -257,7 +257,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 7276
+        size = 7350
     }
 }
 #Hokkaido Region (840000)
@@ -527,7 +527,7 @@
     bureaucrats = {
         culture = japanese
         religion = mahayana
-        size = 1266
+        size = 422
     }
 
     officers = {
@@ -557,7 +557,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 138047
+        size = 139442
     }
 
     aristocrats = {
@@ -587,7 +587,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 51953
+        size = 52478
     }
 }
 #Kanazawa (384000/96000 POPS)
@@ -619,7 +619,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 49630
+        size = 50132
     }
 
     aristocrats = {
@@ -649,7 +649,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 25096
+        size = 25350
     }
 }
 #Fukui (160000/40000 POPS)
@@ -681,7 +681,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 22566
+        size = 22794
     }
 
     aristocrats = {
@@ -711,7 +711,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 13549
+        size = 13686
     }
 }
 #Toyama (352000/88000 POPS)
@@ -743,7 +743,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 52054
+        size = 52580
     }
 
     aristocrats = {
@@ -773,7 +773,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 23362
+        size = 23598
     }
 }
 #Kanto Region (4604000)
@@ -789,7 +789,7 @@
     bureaucrats = {
         culture = japanese
         religion = mahayana
-        size = 6600
+        size = 2200
     }
 
     officers = {
@@ -891,7 +891,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 126463
+        size = 127741
     }
 
     aristocrats = {
@@ -933,7 +933,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 28846
+        size = 29138
     }
 }
 #Chiba (788000/197000 POPS)
@@ -965,7 +965,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 103795
+        size = 104844
     }
 
     aristocrats = {
@@ -995,7 +995,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 24386
+        size = 24633
     }
 }
 #Yokohama (568000/142000 POPS)
@@ -1027,7 +1027,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 77983
+        size = 78771
     }
 
     aristocrats = {
@@ -1057,7 +1057,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 23017
+        size = 23250
     }
 }
 #Urawa (1156000/289000 POPS)
@@ -1095,7 +1095,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 171725
+        size = 173460
     }
 
     aristocrats = {
@@ -1125,7 +1125,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 39649
+        size = 40050
     }
 }
 #Mito (588000/147000 POPS)
@@ -1157,7 +1157,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 85639
+        size = 86505
     }
 
     aristocrats = {
@@ -1187,7 +1187,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 23116
+        size = 23350
     }
 }
 #Kinki Region (6760000)
@@ -1245,7 +1245,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 279538
+        size = 282362
     }
 
     aristocrats = {
@@ -1275,7 +1275,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 29033
+        size = 29327
     }
 }
 #Wakayama (1064000/266000 POPS)
@@ -1307,7 +1307,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 118247
+        size = 119442
     }
 
     aristocrats = {
@@ -1337,7 +1337,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 42466
+        size = 42895
     }
 }
 #Kyoto (1844000/461000 POPS)
@@ -1351,7 +1351,7 @@
     bureaucrats = {
         culture = japanese
         religion = protestant
-        size = 7350
+        size = 2450
     }
 
     officers = {
@@ -1393,7 +1393,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 240133
+        size = 242559
     }
 
     aristocrats = {
@@ -1423,7 +1423,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 41641
+        size = 42062
     }
 }
 #Nara (1192000/298000 POPS)
@@ -1461,7 +1461,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 119282
+        size = 120487
     }
 
     aristocrats = {
@@ -1491,7 +1491,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 51507
+        size = 52028
     }
 }
 #Kobe (1120000/280000 POPS)
@@ -1521,9 +1521,9 @@
     }
 
     farmers = {
-        culture = japanese
+       culture = japanese
         religion = protestant
-        size = 107464
+        size = 108550
     }
 
     aristocrats = {
@@ -1553,7 +1553,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 46058
+        size = 46524
     }
 }
 #Kyushu Region (3600000)
@@ -1569,7 +1569,7 @@
     bureaucrats = {
         culture = dutch
         religion = protestant
-        size = 14316
+        size = 4772
     }
 
     officers = {
@@ -1589,8 +1589,8 @@
         religion = protestant
         size = 3555
     }
-
-    clergymen = {
+	
+	clergymen = {
         culture = dutch
         religion = protestant
         size = 1948
@@ -1605,7 +1605,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 101044
+        size = 102065
     }
 
     aristocrats = {
@@ -1635,13 +1635,12 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 30654
+        size = 30964
     }
-
-    farmers = {
+	farmers = {
         culture = dutch
         religion = protestant
-        size = 1696
+        size = 1714
     }
 }
 #Nagasaki (1012000/253000 POPS)
@@ -1673,7 +1672,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 135346
+        size = 136714
     }
 
     aristocrats = {
@@ -1703,13 +1702,12 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 43373
+        size = 43812
     }
-
-    farmers = {
+	farmers = {
         culture = dutch
         religion = protestant
-        size = 1696
+        size = 1714
     }
 }
 #Kagoshima (660000/165000 POPS)
@@ -1741,13 +1739,13 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 94050
+        size = 95000
     }
-
-    farmers = {
+	
+	farmers = {
         culture = dutch
         religion = protestant
-        size = 1696
+        size = 1714
     }
 
     aristocrats = {
@@ -1777,7 +1775,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 24386
+        size = 24633
     }
 }
 #Miyazaki (380000/95000 POPS)
@@ -1809,7 +1807,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 48738
+        size = 49231
     }
 
     aristocrats = {
@@ -1839,13 +1837,12 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 27076
+        size = 27350
     }
-
-    farmers = {
+	farmers = {
         culture = dutch
         religion = protestant
-        size = 1696
+        size = 1714
     }
 }
 #Kumamoto (764000/191000 POPS)
@@ -1867,8 +1864,8 @@
         religion = protestant
         size = 6305
     }
-
-    clergymen = {
+	
+	clergymen = {
         culture = dutch
         religion = protestant
         size = 1948
@@ -1883,7 +1880,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 92569
+        size = 93505
     }
 
     aristocrats = {
@@ -1913,13 +1910,12 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 35627
+        size = 35987
     }
-
-    farmers = {
+	farmers = {
         culture = dutch
         religion = protestant
-        size = 1696
+        size = 1714
     }
 }
 #Shikoku Region (1368000)
@@ -1953,7 +1949,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 35328
+        size = 35685
     }
 
     aristocrats = {
@@ -1983,7 +1979,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 16250
+        size = 16415
     }
 }
 #Matsuyama (432000/108000 POPS)
@@ -2015,7 +2011,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 58376
+        size = 58966
     }
 
     aristocrats = {
@@ -2045,7 +2041,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 24010
+        size = 24253
     }
 }
 #Tokushima (696000/174000 POPS)
@@ -2059,7 +2055,7 @@
     bureaucrats = {
         culture = japanese
         religion = protestant
-        size = 672
+        size = 224
     }
 
     officers = {
@@ -2089,7 +2085,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 79828
+        size = 80635
     }
 
     aristocrats = {
@@ -2119,7 +2115,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 36996
+        size = 37370
     }
 }
 #Tohoku Region (3208000)
@@ -2135,7 +2131,7 @@
     bureaucrats = {
         culture = japanese
         religion = mahayana
-        size = 1722
+        size = 574
     }
 
     officers = {
@@ -2165,7 +2161,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 84325
+        size = 85177
     }
 
     aristocrats = {
@@ -2195,7 +2191,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 36093
+        size = 36458
     }
 }
 #Fukushima (576000/147000 POPS)
@@ -2227,7 +2223,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 80033
+        size = 80842
     }
 
     aristocrats = {
@@ -2257,7 +2253,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 34738
+        size = 35089
     }
 }
 #Morioka (316000/79000 POPS)
@@ -2289,7 +2285,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 45563
+        size = 46024
     }
 
     aristocrats = {
@@ -2319,7 +2315,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 20757
+        size = 20967
     }
 }
 #Akita (392000/98000 POPS)
@@ -2351,7 +2347,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 43423
+        size = 43862
     }
 
     aristocrats = {
@@ -2381,7 +2377,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 21210
+        size = 21425
     }
 }
 #Aomori (372000/93000 POPS)
@@ -2413,7 +2409,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 40051
+        size = 40456
     }
 
     aristocrats = {
@@ -2443,7 +2439,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 20146
+        size = 20350
     }
 }
 #Yamagata (512000/128000 POPS)
@@ -2475,7 +2471,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 59634
+        size = 60237
     }
 
     aristocrats = {
@@ -2505,7 +2501,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 20146
+        size = 20350
     }
 }
 #Utsunomiya (412000/103000 POPS)
@@ -2537,7 +2533,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 39828
+        size = 40231
     }
 
     aristocrats = {
@@ -2567,7 +2563,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 30326
+        size = 30633
     }
 }
 #Tokai Region (3208000)
@@ -2583,7 +2579,7 @@
     bureaucrats = {
         culture = japanese
         religion = mahayana
-        size = 2169
+        size = 723
     }
 
     officers = {
@@ -2619,7 +2615,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 168649
+        size = 170353
     }
 
     aristocrats = {
@@ -2649,7 +2645,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 77934
+        size = 78722
     }
 }
 #Shizuoka (436000/109000 POPS)
@@ -2681,7 +2677,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 42432
+        size = 42861
     }
 
     aristocrats = {
@@ -2711,7 +2707,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 26193
+        size = 26458
     }
 }
 #Nagano (1296000/324000 POPS)
@@ -2749,7 +2745,7 @@
     farmers = {
         culture = japanese
         religion = mahayana
-        size = 192144
+        size = 194085
     }
 
     aristocrats = {
@@ -2779,7 +2775,7 @@
     farmers = {
         culture = japanese
         religion = protestant
-        size = 70370
+        size = 71081
     }
 }
 #Ryukyu Region (272000)
@@ -2793,19 +2789,19 @@
     }
 
     bureaucrats = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 43
     }
 
     officers = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 72
     }
 
     clergymen = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 448
     }
@@ -2817,7 +2813,7 @@
     }
 
     soldiers = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 562
     }
@@ -2861,31 +2857,31 @@
 #Amari (80000/20000 POPS)
 1679 = {
     aristocrats = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 372
     }
 
     clergymen = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 198
     }
 
     artisans = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 1100
     }
 
     soldiers = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 250
     }
 
     farmers = {
-        culture = min
+         culture = min
         religion = mahayana
         size = 18242
     }

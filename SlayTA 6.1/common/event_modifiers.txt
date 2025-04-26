@@ -16,7 +16,7 @@ small_immigration_boom = {
 	icon = 17
 }
 government_sanitarium = {
-	population_growth = 0.005
+	population_growth = 0.001
 	icon = 19
 }
 
@@ -1594,7 +1594,6 @@ vorontsov = {
 
 orlov = {
 	leadership = 0.05
-	mobilisation_size = 0.005
 	icon = 15
 }
 

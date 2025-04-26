@@ -31,7 +31,7 @@ political_decisions = {
 	accept_the_french = {
 		potential = {
 			tag = NET
-			has_country_flag = integrate_wallonia
+			has_country_flag = wallonia_integrated
 			NOT = { has_country_flag = accepted_frenchies }
 		}
 		allow = {

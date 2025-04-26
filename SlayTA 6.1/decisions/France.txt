@@ -142,6 +142,7 @@ consolidate_our_holdings = {
 		FRA_428 = { life_rating = 2 }
 		FRA_438 = { life_rating = 2 }
 		FRA_420 = { life_rating = 2 }
+		add_accepted_culture = dutch
 		set_country_flag = consolidated_holdings
 	}
 }

@@ -14,7 +14,8 @@ country_event = {
 			is_culture_group = native_american
 		}
 		NOT = {
-			has_country_flag = has_native_societies
+			has_country_modifier = native_societies1
+			has_country_modifier = native_societies2
 		}
 	}
 
@@ -176,8 +177,7 @@ country_event = {
 
 	option = {
 		name = "We will surely stand on our own."
-		set_country_flag = native_crossroad
-		remove_country_modifier = native_societies2 	#pop growth +0.008
+		set_country_flag = native_crossroad	
 		remove_country_modifier = technological_assistance
 		set_global_flag = native_civved
 	}

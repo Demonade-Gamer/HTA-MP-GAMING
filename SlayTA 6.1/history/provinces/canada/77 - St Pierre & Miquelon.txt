@@ -1,10 +1,9 @@
 owner = NET
 controller = NET
-add_core = NET
 trade_goods = silk
 life_rating = 35 
 terrain = small_island
-
+colonial = 2
 
 
 #NB - this is now moved to a trade port near Nagasaki in Japan

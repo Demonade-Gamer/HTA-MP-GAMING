@@ -1340,7 +1340,7 @@ GER_2530 = { 2531 1531 2530 2537 } #Northern New Guinea
 
 AST_2534 = { 2534 2536 2539 } #Solomon Islands
 
-1 = { 1097 2535 2508 } #New Caledonia/New Brabant
+AST_1097 = { 1097 2535 2508 } #New Caledonia/New Brabant
 
 TON_2540 = { 2540 2545 2546 2548 } #Tonga
 

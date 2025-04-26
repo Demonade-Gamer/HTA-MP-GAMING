@@ -98,7 +98,7 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 30
-			add_accepted_culture = scottish
+			add_accepted_culture = scots
 			ENG_271 = { add_core = THIS }
 			ENG_266 = { add_core = THIS }
 			ENG_277 = { add_core = THIS }

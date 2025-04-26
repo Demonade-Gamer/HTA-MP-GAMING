@@ -2,14 +2,14 @@ capital = 1657
 primary_culture = japanese
 religion = protestant
 government = absolute_monarchy
-plurality = 0.0
+plurality = 20.0
 nationalvalue = nv_order
 literacy = 0.35
 non_state_culture_literacy = 0.08
 civilized = yes
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = no_meeting
@@ -54,6 +54,11 @@ introspectionism = 1
 water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
+basic_chemistry = 1
+enlightenment_thought = 1
+freedom_of_trade = 1
+post_nelsonian_thought = 1
+clipper_design = 1
 
 # Inventions
 

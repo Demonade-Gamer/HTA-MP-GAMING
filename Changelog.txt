@@ -2,6 +2,9 @@
 Bug fixes (removed armenian cores in Thrace, and fixed syrian annexation, and others
 Removed Bedouin accepted from the Accept the Mashriqi decision for Persia 
 Removed Army professionalism from all nations that had it, too big of an early boost (forgot to do it earlier for german nations and france, but did for aqua lmao)
+Gave Japan a couple extra techs to make it less painful to play, still very far behind
+Fixed various bugs around accepted cultures being wrong
+Made the 1836 state sizing and money events decisions so they fire on day 1 instead of day 2.
 ----------------------------------
 6.0
 IMPORTED SO MUCH FROM LOVESICK HTA, THANK YOU GODOG
