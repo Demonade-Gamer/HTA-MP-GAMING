@@ -45,10 +45,7 @@ political_decisions = {
 			SML= {
 				any_pop = {
 					limit = {
-						OR = {
-							has_pop_culture = roman
-							has_pop_culture = greek
-						}
+						has_pop_culture = roman
 					}
 					reduce_pop = 1.2
 					consciousness = 2
@@ -73,10 +70,7 @@ political_decisions = {
 			RUS = {
 				any_pop = {
 					limit = {
-						OR = {
-							has_pop_culture = roman
-							has_pop_culture = greek
-						}
+						has_pop_culture = roman
 					}
 					reduce_pop = 1.2
 					consciousness = 2
