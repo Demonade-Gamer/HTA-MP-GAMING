@@ -44,6 +44,7 @@ political_decisions = {
 	accept_the_mashriq_people = {
 		potential = {
 			tag = PER
+			NOT = { has_country_flag = accepted_mashriqi }
 		}
 		allow = {
 			SYR = { all_core = { owned_by = PER } }
@@ -52,11 +53,13 @@ political_decisions = {
 		effect = {
 			prestige = 15
 			add_accepted_culture = mashriqi
+			set_country_flag = accepted_mashriqi
 		}
 	}
 	accept_the_kurdish_people = {
 		potential = {
 			tag = PER
+			NOT = { has_country_flag = accepted_kurdish }
 		}
 		allow = {
 			KDS = { all_core = { owned_by = PER } }
@@ -65,11 +68,13 @@ political_decisions = {
 		effect = {
 			prestige = 15
 			add_accepted_culture = kurdish
+			set_country_flag = accepted_kurdish
 		}
 	}
 	accept_the_armenian_people = {
 		potential = {
 			tag = PER
+			NOT = { has_country_flag = accepted_armenian }
 		}
 		allow = {
 			ARM = { all_core = { owned_by = PER } }
@@ -78,6 +83,7 @@ political_decisions = {
 		effect = {
 			prestige = 15
 			add_accepted_culture = armenian
+			set_country_flag = accepted_armenian
 		}
 	}
 }

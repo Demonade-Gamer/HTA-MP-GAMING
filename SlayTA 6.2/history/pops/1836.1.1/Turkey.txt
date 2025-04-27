@@ -1326,12 +1326,6 @@
         size = 4000
     }
 
-    soldiers = {
-        culture = armenian
-        religion = sunni
-        size = 1912
-    }
-
     farmers = {
         culture = armenian
         religion = sunni
@@ -1412,12 +1406,6 @@
         size = 5500
     }
 
-    soldiers = {
-        culture = armenian
-        religion = sunni
-        size = 5512
-    }
-
     farmers = {
         culture = armenian
         religion = sunni
@@ -1492,12 +1480,6 @@
         culture = armenian
         religion = sunni
         size = 9200
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = sunni
-        size = 5512
     }
 
     farmers = {
@@ -1580,12 +1562,6 @@
         size = 5500
     }
 
-    soldiers = {
-        culture = armenian
-        religion = sunni
-        size = 1687
-    }
-
     farmers = {
         culture = armenian
         religion = sunni
@@ -1645,7 +1621,7 @@
     soldiers = {
         culture = anatolian
         religion = orthodox
-        size = 4950
+        size = 2950
     }
 
     farmers = {
@@ -1664,12 +1640,6 @@
         culture = armenian
         religion = sunni
         size = 9500
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = sunni
-        size = 3825
     }
 
     farmers = {
