@@ -2798,14 +2798,10 @@ acquire_treaty_port = {
 			owns = 1569
 			owns = 1496
 			owns = 1498
-			owns = 1601
 			owns = 1538
 			owns = 1606
 			owns = 1608
-			owns = 3249
 			owns = 1481
-			owns = 1496
-			owns = 1498
 		}
 	}
 	
