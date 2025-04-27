@@ -706,6 +706,7 @@ chinese_rp_nerf = {
 		civilized = no
 	}
 	research_points_on_conquer = -9999.0
+	research_points_modifier = -1
 }
 
 japanese_rp_nerf = {
