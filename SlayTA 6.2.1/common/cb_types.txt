@@ -2790,6 +2790,7 @@ acquire_treaty_port = {
 		civilized = no
 		OR = {
 			tag = QIN
+			tag = GXI
 		}
 		number_of_states = 2
 		OR = { 
@@ -2803,8 +2804,8 @@ acquire_treaty_port = {
 			owns = 1608
 			owns = 3249
 			owns = 1481
-			#owns = 1499
-			#owns = 2562
+			owns = 1496
+			owns = 1498
 		}
 	}
 	
@@ -2873,6 +2874,76 @@ negotiated_transfer_cb = {
 			from = jingoism 
 			to = pro_military
 			value = 0.00
+		}
+	}
+}
+third_party_transfer = {
+	sprite_index = 5
+	is_triggered_only = yes
+	months = 12
+	crisis = no
+	always = yes
+	
+	construction_speed = 2000
+
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+	can_use = {
+		number_of_states = 2 # annex if you want their last state
+		is_vassal = no
+		ai = no
+		THIS = { civilized = yes }
+		THIS = { ai = no } 
+	}
+
+	# THIS - us
+	# FROM - country scope is possible match?
+	# war target country of goal is scope
+	allowed_countries = {
+        NOT = {
+            tag = FROM
+        }
+        FROM = {
+			exists = yes
+            alliance_with = THIS
+			ai = no
+        }
+		NOT = {
+			AND = {
+				FROM = { civilized = yes }
+				civilized = no
+			}
+		}
+    }
+
+	# THIS - us
+	# FROM - country scope is possible match?
+	# war target country of goal's state
+	allowed_states = {
+		NOT = { any_owned_province = { is_capital = yes } }
+	}
+
+	po_transfer_provinces = yes
+
+	war_name = WAR_THIRD_TRANSFER_NAME
+
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
 		}
 	}
 }

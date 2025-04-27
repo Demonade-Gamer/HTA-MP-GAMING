@@ -4,7 +4,6 @@ political_decisions = {
 		potential = {
 			tag = PER
 			NOT = { has_country_flag = claim_pashtun_regions }
-			has_country_flag = claim_greater_persia
 		}
 
 		allow = {

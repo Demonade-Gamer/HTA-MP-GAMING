@@ -9,7 +9,6 @@ political_decisions = {
 			NOT = { has_country_modifier = academic_confusion }
 			#jingoism = 5
 			#pro_military = 5
-			military_score = 100
 			prestige = 45
 		}
 		effect = {
@@ -33,9 +32,7 @@ political_decisions = {
 			#colonial_nation = yes
 			#pro_military = 5
 			#laissez_faire = 5
-			prestige = 45
-			military_score = 100
-			total_amount_of_ships = 30
+			prestige = 15
 		}
 		effect = {
 			prestige = -15
@@ -57,8 +54,7 @@ political_decisions = {
 			NOT = { has_country_modifier = academic_confusion }
 			#pacifism = 5
 			#secularized = 5
-			prestige = 45
-			average_consciousness = 4
+			prestige = 15
 		}
 		effect = {
 			prestige = -15
@@ -80,8 +76,7 @@ political_decisions = {
 			NOT = { has_country_modifier = academic_confusion }
 			#laissez_faire = 5
 			#free_trade = 5
-			prestige = 45
-			industrial_score = 100
+			prestige = 15
 		}
 		effect = {
 			prestige = -15
@@ -103,8 +98,7 @@ political_decisions = {
 			NOT = { has_country_modifier = academic_confusion }
 			#interventionism = 5
 			#protectionism = 5
-			prestige = 45
-			industrial_score = 100
+			prestige = 15
 		}
 		effect = {
 			prestige = -15
@@ -126,7 +120,7 @@ political_decisions = {
 		
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
-			prestige = 45
+			prestige = 15
 		}
 		effect = {
 			prestige = -15
