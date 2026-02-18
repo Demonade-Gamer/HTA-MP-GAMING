@@ -1,0 +1,303 @@
+#Armenia Region (30000)
+#Erivan (128000/32000 POPS)
+1098 = {
+    aristocrats = {
+        culture = armenian
+        religion = obbite
+        size = 375
+    }
+
+    bureaucrats = {
+        culture = armenian
+        religion = obbite
+        size = 367
+    }
+
+    officers = {
+        culture = armenian
+        religion = obbite
+        size = 150
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = obbite
+        size = 445
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = obbite
+        size = 1012
+    }
+
+    farmers = {
+        culture = armenian
+        religion = obbite
+        size = 41850
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = obbite
+        size = 200
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = obbite
+        size = 100
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = obbite
+        size = 550
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 90
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 10050
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = obbite
+        size = 25
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = obbite
+        size = 1850
+    }
+
+    farmers = {
+        culture = armenian
+        religion = obbite
+        size = 113
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 10
+    }
+}
+#Gyumri (68000/17000 POPS)
+1099 = {
+    aristocrats = {
+        culture = armenian
+        religion = obbite
+        size = 600
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = obbite
+        size = 255
+    }
+
+    artisans = {
+        culture = armenian
+        religion = obbite
+        size = 1600
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = obbite
+        size = 517
+    }
+
+    farmers = {
+        culture = armenian
+        religion = obbite
+        size = 34750
+    }
+
+    aristocrats = {
+        culture = georgian
+        religion = obbite
+        size = 30
+    }
+
+    clergymen = {
+        culture = georgian
+        religion = obbite
+        size = 45
+    }
+
+    soldiers = {
+        culture = georgian
+        religion = obbite
+        size = 27
+    }
+
+    farmers = {
+        culture = georgian
+        religion = obbite
+        size = 2925
+    }
+
+    farmers = {
+        culture = armenian
+        religion = obbite
+        size = 58
+    }
+
+    farmers = {
+        culture = georgian
+        religion = obbite
+        size = 3
+    }
+}
+#Kapan (44000/11000 POPS)
+1100 = {
+    aristocrats = {
+        culture = armenian
+        religion = obbite
+        size = 375
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = obbite
+        size = 275
+    }
+
+    artisans = {
+        culture = armenian
+        religion = obbite
+        size = 1200
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = obbite
+        size = 427
+    }
+
+    farmers = {
+        culture = armenian
+        religion = obbite
+        size = 23325
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = obbite
+        size = 125
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = obbite
+        size = 125
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 292
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 5775
+    }
+
+    farmers = {
+        culture = armenian
+        religion = obbite
+        size = 48
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 33
+    }
+}
+#Nakhichevan (60000/15000 POPS) #now part of Azerbaijan
+1101 = {
+    aristocrats = {
+        culture = armenian
+        religion = obbite
+        size = 325
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = obbite
+        size = 375
+    }
+
+    artisans = {
+        culture = armenian
+        religion = obbite
+        size = 1450
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = obbite
+        size = 495
+    }
+
+    farmers = {
+        culture = armenian
+        religion = obbite
+        size = 28250
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = obbite
+        size = 400
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = obbite
+        size = 300
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 180
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 14500
+    }
+
+    farmers = {
+        culture = armenian
+        religion = obbite
+        size = 55
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = obbite
+        size = 20
+    }
+}

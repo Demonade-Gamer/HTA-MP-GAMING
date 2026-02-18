@@ -1,0 +1,308 @@
+#Macedonia Region (424000) #see Greece.txt and Bulgaria.txt for balance of region
+#under the rule of Roman Empire in 1836
+#Skopje (424000/106000 POPS)
+806 = {
+    aristocrats = {
+        culture = roman
+        religion = obbite
+        size = 550
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 245
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 1400
+    }
+
+    soldiers = {
+        culture = roman
+        religion = obbite
+        size = 720
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 9000
+    }
+
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 650
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 745
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 3400
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 2880
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 63700
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 425
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 2100
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 12000
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 1200
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 37650
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 125
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1700
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 4750
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 80
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 320
+    }
+}
+#Monastir Region (268000) #see Greece.txt for balance of region
+#under the rule of Byzantine Empire in 1836
+#Bitola (268000/67000 POPS)
+807 = {
+    aristocrats = {
+        culture = roman
+        religion = obbite
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = obbite
+        size = 275
+    }
+
+    officers = {
+        culture = roman
+        religion = obbite
+        size = 175
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 300
+    }
+
+    soldiers = {
+        culture = roman
+        religion = obbite
+        size = 180
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 3975
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 425
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 6275
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 125
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 400
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 720
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 20500
+    }
+
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = obbite
+        size = 275
+    }
+
+    officers = {
+        culture = croat
+        religion = obbite
+        size = 75
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 5300
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 4140
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 41775
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 250
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 7525
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 25
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1375
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 20
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 80
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 460
+    }
+}

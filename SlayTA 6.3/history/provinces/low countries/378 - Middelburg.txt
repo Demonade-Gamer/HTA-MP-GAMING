@@ -1,0 +1,9 @@
+owner = BRB
+controller = BRB
+
+trade_goods = fish
+life_rating = 37
+naval_base = 1
+
+
+add_core = BRB

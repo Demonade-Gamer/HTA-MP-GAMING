@@ -1,0 +1,109 @@
+#Casamance Region (108000) #see Senegal.txt and Guinea.txt for balance of region
+#Uncolonized in 1836/Portuguese trade post
+#Bissau (32000/8000 POPS)
+1877 = {
+    aristocrats = {
+        culture = spanish
+        religion = obbite
+        size = 10
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = obbite
+        size = 15
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = obbite
+        size = 5
+    }
+
+    artisans = {
+        culture = spanish
+        religion = obbite
+        size = 25
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = obbite
+        size = 20
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = obbite
+        size = 375
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = obbite
+        size = 75
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = obbite
+        size = 5500
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = obbite
+        size = 2000
+    }
+}
+#under the rule of Gabu in 1836
+#Gabu (152000/38000 POPS)
+1878 = {
+    aristocrats = {
+        culture = yoruba
+        religion = obbite
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = obbite
+        size = 150
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = obbite
+        size = 400
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = obbite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = obbite
+        size = 1200
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = obbite
+        size = 28000
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = obbite
+        size = 6000
+    }
+}

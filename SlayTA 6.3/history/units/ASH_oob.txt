@@ -1,0 +1,25 @@
+
+army = {
+	name = "Army of the Sultan of Awsa"
+	location = 1919
+	regiment = {
+		name= "Sultan's Guards"
+		type = irregular
+		home = 1919
+	}
+	regiment = {
+		name= "Sultan's Guards"
+		type = irregular
+		home = 1920
+	}
+	regiment = {
+		name= "Sultan's Guards"
+		type = irregular
+		home = 1920
+	}
+	regiment = {
+		name= "Sultan's Guards"
+		type = irregular
+		home = 1915
+	}
+}

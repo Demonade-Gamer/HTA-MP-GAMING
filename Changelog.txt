@@ -1,3 +1,79 @@
+6.3
+The general focus of this update is to come closer to the feel of original HtA, specifically in 1836 start date consolidation department
+FRANCE/NETHERLANDS CHANGES
+	- France has been broken up into 3 nations, releasing Orleans and Champagne from the previous France
+		-Orleans has ~800k pops, it owns the Orleans and Loire state
+		-Champagne is Ile de France, a little over 560k pops
+		-Brittany has been given Challans province
+	- France now has the decision to core BOTH Orlean's states and Ile de France when it conquers one of Orleans or Champagne
+	- Normandy has been given Picardie state, has 1.3 Million pops, can core Brittany and conquer it quickly, but other expansion is limited compared to France, either nation is slottable
+	- France and Netherlands no longer get cores/accepted on each other outside of Walloon
+	- There have been two straights to Britain added, one from Brest to Essa and one from Caen to Wencaster
+		-These straights can be seen from the map! Just... don't forget to keep advanced water on...
+	- Brabant has been split off from the Netherlands
+		- It has Gent, Flanders, and Zeeland states, 1 million pops
+		- This leaves the Netherlands with just 2 european states and 2.6 million pops
+	
+AQUITANIA CHANGES
+	- Daufinat has returned
+		- It has the Rose and Savoy states, and Sant-Etieve province, about 1.1 million pops
+		- This leaves Aquitania with 3.54 million pops, still #1 GP day 1
+	- Gave Lombaria Noara province, makes it 700k pops
+	- Gave Genoa Coni and Nica, making it 491k pops
+
+ITALY/HISPANIA/WESTERN MED CHANGES
+	- Straights have been added from Leghorn to Corsica
+	- Straights have been added from Cagliari to Bizerte and Trankebar
+	- Straights have been added from Alicante to Vaduz
+
+BRITISH ISLES CHANGES
+	- The Celtic Union has been split up into Eire and Alba again
+		- Eire is the player slot for this, it retains all the colonies the Celtic Union had
+		- Eire has 3.88 million pops, Alba has 864k pops
+		- Celtic Union can be reformed by owning/sphereing/puppeting all Eire and Alba cores
+	- Aengland has also bee split up
+		- Cymru has been released in Wales, it has 285k pops and a secret literacy rate
+		- Northumbria has been released, it has 952k pops, accepts both aenglish and scottish
+		- Aengland still has its colonies, leaving it at 3.62 million pops
+		- Aenglish decisions have been untouched
+	- There have been straights to France and Scandinavia added
+		- The straight to Scandinavia goes through the Orkney and Shetland Islands to Bergen, it also goes to Greenland through the Faroes and Iceland
+GERMANY CHANGES
+	- Saxony has been released from Brandenburg
+		- It has 572k pops, it's just the saxony state
+	- Brunswick has been given Erfurt
+		- Brandenburg retains its full cores on it though
+	- Lusatia has been released
+		- It has 415k pops, it is the Oder state and Cottbus province
+	- This leaves Brandenburg with 1.25 million pops 
+	- Austria and Helvetica have been released from Bavaria
+		- Austria is Osterreich and Karten-Steiermark states, it has 857k pops
+		- Helvetica is just the Helvetia state, it only has 540k pops
+	- This leaves Bavaria with 2.1 million pops
+	
+ZACHADIA CHANGES
+	- Prusova has been expanded, given the Prusy and Pomorze states
+		- It has 900k pops now
+	- Galicia-Volhynia has been released from Southern Poland
+		- It has 1.64 million pops, it owns the Eastern Slovakia, Lodomeria, and South Galicia states
+	- This leaves Poland with 1.82 million pops
+	- Hungary has been released from Bohemia
+		- Hungary owns only the Transdanubia state, it has 995k pops
+	- Ardeal has been given Oradea, Temesvar, and Resicabanya provinces, it now has 1.21 million pops
+	- Serbia has been given the rest of the Vojvodina state, it now has 666k pops
+
+GP CHANGE
+	- Since Aengland has been dismantles, Naples is now a Great Power, otherwise the great powers are the same as before
+	
+INDIA CHANGES
+	- India has been split up far more
+
+PLANNED CHANGES
+	- Release Belarus and a Ukraine or Ruthenian nation from Smolensk and balance their oob to be equal to Russia
+	- Potentially make Egypt a secondary roster slot, decisions to civilize quickly
+	
+----------------------------------------------------------------------
+
 6.2
 More bug fixes, localization fixes, again nothing major 
 Changed all Chinese Treaty ports to gold, removed a lot of the gold from Africa and India to make up for it

@@ -1,0 +1,87 @@
+political_decisions = {		
+	claim_pashtun_regions = {
+		picture = claim_greater_persia
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = claim_pashtun_regions }
+		}
+
+		allow = {
+			state_n_government = 1
+		}
+
+		effect = {
+			prestige = 20
+			AFG = { all_core = { add_core = THIS } }
+			set_country_flag = claim_pashtun_regions
+			add_accepted_culture = pashtun		
+		}	
+	}
+	annex_syria = {
+		potential = {
+			war = no
+			tag = PER
+			SYR = { vassal_of = THIS }
+			NOT = { has_country_flag = whomustgo }
+		}
+		allow = {
+			year = 1845
+		}
+	
+		effect = {
+			prestige = 25
+			inherit = SYR
+			SYR = {
+				all_core = {
+					add_core = PER
+				}
+			}
+			set_country_flag = whomustgo
+		}
+	}
+	accept_the_mashriq_people = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = accepted_mashriqi }
+		}
+		allow = {
+			SYR = { all_core = { owned_by = PER } }
+			state_n_government = 1
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = mashriqi
+			set_country_flag = accepted_mashriqi
+		}
+	}
+	accept_the_kurdish_people = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = accepted_kurdish }
+		}
+		allow = {
+			KDS = { all_core = { owned_by = PER } }
+			state_n_government = 1
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = kurdish
+			set_country_flag = accepted_kurdish
+		}
+	}
+	accept_the_armenian_people = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = accepted_armenian }
+		}
+		allow = {
+			ARM = { all_core = { owned_by = PER } }
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = armenian
+			set_country_flag = accepted_armenian
+		}
+	}
+}

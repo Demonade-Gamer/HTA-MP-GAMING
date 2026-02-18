@@ -1,0 +1,58 @@
+#Central Melanesia (54000) 
+#uncolonized in 1836
+#Solomon Islands (48000/12000 POPS) 
+2534 = {
+	aristocrats = {
+		culture = malay
+		religion = obbite
+		size = 225
+	}
+	clergymen = {
+		culture = malay
+		religion = obbite
+		size = 125
+	}
+	artisans = {
+		culture = malay
+		religion = obbite
+		size = 600
+	}
+	soldiers = {
+		culture = malay
+		religion = obbite
+		size = 125
+	}
+	farmers = {
+		culture = malay
+		religion = obbite
+		size = 10925
+	}
+}
+#Santa Cruz Islands (6000/1500 POPS) 
+2536 = {
+	aristocrats = {
+		culture = malay
+		religion = obbite
+		size = 25
+	}
+	clergymen = {
+		culture = malay
+		religion = obbite
+		size = 35
+	}
+	artisans = {
+		culture = malay
+		religion = obbite
+		size = 75
+	}
+	soldiers = {
+		culture = malay
+		religion = obbite
+		size = 15
+	}
+	farmers = {
+		culture = malay
+		religion = obbite
+		size = 1350
+	}
+}

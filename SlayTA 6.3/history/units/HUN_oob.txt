@@ -1,0 +1,84 @@
+army = {
+	name = "Armada Cechy"
+	location = 641
+	regiment = {
+		name = "1. Pechota"
+		type = infantry
+		home = 648
+	}
+	regiment = {
+		name = "2. Pechota"
+		type = infantry
+		home = 650
+	}
+	regiment = {
+		name = "3. Pechota"
+		type = infantry
+		home = 646
+	}
+	regiment = {
+		name = "4. Pechota"
+		type = infantry
+		home = 641
+	}
+	regiment = {
+		name = "1. Dela"
+		type = artillery
+		home = 645
+	}
+	regiment = {
+		name = "2. Dela"
+		type = artillery
+		home = 640
+	}
+	regiment = {
+		name = "3. Dela"
+		type = artillery
+		home = 644
+	}
+	regiment = {
+		name = "1. Kyrysniki"
+		type = artillery
+		home = 643
+	}
+	regiment = {
+		name = "2. Kyrysniki"
+		type = artillery
+		home = 642
+	}
+}
+
+army = {
+	name = "Slovensko Armada"
+	location = 648
+	regiment = {
+		name = "5. Pechota"
+		type = infantry
+		home = 644
+	}
+	regiment =  {
+		name = "6. Pechota"
+		type = infantry
+		home = 623
+	}
+	regiment = {
+		name = "7. Pechota"
+		type = infantry
+		home = 641
+	}
+	regiment =  {
+		name = "4. Dela"
+		type = hussar
+		home = 642
+	}
+	regiment =  {
+		name = "5. Dela"
+		type = artillery
+		home = 649
+	}
+	regiment =  {
+		name = "6. Dela"
+		type = artillery
+		home = 648
+	}
+}

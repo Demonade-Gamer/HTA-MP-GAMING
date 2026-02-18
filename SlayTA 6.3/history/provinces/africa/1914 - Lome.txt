@@ -1,0 +1,9 @@
+owner = ASH
+controller = ASH
+add_core = ASH
+
+#DAH
+trade_goods = fish
+life_rating = 20
+
+

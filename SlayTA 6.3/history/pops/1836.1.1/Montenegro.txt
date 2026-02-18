@@ -1,0 +1,237 @@
+#Montenegro Region (192000)
+#under the rule of Ottoman Empire in 1836
+#Ulcinj (36000/9000 POPS)
+800 = {
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 50
+    }
+    bureaucrats = {
+        culture = croat
+        religion = obbite
+        size = 20
+    }
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 400
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 7550
+    }
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 25
+    }
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 50
+    }
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 825
+    }
+}
+#Niksic (52000/13000 POPS)
+2569 = {
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 100
+    }
+    bureaucrats = {
+        culture = croat
+        religion = obbite
+        size = 50
+    }
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 11400
+    }
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 250
+    }
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 25
+    }
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 75
+    }
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 5825
+    }
+}
+#under the rule of Montenegro in 1836
+#Cetinje (104000/26000 POPS)
+2583 = {
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 100
+    }
+    bureaucrats = {
+        culture = croat
+        religion = obbite
+        size = 100
+    }
+    officers = {
+        culture = croat
+        religion = obbite
+        size = 25
+    }
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 275
+    }
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 1300
+    }
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 23375
+    }
+}
+#Kosovo-Sanjak Region (52000)  #see croatia.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Pljevlja (52000/13000 POPS) #now part of Montenegro
+2577 = {
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 75
+    }
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 250
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 8175
+    }
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 250
+    }
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 50
+    }
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 400
+    }
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 3650
+    }
+}
+#Dalmatia Region (64000) #see Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Kotor (64000/16000 POPS)
+2582 = {
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 50
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 3900
+    }
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 440
+    }
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+    aristocrats = {
+        culture = north_italian
+        religion = obbite
+        size = 200
+    }
+    artisans = {
+        culture = north_italian
+        religion = obbite
+        size = 1100
+    }
+    soldiers = {
+        culture = north_italian
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = north_italian
+        religion = obbite
+        size = 700
+    }
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 100
+    }
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 10125
+    }
+}

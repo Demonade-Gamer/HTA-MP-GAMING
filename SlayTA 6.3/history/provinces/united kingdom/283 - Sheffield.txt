@@ -1,0 +1,6 @@
+owner = NRF
+controller = NRF
+add_core = NRF
+trade_goods = coal
+life_rating = 35 
+

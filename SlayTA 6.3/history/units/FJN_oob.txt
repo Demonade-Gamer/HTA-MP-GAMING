@@ -1,0 +1,84 @@
+army = {
+	name = "2nd Grey Banner Army"
+	location = 1482
+	regiment = {
+		name= "11th Grey Banners"
+		type = irregular
+		home = 1448
+	}
+	regiment = {
+		name= "12th Grey Banners"
+		type = irregular
+		home = 1547
+	}
+	regiment = {
+		name= "13th Grey Banners"
+		type = irregular
+		home = 1550
+	}
+	regiment = {
+		name= "14th Grey Banners"
+		type = irregular
+		home = 1551
+	}
+	regiment = {
+		name= "15th Grey Banners"
+		type = irregular
+		home = 1449
+	}
+}
+
+army = {
+	name = "2nd Grey Banner Army"
+	location = 1484
+	regiment = {
+		name= "11th Grey Banners"
+		type = irregular
+		home = 1482
+	}
+	regiment = {
+		name= "12th Grey Banners"
+		type = irregular
+		home = 1482
+	}
+	regiment = {
+		name= "13th Grey Banners"
+		type = irregular
+		home = 1484
+	}
+	regiment = {
+		name= "14th Grey Banners"
+		type = irregular
+		home = 1487
+	}
+	regiment = {
+		name= "15th Grey Banners"
+		type = irregular
+		home = 1486
+	}
+	regiment = {
+		name= "16th Grey Banners"
+		type = irregular
+		home = 1486
+	}
+	regiment = {
+		name= "17th Grey Banners"
+		type = irregular
+		home = 1483
+	}
+	regiment = {
+		name= "18th Grey Banners"
+		type = irregular
+		home = 1550
+	}
+	regiment = {
+		name= "19th Grey Banners"
+		type = irregular
+		home = 1547
+	}
+	regiment = {
+		name= "20th Grey Banners"
+		type = irregular
+		home = 1545
+	}
+}

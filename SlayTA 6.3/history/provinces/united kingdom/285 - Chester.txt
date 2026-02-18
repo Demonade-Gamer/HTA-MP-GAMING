@@ -1,0 +1,6 @@
+owner = NRF
+controller = NRF
+add_core = NRF
+trade_goods = fish
+life_rating = 35 
+

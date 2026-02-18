@@ -1,0 +1,55 @@
+#Southern Melanesia (28000) #see New Caledonia.txt for balance of region
+#uncolonized in 1836
+#New Hebrides (28000/7000 POPS)
+2535 = {
+    aristocrats = {
+        culture = malay
+        religion = obbite
+        size = 65
+    }
+    clergymen = {
+        culture = malay
+        religion = obbite
+        size = 35
+    }
+    artisans = {
+        culture = malay
+        religion = obbite
+        size = 150
+    }
+    soldiers = {
+        culture = malay
+        religion = obbite
+        size = 35
+    }
+    farmers = {
+        culture = malay
+        religion = obbite
+        size = 3375
+    }
+    aristocrats = {
+        culture = flemish
+        religion = obbite
+        size = 5
+    }
+    bureaucrats = {
+        culture = flemish
+        religion = obbite
+        size = 10
+    }
+    clergymen = {
+        culture = flemish
+        religion = obbite
+        size = 10
+    }
+    soldiers = {
+        culture = flemish
+        religion = obbite
+        size = 30
+    }
+    farmers = {
+        culture = flemish
+        religion = obbite
+        size = 250
+    }
+}

@@ -1,0 +1,500 @@
+#Imerina Region (1500000)  
+#ruled by Madagascar in 1836
+#Tananarive (824000/207000 POPS)
+2115 = {
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 3675
+	}
+	
+	bureaucrats = {
+		culture = yoruba
+		religion = obbite
+		size = 550
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 2125
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 300
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 3000
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 3000
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 1100
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 144075
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 5
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 10
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 235
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 25
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 25
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 50
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 900
+	}
+}
+#Fianarantsoa (280000/7000 POPS)
+2116 = {
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 1350
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 725
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 3500
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 3000
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 1100
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 60425
+	}
+}
+#Tolanaro (176000/44000 POPS)
+2118 = {
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 475
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 250
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 1100
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 250
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 15025
+	}
+	slaves = {
+		culture = yoruba
+		religion = obbite
+		size = 8000
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 350
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 200
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 950
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 200
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 17300
+	}
+}
+#Toamasina (116000/29000 POPS)
+2119 = {
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 225
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 125
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 550
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 125
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 4025
+	}
+	slaves = {
+		culture = yoruba
+		religion = obbite
+		size = 7000
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 250
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 150
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 700
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 150
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 12750
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 25
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 50
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 925
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 50
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 50
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 100
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 1800
+	}
+}
+#Antsiranana (104000/26000 POPS)
+2120 = {
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 175
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 100
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 550
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 100
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 3125
+	}
+	slaves = {
+		culture = yoruba
+		religion = obbite
+		size = 6000
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 275
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 150
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 800
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 175
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 14600
+	}
+}
+#Sakalava Region (588000)  
+#ruled by Madagascar in 1836
+#Ampanihy (228000/57000 POPS)
+2117 = {
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 475
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 250
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 1250
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 250
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 22775
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 625
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 325
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 1600
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 1100
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 28450
+	}
+}
+#Mahajanga (188000/47000 POPS)
+2121 = {
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 525
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 275
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 1100
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 275
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 13275
+	}
+	slaves = {
+		culture = yoruba
+		religion = obbite
+		size = 10550
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 375
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 200
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 1100
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 200
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 18225
+	}
+}
+#Toliara (172000/43000 POPS)
+2122 = {
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 300
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 150
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 650
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 175
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 3725
+	}
+	slaves = {
+		culture = yoruba
+		religion = obbite
+		size = 11000
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = obbite
+		size = 550
+	}
+	clergymen = {
+		culture = yoruba
+		religion = obbite
+		size = 275
+	}
+	artisans = {
+		culture = yoruba
+		religion = obbite
+		size = 1350
+	}
+	soldiers = {
+		culture = yoruba
+		religion = obbite
+		size = 1100
+	}
+	farmers = {
+		culture = yoruba
+		religion = obbite
+		size = 23975
+	}
+}

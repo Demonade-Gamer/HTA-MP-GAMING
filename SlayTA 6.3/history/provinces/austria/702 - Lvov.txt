@@ -1,0 +1,7 @@
+owner = GCV
+controller = GCV
+add_core = GCV
+add_core = RUT
+trade_goods = iron
+life_rating = 35 
+
