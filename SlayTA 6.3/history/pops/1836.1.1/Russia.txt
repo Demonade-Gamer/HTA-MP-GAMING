@@ -4269,31 +4269,31 @@
 #Pskov (472000/118000 POPS)
 1006 = {
     aristocrats = {
-        culture = russian
+        culture = ugrian
         religion = obbite
         size = 828
     }
 
     clergymen = {
-        culture = russian
+        culture = ugrian
         religion = obbite
         size = 422
     }
 
     artisans = {
-        culture = russian
+        culture = ugrian
         religion = obbite
         size = 2114
     }
 
     soldiers = {
-        culture = russian
+        culture = ugrian
         religion = obbite
         size = 1035
     }
 
     farmers = {
-        culture = russian
+        culture = ugrian
         religion = obbite
         size = 40223
     }

@@ -1,0 +1,37 @@
+
+army = {
+	name = "3rd'Armée de France"
+	location = 425
+	regiment = {
+		name = "1er Régiment d'Infanterie"
+		type = infantry
+		home = 425
+	}
+	regiment = {
+		name = "2e Régiment d'Infanterie"
+		type = infantry
+		home = 426
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 427
+	}
+
+	regiment = {
+		name = "1er Régiment de Hussards"
+		type = artillery
+		home = 408
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 403
+	}
+	
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 408
+	}
+}

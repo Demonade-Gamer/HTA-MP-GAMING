@@ -1988,7 +1988,7 @@
     craftsmen = {
         culture = north_german
         religion = obbite
-        size = 6525
+        size = 28025
     }
 
     artisans = {

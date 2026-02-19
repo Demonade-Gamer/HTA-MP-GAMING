@@ -41,7 +41,7 @@ political_decisions = {
 		
 		effect = {
 			BRT = {
-				all_core = { add_core = FRA }
+				all_core = { add_core = THIS }
 			}
 			set_country_flag = BRT_annexation_demanded
 			badboy = 6

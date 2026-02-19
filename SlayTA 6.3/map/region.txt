@@ -189,15 +189,15 @@ RUS_345 = { 345 343 346 347 339 340 341 344 } #Turku/Suomi
 
 FIN_988 = { 995 988 992 993 2588 } #New Mexico(V)/ Ääninen
 
-RUS_349 = { 349 350 351 352 353 354 355 356 357 358 359 } #Estonia
+RUS_349 = { 349 350 353 997 996 994 } #Estonia
 
-#RUS_354 = { 354 355 356 357 358 359 } #Latvia
+RUS_354 = { 365 359 358 357 363 354 364 698 } #Latvia
 
-RUS_361 = { 361 362 363 364 365 360 698 } #Lithuania
+RUS_361 = { 361 362 360 698 697 707 } #Lithuania
 
-#RUS_339 = { 339 340 341 344 983 982 2587 } #Karelia
+RUS_339 = { 355 356 1006 351 352 } #Karelia
 
-RUS_994 = { 997 994 996 1003 1004 2580 } #Ingria/Ingeri
+RUS_994 = { 1003 1004 1005 2580 } #Ingria/Ingeri
 
 #RUS_2587 = { 983 982 2587 } #Kola/Kuollanta
 
@@ -344,11 +344,11 @@ PRU_682 = { 682 683 687 } #Lower Silesia
 
 PRU_684 = { 684 685 689 2584 688 } #Upper Silesia
 
-PRU_690 = { 690 691 693 694 } #Westpreu?en/Pomorze
+PRU_690 = { 690 691 694 700 } #Westpreu?en/Pomorze
 
-PRU_695 = { 695 696 697 707 } #Ostpreu?en/Prusy
+PRU_695 = { 693 695 696 } #Ostpreu?en/Prusy
 
-PRU_701 = { 699 700 701 } #Posen
+PRU_701 = { 699 701 } #Posen
 
 
 ### Austria
@@ -599,7 +599,7 @@ RUS_990 = { 990 1024 1023 1027 1028 } #Galich
 
 RUS_998 = { 998 1001 989 991 } #Tver
 
-RUS_1003 = { 999 1000 1005 1006 1007 } #Novgorod/Pskov
+RUS_1003 = { 999 1000 1007 } #Novgorod/Pskov
 
 RUS_1008 = { 1008 1009 1013 1022 } #Moscow
 

@@ -1,6 +1,6 @@
-owner = POL
-controller = POL
-add_core = POL
+owner = PRS
+controller = PRS
+add_core = PRS
 trade_goods = grain
 life_rating = 35 
 

@@ -1,7 +1,7 @@
-owner = LOR
-controller = LOR
+owner = CMP
+controller = CMP
 
-add_core = LOR
+add_core = CMP
 trade_goods = fruit
 life_rating = 35 
 

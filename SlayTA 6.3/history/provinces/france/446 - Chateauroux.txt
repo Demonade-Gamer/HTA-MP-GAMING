@@ -1,6 +1,6 @@
-owner = ORL
-controller = ORL
-add_core = ORL
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = grain
 life_rating = 35 
 
