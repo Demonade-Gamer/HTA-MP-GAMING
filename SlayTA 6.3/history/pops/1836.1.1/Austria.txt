@@ -207,7 +207,12 @@
     farmers = {
         culture = south_german
         religion = obbite
-        size = 35150
+        size = 30150
+    }
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 15150
     }
 }
 #Klagenfurt (188000/47000 POPS)
@@ -335,7 +340,12 @@
     farmers = {
         culture = south_german
         religion = obbite
-        size = 175550
+        size = 135550
+    }
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 75550
     }
     clergymen = {
         culture = czech
@@ -395,6 +405,11 @@
         religion = obbite
         size = 19925
     }
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 5925
+    }
 }
 #Krems (240000/60000 POPS)
 621 = {
@@ -422,6 +437,11 @@
         culture = south_german
         religion = obbite
         size = 50700
+    }
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 25350
     }
 }
 #Linz (588000/147000 POPS)
@@ -455,6 +475,11 @@
         culture = south_german
         religion = obbite
         size = 115900
+    }
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 25900
     }
 }
 #Odenburg Region (196000) #see Hungary.txt for balance of region

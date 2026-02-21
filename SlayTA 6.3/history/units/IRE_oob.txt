@@ -1,11 +1,11 @@
 AEN = {
-	truce_until = 183.5.25
+	truce_until = 1837.5.25
 }
 AGR = {
 	value = -15
 }
-BRT = { value = -200 }
-WLL = { value = -200 }
+AUS = { value = -200 }
+SIE = { value = -200 }
 LOM = { value = -200 }
 ARO = { value = -200 }
 VAL = { value = -200 }
@@ -21,13 +21,14 @@ NAS = { value = -200 }
 WES = { value = -200 }
 OLD = { value = -200 }
 CRO = { value = -200 }
-SER = { value = -200 }
 MNT = { value = -200 }
 SLO = { value = -200 }
 ANA = { value = -200 }
 KDS = { value = -200 }
 PRS = { value = -200 }
 ARM = { value = -200 }
+HUN = { value = -200 }
+WHA = { value = -200 }
 leader = {
 	name = "Base guy 1"
 	picture = asian_general_3

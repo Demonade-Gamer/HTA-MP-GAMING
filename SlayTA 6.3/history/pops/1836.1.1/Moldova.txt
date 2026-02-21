@@ -3,43 +3,43 @@
 #Chisinau (332000/83000 POPS)  
 676 = {
 	aristocrats = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 1400  
 	}
 	bureaucrats = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 225 
 	}
 	officers = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 175 
 	}
 	clergymen = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 700 
 	}
 	artisans = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 11000
 	}
 	
 	artisans = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 1100
 	}
 	soldiers = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
-		size = 750
+		size = 1100
 	}
 	farmers = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 56750 
 	}
@@ -87,27 +87,27 @@
 #Balti (320000/80000 POPS)  
 677 = {
 	aristocrats = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 1300 
 	}
 	clergymen = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 700  
 	}
 	artisans = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 3600 
 	}
 	soldiers = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 725
 	}
 	farmers = {
-		culture = romanian
+		culture = ruthenian
 		religion = obbite
 		size = 65675
 	}

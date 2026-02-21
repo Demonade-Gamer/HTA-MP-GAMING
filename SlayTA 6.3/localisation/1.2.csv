@@ -318,9 +318,9 @@ assimilation_focus_header;Assimilation;;;;;;;;x;;;;
 #############################################;;;;;;;;;;;;;;x
 #New Units;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
-infantry_offensive;Offensive Infantry;;;;;;;;;;;;;x
+infantry_offensive;Elite Infantry;;;;;;;;;;;;;x
 infantry_defensive;Defensive Infantry;;;;;;;;;;;;;x
-artillery_offensive;Offensive Artillery;;;;;;;;;;;;;x
+artillery_offensive;Elite Artillery;;;;;;;;;;;;;x
 artillery_defensive;Defensive Artillery;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 #Generic Political Parties;;;;;;;;;;;;;;x

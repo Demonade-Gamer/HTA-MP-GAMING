@@ -42,7 +42,13 @@ army = {
 		type = infantry
 		home = 1026
 	}
-
+	
+	regiment = {
+		name= "3.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 946
+	}
+	
 	regiment = {
 		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
@@ -152,7 +158,7 @@ army = {
 
 army = {
 	name = "1. Cavalry Corps"
-	location = 1005
+	location = 998
 	regiment = {
 		name = "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = cavalry

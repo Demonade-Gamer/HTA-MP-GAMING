@@ -1,5 +1,6 @@
 owner = SLO
 controller = SLO
 add_core = SLO
+add_core = HUN
 trade_goods = cotton
 life_rating = 35 

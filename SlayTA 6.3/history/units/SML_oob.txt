@@ -85,11 +85,6 @@ army = {
 		type = artillery
 		home = 1041
 	}
-	regiment = {
-		name= "3.Chornomoriya Cossacks"
-		type = artillery
-		home = 718
-	}
 
 
 }
@@ -107,12 +102,6 @@ army = {
 		name= "2.4-ya Pekhotnaya Diviziya"
 		type = infantry
 		home = 1027
-	}
-
-	regiment = {
-		name= "3.4-ya Pekhotnaya Diviziya"
-		type = infantry
-		home = 946
 	}
 
 	regiment = {

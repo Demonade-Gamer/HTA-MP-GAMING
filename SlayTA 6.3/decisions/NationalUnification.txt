@@ -47,6 +47,7 @@ political_decisions = {
 			add_accepted_culture = north_german
 			add_accepted_culture = central_german
 			add_accepted_culture = south_german
+			add_accepted_culture = western_slavic
 			set_global_flag = 3hurrahs
 			all_core = {
 				remove_core = BAV
@@ -558,6 +559,21 @@ political_decisions = {
 					}
 				}
 			}
+			GCV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_culture_group = polish_culture_group
+								is_culture_group = czecho_slovak_culture_group
+							}
+							
+						}
+					}
+				}
+			}
 			
 			SLV = {
 				all_core = {
@@ -611,6 +627,7 @@ political_decisions = {
 			POL = { all_core = { limit = { NOT = { is_core = PRS } } add_core = ZAC } }
 			SLS = { all_core = { add_core = ZAC } }
 			SLV = { all_core = { add_core = ZAC } }
+			GCV = { all_core = { add_core = ZAC } }
 			BOH = { all_core = { limit = { NOT = { is_core = HUN } } add_core = ZAC } }
 			AUS_625 = { add_core = ZAC } 
 			AUS_626 = { add_core = ZAC }
@@ -618,6 +635,7 @@ political_decisions = {
 			add_accepted_culture = silesian
 			add_accepted_culture = czech
 			add_accepted_culture = slovak
+			add_accepted_culture = western_slavic
 			change_tag = ZAC
 			any_country = {			#Annex all countries with the two culture groups, so POL, LUZ, SLS, BOH/PRH and SLV
 				limit = {

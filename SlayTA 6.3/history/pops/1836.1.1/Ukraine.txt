@@ -157,31 +157,31 @@
 #Ismail (332000/83000 POPS)
 678 = {
     aristocrats = {
-        culture = romanian
+        culture = ruthenian
         religion = obbite
         size = 2100
     }
 
     clergymen = {
-        culture = romanian
+        culture = ruthenian
         religion = obbite
         size = 600
     }
 
     artisans = {
-        culture = romanian
+        culture = ruthenian
         religion = obbite
         size = 3000
     }
 
     soldiers = {
-        culture = romanian
+        culture = ruthenian
         religion = obbite
-        size = 550
+        size = 1100
     }
 
     farmers = {
-        culture = romanian
+        culture = ruthenian
         religion = obbite
         size = 53800
     }
@@ -231,29 +231,29 @@
     farmers = {
         culture = bulgarian
         religion = obbite
-        size = 2850
+        size = 25850
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = ruthenian
         religion = obbite
         size = 100
     }
 
     artisans = {
-        culture = ukrainian
+        culture = ruthenian
         religion = obbite
         size = 550
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = ruthenian
         religion = obbite
         size = 550
     }
 
     farmers = {
-        culture = ukrainian
+        culture = ruthenian
         religion = obbite
         size = 9300
     }

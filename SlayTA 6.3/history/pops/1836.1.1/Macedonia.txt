@@ -62,6 +62,12 @@
         size = 63700
     }
 
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 53700
+    }
+
     clergymen = {
         culture = bulgarian
         religion = obbite

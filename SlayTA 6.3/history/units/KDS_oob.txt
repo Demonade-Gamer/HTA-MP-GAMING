@@ -24,11 +24,31 @@ PRS = { value = -200 }
 ARM = { value = -200 }
 
 army = {
-	name = "Tatar Mercenaries"
+	name = "Kurdistan United"
 	location = 894
 	regiment = {
-		name= "5. Cavalry Guards"
-		type = cavalry
+		name= "1. Infantry Guard"
+		type = infantry
 		home = 894
+	}
+	regiment = {
+		name= "2. Infantry Guard"
+		type = infantry
+		home = 895
+	}
+	regiment = {
+		name= "3. Infantry Guard"
+		type = infantry
+		home = 896
+	}
+	regiment = {
+		name= "1. Hussar"
+		type = hussar
+		home = 893
+	}
+	regiment = {
+		name= "1. Artillery"
+		type = artillery
+		home = 893
 	}
 } 

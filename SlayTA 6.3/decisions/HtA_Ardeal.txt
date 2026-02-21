@@ -11,6 +11,7 @@ political_decisions = {
 		effect = {
 			CRO = { all_core = { add_core = SIE } }
 			SLV = { all_core = { add_core = SIE } }
+			HUN = { all_core = { add_core = SIE } }
 			add_accepted_culture = croat
 			add_accepted_culture = slovak
 			set_country_flag = fucked_on_condor

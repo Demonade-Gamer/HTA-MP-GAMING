@@ -8,7 +8,7 @@ country_event = { ##The Baby boom
 		tag = AQT
 		tag = FRA
 	}
-	year = 1850
+	year = 1855
 	NOT = { has_country_flag = aqui_boom } 
 	AQT = {
 		check_variable = {

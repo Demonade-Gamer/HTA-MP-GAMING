@@ -1756,19 +1756,7 @@ heavy_artillery = {
 	}
 }
 #military_staff_system
-cuirassier_activation = {
-	limit = { military_staff_system = 1 }
-	chance = {
-		base = 1500
-		modifier = {
-			factor = -100
-			not = { civilized = yes }
-		}
-	}
-	effect = {
-		activate_unit = cuirassier
-	}
-}
+
 dragoon_activation = {
 	limit = { military_staff_system = 1 }
 	chance = {
@@ -1798,19 +1786,6 @@ hussar_activation = {
 
 #Unciv Debugging
 
-cuirassier_activation_unciv = {
-	limit = { military_staff_system = 1 }
-	chance = {
-		base = 1500
-		modifier = {
-			factor = -100
-			civilized = yes
-		}
-	}
-	effect = {
-		activate_unit = cuirassier
-	}
-}
 dragoon_activation_unciv = {
 	limit = { military_staff_system = 1 }
 	chance = {

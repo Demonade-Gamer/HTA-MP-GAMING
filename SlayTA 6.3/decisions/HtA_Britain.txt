@@ -26,6 +26,7 @@ political_decisions = {
 		allow = {
 			state_n_government = 1
 			owns = 280
+			owns = 279
 			war = no
 		}
 		
@@ -265,6 +266,23 @@ political_decisions = {
 					}
 				}
 			}
+		}
+	}
+	end_northumbrian_uprising = {
+		picture = map_northern_isles
+		potential = {
+			tag = AEN
+			NOT = { has_country_flag = uprising_ended }
+		}
+		
+		allow = {
+			NRF = { all_core = { owned_by = THIS } }
+		}
+		
+		effect = {
+			set_country_flag = uprising_ended
+			prestige = 15
+			NRF = { all_core = { add_core = THIS remove_core = NRF } }
 		}
 	}
 

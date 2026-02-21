@@ -1,0 +1,28 @@
+
+army = {
+	name = "2. Line Corps"
+	location = 939
+	regiment = {
+		name= "1.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 948
+	}
+
+	regiment = {
+		name= "2.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 940
+	}
+
+	regiment = {
+		name= "1.5-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 937
+	}
+
+	regiment = {
+		name= "2.5-ya Pekhotnaya Diviziya"
+		type = hussar
+		home = 719
+	}
+}

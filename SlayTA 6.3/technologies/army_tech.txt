@@ -117,6 +117,7 @@ point_defense_system = {
 	army_base = {
 		supply_consumption = 0.05
 	} 
+	activate_unit = cuirassier
 	max_fort = 1
 	dig_in_cap = 1
 	ai_chance = {

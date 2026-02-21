@@ -34,29 +34,29 @@
 		size = 3150
 	}
 	clergymen = {
-		culture = croat
+		culture = hungarian
 		religion = obbite
 		size = 450
 	}
 	artisans = {
-		culture = croat
+		culture = hungarian
 		religion = obbite
 		size = 1600
 	}
 	soldiers = {
-		culture = croat
+		culture = hungarian
 		religion = obbite
 		size = 450 
 	}
 	farmers = {
-		culture = croat
+		culture = hungarian
 		religion = obbite
 		size = 42500
 	}
 	farmers = {
-		culture = hungarian
+		culture = croat
 		religion = obbite
-		size = 1100
+		size = 11100
 	}	
 	
 }
@@ -127,6 +127,11 @@
 	}
 	farmers = {
 		culture = croat
+		religion = obbite
+		size = 61550
+	}
+	farmers = {
+		culture = hungarian
 		religion = obbite
 		size = 61550
 	}

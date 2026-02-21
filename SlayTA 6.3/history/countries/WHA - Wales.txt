@@ -4,7 +4,7 @@ religion = obbite
 government = hms_government
 plurality = 0.1
 nationalvalue = nv_order
-literacy = 0.55
+literacy = 0.95
 civilized = yes
 
 # Political reforms

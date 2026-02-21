@@ -2975,7 +2975,7 @@
     soldiers = {
         culture = armenian
         religion = obbite
-        size = 45
+        size = 1100
     }
 
     farmers = {
@@ -3041,7 +3041,7 @@
     soldiers = {
         culture = kurdish
         religion = obbite
-        size = 585
+        size = 1100
     }
 
     farmers = {
@@ -3173,7 +3173,7 @@
     soldiers = {
         culture = armenian
         religion = obbite
-        size = 202
+        size = 1100
     }
 
     farmers = {
@@ -3235,7 +3235,7 @@
     soldiers = {
         culture = armenian
         religion = obbite
-        size = 382
+        size = 1100
     }
 
     farmers = {

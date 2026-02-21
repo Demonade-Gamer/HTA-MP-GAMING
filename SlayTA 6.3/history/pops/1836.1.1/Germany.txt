@@ -2178,7 +2178,7 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 300
     }
@@ -2204,23 +2204,23 @@
     farmers = {
         culture = north_german
         religion = obbite
-        size = 20000
+        size = 35000
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
-        size = 56100
+        size = 43100
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 100
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 7100
     }
@@ -2601,6 +2601,12 @@
         religion = obbite
         size = 135105
     }
+	
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 55105
+    }
 
     clergymen = {
         culture = central_german
@@ -2700,6 +2706,12 @@
         size = 90800
     }
 
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 20800
+    }
+
     clergymen = {
         culture = ashkenazi
         religion = jewish
@@ -2754,6 +2766,12 @@
         culture = central_german
         religion = obbite
         size = 62575
+    }
+	
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 31575
     }
 }
 #Thuringia Region (865000)
@@ -5355,6 +5373,11 @@
         religion = obbite
         size = 37725
     }
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 12725
+    }
 }
 #Ingolstadt (164000/41000 POPS)
 601 = {
@@ -5418,6 +5441,11 @@
         culture = south_german
         religion = obbite
         size = 54725
+    }
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 14725
     }
 }
 #Silesia Region (200000) #see Czechia.txt and Poland.txt for balance of region

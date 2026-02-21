@@ -47,7 +47,13 @@
     farmers = {
         culture = north_german
         religion = obbite
-        size = 90425
+        size = 45425
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = obbite
+        size = 45425
     }
 
     clergymen = {
@@ -91,23 +97,29 @@
     farmers = {
         culture = north_german
         religion = obbite
-        size = 34375
+        size = 18375
+    }
+	
+    farmers = {
+        culture = western_slavic
+        religion = obbite
+        size = 24375
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 25
     }
@@ -147,29 +159,35 @@
     farmers = {
         culture = north_german
         religion = obbite
+        size = 4400
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = obbite
         size = 34400
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 1825
     }
@@ -209,27 +227,27 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 850
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 2200
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 550
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
-        size = 28425
+        size = 68425
     }
 
     artisans = {
@@ -1049,37 +1067,37 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 50
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 8200
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 15
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 10
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 925
     }
@@ -1087,31 +1105,31 @@
 #Deutsche Krone (128000/32000 POPS)
 692 = {
     aristocrats = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 625
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 155
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 1150
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 1800
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 20950
     }
@@ -1141,25 +1159,25 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 110
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 850
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 180
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 5425
     }
@@ -1441,21 +1459,27 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 325
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 2450
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 800
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = obbite
+        size = 22825
     }
 
     farmers = {
@@ -1465,25 +1489,25 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 225
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 2250
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 225
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 22190
     }
@@ -1501,25 +1525,25 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 95
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 950
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 95
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 3590
     }
@@ -1557,25 +1581,25 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 350
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 75
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 6525
     }
@@ -1593,25 +1617,25 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 255
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 700
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 400
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 16375
     }
@@ -1649,25 +1673,25 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 125
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 750
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 700
     }
 
     farmers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 12125
     }
@@ -1685,21 +1709,27 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 180
     }
 
     artisans = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 1800
     }
 
     soldiers = {
-        culture = silesian
+        culture = western_slavic
         religion = obbite
         size = 190
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = obbite
+        size = 7090
     }
 
     farmers = {

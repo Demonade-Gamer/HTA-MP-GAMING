@@ -18,8 +18,8 @@ infantry = {
 	#Building Costs
 	build_time = 90
 	build_cost = {
-		small_arms = 30 #10
-		canned_food = 5
+		small_arms = 15 #10
+		canned_food = 2.5
 	}
 	
 	supply_consumption = 1.0

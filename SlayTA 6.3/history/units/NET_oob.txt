@@ -4,7 +4,7 @@ BRA = { value = -65 }
 BRN = { value = -25 }
 AEN = { value = 45 }
 XHO = { value = -90 }
-CLT = { value = 35 }
+IRE = { value = -35 }
 HIS = { value = 50 }
 BRT = { value = -200 }
 WLL = { value = -200 }
