@@ -1,0 +1,30 @@
+
+army = {
+	name = "Ruthenian Guard"
+	location = 954
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 954
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 955
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 957
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 959
+	}
+	regiment = {
+		name = "1. Artiliehere"
+		type = hussar
+		home = 956
+	}
+}
