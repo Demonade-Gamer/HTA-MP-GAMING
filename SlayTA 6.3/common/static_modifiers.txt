@@ -69,10 +69,10 @@ very_hard_ai = {
 	min_military_spending = 1.0
 	max_national_focus = 15
 	regular_experience_level = 10
-	military_tactics = 0.25
+	military_tactics = 0.5
 	morale = 0.25
 	reinforce_rate = 1
-	mobilisation_size = 0.01
+	mobilisation_size = 0.03
 	global_assimilation_rate = 1.5
 }
 

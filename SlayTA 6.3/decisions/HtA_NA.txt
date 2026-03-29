@@ -44,8 +44,8 @@ political_decisions = {
 				tag = TER
 				tag = NFB
 			}
+			NOT = { tag = SHC }
 			NOT = { has_country_flag = come_to_the_new_world }
-			NOT = { has_country_flag = has_native_societies }
 			number_of_states = 2
 			num_of_ports = 1
 			is_vassal = no
@@ -71,38 +71,20 @@ political_decisions = {
 		annex_ginnaecer = {
 		picture = marching_soldiers
 		potential = {
-		OR = {
-			tag = CLF
-			tag = SKM
-			tag = MRG
+		tag = SKM
+		AND = {
+			ai = yes 
+			year = 1845
 		}
-			OR = {
-				ai = no
-				AND = {
-					ai = yes 
-					year = 1840
-				}
-			}
 			is_disarmed = no
 			war = no
-			NOT = { alliance_with = GNC }
 			NOT = { has_country_flag = annex_ginnaecer }
 		}
 		
 		allow = {
-			OR = {
-				AND = {
-					tag = MRG
-					neighbour = GNC
-				}
-				AND = {
-					tag = SKM
-					neighbour = GNC
-				}
-				AND = { 
-					tag = CLF
-					neighbour = GNC
-				}
+			AND = {
+				tag = SKM
+				neighbour = GNC
 			}
 
 		}
@@ -122,92 +104,23 @@ political_decisions = {
 		}
 	}
 
-	annex_skamisc = {
-		picture = marching_soldiers
-		potential = {
-		OR = {
-			tag = GNC
-			tag = CLF
-			tag = MRG
-		}
-			OR = {
-				ai = no
-				AND = {
-					ai = yes 
-					year = 1840
-				}
-			}
-			is_disarmed = no
-			war = no
-			NOT = { alliance_with = SKM }
-			NOT = { has_country_flag = annex_skamisc }
-		}
-		
-		allow = {
-			OR = {
-				AND = {
-					tag = GNC
-					neighbour = SKM
-				}
-				AND = {
-					tag = MRG
-					neighbour = SKM
-				}
-				AND = { 
-					tag = CLF
-					neighbour = SKM
-				}
-			}
-
-		}		
-		effect = {
-			badboy = 7.5
-			SKM = { all_core = { add_core = THIS } }
-			set_country_flag = annex_skamisc
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.6
-			}
-		}
-	}
-
 	annex_margaria = {
 		picture = marching_soldiers
 		potential = {
-		OR = {
-			tag = GNC
-			tag = SKM
-			tag = CLF
-		}
-			OR = {
-				ai = no
-				AND = {
-					ai = yes 
-					year = 1840
-				}
+		tag = SKM
+			AND = {
+				ai = yes 
+				year = 1845
 			}
 			is_disarmed = no
 			war = no
-			NOT = { alliance_with = MRG }
 			NOT = { has_country_flag = annex_margaria }
 		}
 		
 		allow = {
 			OR = {
 				AND = {
-					tag = GNC
-					neighbour = MRG
-				}
-				AND = {
 					tag = SKM
-					neighbour = MRG
-				}
-				AND = { 
-					tag = CLF
 					neighbour = MRG
 				}
 			}
@@ -309,43 +222,17 @@ political_decisions = {
 		NOT = { tag = NEU }
 		}
 		allow = {
-			VST = {
-				OR = {
-					all_core = { owner = { in_sphere = THIS } }
-					all_core = { owned_by = THIS }
-					vassal_of = THIS
-				}
-			}
-			QUE = {
-				OR = {
-					all_core = { owner = { in_sphere = THIS } }
-					all_core = { owned_by = THIS }
-					vassal_of = THIS
-				}
-			}
-			NHL = {
-				OR = { 
-					all_core = { owner = { in_sphere = THIS } }
-					all_core = { owned_by = THIS }
-					vassal_of = THIS
-				}
-			}
+			state_n_government = 1
 		}
 		effect = {
 			add_accepted_culture = margarian
-			inherit = NHL
-			inherit = QUE
 			VST = { all_core = { 
-					add_core = NEU 
-					remove_core = VST } }
-			NHL = { all_core = { 
-					add_core = NEU 
-					remove_core = NHL } }
-			QUE = { all_core = { 
-					add_core = NEU 
-					remove_core = QUE } }
+						add_core = NEU 
+						remove_core = VST 
+					} 
+				}
 			change_tag = NEU
-			political_reform = universal_weighted_voting
+			political_reform = universal_voting
 			political_reform = yes_meeting
 			political_reform = free_press
 			political_reform = all_trade_unions
@@ -358,7 +245,7 @@ political_decisions = {
 		picture = manifest_destiny
 		potential = {
 			tag = NEU
-			NOT = { has_country_flag = vest_peace }
+			NOT = { has_country_flag = trail_of_tears }
 			}
 
 		allow = {
@@ -367,9 +254,13 @@ political_decisions = {
 		}
 
 		effect = {
-			set_country_flag = vest_peace
+			set_country_flag = trail_of_tears
 			prestige = 15
-			remove_country_modifier = american_bloodbath 
+			SHC = {
+				all_core = {
+					add_province_modifier = { name = trail_of_tears duration = 3650 }
+				}
+			}
 		}
 
 	}
@@ -384,7 +275,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			civilized = yes
+			state_n_government = 1
 			war = no
 		}
 		
@@ -396,7 +287,7 @@ political_decisions = {
 			MRG = { all_core = { add_core = SHC } }
 			add_country_modifier = {
 				name = native_societies3
-				duration = -1
+				duration = 3650
 			}
 		}
 	}
@@ -415,8 +306,6 @@ political_decisions = {
 			OR = {
 				AND = {
 					VST = { all_core = { owned_by = THIS } }
-					QUE = { all_core = { owned_by = THIS } }
-					NHL = { all_core = { owned_by = THIS } }
 				}
 				NEU = { all_core = { owned_by = THIS } }
 			}
@@ -428,37 +317,12 @@ political_decisions = {
 			VST = { all_core = { 
 					add_core = SHC 
 					remove_core = VST } }
-			NHL = { all_core = { 
-					add_core = SHC 
-					remove_core = NHL } }
-			QUE = { all_core = { 
-					add_core = SHC 
-					remove_core = QUE } }
 			NEU = { all_core = { 
 					add_core = SHC 
 					remove_core = NEU } }
 		}
 	}
 
-	destroy_margaria_SHC = {
-		picture = manifest_destiny
-		potential = {	
-			tag = SHC
-			civilized = yes
-			has_country_flag = native_rape
-			NOT = { has_country_flag = margaria_rape }
-		}
-		
-		allow = {
-			war = no
-			MRG = { all_core = { owned_by = THIS } }
-		}
-		
-		effect = {
-			set_country_flag = margaria_rape
-			MRG = { all_core = { remove_core = MRG } }
-		}
-	}
 
 	
 	embrace_westerners_INC = {

@@ -27,6 +27,39 @@ army = {
 		home = 234
 	}
 }
+army = {
+	name = "Leger van Nieuw Holland"
+	location = 65
+	regiment = {
+		name = "1. Voetvolk Regiment"
+		type = infantry
+		home = 65
+	}
+	regiment = {
+		name = "2. Voetvolk Regiment"
+		type = infantry
+		home = 45
+	}
+}
+army = {
+	name = "Armée de DabiMNT"
+	location = 50
+	regiment = {
+		name = "1er Infanterie"
+		type = infantry
+		home = 50
+	}
+	regiment = {
+		name = "2e Infanterie"
+		type = infantry
+		home = 50
+	}
+	regiment = {
+		name = "1er Éclaireurs"
+		type = hussar
+		home = 51
+	}
+}
 leader = {
 	name = "Base guy 1"
 	picture = asian_general_3

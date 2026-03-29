@@ -102,13 +102,13 @@ USA_205 = { 159 162 163 164 168 167 166 165 } #South Carolina(Wisconsin area)/Mi
 
 USA_211 = { 207 211 214 209 208 210 2556 216 } #Virginia/Eganulti
 
-USA_218 = { 212 213 215 218 217 221 } #West Virginia/Skotamewi
+USA_218 = { 212 213 215 218 217 221 227 228 178 } #West Virginia/Skotamewi
 
-USA_219 = { 224 225 235 237 238 } #Maryland/Høylandet
+USA_219 = { 224 225 235 236 237 238  } #Maryland/Høylandet
 
 USA_223 = { 223 231 219 222 220 226 230 } #Pennsylvania/Tesepikhav
 
-SHC_227 = { 227 228 236 178 } #Menelenehi (Border region next to VST belonging to SHC)
+#SHC_227 = {  } #Menelenehi (Border region next to VST belonging to SHC)
 
 USA_231 = { 229 232 233 241 242 243 244 245 } #New Jersey/Hertos
 

@@ -64,8 +64,29 @@ ZACHADIA CHANGES
 	- Ardeal has been given Oradea, Temesvar, and Resicabanya provinces, it now has 1.21 million pops
 	- Serbia has been given the rest of the Vojvodina state, it now has 666k pops
 
-GP CHANGE
-	- Since Aengland has been dismantles, Naples is now a Great Power, otherwise the great powers are the same as before
+NORTH AMERICA CHANGES
+
+	- The Shawnee Confederation is now an optional player slot, it now starts civilized with somewhat basic tech, has 7 industry score spread throughout
+	- Massively buffed Shawnee pops, especially on the Mississippi River
+		- They have around 1 million more pops than Vestland
+		- They also contain the ONLY large states in all of North America (except maybe Mexika? I don't remember if they have one or not)
+	- Buffed liferating across the Shawnee lands
+		- Also buffed liferating across the Mississippi to mostly 40
+	- Removed the starting tech/civ and general decisions from Shawnee
+	- Shawnee culture pops will now NEVER assimilate (unless the trail of tears has occurred)
+	- Removed the pop growth from native societies
+		- This has largely been compensated with higher LR, but is still a massive nerf to shawnee scaling
+	- Vestland now owns Leifsland and Eriksland in 1836
+	- Forming Helluland now Mostly just changes tag and gives access to a new decision, but it also gives better reforms than it previosuly did (universal voting rather than weighted universal)
+	- Added a Trail of Tears esque decision for Helluland when it conquers all Shawnee cores
+		- This decision adds a modifier that lasts 10 years that reduces pop growth by -0.25%, rgo output by -25%, but gives 500% assimilation rate and counteracts the modifier preventing shawnee pops from assimilating
+		- This means that Shawnee lands will lose massive amounts of population, Helluland will gain many more accepted pops, and eventually be able to core the land
+	- Added a strait from Hawaii to California
+	- Added a strait from Hawaii to the small islands next to it
+	
+
+GP CHANGES
+	- Since Aengland has been dismantled, Naples is now a Great Power, otherwise the great powers are the same as before
 	
 INDIA CHANGES
 	- India has been split up far more
@@ -79,9 +100,14 @@ FINLAND CHANGES
 		- Pomorze state has absorbed a province from Pozen state
 	- Gave Finland 2 provinces from Russia to keep prevent split states
 
+RUSSIA CHANGES
+	- Released Belarus and Ruthenia
+		- Belarus has 817k pops
+		- Ruthenia has 1.06 million pops 
+		- This leaves Smolensk with 6.09 Million pops, but the civil war is unchanged brigade wise
 PLANNED CHANGES
-	- Release Belarus and a Ukraine or Ruthenian nation from Smolensk and balance their oob to be equal to Russia
 	- Potentially make Egypt a secondary roster slot, decisions to civilize quickly
+	- Give forming Helluland a temporary modifier to them to use against Shawnee
 	
 ----------------------------------------------------------------------
 

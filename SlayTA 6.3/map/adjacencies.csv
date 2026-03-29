@@ -5,7 +5,13 @@ From;To;Type;Through;Data;Comment
 13;14;sea;3011;0;Vancouver Crossing                       
 14;78;sea;3011;0;Vancouver Crossing                       
 62;75;sea;2946;0;Straits of Belle Isle                    
-68;70;sea;2944;0;Cabot Strait                             
+68;70;sea;2944;0;Cabot Strait                 
+89;658;sea;3008;0;Hawaii Strait               
+89;658;sea;3141;0;Hawaii Strait   
+89;658;sea;3151;0;Hawaii Strait   
+89;658;sea;3149;0;Hawaii Strait   
+2623;658;sea;3153;0;Midway Strait   
+2623;658;sea;3150;0;Midway Strait   
 2237;2269;sea;2975;0;Strait of Trinidad                   
 2334;2335;sea;2992;0;Strait of Magellan                   
 2399;2400;sea;2992;0;Strait of Magellan                           

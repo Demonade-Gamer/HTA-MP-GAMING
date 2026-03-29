@@ -4,7 +4,8 @@ religion = obbite
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_liberty
-literacy = 0.6
+literacy = 0.57
+non_state_culture_literacy = 0.2
 civilized = yes
 prestige = 35
 

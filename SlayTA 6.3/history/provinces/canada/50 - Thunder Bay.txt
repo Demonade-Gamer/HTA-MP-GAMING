@@ -1,6 +1,6 @@
-owner = QUE
-controller = QUE
-add_core = QUE
-trade_goods = iron
-life_rating = 40
+owner = VST
+controller = VST
+add_core = VST
+trade_goods = grain
+life_rating = 35
 fort = 1

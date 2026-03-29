@@ -1,7 +1,7 @@
 #Now the province of Abitibi in Dabimon (Ontario)
-owner = QUE
-controller = QUE
-add_core = QUE
+owner = VST
+controller = VST
+add_core = VST
 trade_goods = grain
 life_rating = 35 
 

@@ -716,7 +716,7 @@ central_bank_established = {
 }
 
 local_stock_exchange = {
-	local_rgo_output = 0.05
+	local_RGO_output = 0.05
 	pop_militancy_modifier = -0.02
 	icon = 11
 }
@@ -1351,18 +1351,22 @@ native_societies1 = {
 	icon = 8
 }
 native_societies2 = {
-	global_population_growth = 0.008
 	icon = 7
 }
 
 native_societies3 = {
-	global_population_growth = 0.005
 	assimilation_rate = 1.5
 	mobilisation_size = 0.01
 	mobilisation_economy_impact = -0.25
-	supply_consumption = -0.05
+	supply_consumption = -0.15
 	leadership_modifier = 0.2
 	icon = 7
+}
+
+trail_of_tears = {
+	population_growth = -0.002
+	assimilation_rate = 5
+	local_rgo_output = -0.25
 }
 
 american_bloodbath = {
