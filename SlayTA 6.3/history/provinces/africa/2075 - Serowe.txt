@@ -1,5 +1,5 @@
-owner = MAT
-controller = MAT
+owner = ORA
+controller = ORA
 add_core = TSW
 trade_goods = grain
 life_rating = 35 

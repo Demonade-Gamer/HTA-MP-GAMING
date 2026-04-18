@@ -1,8 +1,8 @@
-
-
-#MLI
-#KNG
+owner = MLI
+controller = MLI
+add_core = MLI
+add_core = KNG
 trade_goods = grain
-life_rating = 15
+life_rating = 35
 
 

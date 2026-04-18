@@ -1,7 +1,7 @@
-
-
-#MLI
-#SEG
+owner = MLI
+controller = MLI
+add_core = MLI
+add_core = SEG
 trade_goods = fruit
-life_rating = 15
+life_rating = 30
 

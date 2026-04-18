@@ -1589,6 +1589,22 @@ irish_defense = {
 
 #Russian/Smolenskii stuff
 
+russian_war_recovery = {
+	local_RGO_throughput = -0.05
+	local_factory_throughput = -0.05
+}
+
+russian_war_recovery_2 = {
+	local_RGO_throughput = -0.15
+	local_factory_throughput = -0.15
+	immigrant_push = 0.1
+}
+
+russian_war_recovery_country = {
+	education_efficiency_modifier = -0.2
+	research_points = -0.15
+}
+
 vorontsov = {
 	prestige = -0.025
 	pop_consciousness_modifier = 0.05

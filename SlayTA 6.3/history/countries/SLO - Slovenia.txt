@@ -1,9 +1,10 @@
 capital = 768
 primary_culture = croat
+culture = hungarian
 religion = obbite
 government = absolute_monarchy
-plurality = 0.05
-nationalvalue = nv_liberty
+plurality = 0.25
+nationalvalue = nv_order
 literacy = 0.35
 civilized = yes
 

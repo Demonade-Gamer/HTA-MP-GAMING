@@ -1,6 +1,6 @@
-owner = MAT
-controller = MAT
-add_core = MAT
+owner = ORA
+controller = ORA
+add_core = ORA
 trade_goods = coal
 life_rating = 35 
 terrain = forest

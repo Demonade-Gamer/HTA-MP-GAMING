@@ -8,6 +8,7 @@ political_decisions = {
 			tag = RUM
 			tag = BOH
 			tag = ZAC
+			tag = SER
 		}
 		NOT = { has_global_flag = beautified_yugo }
 	}
@@ -37,6 +38,32 @@ political_decisions = {
 			}
 		}
 		set_global_flag = beautified_yugo
+	}
+}
+
+claim_greater_bulgaria = {
+	potential = {
+		tag = BUL
+		NOT = { has_country_flag = claimed_greater_bulgaria }
+	}
+	allow = {
+		nationalism_n_imperialism = 1
+	}
+	effect = {
+		prestige = 30
+		set_country_flag = claimed_greater_bulgaria
+		SER_794 = { add_core = THIS }
+		802 = { add_core = THIS }
+		799 = { add_core = THIS }
+		806 = { add_core = THIS }
+		805 = { add_core = THIS }
+		822 = { add_core = THIS }
+		823 = { add_core = THIS }
+		829 = { add_core = THIS }
+		830 = { add_core = THIS }
+		828 = { add_core = THIS }
+		858 = { add_core = THIS }
+		WAL_665 = { add_core = THIS }
 	}
 }
 }

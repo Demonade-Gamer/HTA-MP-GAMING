@@ -74,12 +74,12 @@
 	aristocrats = {
 		culture = croat
 		religion = obbite
-		size = 450
+		size = 1450
 	}
 	bureaucrats = {
 		culture = croat
 		religion = obbite
-		size = 250
+		size = 2250
 	}
 	
 	bureaucrats = {
@@ -90,68 +90,68 @@
 	officers = {
 		culture = croat
 		religion = obbite
-		size = 100
+		size = 400
 	}
 	clergymen = {
 		culture = croat
 		religion = obbite
-		size = 450
+		size = 1450
 	}
 	artisans = {
 		culture = croat
 		religion = obbite
-		size = 2500
+		size = 12500
 	}
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 1100
+		size = 5100
 	}
 	farmers = {
 		culture = croat
 		religion = obbite
-		size = 25500
+		size = 65500
 	}	
 	
 	farmers = {
 		culture = hungarian
 		religion = obbite
-		size = 39250
+		size = 79250
 	}
 	aristocrats = {
 		culture = hungarian
 		religion = obbite
-		size = 700
+		size = 1700
 	}
 	bureaucrats = {
 		culture = hungarian
 		religion = obbite
-		size = 100
+		size = 700
 	}
 	officers = {
 		culture = hungarian
 		religion = obbite
-		size = 150
+		size = 550
 	}
 	clergymen = {
 		culture = hungarian
 		religion = obbite
-		size = 50
+		size = 550
 	}
 	artisans = {
 		culture = hungarian
 		religion = obbite
-		size = 700
+		size = 1700
 	}
 	soldiers = {
 		culture = hungarian
 		religion = obbite
-		size = 50
+		size = 1150
 	}
 	farmers = {
 		culture = hungarian
 		religion = obbite
-		size = 3250
+		size = 6250
 	}
 	bureaucrats = {
 		culture = south_german
@@ -184,47 +184,47 @@
 	aristocrats = {
 		culture = croat
 		religion = obbite
-		size = 450
+		size = 1450
 	}
 	clergymen = {
-		culture = croat
-		religion = obbite
-		size = 275
-	}
-	artisans = {
-		culture = croat
-		religion = obbite
-		size = 2900
-	}
-	soldiers = {
 		culture = croat
 		religion = obbite
 		size = 1275
 	}
-	farmers = {
-		culture = croat
-		religion = obbite
-		size = 50400
-	}
-	clergymen = {
-		culture = croat
-		religion = obbite
-		size = 100
-	}
 	artisans = {
 		culture = croat
 		religion = obbite
-		size = 550
+		size = 12900
 	}
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 125
+		size = 2275
+	}
+	farmers = {
+		culture = croat
+		religion = obbite
+		size = 100800
+	}
+	clergymen = {
+		culture = croat
+		religion = obbite
+		size = 1100
+	}
+	artisans = {
+		culture = croat
+		religion = obbite
+		size = 1550
+	}
+	soldiers = {
+		culture = croat
+		religion = obbite
+		size = 1125
 	}
 	farmers = {
 		culture = hungarian
 		religion = obbite
-		size = 8225
+		size = 18225
 	}
 }
 #Karlovac (184000/46000 POPS)
@@ -233,6 +233,11 @@
 		culture = croat
 		religion = obbite
 		size = 550
+	}
+	bureaucrats = {
+		culture = croat
+		religion = obbite
+		size = 1550
 	}
 	clergymen = {
 		culture = croat
@@ -247,17 +252,17 @@
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 1100
+		size = 3423
 	}
 	farmers = {
 		culture = croat
 		religion = obbite
-		size = 30400
+		size = 50400
 	}
 	clergymen = {
 		culture = croat
 		religion = obbite
-		size = 125
+		size = 1125
 	}
 	artisans = {
 		culture = croat
@@ -291,7 +296,7 @@
 	clergymen = {
 		culture = croat
 		religion = obbite
-		size = 155
+		size = 755
 	}
 	artisans = {
 		culture = croat
@@ -306,12 +311,12 @@
 	farmers = {
 		culture = croat
 		religion = obbite
-		size = 15000
+		size = 45000
 	}
 	farmers = {
 		culture = north_italian
 		religion = obbite
-		size = 1525
+		size = 11525
 	}	
 	
 	clergymen = {
@@ -340,39 +345,39 @@
 	aristocrats = {
 		culture = hungarian
 		religion = obbite
-		size = 200
+		size = 1200
 	}
 	clergymen = {
 		culture = hungarian
 		religion = obbite
-		size = 175
+		size = 675
 	}
 	artisans = {
 		culture = hungarian
 		religion = obbite
-		size = 850
+		size = 1850
 	}
 	soldiers = {
 		culture = hungarian
 		religion = obbite
-		size = 175
+		size = 1175
 	}
 	farmers = {
 		culture = hungarian
 		religion = obbite
-		size = 30600
+		size = 50600
 	}
 	
 	farmers = {
 		culture = croat
 		religion = obbite
-		size = 5250
+		size = 15250
 	}
 	
 	artisans = {
 		culture = hungarian
 		religion = obbite
-		size = 530
+		size = 1530
 	}
 }
 #Bjelovar (52000/13000 POPS)
@@ -380,12 +385,12 @@
 	clergymen = {
 		culture = hungarian
 		religion = obbite
-		size = 50
+		size = 150
 	}
 	artisans = {
 		culture = hungarian
 		religion = obbite
-		size = 150
+		size = 1150
 	}
 	soldiers = {
 		culture = hungarian
@@ -395,47 +400,47 @@
 	farmers = {
 		culture = hungarian
 		religion = obbite
-		size = 8675
+		size = 18675
 	}
 	clergymen = {
 		culture = hungarian
 		religion = obbite
-		size = 50
+		size = 450
 	}
 	artisans = {
 		culture = hungarian
 		religion = obbite
-		size = 250
+		size = 1250
 	}
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 775
+		size = 1775
 	}
 	farmers = {
 		culture = hungarian
 		religion = obbite
-		size = 1625
+		size = 5625
 	}
 	clergymen = {
 		culture = hungarian
 		religion = obbite
-		size = 50
+		size = 200
 	}
 	artisans = {
 		culture = hungarian
 		religion = obbite
-		size = 250
+		size = 500
 	}
 	soldiers = {
 		culture = hungarian
 		religion = obbite
-		size = 50
+		size = 1500
 	}
 	farmers = {
 		culture = hungarian
 		religion = obbite
-		size = 2650
+		size = 12500
 	}
 }
 #Pozega (80000/20000 POPS)
@@ -443,27 +448,27 @@
 	aristocrats = {
 		culture = hungarian
 		religion = obbite
-		size = 225
+		size = 450
 	}
 	clergymen = {
 		culture = hungarian
 		religion = obbite
-		size = 200
+		size = 400
 	}
 	artisans = {
 		culture = hungarian
 		religion = obbite
-		size = 1100
+		size = 2200
 	}
 	soldiers = {
 		culture = hungarian
 		religion = obbite
-		size = 200
+		size = 400
 	}
 	farmers = {
 		culture = hungarian
 		religion = obbite
-		size = 22375
+		size = 44750
 	}
 }
 #Fiume (52000/13000 POPS)

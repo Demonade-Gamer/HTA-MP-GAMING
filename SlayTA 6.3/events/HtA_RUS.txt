@@ -32,7 +32,7 @@ country_event = {
 	}
 	fire_only_once = yes
 	mean_time_to_happen = {
-		days = 1
+		days = -1
 	}
 	option = {
 		name = "SLAVA"
@@ -43,6 +43,84 @@ country_event = {
 		}
 	}	
 		
+}
+country_event = {
+	id = 11123456
+	title = "The War is Over"
+	desc = "The war is won, but the cost on our lands has been immense. Both the Northern and Southern lands have been depleted, and the Southern lands hurting worse. Devastation is rampant."
+	picture = "Opiumwar"
+	trigger = {
+	tag = RUS
+	war = no
+	}
+	fire_only_once = yes
+	mean_time_to_happen = {
+		days = -1
+	}
+	option = {
+		name = "We must fix our nation before it falls."
+		prestige = 15
+		set_country_flag = war_is_over
+		add_country_modifier = {
+		name = russian_war_recovery_country
+			duration = -1
+		}
+		RUS = { 
+			all_core = {
+				add_province_modifier = {
+					name = russian_war_recovery
+					duration = -1
+				}
+			}
+		}
+		SML = {
+			all_core = {
+				add_province_modifier = {
+					name = russian_war_recovery_2
+					duration = -1
+				}
+			}
+		}
+	}		
+}
+country_event = {
+	id = 11123457
+	title = "The War is Over"
+	desc = "The war is won, but the cost on our lands has been immense. Both the Northern and Southern lands have been depleted, with the Northern lands hurting worse. Devastation is rampant."
+	picture = "Opiumwar"
+	trigger = {
+	tag = SML
+	war = no
+	}
+	fire_only_once = yes
+	mean_time_to_happen = {
+		days = -1
+	}
+	option = {
+		name = "We must fix our nation before it falls."
+		prestige = 15
+		set_country_flag = war_is_over
+		add_country_modifier = {
+		name = russian_war_recovery_country
+			duration = -1
+		}
+		SML = { 
+			all_core = {
+				add_province_modifier = {
+					name = russian_war_recovery
+					duration = -1
+				}
+			}
+		}
+		RUS = {
+			all_core = {
+				add_province_modifier = {
+					name = russian_war_recovery_2
+					duration = -1
+				}
+			}
+		}
+	}		
 }
 #Events 50350-50399 reserved for Russia, Smolensk, and related countries
 #Event to end the Yakut War

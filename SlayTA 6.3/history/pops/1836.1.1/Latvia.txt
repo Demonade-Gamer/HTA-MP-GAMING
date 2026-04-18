@@ -3,31 +3,31 @@
 #Riga (220000/55000 POPS)
 354 = {
     aristocrats = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 1650
     }
 
     clergymen = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 525
     }
 
     artisans = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 1400
     }
 
     soldiers = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 550
     }
 
     farmers = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 36775
     }
@@ -131,25 +131,25 @@
 #Valmeira (516000/129000 POPS)
 355 = {
     clergymen = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 800
     }
 
     artisans = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 1350
     }
 
     soldiers = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 1150
     }
 
     farmers = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 104500
     }
@@ -229,25 +229,25 @@
 #Daugavpils (136000/34000 POPS)
 356 = {
     clergymen = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 175
     }
 
     artisans = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 650
     }
 
     soldiers = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 250
     }
 
     farmers = {
-        culture = latvian
+        culture = ugrian
         religion = obbite
         size = 26175
     }
@@ -327,25 +327,25 @@
 #Jelgava (128000/32000 POPS)
 357 = {
     clergymen = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 225
     }
 
     artisans = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 250
     }
 
     soldiers = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 250
     }
 
     farmers = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 26275
     }
@@ -407,19 +407,19 @@
     }
 
     artisans = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 300
     }
 
     soldiers = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 275
     }
 
     farmers = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 27650
     }
@@ -449,7 +449,7 @@
     }
 
     farmers = {
-        culture = estonian
+        culture = prussian
         religion = obbite
         size = 1500
     }
@@ -481,25 +481,25 @@
 #Liepaja (96000/24000 POPS)
 359 = {
     clergymen = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 175
     }
 
     artisans = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 150
     }
 
     soldiers = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 200
     }
 
     farmers = {
-        culture = latvian
+        culture = prussian
         religion = obbite
         size = 19975
     }

@@ -3,27 +3,27 @@
 #Tallinn/Reval (160000/40000 POPS)
 349 = {
     aristocrats = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 1150
     }
     clergymen = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 525
     }
     artisans = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 1150
     }
     soldiers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 1400
     }
     farmers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 43225
     }
@@ -121,22 +121,22 @@
 #Narva (184000/46000 POPS)
 350 = {
     clergymen = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 425
     }
     artisans = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 2300
     }
     soldiers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 450
     }
     farmers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 35725
     }
@@ -209,22 +209,22 @@
         size = 550
     }
     clergymen = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 400
     }
     artisans = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 600
     }
     soldiers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 200
     }
     farmers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 20000
     }
@@ -277,22 +277,22 @@
         size = 1100
     }
     clergymen = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 350
     }
     artisans = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 1300
     }
     soldiers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 350
     }
     farmers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 32300
     }
@@ -340,22 +340,22 @@
         size = 10
     }
     clergymen = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 150
     }
     artisans = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 450
     }
     soldiers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 225
     }
     farmers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 10575
     }

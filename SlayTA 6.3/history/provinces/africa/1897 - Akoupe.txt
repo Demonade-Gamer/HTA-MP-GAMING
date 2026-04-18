@@ -1,8 +1,8 @@
-
-
-#MLI
-#ASH
-#KNG
+owner = MLI
+controller = MLI
+add_core = MLI
+add_core = ASH
+add_core = KNG
 trade_goods = coffee
-life_rating = 20
+life_rating = 30
 

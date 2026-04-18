@@ -52,7 +52,24 @@ political_decisions = {
 			add_accepted_culture = afro_caribbean
 			set_country_flag = establish_gidan_hegemony
 		}
-	}	
+	}
+
+gidan_stop_colonizers = {
+	picture = banda_oriental
+	potential = {
+		tag = GDN
+		NOT = { has_country_flag = take_over_africa }
+	}
+	allow = {
+		revolution_n_counterrevolution = 1
+	}
+	effect = {
+		prestige = 75
+		add_accepted_culture = yoruba
+		set_country_flag = take_over_africa
+	}
+}
+	
 
 #Claim Carapara
 	claim_carapara = {

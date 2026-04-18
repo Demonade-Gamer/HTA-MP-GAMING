@@ -1,3 +1,8 @@
-trade_goods = iron
-life_rating = 25
+owner = GDN
+controller = GDN
+add_core = GDN
+trade_goods = coffee
+life_rating = 30
+colonial = 2
+
 

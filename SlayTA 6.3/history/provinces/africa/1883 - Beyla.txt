@@ -1,7 +1,7 @@
-
-
-#MLI
-#JAL
-trade_goods = iron
-life_rating = 15
+owner = MLI
+controller = MLI
+add_core = MLI
+add_core = JAL
+trade_goods = timber
+life_rating = 35
 

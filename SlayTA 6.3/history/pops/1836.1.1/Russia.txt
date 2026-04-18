@@ -2939,37 +2939,37 @@
     }
 
     aristocrats = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 150
     }
 
     bureaucrats = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 2200
     }
 
     officers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 150
     }
 
     clergymen = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 6850
     }
 
     soldiers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 1100
     }
@@ -3153,19 +3153,19 @@
     }
 
     clergymen = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 325
     }
 
     farmers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 5500
     }
@@ -3251,19 +3251,19 @@
     }
 
     clergymen = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 145
     }
 
     artisans = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 550
     }
 
     farmers = {
-        culture = estonian
+        culture = ugrian
         religion = obbite
         size = 9200
     }

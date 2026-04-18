@@ -1,6 +1,6 @@
-
-
-#KBO
+owner = KBO
+controller = KBO
+add_core = KBO
 trade_goods = cotton
-life_rating = 20
+life_rating = 35
 

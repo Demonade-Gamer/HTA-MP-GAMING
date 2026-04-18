@@ -1,7 +1,7 @@
-
-
-#DND
-#DOS
+controller = DND
+owner = DND
+add_core = DND
+add_core = DOS
 trade_goods = grain
-life_rating = 15
+life_rating = 30
 

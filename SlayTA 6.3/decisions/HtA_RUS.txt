@@ -106,6 +106,7 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			any_owned_province = { is_core = SML }
+			has_country_flag = war_is_over
 		}
 		
 		allow = {
@@ -234,6 +235,7 @@ political_decisions = {
 		potential = {
 			tag = SML
 			NOT = { exists = RUS }
+			has_country_flag = war_is_over
 		}
 		allow = {
 			war = no

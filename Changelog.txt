@@ -84,13 +84,10 @@ NORTH AMERICA CHANGES
 	- Added a strait from Hawaii to California
 	- Added a strait from Hawaii to the small islands next to it
 	
+SOUTH AMERICA CHANGES
+	- Gidan has been given a decision to accept Yoruba when they get revolution and counterrevolution
+	- Gidan now accepts every african culture in the americas at gamestart
 
-GP CHANGES
-	- Since Aengland has been dismantled, Naples is now a Great Power, otherwise the great powers are the same as before
-	
-INDIA CHANGES
-	- India has been split up far more
-	
 FINLAND CHANGES
 	- Baltic states have been moved around 
 		- Split up Estonia into 2 states, and moved 3 provinces of Ingria state into a north-estonia state
@@ -105,9 +102,37 @@ RUSSIA CHANGES
 		- Belarus has 817k pops
 		- Ruthenia has 1.06 million pops 
 		- This leaves Smolensk with 6.09 Million pops, but the civil war is unchanged brigade wise
+	- When either Russia wins the civil war, they are given a debuff across the whole nation, with a more severe modifier in the part of Russia they did not start it
+		- The less severe modifier reduces RGO and factory throughput by 5%
+		- The more severe modifier reduces RGO and factory throughput by 15% and increasing immigration push by 10%
+		
+BALKANS CHANGES
+	- MASSIVELY shifted around balkan cultures
+		- Bulgarian culture has been increased in size significantly, being in parts of wallachia, macedonia, and serbia
+		- Illyrian is significantly smaller, much more on the coast
+		- Hugarian has been shifted west and south slightly
+		- Volasean has been changed to Dacian and moved slightly West and North
+		- Ruthenian has expanded into Moldavia
+	- Buffed pops in northern and central balkans 
+		- Specfically around Eastern Croatia and Serbia, Belgrade is now 1 million pops
+	- Made Serbia a culturally acceptant paradise (They accept each of the balkan cultures minus dacian)
+	
+	
+GP CHANGES
+	- Since Aengland has been dismantled, Naples is now a Great Power, otherwise the great powers are the same as before
+	
+INDIA CHANGES
+	- India has been split up far more
+	
+AFRICA CHANGES
+	- West Africa has been brought back to a state similar to that of base HtA, with a large Mali Empire with a couple extra nations in Nigeria
+	- Gidan now owns Liberia
+	
 PLANNED CHANGES
 	- Potentially make Egypt a secondary roster slot, decisions to civilize quickly
 	- Give forming Helluland a temporary modifier to them to use against Shawnee
+	- Implement decisions for Russia to remove their modifiers state-by-state (or group of states)
+	- Give Serbia flavor? Secondary player slot?
 	
 ----------------------------------------------------------------------
 

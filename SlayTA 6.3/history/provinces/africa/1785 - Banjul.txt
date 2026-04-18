@@ -1,6 +1,6 @@
-
-
-#GBU
+owner = GBU
+controller = GBU
+add_core = GBU
 trade_goods = fruit
-life_rating = 20
+life_rating = 30
 

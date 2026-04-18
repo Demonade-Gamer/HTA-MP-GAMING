@@ -1,23 +1,27 @@
 capital = 2276
 primary_culture = afro_antillean
 culture = afro_caribbean
+culture = afro_american
+culture = afro_uilsc
+culture = afro_caribeno
 religion = obbite
 government = democracy
-plurality = 0.0
+plurality = 15
 nationalvalue = nv_liberty
-literacy = 0.15
+literacy = 0.25
+non_state_culture_literacy = 0.1
 civilized = yes
 prestige = 5
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+vote_franschise = universal_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = free_press
 trade_unions = no_trade_unions
 voting_system = jefferson_method
-political_parties = non_secret_ballots
+political_parties = secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
