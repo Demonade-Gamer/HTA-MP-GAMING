@@ -579,7 +579,7 @@
 	soldiers = {
 		culture = hungarian
 		religion = obbite
-		size = 775   
+		size = 1775   
 	}
 	farmers = {
 		culture = hungarian
@@ -613,11 +613,6 @@
 		religion = obbite
 		size = 350 
 	}
-	soldiers = {
-		culture = hungarian
-		religion = obbite
-		size = 100   
-	}
 	farmers = {
 		culture = hungarian
 		religion = obbite
@@ -632,11 +627,6 @@
 		culture = hungarian
 		religion = obbite
 		size = 35
-	}
-	soldiers = {
-		culture = hungarian
-		religion = obbite
-		size = 5  
 	}
 	farmers = {
 		culture = hungarian
@@ -717,22 +707,22 @@
 	bureaucrats = {
 		culture = croat
 		religion = obbite
-		size = 100
+		size = 1100
 	}
 	officers = {
 		culture = croat
 		religion = obbite
-		size = 75
+		size = 375
 	}
 	clergymen = {
 		culture = croat
 		religion = obbite
-		size = 225
+		size = 1225
 	}
 	artisans = {
 		culture = croat
 		religion = obbite
-		size = 600
+		size = 1600
 	}
 	soldiers = {
 		culture = croat
@@ -742,58 +732,58 @@
 	farmers = {
 		culture = croat
 		religion = obbite
-		size = 19025
+		size = 69025
 	}
 	aristocrats = {
 		culture = north_italian
 		religion = obbite
-		size = 100
+		size = 1100
 	}	
 	
 	bureaucrats = {
 		culture = north_italian
 		religion = obbite
-		size = 75
+		size = 175
 	}
 	clergymen = {
 		culture = north_italian
 		religion = obbite
-		size = 75
+		size = 175
 	}
 	artisans = {
 		culture = north_italian
 		religion = obbite
-		size = 1900
+		size = 11900
 	}
 	soldiers = {
 		culture = north_italian
 		religion = obbite
-		size = 25
+		size = 1125
 	}
 	farmers = {
 		culture = north_italian
 		religion = obbite
-		size = 1500
+		size = 16500
 	}
 	clergymen = {
 		culture = croat
 		religion = obbite
-		size = 75
+		size = 175
 	}
 	artisans = {
 		culture = croat
 		religion = obbite
-		size = 300
+		size = 1300
 	}
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 75
+		size = 175
 	}
 	farmers = {
 		culture = croat
 		religion = obbite
-		size = 7550
+		size = 20550
 	}
 }
 #Dubrovnik (52000/13000 POPS)
@@ -801,72 +791,72 @@
 	aristocrats = {
 		culture = croat
 		religion = obbite
-		size = 75
+		size = 175
 	}
 	clergymen = {
 		culture = croat
 		religion = obbite
-		size = 100
+		size = 1100
 	}
 	artisans = {
 		culture = croat
 		religion = obbite
-		size = 550
+		size = 1550
 	}
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 100
+		size = 1100
 	}
 	farmers = {
 		culture = croat
 		religion = obbite
-		size = 6625
+		size = 36625
 	}
 	aristocrats = {
 		culture = north_italian
 		religion = obbite
-		size = 50
+		size = 150
 	}
 	clergymen = {
 		culture = north_italian
 		religion = obbite
-		size = 25
+		size = 125
 	}
 	artisans = {
 		culture = north_italian
 		religion = obbite
-		size = 1500
+		size = 11500
 	}
 	soldiers = {
 		culture = north_italian
 		religion = obbite
-		size = 25
+		size = 125
 	}
 	farmers = {
 		culture = north_italian
 		religion = obbite
-		size = 3000
+		size = 13000
 	}
 	clergymen = {
 		culture = croat
 		religion = obbite
-		size = 50
+		size = 150
 	}
 	artisans = {
 		culture = croat
 		religion = obbite
-		size = 100
+		size = 1100
 	}
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 25
+		size = 125
 	}
 	farmers = {
 		culture = croat
 		religion = obbite
-		size = 1825
+		size = 21825
 	}
 }
 #Banat-Bacska Region (104000) #See croatia.txt and Romania.txt for balance of region 
@@ -906,7 +896,7 @@
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 1000 
+		size = 1200 
 	}
 	farmers = {
 		culture = croat
@@ -927,11 +917,6 @@
 		culture = hungarian
 		religion = obbite
 		size = 100   
-	}
-	soldiers = {
-		culture = hungarian
-		religion = obbite
-		size = 25     
 	}
 	farmers = {
 		culture = hungarian

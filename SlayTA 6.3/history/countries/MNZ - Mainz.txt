@@ -1,6 +1,5 @@
 capital = 581
-primary_culture = north_german
-culture = central_german
+primary_culture = central_german
 religion = obbite
 government = absolute_monarchy
 plurality = 25.0

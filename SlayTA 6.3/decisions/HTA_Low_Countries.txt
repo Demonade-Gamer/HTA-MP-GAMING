@@ -4,6 +4,7 @@ political_decisions = {
 		picture = support_biesterfelds
 		potential = {
 			tag = NET
+			ai = no
 			NOT = { has_country_flag = wallonia_integrated }
 		}
 		
@@ -28,6 +29,7 @@ political_decisions = {
 			factor = 1
 			}
 		}
+		
 	integrate_wallonia_ai = {
 		picture = support_biesterfelds
 		potential = {
@@ -42,6 +44,7 @@ political_decisions = {
 		}
 		
 		effect = {
+			inherit = WLL
 			WLL = { all_core = { add_core = THIS } }
 			prestige = 10
 			set_country_flag = wallonia_integrated
@@ -52,35 +55,149 @@ political_decisions = {
 			factor = 1
 			}
 		}
-	accept_the_french = {
+	
+	conquer_the_coast = {		
+		picture = support_biesterfelds
 		potential = {
 			tag = NET
-			has_country_flag = wallonia_integrated
-			NOT = { has_country_flag = accepted_frenchies }
+			ai = no
+			NOT = { has_country_flag = coast_conquered }
 		}
+		
 		allow = {
-			FRA = { all_core = { owned_by = THIS } }
+			war = no
+			OR = {
+				PIC = { vassal_of = THIS }
+				PIC = { all_core = { owned_by = THIS } }
+				nationalism_n_imperialism = 1
+			}
 		}
+		
 		effect = {
-			FRA = { all_core = { add_core = { THIS } } }
-			add_accepted_culture = french
-			set_country_flag = accepted_frenchies
+			inherit = PIC
+			PIC = { all_core = { add_core = THIS } }
+			prestige = 10
+			set_country_flag = coast_conquered
+			add_accepted_culture = picard
+		}
+		
+		ai_will_do = {
+			factor = 1
 		}
 	}
-	accept_the_french_ai = {
-		potential = {
-			tag = NET
-			ai = yes
-			has_country_flag = wallonia_integrated
-			NOT = { has_country_flag = accepted_frenchies }
-		}
-		allow = {
-			year = 1880
-		}
-		effect = {
-			FRA = { all_core = { add_core = { THIS } } }
-			add_accepted_culture = french
-			set_country_flag = accepted_frenchies
+integrate_rhenish_duchy_NET = {
+	potential = {
+		tag = NET
+		NOT = {
+			has_country_flag = integrate_rhenish_duchy
 		}
 	}
+	allow = {
+		is_greater_power = yes
+		war = no
+		state_n_government = 1
+		RHI = {
+			exists = yes
+			in_sphere = THIS
+			vassal_of = THIS
+		}
+	}
+	effect = {
+		prestige = 10
+		set_country_flag = integrate_rhenish_duchy
+		RHI = {
+			annex_to = THIS
+			all_core = {
+				add_core = THIS
+			}
+		}
+	}
+}
+
+assimilate_the_rhineland_1 = {
+   picture = become_belgium    
+   potential = {
+		NOT = { has_country_flag = rhiassim1 }
+		tag = NET
+		has_country_flag = integrate_rhenish_duchy
+	}
+    allow = {
+		RHI = { all_core = { owned_by = THIS } }
+		state_n_government = 1
+    }
+
+    effect = {
+		set_country_flag = rhiassim1
+		RHI = {
+			all_core = { add_province_modifier = { name = rhi_assim_1 duration = -1 } }
+		} 
+		543 = { add_province_modifier = { name = rhi_assim_1 duration = -1 } }
+		542 = { add_province_modifier = { name = rhi_assim_1 duration = -1 } }
+	}
+}	
+assimilate_the_rhineland_2 = {
+    picture = become_belgium
+    potential = {
+		NOT = { has_country_flag = rhiassim2 }
+		has_country_flag = rhiassim1
+		tag = NET
+	}
+
+    allow = {
+		RHI = { all_core = { owned_by = THIS } }
+		nationalism_n_imperialism = 1
+    }
+
+    effect = {
+		set_country_flag = rhiassim2
+		RHI = {
+			all_core = { 
+				add_province_modifier = { name = rhi_assim_2 duration = -1 }	
+				remove_province_modifier = 	rhi_assim_1	
+			}
+		}
+		543 = { 
+			add_province_modifier = { name = rhi_assim_2 duration = -1 }	
+			remove_province_modifier = 	rhi_assim_1	
+		}
+		542 = { 
+			add_province_modifier = { name = rhi_assim_2 duration = -1 }	
+			remove_province_modifier = 	rhi_assim_1 
+		}
+    }
+}
+assimilate_the_rhineland_3 = {
+    picture = become_belgium
+    potential = {
+		NOT = { has_country_flag = rhiassim3 }
+		has_country_flag = rhiassim2
+		tag = NET
+	}
+
+    allow = {
+		RHI = { all_core = { owned_by = THIS } }
+		empiricism = 1
+    }
+
+    effect = {
+		set_country_flag = rhiassim3
+		RHI = {
+			all_core = { 
+				add_province_modifier = { name = rhi_assim_3 duration = -1 }	
+				remove_province_modifier = 	rhi_assim_2
+				remove_core = GER
+			}
+		}
+		543 = { 
+			add_province_modifier = { name = rhi_assim_3 duration = -1 }	
+			remove_province_modifier = 	rhi_assim_2
+			remove_core = GER
+		}
+		542 = {
+			add_province_modifier = { name = rhi_assim_3 duration = -1 }	
+			remove_province_modifier = 	rhi_assim_2
+			remove_core = GER
+		}
+    }
+}
 }

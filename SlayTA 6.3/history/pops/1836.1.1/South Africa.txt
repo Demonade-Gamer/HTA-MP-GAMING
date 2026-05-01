@@ -16,18 +16,6 @@
         size = 352
     }
 
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 392
-    }
-
-    farmers = {
-        culture = steenkooler
-        religion = obbite
-        size = 4264
-    }
-
     clergymen = {
         culture = steenkooler
         religion = obbite
@@ -43,13 +31,7 @@
     soldiers = {
         culture = steenkooler
         religion = obbite
-        size = 1106
-    }
-
-    farmers = {
-        culture = steenkooler
-        religion = obbite
-        size = 5678
+        size = 6106
     }
 
     aristocrats = {
@@ -76,16 +58,10 @@
         size = 1500
     }
 
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 550
-    }
-
     farmers = {
         culture = dutch
         religion = obbite
-        size = 4250
+        size = 1250
     }
 
     aristocrats = {
@@ -110,12 +86,6 @@
         culture = steenkooler
         religion = obbite
         size = 1672
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 1766
     }
 
     farmers = {
@@ -146,12 +116,6 @@
         culture = steenkooler
         religion = obbite
         size = 847
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 428
     }
 
     farmers = {
@@ -288,12 +252,6 @@
         size = 70
     }
 
-    farmers = {
-        culture = steenkooler
-        religion = obbite
-        size = 3157
-    }
-
     aristocrats = {
         culture = steenkooler
         religion = obbite
@@ -358,12 +316,6 @@
         culture = steenkooler
         religion = obbite
         size = 564
-    }
-
-    farmers = {
-        culture = steenkooler
-        religion = obbite
-        size = 2461
     }
 
     aristocrats = {
@@ -557,7 +509,7 @@
     farmers = {
         culture = steenkooler
         religion = obbite
-        size = 6914
+        size = 3914
     }
 
     clergymen = {
@@ -601,31 +553,7 @@
         religion = obbite
         size = 273
     }
-
-    farmers = {
-        culture = steenkooler
-        religion = obbite
-        size = 3498
-    }
-
-    aristocrats = {
-        culture = steenkooler
-        religion = obbite
-        size = 6
-    }
-
-    clergymen = {
-        culture = steenkooler
-        religion = obbite
-        size = 46
-    }
-
-    bureaucrats = {
-        culture = steenkooler
-        religion = obbite
-        size = 65
-    }
-
+	
     artisans = {
         culture = steenkooler
         religion = obbite
@@ -636,12 +564,6 @@
         culture = steenkooler
         religion = obbite
         size = 1106
-    }
-
-    farmers = {
-        culture = steenkooler
-        religion = obbite
-        size = 2379
     }
 
     clergymen = {
@@ -757,7 +679,7 @@
     soldiers = {
         culture = steenkooler
         religion = obbite
-        size = 1138
+        size = 1738
     }
 
     farmers = {
@@ -842,12 +764,6 @@
         culture = steenkooler
         religion = obbite
         size = 376
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 214
     }
 
     farmers = {
@@ -1039,12 +955,6 @@
         size = 79
     }
 
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 178
-    }
-
     farmers = {
         culture = steenkooler
         religion = obbite
@@ -1066,7 +976,7 @@
     soldiers = {
         culture = steenkooler
         religion = obbite
-        size = 1106
+        size = 1406
     }
 
     farmers = {
@@ -1155,12 +1065,6 @@
         size = 23
     }
 
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 392
-    }
-
     farmers = {
         culture = steenkooler
         religion = obbite
@@ -1188,7 +1092,7 @@
     soldiers = {
         culture = steenkooler
         religion = obbite
-        size = 1106
+        size = 1506
     }
 
     farmers = {
@@ -1280,7 +1184,7 @@
     soldiers = {
         culture = steenkooler
         religion = obbite
-        size = 1106
+        size = 1506
     }
 
     farmers = {
@@ -1311,12 +1215,6 @@
         culture = steenkooler
         religion = obbite
         size = 179
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 321
     }
 
     farmers = {
@@ -1415,7 +1313,7 @@
     farmers = {
         culture = steenkooler
         religion = obbite
-        size = 12345
+        size = 6345
     }
 
     farmers = {
@@ -1445,7 +1343,7 @@
     farmers = {
         culture = yoruba
         religion = obbite
-        size = 34238
+        size = 24238
     }
 }
 #Bechuanaland Region (20000) #see Botswana.txt for balance of region
@@ -1524,7 +1422,7 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 1550
+        size = 2550
     }
 
     farmers = {
@@ -1557,12 +1455,6 @@
         size = 989
     }
 
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 392
-    }
-
     farmers = {
         culture = steenkooler
         religion = obbite
@@ -1587,12 +1479,6 @@
         size = 93
     }
 
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 107
-    }
-
     farmers = {
         culture = steenkooler
         religion = obbite
@@ -1606,12 +1492,6 @@
     }
 
     clergymen = {
-        culture = steenkooler
-        religion = obbite
-        size = 14
-    }
-
-    soldiers = {
         culture = steenkooler
         religion = obbite
         size = 14
@@ -1635,22 +1515,10 @@
         size = 46
     }
 
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 71
-    }
-
     farmers = {
         culture = steenkooler
         religion = obbite
         size = 2732
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 35
     }
 
     aristocrats = {
@@ -2600,7 +2468,7 @@
     farmers = {
         culture = steenkooler
         religion = obbite
-        size = 27143
+        size = 17143
     }
 
     aristocrats = {
@@ -2636,7 +2504,7 @@
     farmers = {
         culture = yoruba
         religion = obbite
-        size = 75271
+        size = 45271
     }
 }
 #Transvaal Region (349000)
@@ -3764,43 +3632,13 @@
     soldiers = {
         culture = steenkooler
         religion = obbite
-        size = 392
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 392
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 392
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 392
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 392
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 392
+        size = 3392
     }
 
     farmers = {
         culture = steenkooler
         religion = obbite
-        size = 36497
+        size = 16497
     }
 
     aristocrats = {
@@ -3836,7 +3674,7 @@
     farmers = {
         culture = yoruba
         religion = obbite
-        size = 101211
+        size = 61211
     }
 }
 #Ruled by Suazi 1836
@@ -3869,7 +3707,7 @@
     farmers = {
         culture = steenkooler
         religion = obbite
-        size = 6008
+        size = 4008
     }
 
     aristocrats = {
@@ -3905,7 +3743,7 @@
     farmers = {
         culture = steenkooler
         religion = obbite
-        size = 10814
+        size = 6814
     }
 
     aristocrats = {
@@ -3929,7 +3767,7 @@
     farmers = {
         culture = yoruba
         religion = obbite
-        size = 16661
+        size = 8661
     }
 
     aristocrats = {

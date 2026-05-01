@@ -30,7 +30,7 @@
 	soldiers = {
 		culture = croat
 		religion = obbite
-		size = 800
+		size = 1800
 	}
 	
 	farmers = {
@@ -47,11 +47,6 @@
 		culture = croat
 		religion = obbite
 		size = 2750
-	}
-	soldiers = {
-		culture = croat
-		religion = obbite
-		size = 450
 	}	
 	
 	farmers = {
@@ -76,12 +71,12 @@
 	}
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = obbite
 		size = 25
 	}
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = obbite
 		size = 775
 	}
 }
@@ -116,6 +111,11 @@
 		culture = croat
 		religion = obbite
 		size = 300
+	}
+	soldiers = {
+		culture = croat
+		religion = obbite
+		size = 3625
 	}
 	farmers = {
 		culture = croat
@@ -249,6 +249,11 @@
 		religion = obbite
 		size = 3675
 	}
+	soldiers = {
+		culture = croat
+		religion = obbite
+		size = 3675
+	}
 }
 #Foca (92000/23000 POPS)
 787 = {
@@ -282,6 +287,11 @@
 		religion = obbite
 		size = 550
 	}
+	soldiers = {
+		culture = croat
+		religion = obbite
+		size = 3300
+	}
 	farmers = {
 		culture = croat
 		religion = obbite
@@ -306,6 +316,11 @@
 		size = 600
 	}
 	farmers = {
+		culture = croat
+		religion = obbite
+		size = 3900
+	}
+	soldiers = {
 		culture = croat
 		religion = obbite
 		size = 3900

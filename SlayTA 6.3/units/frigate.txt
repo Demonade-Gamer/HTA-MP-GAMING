@@ -35,7 +35,7 @@ frigate = {
 	}
 	
 	#Naval Abilties
-	hull = 3
+	hull = 9
 	gun_power = 4
 	fire_range = 0.4
 	evasion = 0

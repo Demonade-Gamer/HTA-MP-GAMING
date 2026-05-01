@@ -3405,12 +3405,12 @@
     }
     clergymen = {
         culture = nanfaren
-        religion = jewish
+        religion = obbite
         size = 1
     }
     artisans = {
         culture = nanfaren
-        religion = jewish
+        religion = obbite
         size = 148
     }
     bureaucrats = {

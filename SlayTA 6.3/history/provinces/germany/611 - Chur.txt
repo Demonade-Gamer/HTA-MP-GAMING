@@ -3,5 +3,6 @@ controller = SWI
 trade_goods = cattle
 life_rating = 35 
 add_core = SWI
+add_core = BAV
 
 add_core = GER

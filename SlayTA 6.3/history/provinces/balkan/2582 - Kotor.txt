@@ -1,7 +1,7 @@
-owner = MNT
-controller = MNT
-add_core = MNT
+owner = CRO
+controller = CRO
 add_core = CRO
+add_core = MNT
 trade_goods = fish
 life_rating = 38 
 

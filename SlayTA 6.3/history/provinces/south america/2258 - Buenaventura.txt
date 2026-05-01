@@ -3,6 +3,6 @@ controller = HOY
 add_core = HOY
 add_core = INC
 trade_goods = fish
-life_rating = 35 
+life_rating = 32 
 fort = 1
 

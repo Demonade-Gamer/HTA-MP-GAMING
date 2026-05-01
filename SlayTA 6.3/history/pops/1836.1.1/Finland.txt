@@ -512,7 +512,7 @@
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 1500
     }
 }

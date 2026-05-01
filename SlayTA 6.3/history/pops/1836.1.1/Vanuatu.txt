@@ -17,11 +17,6 @@
         religion = obbite
         size = 150
     }
-    soldiers = {
-        culture = malay
-        religion = obbite
-        size = 35
-    }
     farmers = {
         culture = malay
         religion = obbite
@@ -45,7 +40,7 @@
     soldiers = {
         culture = flemish
         religion = obbite
-        size = 30
+        size = 130
     }
     farmers = {
         culture = flemish

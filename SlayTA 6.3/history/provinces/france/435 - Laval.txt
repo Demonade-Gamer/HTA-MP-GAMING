@@ -1,7 +1,7 @@
-owner = ORL
-controller = ORL
+owner = NRM
+controller = NRM
 
-add_core = ORL
+add_core = NRM
 trade_goods = coal
 life_rating = 35 
 

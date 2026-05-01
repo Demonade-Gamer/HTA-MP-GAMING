@@ -25,7 +25,7 @@ infantry_offensive = {
 	
 	supply_consumption = 1.0
 	supply_cost = {		   #total cost 2.18
-		small_arms = 0.04 #0.014 #0.35
+		small_arms = 0.06 #0.014 #0.35
 		ammunition = 0.6 #0.226 #1.13
 		canned_food = 0.18 #0.07 #0.7
 		liquor = 0.12  #CE addition

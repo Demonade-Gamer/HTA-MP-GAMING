@@ -981,25 +981,25 @@
     bureaucrats = {
         culture = south_andean
         religion = obbite
-        size = 0
+        size = 10
     }
 
     clergymen = {
         culture = south_andean
         religion = obbite
-        size = 0
+        size = 10
     }
 
     artisans = {
         culture = south_andean
         religion = obbite
-        size = 0
+        size = 10
     }
 
     soldiers = {
         culture = south_andean
         religion = obbite
-        size = 0
+        size = 10
     }
 
     farmers = {

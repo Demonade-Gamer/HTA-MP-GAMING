@@ -14,37 +14,6 @@ political_decisions = {
 				capital = 269
 			}
 		}
-		
-#Reclaim the Highlands
-	reclaim_alba_highlands = {
-		picture = map_alba
-		potential = {
-			tag = AEN
-			NOT = { has_country_flag = alba_reclaimed }
-		}
-		
-		allow = {
-			state_n_government = 1
-			owns = 280
-			owns = 279
-			war = no
-		}
-		
-		effect = {
-			set_country_flag = alba_reclaimed
-			prestige = 5
-			badboy = 5
-			ENG_266 = { add_core = AEN }
-			ENG_271 = { add_core = AEN }
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.8
-			}
-		}
-	}
 
 
 	
@@ -114,10 +83,22 @@ political_decisions = {
 		
 		allow = {
 			state_n_government = 1
-			ENG_266 = { owned_by = THIS }
-			ENG_271 = { owned_by = THIS }
-			ENG_277 = { owned_by = THIS }
-			ENG_280 = { owned_by = THIS }
+			SCO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								vassal_of = THIS
+								AND = {
+									is_vassal = no
+									in_sphere = THIS
+								}
+							}
+						}
+					}
+				}
+			}
 		}
 		
 		effect = {
@@ -125,7 +106,33 @@ political_decisions = {
 			prestige = 20
 			change_tag = ABN
 			add_accepted_culture = scots
+			add_accepted_culture = cymry
+			inherit = SCO
+			SCO = { all_core = { add_core = ABN remove_core = AEN } }
 			AEN = { all_core = { add_core = ABN remove_core = AEN } }
+		}
+	}
+	
+	cement_normandy = {
+		picture = military_parade
+		potential = {
+			tag = ABN
+			NOT = { has_country_flag = normandy_claimed }
+		}
+		
+		allow = {
+			empiricism = 1
+			NRM = { all_core = { owned_by = THIS } }
+			war = no
+		}
+		
+		effect = {
+			prestige = 15
+			add_accepted_culture = picard
+			set_country_flag = normandy_claimed
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 	unite_the_celts = {
@@ -266,23 +273,6 @@ political_decisions = {
 					}
 				}
 			}
-		}
-	}
-	end_northumbrian_uprising = {
-		picture = map_northern_isles
-		potential = {
-			tag = AEN
-			NOT = { has_country_flag = uprising_ended }
-		}
-		
-		allow = {
-			NRF = { all_core = { owned_by = THIS } }
-		}
-		
-		effect = {
-			set_country_flag = uprising_ended
-			prestige = 15
-			NRF = { all_core = { add_core = THIS remove_core = NRF } }
 		}
 	}
 

@@ -1,9 +1,8 @@
-owner = RHI
-controller = RHI
-add_core = RHI
+owner = MNZ
+controller = MNZ
+add_core = MNZ
 add_core = GER
 trade_goods = iron
-add_core = RHI
 life_rating = 40
 state_building = {
 	level = 2 

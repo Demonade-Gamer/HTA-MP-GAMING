@@ -206,42 +206,43 @@ RUS_994 = { 1003 1004 1005 2580 } #Ingria/Ingeri
 
 NET_375 = { 375 376 377 } #Holland
 
-NET_379 = { 379 378 380 381 } #Zeeland
+NET_379 = { 379 381 391 395 396 } #Zeeland
 
 NET_385 = { 385 383 384 386 382 } #Friesland
 
-BEL_387 = { 387 390 391 } #Flanders
+BEL_387 = { 378 380 387 389 390 } #Flanders
 
-BEL_394 = { 392 394 395 396 398 397 } #Wallonia
+BEL_394 = { 392 394 398 397 404 405 } #Wallonia
 
-YEM_1178 = { 388 389 393 } #Ghent
+YEM_1178 = { 388 393 399 1718 } #Ghent
 
-FRA_399 = { 399 400 401 } #Picardie
-
-FRA_445 = { 403 404 405 408 } #Limousin/Årdene
 
 
 ### France
 
-FRA_404 = { 406 429 407 } #Champagne
+FRA_404 = { 427 406 408 403 } #Champagne
 
 FRA_411 = { 411 412 413 } #Franche-Comté/Bar-Lorraine
 
-FRA_412 = { 409 410 } #Alsace-Lorraine/Elsass
+FRA_399 = { 400 401 402 2570 } #Picardie
 
-FRA_418 = { 418 417 } #Normandie
+#FRA_445 = { 403 408 } #Limousin/Årdene
 
-FRA_420 = { 420 421 424 } #Bretagne
+#FRA_412 = { 409 410 } #Alsace-Lorraine/Elsass
 
-FRA_425 = { 425 426 427 } #Ile de France
+FRA_418 = { 418 417 435 436 } #Normandie
 
-FRA_428 = { 428 430 431 } #Bourgogne
+FRA_420 = { 420 421 422 424 } #Bretagne
 
-FRA_435 = { 434 435 436 441 } #Loire/Líger
+#FRA_425 = { 403 } #Ile de France
 
-PRU_554 = { 422 423 437 } #Naoned
+FRA_428 = { 428 407 429 430 431 } #Bourgogne
 
-MON_2582 = { 415 416 402 2570 } #Rouen
+FRA_435 = { 423 434 437 441 } #Loire/Líger
+
+#PRU_554 = { } #Naoned
+
+MON_2582 = { 415 416 425 426 } #Rouen
 
 TUR_806 = { 433 432 414 } #French-comte
 
@@ -249,9 +250,9 @@ FRA_438 = { 438 439 440 446 } #Region Centre/Orléans
 
 FRA_442 = { 442 443 444 445 } #Poitou/Peitau
 
-FRA_448 = { 448 449 452 } #Auvergne/Auvernha
+FRA_448 = { 448 449 } #Auvergne/Auvernha
 
-FRA_451 = { 454 451 453 } #Rhone/Róse
+FRA_451 = { 454 451 452 453 } #Rhone/Róse
 
 FRA_455 = { 455 457 460 } #Le Midi/Miégjorn
 
@@ -320,25 +321,25 @@ SAX_558 = { 558 559 560 561 562 563 } #Saxony
 
 #GER_565 = { 565 583 584 } #Hesse
 
-GER_566 = { 566 567 568 565 583 584 578 2561 579 } #Kassel
+GER_566 = { 566 567 565 583 584 579 } #Kassel
 
-PRU_570 = { 569 570 571 564 2560 } #Palatinate
+PRU_570 = { 569 564 568 596 597 2560 } #Palatinate
 
-PRU_575 = { 575 576 572 573 574 577 } #Rheinland/Northern Rheinland
+PRU_575 = { 575 576 577 578 580 581 2561 } #Rheinland/Northern Rheinland
 
-#PRU_578 = { 397 572 573 574 579 } #Eastern Rheinland/Southern Rheinland
+PRU_578 = { 570 571 572 573 574 } #Eastern Rheinland/Southern Rheinland
 
-PRU_581 = { 581 580 582 585 } #Westfalen
+PRU_581 = { 582 585 } #Westfalen
 
-#BAD_586 = { 586 587 588 591 } #Baden
+BAD_586 = { 409 410 586 587 } #Baden
 
-WUR_589 = { 589 590 593 594 586 587 588 591 } #Wurttemburg
+WUR_589 = { 588 589 590 591 594 } #Wurttemburg
 
-BAV_595 = { 595 596 597 598 } #Franconia
+BAV_595 = { 595 598 601 602 } #Franconia
 
-BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
+BAV_599 = { 593 599 592 600 } #Upper Bavaria
 
-SWI_603 = { 603 604 605 606 611 614 } #East Switzerland/Helvetia
+SWI_603 = { 603 604 605 606 } #East Switzerland/Helvetia
 
 PRU_682 = { 682 683 687 } #Lower Silesia
 
@@ -350,16 +351,15 @@ PRU_695 = { 693 695 696 } #Ostpreu?en/Prusy
 
 PRU_701 = { 699 701 } #Posen
 
-
 ### Austria
 
-#AUS_612 = { 612 611 614 615 735 } #Tirol
+AUS_612 = { 612 611 614 615 735 } #Tirol
 
-AUS_613 = { 616 613 618 617 612 615 735 } #Kärnten-Steiermark
+AUS_613 = { 616 613 618 617 } #Kärnten-Steiermark
 
 AUS_619 = { 619 620 621 622 624 } #Österreich
 
-AUS_623 = { 643 623 639 640 642 644 } #Transdanubia
+AUS_623 = { 623 639 642 644 } #Transdanubia
 
 AUS_625 = { 625 627 628 629 630 } #Bohemia
 
@@ -367,21 +367,25 @@ AUS_734 = { 704 705 714 } #South Tyrol/South Galicia
 
 AUS_626 = { 626 631 632 } #Moravia
 
-AUS_633 = { 633 634 635 636 638 } #Slovakia
+AUS_633 = { 633 634 636 } #Slovakia
 
-AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
+AUS_641 = { 635 638 641 643 646 } #Central Hungary
+
+SAR_720 = { 640 645 1724 } #Southern Hungary
 
 AUS_652 = { 637 950 } #Banat
 
 RUS_715 = { 715 713 716 703 } #West Galicia/North Galicia
 
-AUS_654 = { 654 661 647 651 } #Western Transylvania
+AUS_654 = { 648 649 650 647 651 } #Western Transylvania
 
-AUS_657 = { 655 656 657 659 660 2533 } #Eastern Transylvania
+AUS_657 = { 654 655 661 2533 } #Eastern Transylvania
 
 AUS_702 = { 702 951 952 953 } #Galicia-Lodomeria/Lodomeria
 
 AUS_736 = { 736 737 770 778 769 } #Istria
+
+GRE_826 = { 657 659 656 665 667 } #Siebenburgen
 
 ### Italy
 
@@ -417,41 +421,37 @@ CRO_789 = { 756 758 } #Bari
 
 ### Balkans
 
-WAL_665 = { 664 665 666 668 667 669 } #Wallachia
+WAL_665 = { 664 666 669 } #Wallachia
 
-MOL_673 = { 673 672 670 671 663 662 } #Moldavia
+MOL_673 = { 660 673 672 670 668 } #Moldavia
 
-TUR_674 = { 674 675 818 } #Dobrudja
+TUR_674 = { 674 675 678 818 } #Dobrudja
 
-MOL_676 = { 676 677 678 } #Besserabia
+MOL_676 = { 662 663 671 676 677 } #Besserabia
 
-AUS_771 = { 771 775 772 776 777 767 768 } #Croatia/Old Croatia
+AUS_771 = { 771 772 777 767 768 } #Croatia/Old Croatia
 
-AUS_780 = { 780 781 782 773 774 } #Dalmatia
+AUS_780 = { 780 781 773 774 } #Dalmatia
 
-AUS_2538 = { 2538 779 791 793 652 653 792 } #Vojvodina/Syrm
+AUS_2538 = { 2538 775 776 779 } #Vojvodina/Syrm
 
-TUR_788 = { 783 787 786 789 784 785 788 } #Bosnia
+GRE_839 = { 652 653 792 1722 } #Northern Macedonia/Makedonia
 
-SER_794 = { 794 797 796 798 795 804 } #Northern Serbia
+TUR_788 = { 789 784 785 } #Bosnia
+
+SER_794 = { 786 787 783 791 793 794 797 804 } #Northern Serbia
 
 #MON_2582 = { 2583 2569 2577 800 } #Montenegro
 
-TUR_803 = { 802 803 799 806 807 } #Southern Serbia
+TUR_803 = { 802 803 807 } #Southern Serbia
 
 TUR_805 = { 805 819 820 821 822 823 829 } #Southern Macedonia/Thessalonikos
-
-#TUR_806 = { 806 807 } #Northern Macedonia/Makedonia
 
 TUR_809 = { 817 811 813 814 } #Eastern Rumelia/Paradounavon
 
 TUR_810 = { 808 809 810 812 815 816 } #Bulgaria
 
-#TUR_823 = { 823 808 829 830 } #Eastern Macedonia/Neston
-
-#GRE_826 = { 826 827 } #Heptanesa
-
-#GRE_839 = { 839 840 841 842 } #Peloponnese
+TUR_823 = { 795 796 798 799 806 } #Eastern Macedonia/Neston
 
 TUR_832 = { 825 824 833 837 826 827 } #Thessalia/Epirou
 
@@ -461,9 +461,9 @@ EGY_843 = { 846 843 844 845 848 847 856 855 857 } #Aegean Islands
 
 #CRE_847 = { 848 847 } #Crete
 
-TUR_853 = { 849 853 852 851 850 2582 2583 2569 2577 800  } #Albania/Arbenon
+TUR_853 = { 849 853 852 851 850 } #Albania/Arbenon
 
-#TUR_855 = { 856 855 857 } #Cyprus
+TUR_855 = { 782 788 2582 2583 2569 2577 800 } #Cyprus
 
 TUR_860 = { 860 828 858 859 830 } #Thrace
 
@@ -935,11 +935,11 @@ ALD_1704 = { 1704 1705 1706 1707 1703 1711 1713 1715 } #Oran
 
 #ALD_1714 = { 1714 1716 1717 1720 } #West Sahara
 
-ALD_1718 = { 1718 1719 1721 1722 1724 1714 1716 1717 1720 } #Sahara
+ALD_1718 = { 1718 1719 1721 1714 1716 1717 1720 } #Sahara
 
 TUN_1726 = { 1725 1726 1727 1728 1729 1730 } #Tunisia
 
-TRI_1731 = { 1740 1741 1742 1743 1731 1733 1734 1732 1744 1735 1736 1737 1738 1739 2585 } #Tripolitania
+TRI_1731 = { 1740 1741 1742 1743 1731 1733 1734 1732 1744 1735 1736 1737 1739 2585 } #Tripolitania
 
 #TRI_1735 = { 1735 1736 1737 1738 1739 2585 } #Cyrenaica
 
@@ -957,21 +957,21 @@ EGY_1755 = { 1755 } #Sinai
 
 #EGY_1762 = { } #Middle Egypt
 
-EGY_1771 = { 1771 1768 1770 1769 1767 1766 1758 1761 1760 2559 1762 } #Upper Egypt
+EGY_1771 = { 1771 1768 1770 1769 1767 1766 1761 1760 2559 1762 } #Upper Egypt
 
 FRA_1808 = { 1808 1809 1810 1811 1815 1816 } #Outer Hausaland
 
-FRA_1813 = { 1812 1813 1814 1817 } #Niger
+FRA_1813 = { 1812 1813 } #Niger
 
-ENG_1818 = { 1818 1819 1820 1822 1823 } #Waddai
+ENG_1818 = { 1818 1819 1820 1821 1822 1823 } #Waddai
 
-ENG_1825 = { 1821 1824 1825 1826 } #Chad
+ENG_1825 = { 1814 1817 1824 1825 2564 } #Chad
 
 EGY_1827 = { 1827 1829 1828 1830 1831 1839 1838 1840 } #Sudan
 
-EGY_1834 = { 1834 1836 1833 1835 1837 2564 } #Dongola
+EGY_1834 = { 1834 1836 1833 1835 1837 } #Dongola
 
-#EGY_1838 = { } #Kordofan
+EGY_1838 = { 1738 1758 1826 } #Kordofan
 
 EGY_1842 = { 1842 1841 } #Darfur
 
@@ -1123,19 +1123,19 @@ ENG_2078 = { 2078 2079 2080 2081 2082 } #Hereroland
 
 ENG_2083 = { 2083 2084 2085 2086 } #Namaqualand
 
-ENG_2087 = { 2087 2090 2089 2088 2093 2096 2091 2092 2097 2558 } #Cape Colony/Westkaap
+ENG_2087 = { 2087 2090 2089 2088 2093 } #Cape Colony/Westkaap
 
-#ENG_2092 = { 2100 2098 2099 } #Northern Cape/Xhosaland>Oostkaap
+ENG_2092 = { 2100 2098 2099 } #Northern Cape/Xhosaland>Oostkaap
 
 ENG_2094 = { 2094 2095 } #Kimberley/Olberia
 
-#ENG_2096 = { 2096 2091 2092 2097 2558 } #Eastern Cape/Middenkaap
+ENG_2096 = { 2096 2091 2092 2097 2558 } #Eastern Cape/Middenkaap
 
-ORA_2103 = { 2101 2103 2102 2104 2100 2098 2099 2113 2112 2111 2114 } #Vrystaat/Tusstromen
+ORA_2103 = { 2101 2103 2102 2104 } #Vrystaat/Tusstromen
 
 TRN_2108 = { 2105 2108 2110 2109 2107 2106 } #Transvaal/Obervahl
 
-#ZUL_2113 = { 2113 2112 2111 2114 } #Zululand
+ZUL_2113 = { 2113 2112 2111 2114 } #Zululand
 
 MAD_2117 = { 2117 2122 2116 2118 } #South Madagascar
 

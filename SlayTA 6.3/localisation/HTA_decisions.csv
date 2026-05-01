@@ -250,7 +250,7 @@ form_zachadia_title;Form Zachadia;;;;;;;;;;;x
 form_zachadia_desc;Philologists have confirmed what we have already long known: that the Poles, Czechs, Silesians, Slovaks, and Sorbs all speak closely related languages, which have come to be called the Western Slavic family. Given our cultural, linguistic, and geographical proximity, we could unite our peoples into a great nation.\n\nNOTE! Western Slavs must control Silesian and Polish cores (Slovakia can be owned by them, or Hungary can be puppeted. If you don't want to puppet the country(ies) owning Slovak cores, just sphere them and get Revolution and Counterrevolution). Prague/Bohemia must be sphered and puppeted with +100 relations (or you can just own Prague). If a non-Western Slavic country owns Silesian or Polish cores, the decision cannot be taken, no matter what.;x
 FRA_embrace_bretons_title;Integrate the Bretons;x
 FRA_embrace_bretons_desc;In a stark departure from the grim historical picture of genocide_minorities, in this fictional universe, France embarked on a path of inclusivity and harmony, embracing the Breton people as equal members of their nation.;x
-FRA_embrace_picards_title;Embrace the Picards;x
+FRA_embrace_picards_title;Embrace the Frenciscans;x
 FRA_embrace_picards_desc;While they may speak a strange variant of our own language, we must look to the Picards as cousins, at least. Let us show them that they will do just as well under the French umbrella as under the Wallonian one, even if it leaves a bad taste in our mouth to make such a concession to them.;x
 FRA_embrace_walloons_title;Walloon Societal Integration;x
 FRA_embrace_walloons_desc;The Walloons will be restive for generations unless we grant them some place in our society. We will grant them concessions if only so that their rich lands will be more productive for us than they currently are.;x
@@ -825,3 +825,9 @@ expand_west_title;Expand our reach into the Isles!;x
 exoand_west_desc;It is time for Scandinavia to rule over the North Sea, we must take down those pesky celts and aenglish in the isles and cement a name for ourselves in history!;x
 end_northumbrian_uprising_title;Finish the Northumbrians!;x
 end_northumbrian_uprising_desc;We have finally ended the revolt in the north;x
+improve_local_bureaucracy_title;Reinvent Local Bureaucracy;x
+improve_local_bureaucracy_desc;We have finally acquired the means to rework the bureaucratic machine. It is time to claw back power from the decadent locals!;;;;;;;;;;;x
+improve_our_education_system_title;Restructure the inefficient schools!;;;;;;;;;;;x
+improve_our_education_system_desc;We have learned new ways of educating. Enact them and end decades of illiteracy!;;;;;;;;;;;x
+integrate_the_tatars_title;Integrate the Tatars;;;;;;;;;;;x
+integrate_the_tatars_desc;The Tatar people have been vital in the construction of the Smolenskii state, let us reward them for their hard work and toil.;;;;;;;;;;;x

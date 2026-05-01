@@ -1,6 +1,4 @@
-IRE = {
-	truce_until = 1837.5.25
-}
+
 BRT = { value = -200 }
 WLL = { value = -200 }
 SCO = { value = -200 }
@@ -136,6 +134,192 @@ army = {
 		name = "1. Radehere"
 		type = artillery
 		home = 300
+	}
+}
+
+army = {
+	name = "Over Here"
+	location = 277
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 278
+	}
+	regiment = {
+		name = "2. Fedehere"
+		type = infantry
+		home = 285
+	}
+	regiment = {
+		name = "1. Artiliehere"
+		type = hussar
+		home = 282
+	}
+	regiment = {
+		name = "2. Artiliehere"
+		type = artillery
+		home = 280
+	}
+	regiment = {
+		name = "1. Radehere"
+		type = artillery
+		home = 281
+	}
+	regiment = {
+		name = "1. Artiliehere"
+		type = artillery
+		home = 283
+	}
+}
+
+navy = {
+	name = "Zweiflotte"
+	location = 277
+	ship = {
+		name = "Anmedla"
+		type = manowar
+	}
+	ship = {
+		name = "Andett"
+		type = manowar
+	}
+	ship = {
+		name = "Orlscip"
+		type = manowar
+	}
+	ship = {
+		name = "Gumcyst"
+		type = manowar
+	}
+	ship = {
+		name = "Renc"
+		type = manowar
+	}
+	ship = {
+		name = "Are"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Anmedla"
+		type = manowar
+	}
+	ship = {
+		name = "Andett"
+		type = manowar
+	}
+	ship = {
+		name = "Orlscip"
+		type = manowar
+	}
+	ship = {
+		name = "Gumcyst"
+		type = manowar
+	}
+	ship = {
+		name = "Cumcyst"
+		type = manowar
+	}
+	ship = {
+		name = "Cumcust"
+		type = manowar
+	}
+	ship = {
+		name = "Cumcumt"
+		type = manowar
+	}
+	ship = {
+		name = "Cum"
+		type = manowar
+	}
+	ship = {
+		name = "Norf FC"
+		type = manowar
+	}
+	ship = {
+		name = "Renc"
+		type = manowar
+	}
+	ship = {
+		name = "Are"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Ret"
+		type = frigate
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Sex"
+		type = clipper_transport
 	}
 }
 

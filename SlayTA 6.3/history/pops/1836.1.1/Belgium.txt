@@ -3,22 +3,22 @@
 387 = {
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 50
     }
     clerks = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 1100
     }
     craftsmen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 2200
     }
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 2200
     }
     aristocrats = {
@@ -64,7 +64,7 @@
     soldiers = {
         culture = flemish
         religion = obbite
-        size = 1550
+        size = 3550
     }
     farmers = {
         culture = flemish
@@ -115,11 +115,6 @@
         culture = walloon
         religion = obbite
         size = 2300
-    }
-    soldiers = {
-        culture = walloon
-        religion = obbite
-        size = 1550
     }
     labourers = {
         culture = walloon
@@ -185,7 +180,7 @@
     soldiers = {
         culture = flemish
         religion = obbite
-        size = 1550
+        size = 2550
     }
     farmers = {
         culture = flemish
@@ -202,22 +197,17 @@
         religion = obbite
         size = 4900
     }
-    soldiers = {
-        culture = walloon
-        religion = obbite
-        size = 550
-    }
 }
 #Antwerp (354000/88500 POPS)
 390 = {
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 50
     }
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 2975
     }
     aristocrats = {
@@ -243,7 +233,7 @@
     soldiers = {
         culture = flemish
         religion = obbite
-        size = 550
+        size = 4550
     }
     farmers = {
         culture = flemish
@@ -259,11 +249,6 @@
         culture = walloon
         religion = obbite
         size = 2925
-    }
-    soldiers = {
-        culture = walloon
-        religion = obbite
-        size = 2000
     }
 }
 #Hasselt (272000/68000 POPS)
@@ -398,7 +383,7 @@
     soldiers = {
         culture = flemish
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = flemish
@@ -406,42 +391,37 @@
         size = 8800
     }
     aristocrats = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 700
     }
     clergymen = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 600
     }
     clerks = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 100
     }
     craftsmen = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 2000
     }
     artisans = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 2200
     }
-    soldiers = {
-        culture = walloon
-        religion = obbite
-        size = 550
-    }
     farmers = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 55075
     }
     clergymen = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 125
     }
@@ -512,37 +492,37 @@
 #Namur (212000/53000 POPS)
 395 = {
     aristocrats = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 550
     }
     clergymen = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 350
     }
     clerks = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 100
     }
     craftsmen = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 2000
     }
     artisans = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 3200
     }
     soldiers = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 550
     }
     farmers = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 44000
     }
@@ -555,47 +535,47 @@
 #Spa (144000/36000 POPS)
 396 = {
     aristocrats = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 250
     }
     clergymen = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 275
     }
     artisans = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 1300
     }
     soldiers = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 550
     }
     farmers = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 24175
     }
     clergymen = {
-        culture = north_german
+        culture = central_german
         religion = obbite
         size = 75
     }
     artisans = {
-        culture = north_german
+        culture = central_german
         religion = obbite
         size = 450
     }
     soldiers = {
-        culture = north_german
+        culture = central_german
         religion = obbite
         size = 550
     }
     farmers = {
-        culture = north_german
+        culture = central_german
         religion = obbite
         size = 8375
     }

@@ -42,7 +42,7 @@ ironclad = {
 	}
 	
 	#Naval Abilties
-	hull = 15
+	hull = 45
 	gun_power = 15
 	fire_range = 0.6
 	evasion = 0

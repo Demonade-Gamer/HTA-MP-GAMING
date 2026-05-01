@@ -24,7 +24,7 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = dutch
@@ -40,11 +40,6 @@
         culture = afro_caribbean
         religion = obbite
         size = 150
-    }
-    soldiers = {
-        culture = afro_caribbean
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = afro_caribbean

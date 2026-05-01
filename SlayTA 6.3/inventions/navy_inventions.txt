@@ -282,16 +282,16 @@ defensive_attitude = {
 	}
 	effect = {
 		monitor = {
-			hull = 2
+			hull = 6
 		}
 		cruiser = {
-			hull = 2
+			hull = 6
 		}
 		battleship = {
-			hull = 2
+			hull = 6
 		}
 		dreadnought = {
-			hull = 2
+			hull = 6
 		}
 	
 	}
@@ -366,7 +366,7 @@ convoy_sailing = {
 		steam_transport = {
 			maximum_speed = 2
 			gun_power = 1
-			hull = 1
+			hull = 3
 		}
 	}
 }
@@ -609,7 +609,7 @@ torpedo_boats = {
 	}
 	effect = {
 		commerce_raider = {
-			hull = 4
+			hull = 12
 			torpedo_attack = 2
 		}
 	}
@@ -790,7 +790,7 @@ light_cruisers = {
 	}
 	effect = {
 		cruiser = {
-			hull = 1
+			hull = 3
 			gun_power = 1	
 		}
 	}
@@ -859,7 +859,7 @@ advanced_cruisers = {
 	}
 	effect = {
 		cruiser = {
-			hull = 3
+			hull = 9
 			gun_power = 2
 			maximum_speed = 1
 			supply_consumption = 0.05
@@ -885,7 +885,7 @@ modern_cruisers = {
 	}
 	effect = {
 		cruiser = {
-			hull = 3
+			hull = 9
 			gun_power = 2
 			maximum_speed = 1
 			supply_consumption = 0.05
@@ -922,13 +922,13 @@ advanced_battleships = {
 		}
 	}
 	effect = {
-		#battleship = {
-		#	hull = 1
-		#	gun_power = 1
-		#}
+		battleship = {
+			hull = 3
+			gun_power = 1
+		}
 		dreadnought = {
 			maximum_speed = 1
-			hull = 5
+			hull = 15
 			gun_power = 2
 		} 
 	}
@@ -956,7 +956,7 @@ modern_battleships = {
 		#} 
 		dreadnought = {
 			maximum_speed = 1
-			hull = 5
+			hull = 15
 			gun_power = 2
 		} 
 	}
@@ -1215,22 +1215,22 @@ armoured_turrets = {
 	}
 	effect = {
 		monitor = {
-			hull = 1
+			hull = 3
 		}
 		ironclad = {
-			hull = 1
+			hull = 3
 		}
 		battleship = {
-			hull = 1
+			hull = 3
 		}
 		dreadnought = {
-			hull = 1
+			hull = 3
 		}
 		commerce_raider = {
-			hull = 1
+			hull = 3
 		}
 		cruiser = {
-			hull = 1
+			hull = 3
 		}
 
 	}
@@ -1290,16 +1290,16 @@ quick_firing_guns = {
 	}
 	effect = {
 		monitor = {
-			hull = 1
+			hull = 3
 		}
 		cruiser = {
-			hull = 3
+			hull = 9
 		}
 		battleship = {
-			hull = 2
+			hull = 9
 		}
 		dreadnought = {
-			hull = 3
+			hull = 9
 		}		
 	}
 }
@@ -1413,7 +1413,7 @@ heavy_armour_plates = {
 	}
 	effect = {
 		dreadnought = {
-			hull = 4
+			hull = 12
 		} 
 	}
 }
@@ -1432,10 +1432,10 @@ large_hull_form = {
 	}
 	effect = {
 		battleship = {
-			hull = 1
+			hull = 3
 		}
 		dreadnought = {
-			hull = 1
+			hull = 3
 		}
 	}
 }

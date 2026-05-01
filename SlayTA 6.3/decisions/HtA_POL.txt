@@ -87,6 +87,7 @@ political_decisions = {
 			add_accepted_culture = silesian
 			add_accepted_culture = czech
 			add_accepted_culture = slovak
+			add_accepted_culture = ashkenazi
 			change_tag = ZAC
 			any_country = {			#Annex all countries with the two culture groups, so POL, LUZ, SLS, BOH/PRH and SLV
 				limit = {
@@ -208,7 +209,6 @@ political_decisions = {
 		picture = embrace_minority
 		potential = {
 			tag = ZAC
-			has_country_flag = BOH_ZAC
 		}
 		allow = {
 			phenomenology_n_hermeneutic = 1
@@ -235,54 +235,4 @@ political_decisions = {
 		}
 	}
 
-	#POL ZAC gets Byelorussian and Lithuanian
-	ZAC_POL_PLC = {
-		picture = form_baltic_states
-		potential = {
-			tag = ZAC
-			NOT = { accepted_culture = byelorussian }
-			NOT = { accepted_culture = lithuanian }
-			has_country_flag = POL_ZAC
-		}
-		allow = {
-			phenomenology_n_hermeneutic = 1
-			LIT = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-			VIT = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-		}
-		effect = {
-			prestige = 4
-			add_accepted_culture = byelorussian
-			add_accepted_culture = lithuanian
-			LIT = {
-				all_core = {
-					add_core = ZAC
-					secede_province = ZAC
-				}
-			}
-			VIT = {
-				all_core = {
-					add_core = ZAC
-					secede_province = ZAC
-				}
-			}
-		}
-	}
 }

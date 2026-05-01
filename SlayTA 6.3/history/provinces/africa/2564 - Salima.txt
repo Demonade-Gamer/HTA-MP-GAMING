@@ -1,6 +1,6 @@
-#SUD
-#DAR
-#EGY
+owner = KBO
+controller = KBO
+add_core = KBO
 trade_goods = cattle
 life_rating = 30
 

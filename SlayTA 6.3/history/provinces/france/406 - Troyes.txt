@@ -1,7 +1,6 @@
-owner = FRA
-controller = FRA
-
-add_core = FRA
+owner = CMP
+controller = CMP
+add_core = CMP
 trade_goods = timber
 life_rating = 35 
 

@@ -1,5 +1,6 @@
-owner = AUS
-controller = AUS
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = GER
 add_core = AUS
 trade_goods = timber

@@ -3626,7 +3626,7 @@
 
     artisans = {
         culture = margarian
-        religion = jewish
+        religion = obbite
         size = 57
     }
 
@@ -9351,13 +9351,13 @@
 
     clergymen = {
         culture = vestlandic
-        religion = jewish
+        religion = obbite
         size = 10
     }
 
     artisans = {
         culture = vestlandic
-        religion = jewish
+        religion = obbite
         size = 490
     }
 }
@@ -9829,13 +9829,13 @@
 
     clergymen = {
         culture = vestlandic
-        religion = jewish
+        religion = obbite
         size = 10
     }
 
     artisans = {
         culture = vestlandic
-        religion = jewish
+        religion = obbite
         size = 490
     }
 }

@@ -266,3 +266,6 @@ NORMAL_WAR_FREE_LATVIA_NAME;$ORDER$Latvian War;;;;;;;;;;;;x
 AGRESSION_WAR_FREE_LATVIA_NAME;$ORDER$Latvian War;;;;;;;;;;;;;;x
 NORMAL_WAR_RESTORE_ORDER_NAME_JAP_MDG;Japanese Invasion of Middag;x
 AGRESSION_WAR_RESTORE_ORDER_NAME_JAP_MDG;Japanese Invasion of Middag;x
+russian_war_recovery_country;Inefficient Academia;;;;;;;;;;;;;;x
+russian_war_recovery;Inefficient Bureaucracy;;;;;;;;;;;;;;x
+decadence_recovered;Industrial Resurgence;;;;;;;;;;;;;;x

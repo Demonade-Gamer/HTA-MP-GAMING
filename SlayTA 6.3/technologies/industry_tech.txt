@@ -1009,7 +1009,7 @@ basic_chemistry = {
 	ai_chance = {
 		factor = 1.1
 		modifier = {
-			factor = 1.5
+			factor = 3.6
 			civilized = yes
 		}
 		modifier = {
@@ -1029,7 +1029,7 @@ medicine = {
 	ai_chance = {
 		factor = 100
 		modifier = {
-			factor = 1.5
+			factor = 10
 			civilized = yes
 		}
 		modifier = {

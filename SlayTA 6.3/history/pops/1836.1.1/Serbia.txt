@@ -23,7 +23,7 @@
     soldiers = {
         culture = hungarian
         religion = obbite
-        size = 900
+        size = 3900
     }
 
     farmers = {
@@ -42,12 +42,6 @@
         culture = hungarian
         religion = obbite
         size = 750
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = obbite
-        size = 1100
     }
 
     craftsmen = {
@@ -77,7 +71,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -127,7 +121,7 @@
     soldiers = {
         culture = romanian
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -157,7 +151,7 @@
     soldiers = {
         culture = hungarian
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -181,7 +175,7 @@
     soldiers = {
         culture = south_german
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -211,7 +205,7 @@
     soldiers = {
         culture = romanian
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -249,7 +243,7 @@
     soldiers = {
         culture = hungarian
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -276,12 +270,6 @@
         size = 1800
     }
 
-    soldiers = {
-        culture = hungarian
-        religion = obbite
-        size = 550
-    }
-
     farmers = {
         culture = hungarian
         religion = obbite
@@ -303,7 +291,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -324,12 +312,6 @@
         size = 450
     }
 
-    soldiers = {
-        culture = croat
-        religion = obbite
-        size = 550
-    }
-
     farmers = {
         culture = croat
         religion = obbite
@@ -346,12 +328,6 @@
         culture = south_german
         religion = obbite
         size = 175
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = obbite
-        size = 550
     }
 
     farmers = {
@@ -397,7 +373,7 @@
     soldiers = {
         culture = hungarian
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -447,7 +423,7 @@
     soldiers = {
         culture = bulgarian
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -491,7 +467,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -529,7 +505,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -628,7 +604,7 @@
     soldiers = {
         culture = roman
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
@@ -696,7 +672,7 @@
     soldiers = {
         culture = roman
         religion = obbite
-        size = 495
+        size = 1495
     }
 
     farmers = {
@@ -732,7 +708,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 540
+        size = 1540
     }
 
     farmers = {
@@ -778,7 +754,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 495
+        size = 1495
     }
 
     aristocrats = {
@@ -814,7 +790,7 @@
     soldiers = {
         culture = roman
         religion = obbite
-        size = 495
+        size = 1495
     }
 
     farmers = {
@@ -838,7 +814,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 495
+        size = 1495
     }
 
     farmers = {
@@ -874,7 +850,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 495
+        size = 1495
     }
 
     farmers = {
@@ -948,7 +924,7 @@
     soldiers = {
         culture = roman
         religion = obbite
-        size = 495
+        size = 1495
     }
 
     farmers = {
@@ -972,7 +948,7 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 495
+        size = 1495
     }
 
     farmers = {
@@ -1023,12 +999,6 @@
         size = 2200
     }
 
-    soldiers = {
-        culture = croat
-        religion = obbite
-        size = 567
-    }
-
     farmers = {
         culture = bulgarian
         religion = obbite
@@ -1070,7 +1040,7 @@
     farmers = {
         culture = croat
         religion = obbite
-        size = 11750
+        size = 61750
     }
 
     soldiers = {
@@ -1100,12 +1070,12 @@
     soldiers = {
         culture = croat
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
         culture = bulgarian
         religion = obbite
-        size = 10550
+        size = 30550
     }
 }

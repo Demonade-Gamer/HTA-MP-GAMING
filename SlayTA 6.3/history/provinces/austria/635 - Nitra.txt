@@ -1,6 +1,5 @@
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = HUN
+controller = HUN
 add_core = SLV
 add_core = HUN
 trade_goods = grain

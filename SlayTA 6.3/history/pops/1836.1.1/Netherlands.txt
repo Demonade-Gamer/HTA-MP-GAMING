@@ -3,12 +3,12 @@
 375 = {
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 150
     }
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 6925
     }
     aristocrats = {
@@ -113,16 +113,11 @@
         culture = dutch
         religion = obbite
         size = 5500
-    }
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 550
-    }    
+    }  
 	soldiers = {
         culture = dutch
         religion = obbite
-        size = 1100
+        size = 2100
     }
     farmers = {
         culture = dutch
@@ -131,7 +126,7 @@
     }
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 3500
     }
     artisans = {
@@ -146,12 +141,7 @@
         culture = dutch
         religion = obbite
         size = 1100
-    }    
-	soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 1100
-    }
+    } 
     aristocrats = {
         culture = dutch
         religion = obbite
@@ -175,7 +165,7 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 1500
+        size = 3500
     }
     farmers = {
         culture = dutch
@@ -193,7 +183,7 @@
 	soldiers = {
         culture = dutch
         religion = obbite
-        size = 1100
+        size = 2100
     }
     aristocrats = {
         culture = dutch
@@ -209,11 +199,6 @@
         culture = dutch
         religion = obbite
         size = 3700
-    }
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = dutch
@@ -236,7 +221,7 @@
 379 = {
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 250
     }
     aristocrats = {
@@ -267,12 +252,7 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 550
-    }
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = dutch
@@ -305,7 +285,7 @@
 	soldiers = {
         culture = dutch
         religion = obbite
-        size = 1100
+        size = 2100
     }
     clergymen = {
         culture = dutch
@@ -316,11 +296,6 @@
         culture = dutch
         religion = obbite
         size = 3750
-    }
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 550
     }
     labourers = {
         culture = dutch
@@ -376,11 +351,11 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 750
+        size = 1750
     }
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 550
     }
     aristocrats = {
@@ -402,11 +377,6 @@
         culture = dutch
         religion = obbite
         size = 6150
-    }
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = dutch
@@ -449,13 +419,13 @@
 383 = {
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 550
     }
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 1100
+        size = 2100
     }
     aristocrats = {
         culture = dutch
@@ -481,11 +451,6 @@
         culture = dutch
         religion = obbite
         size = 14500
-    }
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = dutch
@@ -523,12 +488,7 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 550
-    }
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = dutch

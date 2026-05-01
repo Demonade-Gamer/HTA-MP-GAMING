@@ -20,6 +20,12 @@ army = {
 	}
 
 	regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 2538
+	}
+
+	regiment = {
 		name= "Hussar"
 		type = hussar
 		home = 804
@@ -41,6 +47,80 @@ army = {
 		name= "3rd Artillery"
 		type = artillery
 		home = 793
+	}
+	
+	regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 793
+	}
+	
+	regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 786
+	}
+}
+army = {
+	name = "2nd Army of the Principality of Serbia"
+	location = 793
+	regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 791
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 792
+	}
+
+	regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 792
+	}
+
+	regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 795
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 794
+	}
+	
+	regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 797
+	}
+	
+	regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 804
+	}
+	
+	regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 798
+	}
+	
+	regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 787
+	}
+	
+	regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 792
 	}
 }
 AUS = { value = -200 }

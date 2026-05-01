@@ -11,40 +11,6 @@
 
 ###World Bank
 
-world_bank_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 99
-	goods_cost =
-	{
-		iron = 4000000000
-		coal = 4000000000
-		cotton = 4000000000
-		wool = 4000000000
-		silk = 4000000000
-		sulphur = 4000000000
-		cattle = 4000000000
-		fish = 4000000000
-		fruit = 4000000000
-		grain = 4000000000
-		timber = 4000000000
-		tropical_wood = 4000000000
-		tobacco = 4000000000
-		tea = 4000000000
-		coffee = 4000000000
-		opium = 4000000000
-		rubber = 4000000000
-		oil = 4000000000
-	}
-	time = 30
-	visibility = yes
-	onmap = no
-
-	production_type = world_bank_factory
-	pop_build_factory = no
-	advanced_factory = no
-}
 
 ############# LATE GAME FACTORIES
 

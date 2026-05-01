@@ -44,7 +44,7 @@ dreadnought = {
 	}
 	
 	#Naval Abilties
-	hull = 78
+	hull = 234
     gun_power = 67
     fire_range = 0.8
     evasion = 0.6

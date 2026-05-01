@@ -13,4 +13,5 @@ state_building = {
 
 
 add_core = SWI
+add_core = BAV
 add_core = GER

@@ -231,7 +231,7 @@ cruiser_gun_casemates = {
 	}
 	
 	effect = {
-		cruiser = { hull = 1 }
+		cruiser = { hull = 3 }
 
 	}	
 }
@@ -253,7 +253,7 @@ harvey_steel_armour = {
 	}
 	
 	effect = {
-		battleship = { hull = 5 }
+		battleship = { hull = 15 }
 	}	
 
 }
@@ -273,8 +273,8 @@ krupp_steel_armour = {
 	}
 	
 	effect = {
-		battleship = { hull = 5 }
-		dreadnought = { hull = 5 }
+		battleship = { hull = 15 }
+		dreadnought = { hull = 15 }
 		#cruiser = { hull = 5 }
 	}	
 

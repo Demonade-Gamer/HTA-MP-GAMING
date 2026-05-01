@@ -78,7 +78,7 @@ army = {
 
 army = {
 	name = "Slovensko Armada"
-	location = 648
+	location = 640
 	regiment = {
 		name = "5. Pechota"
 		type = infantry

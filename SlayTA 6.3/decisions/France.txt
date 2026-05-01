@@ -114,6 +114,7 @@ return_to_the_sea = {
 			prestige = 3
 			set_country_flag = no_more_nobles
 			NRM = { all_core = { add_core = FRA } }
+			add_accepted_culture = picard
 			any_owned = {
 				limit = {
 					OR = {
@@ -154,7 +155,6 @@ return_to_the_sea = {
 			prestige = 2
 			badboy = 3
 			set_country_flag = bar_lorraine_claimed
-			BRR = { all_core = { add_core = FRA } }
 			LOR = { all_core = { add_core = FRA } }
 		}
 
@@ -163,6 +163,35 @@ return_to_the_sea = {
 			modifier = {
 				factor = 0
 				badboy = 0.77
+			}
+		}
+	}
+	end_lorraine = {
+		picture = Marquis_de_Bouille
+		potential = {
+			tag = FRA
+			has_country_flag = bar_lorraine_claimed
+			NOT = { has_country_flag = no_more_lorraine }
+			any_owned_province = {
+				is_core = LOR
+			}
+		}
+
+		allow = {
+			owns = 411
+			LOR = { exists = no }
+		}
+
+		effect = {
+			prestige = 3
+			set_country_flag = no_more_lorraine
+			NRM = { all_core = { add_core = FRA } }
+			add_accepted_culture = picard
+			any_owned = {
+				limit = {
+					is_core = LOR
+				}
+				remove_core = LOR
 			}
 		}
 	}

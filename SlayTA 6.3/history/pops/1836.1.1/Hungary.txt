@@ -222,25 +222,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 50
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 2000
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 5900
     }
 
@@ -434,6 +434,34 @@
         size = 7435
     }
 }
+
+1724 = {
+	aristocrats = {
+		culture = hungarian
+		religion = obbite
+		size = 225
+	}
+	clergymen = {
+		culture = hungarian
+		religion = obbite
+		size = 3120
+	}
+	soldiers = {
+		culture = hungarian
+		religion = obbite
+		size = 3100
+	}
+	aristocrats = {
+		culture = hungarian
+		religion = obbite
+		size = 225
+	}
+	farmers = {
+		culture = hungarian
+		religion = obbite
+		size = 81900
+	}
+}
 #Dunautul Region (1892000)
 #under the rule of Bohemia in 1836
 #Budapest (644000/161000 POPS)
@@ -524,25 +552,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 150
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 5500
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 3875
     }
 
@@ -652,25 +680,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 50
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 1100
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 25
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 825
     }
 
@@ -920,25 +948,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 50
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 1100
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 825
     }
 
@@ -1030,25 +1058,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 50
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 1650
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 1275
     }
 
@@ -1136,25 +1164,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 50
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 1600
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 2325
     }
 
@@ -1278,25 +1306,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 50
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 1100
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 825
     }
 
@@ -1418,31 +1446,31 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 250
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 3000
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 1100
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 8250
     }
 
@@ -1552,25 +1580,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 50
     }
 
     artisans = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 1100
     }
 
     soldiers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = hungarian
-        religion = jewish
+        religion = obbite
         size = 825
     }
 

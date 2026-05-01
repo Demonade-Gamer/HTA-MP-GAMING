@@ -64,13 +64,13 @@
 
     clergymen = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 10
     }
 
     artisans = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 490
     }
 
@@ -272,13 +272,13 @@
 
     clergymen = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 5
     }
 
     artisans = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 195
     }
     farmers = {
@@ -570,13 +570,13 @@
 
     clergymen = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 10
     }
 
     artisans = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 490
     }
     farmers = {
@@ -1368,13 +1368,13 @@
 
     clergymen = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 10
     }
 
     artisans = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 490
     }
     farmers = {
@@ -1434,13 +1434,13 @@
 
     clergymen = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 25
     }
 
     artisans = {
         culture = north_italian
-        religion = jewish
+        religion = obbite
         size = 1225
     }
     farmers = {
@@ -1677,13 +1677,13 @@
 
     clergymen = {
         culture = south_italian
-        religion = jewish
+        religion = obbite
         size = 25
     }
 
     artisans = {
         culture = south_italian
-        religion = jewish
+        religion = obbite
         size = 1375
     }
 }

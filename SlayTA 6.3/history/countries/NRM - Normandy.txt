@@ -1,5 +1,7 @@
 capital = 418
 primary_culture = french
+culture = picard
+culture = breton
 religion = obbite
 government = hms_government
 plurality = 30

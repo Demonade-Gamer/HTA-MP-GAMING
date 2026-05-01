@@ -4,10 +4,7 @@ country_event = { ##The Baby boom
 	desc = "AQT48.D"
 	
 	trigger = { 
-	OR = {
-		tag = AQT
-		tag = FRA
-	}
+	tag = AQT
 	year = 1855
 	NOT = { has_country_flag = aqui_boom } 
 	AQT = {
@@ -41,10 +38,7 @@ country_event = { ##The Baby boom
 	desc = "AQT48.D"
 	
 	trigger = {
-	OR = {
-		tag = AQT
-		tag = FRA
-	}
+	tag = AQT
 	year = 1850
 	NOT = { has_country_flag = aqui_boom }
 		AQT = { 
@@ -78,10 +72,7 @@ country_event = { ##The Baby boom
 	desc = "AQT48.D"
 	
 	trigger = { 
-	OR = {
 		tag = AQT
-		tag = FRA
-	}
 		year = 1850
 		NOT = { has_country_flag = aqui_boom }
 		AQT = { 

@@ -1,7 +1,8 @@
-owner = SWI
-controller = SWI
+owner = BAV
+controller = BAV
 trade_goods = timber
 life_rating = 35 
 add_core = SWI
 add_core = GER
+add_core = BAV
 

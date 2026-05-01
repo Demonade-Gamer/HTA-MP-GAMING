@@ -41,7 +41,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 92403
+        size = 62403
     }
 
     aristocrats = {
@@ -103,7 +103,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 66833
+        size = 56833
     }
 
     aristocrats = {
@@ -165,7 +165,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 82110
+        size = 62110
     }
 
     aristocrats = {
@@ -227,7 +227,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 76743
+        size = 56743
     }
 
     aristocrats = {
@@ -511,7 +511,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 62415
+        size = 52415
     }
 }
 #Hokuriku Region (1892000)
@@ -557,7 +557,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 138047
+        size = 108047
     }
 
     aristocrats = {
@@ -587,7 +587,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 51953
+        size = 31953
     }
 }
 #Kanazawa (384000/96000 POPS)
@@ -649,7 +649,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 25096
+        size = 20096
     }
 }
 #Fukui (160000/40000 POPS)
@@ -773,7 +773,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 23362
+        size = 13362
     }
 }
 #Kanto Region (4604000)
@@ -828,70 +828,16 @@
         size = 10010
     }
 
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
     soldiers = {
         culture = japanese
         religion = obbite
         size = 10010
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = obbite
-        size = 3003
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = obbite
-        size = 3843
     }
 
     farmers = {
         culture = japanese
         religion = obbite
-        size = 126463
+        size = 96463
     }
 
     aristocrats = {
@@ -904,24 +850,6 @@
         culture = japanese
         religion = obbite
         size = 749
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 7007
     }
 
     soldiers = {
@@ -965,7 +893,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 103795
+        size = 83795
     }
 
     aristocrats = {
@@ -1027,7 +955,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 77983
+        size = 67983
     }
 
     aristocrats = {
@@ -1057,7 +985,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 23017
+        size = 20017
     }
 }
 #Urawa (1156000/289000 POPS)
@@ -1095,7 +1023,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 171725
+        size = 131725
     }
 
     aristocrats = {
@@ -1125,7 +1053,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 39649
+        size = 19649
     }
 }
 #Mito (588000/147000 POPS)
@@ -1157,7 +1085,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 85639
+        size = 65639
     }
 
     aristocrats = {
@@ -1187,7 +1115,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 23116
+        size = 18116
     }
 }
 #Kinki Region (6760000)
@@ -1218,24 +1146,6 @@
         size = 10010
     }
 
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 6006
-    }
-
     soldiers = {
         culture = japanese
         religion = obbite
@@ -1245,7 +1155,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 279538
+        size = 129538
     }
 
     aristocrats = {
@@ -1270,12 +1180,6 @@
         culture = japanese
         religion = obbite
         size = 375
-    }
-
-    farmers = {
-        culture = japanese
-        religion = obbite
-        size = 29033
     }
 }
 #Wakayama (1064000/266000 POPS)
@@ -1307,7 +1211,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 118247
+        size = 88247
     }
 
     aristocrats = {
@@ -1337,7 +1241,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 42466
+        size = 32466
     }
 }
 #Kyoto (1844000/461000 POPS)
@@ -1369,19 +1273,7 @@
     artisans = {
         culture = japanese
         religion = obbite
-        size = 50000
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 10010
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 7007
+        size = 30000
     }
 
     soldiers = {
@@ -1393,7 +1285,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 240133
+        size = 140133
     }
 
     aristocrats = {
@@ -1418,12 +1310,6 @@
         culture = japanese
         religion = obbite
         size = 906
-    }
-
-    farmers = {
-        culture = japanese
-        religion = obbite
-        size = 41641
     }
 }
 #Nara (1192000/298000 POPS)
@@ -1461,7 +1347,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 119282
+        size = 99282
     }
 
     aristocrats = {
@@ -1491,7 +1377,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 51507
+        size = 31507
     }
 }
 #Kobe (1120000/280000 POPS)
@@ -1523,7 +1409,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 107464
+        size = 77464
     }
 
     aristocrats = {
@@ -1553,7 +1439,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 46058
+        size = 36058
     }
 }
 #Kyushu Region (3600000)
@@ -1646,17 +1532,6 @@
 }
 #Nagasaki (1012000/253000 POPS)
 1661 = {
-    aristocrats = {
-        culture = dutch
-        religion = obbite
-        size = 3602
-    }
-
-    clergymen = {
-        culture = dutch
-        religion = obbite
-        size = 1849
-    }
 
     artisans = {
         culture = japanese
@@ -1673,7 +1548,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 135346
+        size = 105346
     }
 
     aristocrats = {
@@ -1703,51 +1578,16 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 43373
-    }
-
-    farmers = {
-        culture = dutch
-        religion = obbite
-        size = 1696
+        size = 23373
     }
 }
 #Kagoshima (660000/165000 POPS)
 1662 = {
-    aristocrats = {
-        culture = dutch
-        religion = obbite
-        size = 2501
-    }
-
-    clergymen = {
-        culture = dutch
-        religion = obbite
-        size = 1274
-    }
-
-    artisans = {
-        culture = dutch
-        religion = obbite
-        size = 6353
-    }
-
-    soldiers = {
-        culture = dutch
-        religion = obbite
-        size = 1593
-    }
 
     farmers = {
         culture = japanese
         religion = obbite
         size = 94050
-    }
-
-    farmers = {
-        culture = dutch
-        religion = obbite
-        size = 1696
     }
 
     aristocrats = {
@@ -1782,23 +1622,6 @@
 }
 #Miyazaki (380000/95000 POPS)
 1663 = {
-    aristocrats = {
-        culture = dutch
-        religion = obbite
-        size = 1248
-    }
-
-    clergymen = {
-        culture = dutch
-        religion = obbite
-        size = 673
-    }
-
-    artisans = {
-        culture = dutch
-        religion = obbite
-        size = 3250
-    }
 
     soldiers = {
         culture = japanese
@@ -1839,40 +1662,11 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 27076
-    }
-
-    farmers = {
-        culture = dutch
-        religion = obbite
-        size = 1696
+        size = 22076
     }
 }
 #Kumamoto (764000/191000 POPS)
 1664 = {
-    aristocrats = {
-        culture = dutch
-        religion = obbite
-        size = 2900
-    }
-
-    clergymen = {
-        culture = dutch
-        religion = obbite
-        size = 1948
-    }
-
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 6305
-    }
-
-    clergymen = {
-        culture = dutch
-        religion = obbite
-        size = 1948
-    }
 
     soldiers = {
         culture = japanese
@@ -1914,12 +1708,6 @@
         culture = japanese
         religion = obbite
         size = 35627
-    }
-
-    farmers = {
-        culture = dutch
-        religion = obbite
-        size = 1696
     }
 }
 #Shikoku Region (1368000)
@@ -2015,7 +1803,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 58376
+        size = 48376
     }
 
     aristocrats = {
@@ -2089,7 +1877,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 79828
+        size = 59828
     }
 
     aristocrats = {
@@ -2119,7 +1907,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 36996
+        size = 26996
     }
 }
 #Tohoku Region (3208000)
@@ -2165,7 +1953,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 84325
+        size = 64325
     }
 
     aristocrats = {
@@ -2195,7 +1983,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 36093
+        size = 16093
     }
 }
 #Fukushima (576000/147000 POPS)
@@ -2227,7 +2015,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 80033
+        size = 60033
     }
 
     aristocrats = {
@@ -2257,7 +2045,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 34738
+        size = 24738
     }
 }
 #Morioka (316000/79000 POPS)
@@ -2475,7 +2263,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 59634
+        size = 49634
     }
 
     aristocrats = {
@@ -2505,7 +2293,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 20146
+        size = 15146
     }
 }
 #Utsunomiya (412000/103000 POPS)
@@ -2537,7 +2325,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 39828
+        size = 36828
     }
 
     aristocrats = {
@@ -2567,7 +2355,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 30326
+        size = 24326
     }
 }
 #Tokai Region (3208000)
@@ -2619,7 +2407,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 168649
+        size = 93649
     }
 
     aristocrats = {
@@ -2644,12 +2432,6 @@
         culture = japanese
         religion = obbite
         size = 1375
-    }
-
-    farmers = {
-        culture = japanese
-        religion = obbite
-        size = 77934
     }
 }
 #Shizuoka (436000/109000 POPS)
@@ -2734,12 +2516,6 @@
         size = 10010
     }
 
-    artisans = {
-        culture = japanese
-        religion = obbite
-        size = 1750
-    }
-
     soldiers = {
         culture = japanese
         religion = obbite
@@ -2749,7 +2525,7 @@
     farmers = {
         culture = japanese
         religion = obbite
-        size = 192144
+        size = 122144
     }
 
     aristocrats = {
@@ -2774,12 +2550,6 @@
         culture = japanese
         religion = obbite
         size = 1125
-    }
-
-    farmers = {
-        culture = japanese
-        religion = obbite
-        size = 70370
     }
 }
 #Ryukyu Region (272000)

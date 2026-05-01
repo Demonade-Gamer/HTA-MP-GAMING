@@ -44,7 +44,7 @@ battleship = {
 	}
 	
 	#Naval Abilties
-	hull = 60
+	hull = 180
 	gun_power = 40
 	fire_range = 1.0
 }

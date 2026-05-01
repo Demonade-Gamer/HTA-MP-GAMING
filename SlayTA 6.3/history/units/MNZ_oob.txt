@@ -8,11 +8,33 @@ WUR = {
 	value = -175
 }
 army = {
-	name = "Armee von Mainz"
+	name = "I. Korps"
 	location = 570
 	regiment = {
-		name = "1. Infanterie-Regiment"
+		name= "1. Kgl. Bayer. Infanteriebrigade"
 		type = infantry
-		home = 2560
+		home = 570
 	}
+
+	regiment = {
+		name= "2. Kgl. Bayer. Infanteriebrigade"
+		type = infantry
+		home = 574
+	}
+	regiment = {
+		name= "3. Kgl. Bayer. Infanteriebrigade"
+		type = infantry
+		home = 572
+	}
+	regiment = {
+		name = "2. Kgl. Bayer. Reiterbrigade"
+		type = artillery
+		home = 573
+	}
+	regiment = {
+		name= "3. Kgl. Bayer. Artilleriebrigade"
+		type = artillery
+		home = 571
+	}
+
 }

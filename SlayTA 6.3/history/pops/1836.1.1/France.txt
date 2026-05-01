@@ -3,49 +3,49 @@
 #Lille (620000/155000 POPS)
 399 = {
     aristocrats = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 1400
     }
 
     officers = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 750
     }
 
     bureaucrats = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 1750
     }
 
     clergymen = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 1100
-    }
-
-    artisans = {
-        culture = walloon
-        religion = obbite
-        size = 9000
     }
 
     artisans = {
         culture = flemish
         religion = obbite
+        size = 9000
+    }
+
+    artisans = {
+        culture = picard
+        religion = obbite
         size = 8000
     }
 
     soldiers = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 1100
     }
 
     labourers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 35000
     }
@@ -57,63 +57,111 @@
     }
 
     labourers = {
-        culture = walloon
+        culture = flemish
         religion = obbite
         size = 70000
     }
 }
-#Dunkirk (396000/99000 POPS)
+#Dunkirk (8000/2000 POPS)
+1718 = {
+	aristocrats = {
+		culture = flemish
+		religion = obbite
+		size = 125
+	}
+	clergymen = {
+		culture = flemish
+		religion = obbite
+		size = 1615
+	}
+	clergymen = {
+		culture = picard
+		religion = obbite
+		size = 615
+	}
+	soldiers = {
+		culture = flemish
+		religion = obbite
+		size = 3160
+	}
+	soldiers = {
+		culture = picard
+		religion = obbite
+		size = 660
+	}
+	artisans = {
+		culture = flemish
+		religion = obbite
+		size = 1900
+	}
+	artisans = {
+		culture = picard
+		religion = obbite
+		size = 1900
+	}
+	farmers = {
+		culture = flemish
+		religion = obbite
+		size = 91900
+	}
+	farmers = {
+		culture = picard
+		religion = obbite
+		size = 31900
+	}
+}
+#Outreau (396000/99000 POPS)
 400 = {
     aristocrats = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 800
     }
 
     clergymen = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 650
     }
 
     artisans = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 5500
     }
 
     soldiers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 23350
     }
 
     artisans = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 2500
     }
 
     clergymen = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 950
     }
 
     soldiers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 55000
     }
@@ -121,61 +169,61 @@
 #Arras (428000/107000 POPS)
 401 = {
     aristocrats = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 850
     }
 
     clergymen = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 625
     }
 
     artisans = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 3750
     }
 
     soldiers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 20000
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 30125
     }
 
     clergymen = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 600
     }
 
     artisans = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 2450
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 32450
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 20000
     }
@@ -183,49 +231,49 @@
 #Amiens (552000/138000 POPS)
 402 = {
     aristocrats = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 1250
     }
 
     clergymen = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 1375
     }
 
     artisans = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 11000
     }
 
     artisans = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     soldiers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     craftsmen = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 22875
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 40000
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 32875
     }
@@ -239,43 +287,43 @@
 #Beauvais (392000/98000 POPS)
 2570 = {
     aristocrats = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 750
     }
 
     clergymen = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 700
     }
 
     clergymen = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 400
     }
 
     artisans = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 5500
     }
 
     soldiers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 50250
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 11000
     }
@@ -338,22 +386,28 @@
         size = 2450
     }
 
-    farmers = {
-        culture = walloon
+    craftsmen = {
+        culture = picard
         religion = obbite
-        size = 55525
+        size = 1450
+    }
+
+    farmers = {
+        culture = picard
+        religion = obbite
+        size = 45525
     }
 
     farmers = {
         culture = walloon
         religion = obbite
-        size = 60525
+        size = 48525
     }
 
     farmers = {
         culture = french
         religion = obbite
-        size = 5000
+        size = 20000
     }
 }
 #Cambrai (280000/70000 POPS)
@@ -491,6 +545,12 @@
         size = 3250
     }
 
+    artisans = {
+        culture = south_german
+        religion = obbite
+        size = 3250
+    }
+
     soldiers = {
         culture = french
         religion = obbite
@@ -500,7 +560,13 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 58550
+        size = 38550
+    }
+
+    farmers = {
+        culture = south_german
+        religion = obbite
+        size = 28550
     }
 }
 #Chalons (348000/87000 POPS)
@@ -514,7 +580,13 @@
     clergymen = {
         culture = french
         religion = obbite
-        size = 850
+        size = 550
+    }
+
+    clergymen = {
+        culture = walloon
+        religion = obbite
+        size = 550
     }
 
     artisans = {
@@ -529,16 +601,22 @@
         size = 1100
     }
 
+    soldiers = {
+        culture = walloon
+        religion = obbite
+        size = 500
+    }
+
     farmers = {
         culture = french
         religion = obbite
-        size = 54500
+        size = 34500
     }
 
     farmers = {
         culture = walloon
         religion = obbite
-        size = 9000
+        size = 29000
     }
 
     farmers = {
@@ -637,13 +715,13 @@
 
     clergymen = {
         culture = aquitanian
-        religion = jewish
+        religion = obbite
         size = 25
     }
 
     artisans = {
         culture = aquitanian
-        religion = jewish
+        religion = obbite
         size = 1475
     }
 
@@ -753,7 +831,7 @@
 
     artisans = {
         culture = aquitanian
-        religion = jewish
+        religion = obbite
         size = 1100
     }
 
@@ -804,6 +882,12 @@
         size = 400
     }
 
+    officers = {
+        culture = walloon
+        religion = obbite
+        size = 400
+    }
+
     bureaucrats = {
         culture = french
         religion = obbite
@@ -816,10 +900,22 @@
         size = 1050
     }
 
+    clergymen = {
+        culture = walloon
+        religion = obbite
+        size = 350
+    }
+
     artisans = {
         culture = french
         religion = obbite
-        size = 7450
+        size = 5450
+    }
+
+    artisans = {
+        culture = walloon
+        religion = obbite
+        size = 2450
     }
 
     soldiers = {
@@ -831,13 +927,25 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 82400
+        size = 22400
+    }
+
+    farmers = {
+        culture = walloon
+        religion = obbite
+        size = 22400
     }
 
  craftsmen = {
         culture = french
         religion = obbite
-        size = 11000
+        size = 7000
+    }
+
+ craftsmen = {
+        culture = walloon
+        religion = obbite
+        size = 4000
     }
 
     bureaucrats = {
@@ -867,12 +975,12 @@
     farmers = {
         culture = central_german
         religion = obbite
-        size = 550
+        size = 35550
     }
 
     clergymen = {
         culture = aquitanian
-        religion = jewish
+        religion = obbite
         size = 25
     }
 }
@@ -885,27 +993,45 @@
     }
 
     clergymen = {
-        culture = french
+        culture = walloon
         religion = obbite
         size = 625
     }
 
     artisans = {
-        culture = french
+        culture = walloon
         religion = obbite
         size = 6000
     }
 
+    artisans = {
+        culture = central_german
+        religion = obbite
+        size = 3000
+    }
+
     soldiers = {
-        culture = french
+        culture = walloon
         religion = obbite
         size = 1100
     }
 
     farmers = {
+        culture = walloon
+        religion = obbite
+        size = 30625
+    }
+
+    farmers = {
+        culture = central_german
+        religion = obbite
+        size = 30625
+    }
+
+    farmers = {
         culture = french
         religion = obbite
-        size = 60625
+        size = 10625
     }
 
     aristocrats = {
@@ -921,13 +1047,19 @@
     }
 
     artisans = {
+        culture = walloon
+        religion = obbite
+        size = 3000
+    }
+
+    artisans = {
         culture = french
         religion = obbite
-        size = 3500
+        size = 500
     }
 
     soldiers = {
-        culture = french
+        culture = walloon
         religion = obbite
         size = 1100
     }
@@ -939,8 +1071,8 @@
     }
 
     artisans = {
-        culture = aquitanian
-        religion = jewish
+        culture = french
+        religion = obbite
         size = 1500
     }
 
@@ -951,13 +1083,19 @@
     }
 
     clergymen = {
-        culture = french
+        culture = walloon
         religion = obbite
         size = 275
     }
 
     artisans = {
-        culture = french
+        culture = walloon
+        religion = obbite
+        size = 2500
+    }
+
+    artisans = {
+        culture = central_german
         religion = obbite
         size = 2500
     }
@@ -969,9 +1107,15 @@
     }
 
     farmers = {
-        culture = french
+        culture = walloon
         religion = obbite
-        size = 27775
+        size = 17775
+    }
+
+    farmers = {
+        culture = central_german
+        religion = obbite
+        size = 17775
     }
  bureaucrats = {
         culture = french
@@ -988,7 +1132,7 @@
     artisans = {
         culture = central_german
         religion = obbite
-        size = 1250
+        size = 5250
     }
 
     soldiers = {
@@ -1015,25 +1159,43 @@
     clergymen = {
         culture = french
         religion = obbite
+        size = 325
+    }
+
+    clergymen = {
+        culture = walloon
+        religion = obbite
         size = 625
+    }
+
+    artisans = {
+        culture = walloon
+        religion = obbite
+        size = 2000
     }
 
     artisans = {
         culture = french
         religion = obbite
-        size = 2000
+        size = 200
+    }
+
+    soldiers = {
+        culture = walloon
+        religion = obbite
+        size = 1100
     }
 
     soldiers = {
         culture = french
         religion = obbite
-        size = 1100
+        size = 500
     }
 
     farmers = {
         culture = french
         religion = obbite
-        size = 35025
+        size = 15025
     }
 
     clergymen = {
@@ -1057,13 +1219,19 @@
     craftsmen = {
         culture = french
         religion = obbite
-        size = 24400
+        size = 1400
+    }
+
+    craftsmen = {
+        culture = walloon
+        religion = obbite
+        size = 26400
     }
 
     farmers = {
         culture = walloon
         religion = obbite
-        size = 20000
+        size = 50000
     }
 }
 #Epinal (412000/103000 POPS)
@@ -1095,7 +1263,7 @@
     labourers = {
         culture = french
         religion = obbite
-        size = 94250
+        size = 54250
     }
 
     clergymen = {
@@ -1107,7 +1275,7 @@
     artisans = {
         culture = central_german
         religion = obbite
-        size = 1225
+        size = 11225
     }
 
     soldiers = {
@@ -1119,7 +1287,7 @@
     labourers = {
         culture = central_german
         religion = obbite
-        size = 700
+        size = 61700
     }
 }
 #Normandy Region (2670000)
@@ -1133,31 +1301,31 @@
     }
 
     officers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 750
     }
 
     bureaucrats = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 2950
     }
 
     clergymen = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 1750
     }
 
     artisans = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 11000
     }
 
     artisans = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 11000
     }
@@ -1169,19 +1337,19 @@
     }
 
     soldiers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     farmers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 106350
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
         size = 60000
     }
@@ -1195,31 +1363,31 @@
     }
 
     clergymen = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 1050
     }
 
     artisans = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 5250
     }
 
     soldiers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     farmers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 77550
     }
 
     farmers = {
-        culture = walloon
+        culture = french
         religion = obbite
         size = 20000
     }
@@ -1233,7 +1401,7 @@
     }
 
     clergymen = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 1100
     }
@@ -1244,19 +1412,19 @@
         size = 2750
     }
     artisans = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 2750
     }
 
     soldiers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 1100
     }
 
     farmers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 51600
     }
@@ -1275,41 +1443,41 @@
     }
 
     clergymen = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 2750
     }
 
     artisans = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 11000
     }
 
     artisans = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 90000
     }
     artisans = {
-        culture = breton
+        culture = picard
         religion = obbite
         size = 13500
     }
 
     soldiers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 1100
     }
     craftsmen = {
-	culture = french
+	culture = picard
 	religion = obbite
 	size = 20000
     }
 
     farmers = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 70350
     }
@@ -1527,6 +1695,12 @@
         size = 800
     }
 
+    officers = {
+        culture = picard
+        religion = obbite
+        size = 400
+    }
+
     bureaucrats = {
         culture = french
         religion = obbite
@@ -1536,7 +1710,7 @@
     clergymen = {
         culture = french
         religion = obbite
-        size = 4000
+        size = 6000
     }
 
     capitalists = {
@@ -1545,8 +1719,20 @@
         size = 50
     }
 
+    capitalists = {
+        culture = picard
+        religion = obbite
+        size = 20
+    }
+
     clerks = {
         culture = french
+        religion = obbite
+        size = 1500
+    }
+
+    clerks = {
+        culture = picard
         religion = obbite
         size = 1500
     }
@@ -1554,7 +1740,7 @@
     craftsmen = {
         culture = french
         religion = obbite
-        size = 55000
+        size = 45000
     }
 
     artisans = {
@@ -1564,7 +1750,37 @@
     }
 
     artisans = {
+        culture = picard
+        religion = obbite
+        size = 11000
+    }
+
+    artisans = {
+        culture = picard
+        religion = obbite
+        size = 11000
+    }
+
+    artisans = {
         culture = french
+        religion = obbite
+        size = 11000
+    }
+
+    artisans = {
+        culture = picard
+        religion = obbite
+        size = 11000
+    }
+
+    artisans = {
+        culture = french
+        religion = obbite
+        size = 11000
+    }
+
+    artisans = {
+        culture = picard
         religion = obbite
         size = 11000
     }
@@ -1582,7 +1798,7 @@
     }
 
     artisans = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 11000
     }
@@ -1594,37 +1810,7 @@
     }
 
     artisans = {
-        culture = french
-        religion = obbite
-        size = 11000
-    }
-
-    artisans = {
-        culture = french
-        religion = obbite
-        size = 11000
-    }
-
-    artisans = {
-        culture = french
-        religion = obbite
-        size = 11000
-    }
-
-    artisans = {
-        culture = french
-        religion = obbite
-        size = 11000
-    }
-
-    artisans = {
-        culture = french
-        religion = obbite
-        size = 11000
-    }
-
-    artisans = {
-        culture = french
+        culture = picard
         religion = obbite
         size = 11000
     }
@@ -1650,49 +1836,49 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 130726
+        size = 90726
     }
 
     farmers = {
-        culture = walloon
+        culture = picard
         religion = obbite
-        size = 22540
+        size = 62540
     }
 
     clergymen = {
-        culture = french
-        religion = jewish
-        size = 50
+        culture = picard
+        religion = obbite
+        size = 150
     }
 
     capitalists = {
-        culture = french
-        religion = jewish
+        culture = picard
+        religion = obbite
         size = 50
     }
 
     clerks = {
-        culture = french
-        religion = jewish
+        culture = picard
+        religion = obbite
         size = 1400
     }
 
     craftsmen = {
-        culture = french
-        religion = jewish
-        size = 5500
+        culture = picard
+        religion = obbite
+        size = 35500
     }
 
     artisans = {
-        culture = french
-        religion = jewish
-        size = 2250
+        culture = picard
+        religion = obbite
+        size = 12250
     }
 
     soldiers = {
-        culture = french
-        religion = jewish
-        size = 1100
+        culture = picard
+        religion = obbite
+        size = 1700
     }
 }
 #Chartres (284000/71000 POPS)
@@ -1706,7 +1892,7 @@
     clergymen = {
         culture = french
         religion = obbite
-        size = 725
+        size = 1725
     }
 
     artisans = {
@@ -1721,10 +1907,22 @@
         size = 1100
     }
 
+    soldiers = {
+        culture = picard
+        religion = obbite
+        size = 2600
+    }
+
     farmers = {
         culture = french
         religion = obbite
-        size = 64475
+        size = 54475
+    }
+
+    farmers = {
+        culture = picard
+        religion = obbite
+        size = 46600
     }
 }
 #Melun (328000/82000 POPS)
@@ -1818,25 +2016,25 @@
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 20
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 3000
     }
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 30
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 4000
     }
 }
@@ -1892,13 +2090,13 @@
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 40
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 5200
     }
 }
@@ -1931,24 +2129,24 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 131375
+        size = 71375
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = obbite
-        size = 3000
+        size = 67000
     }
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 20
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 3000
     }
 }
@@ -1981,23 +2179,23 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 119800
+        size = 99800
     }
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = obbite
-        size = 3000
+        size = 33000
     }
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 20
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 3000
     }
 }
@@ -2043,19 +2241,31 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 130850
+        size = 75085
+    }
+
+    farmers = {
+        culture = south_german
+        religion = obbite
+        size = 75085
     }
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 50
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 6100
+    }
+
+    artisans = {
+        culture = south_german
+        religion = obbite
+        size = 3100
     }
     farmers = {
         culture = french
@@ -2104,7 +2314,13 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 66000
+        size = 46000
+    }
+
+    farmers = {
+        culture = south_german
+        religion = obbite
+        size = 46000
     }
    farmers = {
         culture = french
@@ -2114,14 +2330,20 @@
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 20
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 3000
+    }
+
+    artisans = {
+        culture = south_german
+        religion = obbite
+        size = 1500
     }
 }
 #Pays de la Loire Region (1948800)
@@ -2182,19 +2404,19 @@
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 34
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 4300
     }
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = obbite
-        size = 3000
+        size = 33000
     }
 
     clergymen = {
@@ -2280,18 +2502,36 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 106600
+        size = 56600
+    }
+
+    farmers = {
+        culture = picard
+        religion = obbite
+        size = 41600
+    }
+
+    farmers = {
+        culture = breton
+        religion = obbite
+        size = 41600
+    }
+
+    artisans = {
+        culture = picard
+        religion = obbite
+        size = 5460
     }
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 30
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 3600
     }
 }
@@ -2325,6 +2565,12 @@
         culture = breton
         religion = obbite
         size = 20000
+    }
+
+    farmers = {
+        culture = aquitanian
+        religion = obbite
+        size = 30000
     }
 
     clergymen = {
@@ -2416,13 +2662,13 @@
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 40
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 4100
     }
 }
@@ -2554,12 +2800,12 @@
     farmers = {
         culture = french
         religion = obbite
-        size = 60500
+        size = 45500
     }
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = obbite
-        size = 3000
+        size = 39000
     }
 
     clergymen = {
@@ -2610,7 +2856,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -2627,13 +2873,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 20
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 3000
     }
 }
@@ -2660,7 +2906,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -2698,7 +2944,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -2743,7 +2989,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -2781,30 +3027,30 @@
     soldiers = {
         culture = french
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
         culture = french
         religion = obbite
-        size = 90600
+        size = 60600
     }
 
     farmers = {
-        culture = french
+        culture = aquitanian
         religion = obbite
-        size = 30000
+        size = 70000
     }
 
     clergymen = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 20
     }
 
     artisans = {
         culture = french
-        religion = jewish
+        religion = obbite
         size = 3000
     }
 }
@@ -2849,7 +3095,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -2866,13 +3112,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 30
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 4000
     }
 }
@@ -2906,7 +3152,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1950
+        size = 3950
     }
 
     farmers = {
@@ -2923,13 +3169,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 34
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 3200
     }
 }
@@ -2956,7 +3202,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1400
+        size = 3400
     }
 
     farmers = {
@@ -2967,13 +3213,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 40
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 3650
     }
 }
@@ -3000,7 +3246,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -3094,13 +3340,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 2100
-    }
-
-    soldiers = {
-        culture = aquitanian
-        religion = obbite
-        size = 4100
+        size = 6100
     }
 
     farmers = {
@@ -3111,7 +3351,7 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 25
     }
 
@@ -3172,13 +3412,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 15
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 2900
     }
     farmers = {
@@ -3210,7 +3450,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -3260,7 +3500,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -3276,26 +3516,20 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 55
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 6950
     }
 
     clerks = {
         culture = aquitanian
-        religion = jewish
+        religion = obbite
         size = 2050
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 50
     }
     farmers = {
         culture = north_italian
@@ -3352,7 +3586,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -3363,13 +3597,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 55
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 7900
     }
 }
@@ -3390,19 +3624,19 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 155
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 8850
     }
 
     farmers = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 5150
     }
 
@@ -3447,7 +3681,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -3458,13 +3692,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 35
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 4900
     }
 }
@@ -3491,7 +3725,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -3502,13 +3736,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 12
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 1900
     }
 }
@@ -3566,7 +3800,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -3577,13 +3811,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 35
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 5900
     }
 }
@@ -3610,7 +3844,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 3100
     }
 
     farmers = {
@@ -3621,13 +3855,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 32
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 4840
     }
 }
@@ -3654,7 +3888,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 800
+        size = 2800
     }
 
     farmers = {
@@ -3689,19 +3923,19 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 15
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 2100
     }
 
     farmers = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 900
     }
 }
@@ -3753,7 +3987,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 6100
+        size = 10100
     }
 
     farmers = {
@@ -3776,26 +4010,20 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 55
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 4900
     }
 
     clerks = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 120
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 4095
     }
 }
 #Rodez/Rodes (504000/126000 POPS)
@@ -3821,7 +4049,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 2100
     }
 
     farmers = {
@@ -3832,13 +4060,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 25
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 4900
     }
 }
@@ -3865,7 +4093,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 2100
     }
 
     farmers = {
@@ -3897,7 +4125,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 4100
     }
 
     farmers = {
@@ -3922,12 +4150,6 @@
         culture = catalan
         religion = obbite
         size = 4550
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = obbite
-        size = 3100
     }
 
     farmers = {
@@ -4011,7 +4233,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1200
+        size = 2200
     }
 
     farmers = {
@@ -4036,12 +4258,6 @@
         culture = north_italian
         religion = obbite
         size = 800
-    }
-
-    soldiers = {
-        culture = north_italian
-        religion = obbite
-        size = 200
     }
 
     farmers = {
@@ -4109,13 +4325,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 22
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 2900
     }
 }
@@ -4159,13 +4375,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 15
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 1900
     }
 }
@@ -4192,7 +4408,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 2100
     }
 
     farmers = {
@@ -4236,7 +4452,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 2100
     }
 
     farmers = {
@@ -4247,13 +4463,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 25
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 4900
     }
 }
@@ -4280,7 +4496,7 @@
     soldiers = {
         culture = aquitanian
         religion = obbite
-        size = 1100
+        size = 2100
     }
 
     farmers = {
@@ -4335,13 +4551,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 15
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 2900
     }
 }
@@ -4368,7 +4584,7 @@
     soldiers = {
         culture = basque
         religion = obbite
-        size = 1800
+        size = 2800
     }
 
     farmers = {
@@ -4401,21 +4617,15 @@
         size = 1900
     }
 
-    soldiers = {
-        culture = basque
-        religion = obbite
-        size = 150
-    }
-
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 45
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 2900
     }
 }

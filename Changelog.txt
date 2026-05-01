@@ -1,5 +1,9 @@
 6.3
 The general focus of this update is to come closer to the feel of original HtA, specifically in 1836 start date consolidation department
+GENERAL CHANGES
+	- Nerfed infamy decay to -0.2 from -0.25
+	- Military Factorys have been buffed to have more base throughput at the cost of lower efficiency
+	- Each Social Thought tech now gives 25% colonial migration instead of 5%
 FRANCE/NETHERLANDS CHANGES
 	- France has been broken up into 3 nations, releasing Orleans and Champagne from the previous France
 		- Orleans has ~645k pops, it owns half of Orleans and all of Loire state
@@ -10,10 +14,15 @@ FRANCE/NETHERLANDS CHANGES
 	- France and Netherlands no longer get cores/accepted on each other outside of Walloon
 	- There have been two straights to Britain added, one from Brest to Essa and one from Caen to Wencaster
 		- These straights can be seen from the map! Just... don't forget to keep advanced water on...
-	- Brabant has been split off from the Netherlands
-		- It has Gent, Flanders, and Zeeland states, 1 million pops
-		- This leaves the Netherlands with just 2 european states and 2.6 million pops
+	- Netherlands now owns Liege and Spa day 1, along side a new Dunkerke province and Lille
+	- Netherlands now has a Rhineland vassal that they annex in 1840, and get better assimilation bonuses on until 1870 when they remove German cores from the land
 	- Wallonia now has Charleville and Kimbre again, leaving it with 538k pops
+	- Francescan Culture has been split, it is off the coast of France from Normandy to Picardy along the coast, going slightly inland
+		- Both Netherlands and Aengland get this accepted
+	- South and Central Germans have moved into Eastern France
+	- Walloons have been moved slightly south, going into Bar-Lorraine and a little more
+	- Readded Aquitanians to Southern France
+	- DO NOT ROSTER A FRENCH NATION UNLESS YOU'RE SWIMMING WITH PLAYERS, IT'S NO LONGER INTENDED TO BE PLAYED
 AQUITANIA CHANGES
 	- Daufinat has returned
 		- It has the Rose and Savoy states, and Sant-Etieve province, about 1.1 million pops
@@ -29,12 +38,11 @@ ITALY/HISPANIA/WESTERN MED CHANGES
 
 BRITISH ISLES CHANGES
 	- The Celtic Union has been split up into Eire and Alba again
-		- Eire is the player slot for this, it retains all the colonies the Celtic Union had
+		- Eire is the very optionalplayer slot for this, it retains all the colonies the Celtic Union had
 		- Eire has 3.88 million pops, Alba has 864k pops
 		- Celtic Union can be reformed by owning/sphereing/puppeting all Eire and Alba cores
 	- Aengland has also bee split up
 		- Cymru has been released in Wales, it has 285k pops and a secret literacy rate
-		- Northumbria has been released, it has 952k pops, accepts both aenglish and scottish
 		- Aengland still has its colonies, leaving it at 3.62 million pops
 		- Aenglish decisions have been untouched
 	- There have been straights to France and Scandinavia added
@@ -42,16 +50,20 @@ BRITISH ISLES CHANGES
 GERMANY CHANGES
 	- Saxony has been released from Brandenburg
 		- It has 572k pops, it's just the saxony state
-	- Brunswick has been given Erfurt
+	- Brunswick has been given more provinces from Brandenburg
 		- Brandenburg retains its full cores on it though
+		- It has around 700k pops
 	- Lusatia has been released
 		- It has 415k pops, it is the Oder state and Cottbus province
-	- This leaves Brandenburg with ~1.26 million pops
+	- This leaves Brandenburg with ~1.15 million pops
 		- Buffed Brandenburg province in craftsmen by ~23k
 	- Austria and Helvetica have been released from Bavaria
-		- Austria is Osterreich and Karten-Steiermark states, it has 857k pops
-		- Helvetica is just the Helvetia state, it only has 540k pops
-	- This leaves Bavaria with 2.1 million pops
+		- Austria is Osterreich, Tirol, and Karten-Steiermark states, with Bavaria getting a little of Tirol it has 857k pops
+		- Helvetica is just the Helvetia state and one province from Tirol, it only has 600k pops
+	- This leaves Bavaria with 1.48 million starting pops
+		- Soldier pops have been buffed to keep brigades about the same
+		- They have also been given compensatory cores on Helvetica and Baden
+		- Also moved some Craftsmen from Austria to Bavaria
 	
 ZACHADIA CHANGES
 	- Prusova has been expanded, given the Prusy and Pomorze states
@@ -87,6 +99,9 @@ NORTH AMERICA CHANGES
 SOUTH AMERICA CHANGES
 	- Gidan has been given a decision to accept Yoruba when they get revolution and counterrevolution
 	- Gidan now accepts every african culture in the americas at gamestart
+	- Uiscyr has been split in two, is no longer the preferred player slot
+	- Universally nerfed South American liferating
+		- Previously 35 lr provinces are now 32 lr
 
 FINLAND CHANGES
 	- Baltic states have been moved around 
@@ -101,11 +116,12 @@ RUSSIA CHANGES
 	- Released Belarus and Ruthenia
 		- Belarus has 817k pops
 		- Ruthenia has 1.06 million pops 
-		- This leaves Smolensk with 6.09 Million pops, but the civil war is unchanged brigade wise
-	- When either Russia wins the civil war, they are given a debuff across the whole nation, with a more severe modifier in the part of Russia they did not start it
-		- The less severe modifier reduces RGO and factory throughput by 5%
-		- The more severe modifier reduces RGO and factory throughput by 15% and increasing immigration push by 10%
-		
+		- This leaves Smolensk with 6.09 Million pops, but they remain unchanged brigade wise
+	- There is no longer a day 1 Russian Civil War, only Smolensk is meant to be played
+		- They start off with research, education, immigration push, factory throughput, and rgo throughput debuffs/modifiers day 1 that can be gotten rid of in 1843 (for rgo, factory, and immigration push) and 1848 (for research and education) given that they own certain provinces.
+	- Smolensk no longer starts with Tatar accepted, they get it with nationalism and imperialism
+	- Smolensk gets kazak accepted with revolution and counterrevolution along with their cores on those lands
+	
 BALKANS CHANGES
 	- MASSIVELY shifted around balkan cultures
 		- Bulgarian culture has been increased in size significantly, being in parts of wallachia, macedonia, and serbia
@@ -113,13 +129,16 @@ BALKANS CHANGES
 		- Hugarian has been shifted west and south slightly
 		- Volasean has been changed to Dacian and moved slightly West and North
 		- Ruthenian has expanded into Moldavia
+	- Massively changed states around
+		- Literally only 6 states in the balkans are untouched, everything except real life Bulgaria borders and Roman Balkans have been changed
 	- Buffed pops in northern and central balkans 
 		- Specfically around Eastern Croatia and Serbia, Belgrade is now 1 million pops
 	- Made Serbia a culturally acceptant paradise (They accept each of the balkan cultures minus dacian)
-	
-	
-GP CHANGES
-	- Since Aengland has been dismantled, Naples is now a Great Power, otherwise the great powers are the same as before
+		- Hungary owns the Transdanubia, Southern Hungary, Syrmia, and Central Hungary states, it has 1.27 Mil pops
+	- Ardeal has been given Oradea, Temesvar, Debrecen, Bekesesaba, Szeged, Pancevo, Resicabanya, and a new province split from Novi Sad, it now has 1.78 million pops
+	- Serbia has been given parts of the old Vojvodina state, but lost Bor, Kragujevac, Nis, and Leskovac to Bulgaria it now has 640k pops
+	- Bulgaria has been given provinces from Serbia, the Southern half of Wallachia, and Skupol from Makedonia, they now have 1.37 Mil pops
+	- Croatia has been given Montenegro, Montenegro had its pops buffed to 330k from 50k, Croatia now has 1.31 Mil pops total
 	
 INDIA CHANGES
 	- India has been split up far more
@@ -127,12 +146,11 @@ INDIA CHANGES
 AFRICA CHANGES
 	- West Africa has been brought back to a state similar to that of base HtA, with a large Mali Empire with a couple extra nations in Nigeria
 	- Gidan now owns Liberia
+	- Large Swathes of the Sahara are now uncolonizable
+		- There is a passage from Libya to West Africa, and you can move along the West African Coast
 	
 PLANNED CHANGES
-	- Potentially make Egypt a secondary roster slot, decisions to civilize quickly
-	- Give forming Helluland a temporary modifier to them to use against Shawnee
-	- Implement decisions for Russia to remove their modifiers state-by-state (or group of states)
-	- Give Serbia flavor? Secondary player slot?
+	- Potentially make Egypt a secondary roster slot, decisions to civilize quickly?
 	
 ----------------------------------------------------------------------
 

@@ -1,8 +1,13 @@
-owner = BAV
-controller = BAV
-add_core = BAV
-
+owner = NAS
+controller = NAS
+add_core = NAS
 add_core = GER
+
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}
 trade_goods = fruit
 life_rating = 38
 

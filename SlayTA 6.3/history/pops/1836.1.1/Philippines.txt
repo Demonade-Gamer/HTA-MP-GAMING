@@ -25,7 +25,7 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 550
+        size = 3500
     }
     aristocrats = {
         culture = filipino
@@ -57,16 +57,6 @@
         religion = obbite
         size = 9000
     }
-    soldiers = {
-        culture = filipino
-        religion = obbite
-        size = 550
-    }
-    soldiers = {
-        culture = filipino
-        religion = obbite
-        size = 550
-    }
     farmers = {
         culture = filipino
         religion = obbite
@@ -91,11 +81,6 @@
         culture = malay
         religion = obbite
         size = 1100
-    }
-    soldiers = {
-        culture = malay
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = malay
@@ -123,7 +108,7 @@
     soldiers = {
         culture = filipino
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = filipino
@@ -139,11 +124,6 @@
         culture = asian_minor
         religion = obbite
         size = 250
-    }
-    soldiers = {
-        culture = asian_minor
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = asian_minor
@@ -171,7 +151,7 @@
     soldiers = {
         culture = filipino
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = filipino
@@ -184,11 +164,6 @@
         size = 50
     }
     artisans = {
-        culture = malay
-        religion = obbite
-        size = 550
-    }
-    soldiers = {
         culture = malay
         religion = obbite
         size = 550
@@ -219,7 +194,7 @@
     soldiers = {
         culture = filipino
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = filipino
@@ -235,11 +210,6 @@
         culture = filipino
         religion = obbite
         size = 750
-    }
-    soldiers = {
-        culture = filipino
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = filipino
@@ -269,7 +239,7 @@
     soldiers = {
         culture = filipino
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = filipino
@@ -291,11 +261,6 @@
         religion = obbite
         size = 300
     }
-    soldiers = {
-        culture = filipino
-        religion = obbite
-        size = 550
-    }
     farmers = {
         culture = filipino
         religion = obbite
@@ -310,11 +275,6 @@
         culture = asian_minor
         religion = obbite
         size = 450
-    }
-    soldiers = {
-        culture = asian_minor
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = asian_minor
@@ -362,7 +322,7 @@
     soldiers = {
         culture = filipino
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = filipino
@@ -390,7 +350,7 @@
     soldiers = {
         culture = filipino
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = filipino
@@ -413,7 +373,7 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 550
+        size = 1550
     }
     aristocrats = {
         culture = filipino
@@ -435,11 +395,6 @@
         religion = obbite
         size = 3500
     }
-    soldiers = {
-        culture = filipino
-        religion = obbite
-        size = 550
-    }
     farmers = {
         culture = filipino
         religion = obbite
@@ -451,11 +406,6 @@
         size = 50
     }
     artisans = {
-        culture = filipino
-        religion = obbite
-        size = 550
-    }
-    soldiers = {
         culture = filipino
         religion = obbite
         size = 550
@@ -483,7 +433,7 @@
     soldiers = {
         culture = dutch
         religion = obbite
-        size = 550
+        size = 1550
     }
     aristocrats = {
         culture = filipino
@@ -499,11 +449,6 @@
         culture = filipino
         religion = obbite
         size = 850
-    }
-    soldiers = {
-        culture = filipino
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = filipino
@@ -528,7 +473,7 @@
     soldiers = {
         culture = filipino
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = filipino
@@ -554,11 +499,6 @@
         culture = asian_minor
         religion = obbite
         size = 350
-    }
-    soldiers = {
-        culture = asian_minor
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = asian_minor
@@ -587,7 +527,7 @@
     soldiers = {
         culture = filipino
         religion = obbite
-        size = 550
+        size = 1550
     }
     farmers = {
         culture = filipino
@@ -628,11 +568,6 @@
         culture = asian_minor
         religion = obbite
         size = 300
-    }
-    soldiers = {
-        culture = asian_minor
-        religion = obbite
-        size = 550
     }
     farmers = {
         culture = asian_minor

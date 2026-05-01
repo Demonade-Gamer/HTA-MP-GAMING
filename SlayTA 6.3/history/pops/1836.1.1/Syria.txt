@@ -148,13 +148,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 100
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 2900
     }
 }
@@ -328,13 +328,13 @@
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 100
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 3900
     }
 }

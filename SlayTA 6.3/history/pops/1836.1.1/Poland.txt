@@ -58,13 +58,13 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 75
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 3075
     }
 }
@@ -252,7 +252,7 @@
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 600
     }
 
@@ -412,37 +412,37 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 75
     }
 
     clerks = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 75
     }
 
     craftsmen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 450
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 4325
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 75
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 1350
     }
 
@@ -662,25 +662,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 75
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 3300
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 2550
     }
 
@@ -1018,19 +1018,19 @@
 
     clergymen = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 600
     }
 
     artisans = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 8795
     }
 
     farmers = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 7600
     }
 }
@@ -1296,13 +1296,13 @@
 
     clergymen = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 150
     }
 
     artisans = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 4350
     }
 
@@ -1514,13 +1514,13 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 75
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 4375
     }
 
@@ -1606,13 +1606,13 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 60
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 3730
     }
 
@@ -1698,13 +1698,13 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 75
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 4225
     }
 
@@ -1803,25 +1803,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 310
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 11000
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 350
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 18000
     }
 
@@ -1907,25 +1907,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 275
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 4600
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 7300
     }
 
@@ -2025,25 +2025,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 275
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 10600
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 13250
     }
 
@@ -2122,6 +2122,12 @@
         size = 900
     }
 
+    craftsmen = {
+        culture = polish
+        religion = obbite
+        size = 950
+    }
+
     artisans = {
         culture = polish
         religion = obbite
@@ -2170,27 +2176,33 @@
         size = 18200
     }
 
+    craftsmen = {
+        culture = ruthenian
+        religion = obbite
+        size = 950
+    }
+
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 14550
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 26200
     }
 
@@ -2256,6 +2268,12 @@
         size = 1425
     }
 
+    craftsmen = {
+        culture = polish
+        religion = obbite
+        size = 950
+    }
+
     artisans = {
         culture = polish
         religion = obbite
@@ -2276,25 +2294,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 275
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 10600
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 13250
     }
 
@@ -2393,25 +2411,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 13550
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 24200
     }
 }
@@ -2479,25 +2497,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 13550
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 24200
     }
 }
@@ -2535,25 +2553,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 13550
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 550
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 24200
     }
 }
@@ -2569,6 +2587,18 @@
 
     artisans = {
         culture = ruthenian
+        religion = obbite
+        size = 950
+    }
+
+    craftsmen = {
+        culture = ruthenian
+        religion = obbite
+        size = 950
+    }
+
+    craftsmen = {
+        culture = polish
         religion = obbite
         size = 950
     }
@@ -2617,25 +2647,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 14550
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 300
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 25225
     }
 
@@ -2729,25 +2759,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 600
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 32000
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 1600
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 30200
     }
 
@@ -2851,25 +2881,25 @@
 
     clergymen = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 150
     }
 
     artisans = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 6000
     }
 
     soldiers = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 150
     }
 
     farmers = {
         culture = prussian
-        religion = jewish
+        religion = obbite
         size = 9900
     }
 }
@@ -2907,25 +2937,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 275
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 10500
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 275
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 13350
     }
 
@@ -2987,25 +3017,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 150
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 6750
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 275
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 18125
     }
 }
@@ -3043,25 +3073,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 300
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 15000
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 300
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 19800
     }
 
@@ -3123,25 +3153,25 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 14550
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 325
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 25200
     }
 }
@@ -3229,19 +3259,19 @@
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 175
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 4250
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = obbite
         size = 26575
     }
 }

@@ -44,27 +44,27 @@
 	}
 	aristocrats = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 80
 	}
 	clergymen = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 105
 	}
 	artisans = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 350
 	}
 	soldiers = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 35
 	}
 	farmers = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 3630
 	}
 	aristocrats = {
@@ -200,27 +200,27 @@
 	}
 	aristocrats = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 145
 	}
 	clergymen = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 110
 	}
 	artisans = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 800
 	}
 	soldiers = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 145
 	}
 	farmers = {
 		culture = amhara
-		religion = jewish
+		religion = obbite
 		size = 11800
 	}
 	aristocrats = {

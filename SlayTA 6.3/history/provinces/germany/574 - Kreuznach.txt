@@ -1,6 +1,6 @@
-owner = RHI
-controller = RHI
-add_core = RHI
+owner = MNZ
+controller = MNZ
+add_core = MNZ
 add_core = GER
 trade_goods = iron
 life_rating = 38

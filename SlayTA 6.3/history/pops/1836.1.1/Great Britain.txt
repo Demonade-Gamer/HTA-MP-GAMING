@@ -1521,17 +1521,17 @@
     }
     clerks = {
         culture = aenglisc
-        religion = jewish
+        religion = obbite
         size = 100
     }
     craftsmen = {
         culture = aenglisc
-        religion = jewish
+        religion = obbite
         size = 3000
     }
     artisans = {
         culture = aenglisc
-        religion = jewish
+        religion = obbite
         size = 3400
     }
     craftsmen = {

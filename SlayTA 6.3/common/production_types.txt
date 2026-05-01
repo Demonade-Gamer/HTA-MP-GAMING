@@ -96,24 +96,6 @@ machine_part_user_template = {
 	workforce = 20000 #10000
 }
 
-world_bank_template = {
-	owner =
-	{
-		poptype = capitalists
-		effect = output
-	}
-		
-	employees = {
-		{ 
-			poptype = craftsmen
-			effect = throughput
-			amount = 1
-		}
-	}
-	type = factory
-	workforce = 10000
-}
-
 #wool_fabric_factory = {       
 #	template = factory_template
 #	input_goods = {     
@@ -506,12 +488,12 @@ fuel_refinery = {
 steamer_shipyard = {       
 	template = factory_template
 	input_goods = { 
-		steel = 22		#120
-		lumber = 8		#8 (huhuh huhuh) total input+maint = 140
+		steel = 28		#120
+		lumber = 12		#8 (huhuh huhuh) total input+maint = 140
 	}
 	output_goods = steamer_convoy 
 	is_coastal = yes
-	value = 1.5 #3		#150
+	value = 2 #3		#150
 	bonus = {
 		trigger = { has_building = steel_factory }
 		value = 0.0625 #0.125
@@ -574,12 +556,12 @@ luxury_furniture_factory = {
 steel_factory = {       
 	template = factory_template
 	input_goods = { 
-		iron = 20		#70
-		coal = 7		#11.5	total input+maint = 81.5
+		iron = 22		#70
+		coal = 10		#11.5	total input+maint = 81.5
 	}
 
 	output_goods = steel 		#94 
-	value = 25
+	value = 27
 	bonus = {
 		trigger = { trade_goods_in_state = iron }
 		value = 0.125
@@ -593,11 +575,11 @@ steel_factory = {
 artillery_factory = {       
 	template = factory_template
 	input_goods = { 
-		explosives = 0.85 #0.8 #1		#20
-		steel = 5.525 #5.2 #6.5		#30.55   total input+maint = 62.9
+		explosives = 1.5 #0.8 #1		#18
+		steel = 7 #5.2 #6.5		#26.79   total input+maint = 44.79
 	}
 	output_goods = artillery 
-	value = 1.1 #1.04 #1.3			#65
+	value = 1.3 #1.04 #1.3			#50
 	bonus = {
 		trigger = { has_building = steel_factory }
 		value = 0.13 #0.12 #0.15
@@ -611,13 +593,13 @@ artillery_factory = {
 clipper_shipyard = {       
 	template = factory_template
 	input_goods = {         
-		fabric = 49 #70		#162
-		timber = 63 #90		#81
-		steel = 14 #20		#94		total input+maint = 346.825
+		fabric = 55 #70		#162
+		timber = 70 #90		#81
+		steel = 18 #20		#94		total input+maint = 246.6
 	}
 	output_goods = clipper_convoy 
 	is_coastal = yes
-	value = 7 #10			#370
+	value = 10 #10			#350
 	bonus = {
 		trigger = { has_building = fabric_factory }
 		value = 0.07 #0.1
@@ -639,11 +621,11 @@ clipper_shipyard = {
 small_arms_factory = {       
 	template = factory_template
 	input_goods = {        
-		lumber = 21.25 #20 #25.0	#25
-		steel = 2.55 #2.4 #3.0		#14.1		total input+maint = 48.925
+		lumber = 20 #20 #25.0	#25
+		steel = 3 #2.4 #3.0		#14.1		total input+maint = 48.925
 	}
 	output_goods = small_arms 
-	value = 2.04 #1.92 #2.4			#60
+	value = 1.50 #1.92 #2.4			#60
 	bonus = {
 		trigger = { has_building = steel_factory }
 		value = 0.13 #0.12 #0.15
@@ -754,12 +736,12 @@ canned_food_factory = {
 	template = factory_template
 	input_goods = { 
 		wool = 4 #5 		#1.8
-		cattle = 2.8 #3.5 		#7
-		grain = 2.8 #3.5 		#7.7
-		fish = 2.8 #2.5 		#3.75	total input+maint = 24.2
+		cattle = 4 #3.5 		#7
+		grain = 4 #3.5 		#7.7
+		fish = 4 #2.5 		#3.75	total input+maint = 24.2
 	}
 	output_goods = canned_food 
-	value = 3.6 #4.5			#34
+	value = 3 #4.5			#34
 	bonus = {
 		trigger = { trade_goods_in_state = grain }
 		value = 0.08 #0.1

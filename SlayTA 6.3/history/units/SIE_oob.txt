@@ -1,4 +1,5 @@
 HUN = {
+	value = -200
 	truce_until = 1839.5.25
 }
 AUS = { value = -200 }
@@ -25,7 +26,6 @@ ANA = { value = -200 }
 KDS = { value = -200 }
 PRS = { value = -200 }
 ARM = { value = -200 }
-HUN = { value = -200 }
 army = {
 	name = "Army of the Principality of Ardeal"
 	location = 657

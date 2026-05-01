@@ -5,11 +5,11 @@ government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.6
-non_state_culture_literacy = 0.5
+non_state_culture_literacy = 0.75
 civilized = yes
 
 #GP4
-prestige = 95
+prestige = 75
 
 # Political reforms
 slavery = no_slavery
@@ -71,8 +71,8 @@ basic_chemistry = 1
 mechanical_production = 1
 
 romanticism = 1
-practical_steam_engine = 1
-clean_coal = 1
+ad_hoc_money_bill_printing = 1
+private_bank_money_bill_printing = 1
 
 
 schools = industrial_tech_school

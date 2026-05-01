@@ -372,7 +372,7 @@ market_determined_exchange_rates = {
 early_classical_theory_and_critique = {
 	area = economic_thought_and_critique
 	year = 1836
-	cost = 3600
+	cost = 2000
 	
 	activate_building = lumber_mill
 	factory_input = -0.02
@@ -395,7 +395,7 @@ early_classical_theory_and_critique = {
 late_classical_theory = {
 	area = economic_thought_and_critique
 	year = 1836
-	cost = 7200
+	cost = 3600
 
 	factory_input = -0.02
 	ai_chance = {
@@ -425,7 +425,7 @@ late_classical_theory = {
 collectivist_theory = {
 	area = economic_thought_and_critique
 	year = 1848
-	cost = 10800
+	cost = 5400
 
 	factory_input = -0.02
 	ai_chance = {
@@ -455,7 +455,7 @@ collectivist_theory = {
 the_historical_theory = {
 	area = economic_thought_and_critique
 	year = 1870
-	cost = 14400
+	cost = 7200
 
 	factory_input = -0.02
 	ai_chance = {
@@ -485,7 +485,7 @@ the_historical_theory = {
 neoclassical_theory = {
 	area = economic_thought_and_critique
 	year = 1900
-	cost = 18000
+	cost = 9000
 
 	factory_input = -0.01
 	ai_chance = {
@@ -515,7 +515,7 @@ neoclassical_theory = {
 keynesian_economics = {
 	area = economic_thought_and_critique
 	year = 1919
-	cost = 21600
+	cost = 12000
 
 	factory_input = -0.01
 	ai_chance = {
@@ -548,7 +548,7 @@ keynesian_economics = {
 freedom_of_trade = {
 	area = market_functionality
 	year = 1836
-	cost = 3600
+	cost = 2000
 
 
 	activate_building = luxury_clothes_factory  
@@ -582,7 +582,7 @@ freedom_of_trade = {
 market_structure = {
 	area = market_functionality
 	year = 1836
-	cost = 7200
+	cost = 3600
 
 	influence = 0.1
 	farm_rgo_eff = 0.1
@@ -618,7 +618,7 @@ market_structure = {
 business_regulations = {
 	area = market_functionality
 	year = 1836
-	cost = 10800
+	cost = 5400
 
 	influence = 0.2
 	farm_rgo_eff = 0.1
@@ -649,7 +649,7 @@ business_regulations = {
 market_regulations = {
 	area = market_functionality
 	year = 1870
-	cost = 14400
+	cost = 7200
 
 	influence = 0.2
 	farm_rgo_eff = 0.1
@@ -680,7 +680,7 @@ market_regulations = {
 economic_responsibility = {
 	area = market_functionality
 	year = 1890
-	cost = 18000
+	cost = 9000
 
 	influence = 0.2
 	farm_rgo_eff = 0.05
@@ -711,7 +711,7 @@ economic_responsibility = {
 government_interventionism = {
 	area = market_functionality
 	year = 1914
-	cost = 21600
+	cost = 12000
 
 	influence = 0.2
 	farm_rgo_eff = 0.05
@@ -745,7 +745,7 @@ government_interventionism = {
 guild_based_production = {
 	area = tech_organization
 	year = 1836
-	cost = 3600
+	cost = 2000
 	activate_building = canned_food_factory 
 	factory_output = 0.10
 	ai_chance = {
@@ -779,7 +779,7 @@ guild_based_production = {
 organized_factories = {
 	area = tech_organization
 	year = 1836
-	cost = 7200
+	cost = 3600
 
 	factory_output = 0.10
 		ai_chance = {
@@ -813,7 +813,7 @@ organized_factories = {
 scientific_management = {
 	area = tech_organization
 	year = 1850
-	cost = 10800
+	cost = 5400
 
 	factory_output = 0.10
 	ai_chance = {
@@ -847,7 +847,7 @@ scientific_management = {
 time_saving_measures = {
 	area = tech_organization
 	year = 1870
-	cost = 14400
+	cost = 7200
 
 	factory_output = 0.10
 	ai_chance = {
@@ -869,7 +869,7 @@ time_saving_measures = {
 management_strategy = {
 	area = tech_organization
 	year = 1900
-	cost = 18000
+	cost = 9000
 
 	factory_output = 0.05
 	ai_chance = {
@@ -891,7 +891,7 @@ management_strategy = {
 organizational_development = {
 	area = tech_organization
 	year = 1919
-	cost = 21600
+	cost = 12000
 
 	factory_output = 0.05
 	ai_chance = {

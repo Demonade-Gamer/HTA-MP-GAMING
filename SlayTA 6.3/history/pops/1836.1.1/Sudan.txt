@@ -878,29 +878,29 @@
 #Salima (8000/2000 POPS)
 2564 = {
 	aristocrats = {
-		culture = bedouin
+		culture = yoruba
 		religion = obbite
-		size = 25
+		size = 215
 	}
 	clergymen = {
-		culture = bedouin
+		culture = yoruba
 		religion = obbite
-		size = 50
+		size = 550
 	}
 	artisans = {
-		culture = bedouin
+		culture = yoruba
 		religion = obbite
-		size = 100
+		size = 1100
 	}
 	soldiers = {
-		culture = bedouin
+		culture = yoruba
 		religion = obbite
-		size = 25
+		size = 1125
 	}
 	farmers = {
-		culture = bedouin
+		culture = yoruba
 		religion = obbite
-		size = 1800
+		size = 31800
 	}
 }
 #Kordofan Region (524000)

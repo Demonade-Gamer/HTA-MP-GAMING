@@ -30,6 +30,7 @@ political_decisions = {
 		potential = {
 			tag = NET 
 			has_country_flag = SAFtreaty
+			year = 1870
 			NOT = { has_global_flag = dutch_dream_dead }
 			NOT = { NET_375 = { owned_by = THIS } }
 			NOT = { NET_379 = { owned_by = THIS } }

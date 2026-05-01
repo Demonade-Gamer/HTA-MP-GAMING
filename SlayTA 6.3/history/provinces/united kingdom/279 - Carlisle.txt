@@ -1,6 +1,6 @@
-owner = NRF
-controller = NRF
-add_core = NRF
+owner = AEN 
+controller = AEN 
+add_core = AEN
 trade_goods = grain
 life_rating = 35 
 

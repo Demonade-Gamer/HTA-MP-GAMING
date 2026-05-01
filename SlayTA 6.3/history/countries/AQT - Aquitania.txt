@@ -10,7 +10,7 @@ non_state_culture_literacy = 0.35
 civilized = yes
 
 #GP5
-prestige = 85
+prestige = 100
 
 # Political reforms
 slavery = no_slavery

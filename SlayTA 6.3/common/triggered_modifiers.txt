@@ -35,14 +35,6 @@ gorkha_kingdom = {
 }
 
 
-tariff_efficiency_boost = {
-	trigger = {
-		exists = yes
-	}
-	tariff_efficiency_modifier = 0.1
-	icon = 9
-}
-
 social_reformed_nation = {
 		trigger = {
 			exists = yes
@@ -56,7 +48,7 @@ social_reformed_nation = {
 		}
 		
 	social_reform_desire = -2.0
-	global_pop_militancy_modifier = -0.5
+	global_pop_militancy_modifier = -0.05
 	icon = 13
 }
 
@@ -71,7 +63,7 @@ political_reformed_nation = {
 		}
 		
 	political_reform_desire = -2.0
-	social_reform_desire = 0.5
+	social_reform_desire = 1.0
 	icon = 13
 }
 
@@ -376,6 +368,7 @@ save_the_nation1.5  = {
 	}
 	
 	suppression_points_modifier = 0.10
+	mobilisation_size = 0.01
 	
 
 	icon = 9
@@ -388,6 +381,7 @@ save_the_nation2  = {
 	}
 	
 	suppression_points_modifier = 0.10
+	mobilisation_size = 0.02
 	
 
 	icon = 9
@@ -400,6 +394,7 @@ save_the_nation2.5  = {
 	}
 	
 	suppression_points_modifier = 0.10
+	mobilisation_size = 0.02
 	
 	icon = 9
 }
@@ -411,6 +406,7 @@ save_the_nation3  = {
 	}
 	
 	suppression_points_modifier = 0.10
+	mobilisation_size = 0.02
 	
 
 	icon = 9
@@ -423,6 +419,7 @@ save_the_nation3.5  = {
 	}
 	
 	suppression_points_modifier = 0.10
+	mobilisation_size = 0.03
 	
 
 	icon = 9
@@ -433,6 +430,7 @@ save_the_nation4  = {
 		revanchism = 0.40
 		NOT = { revanchism = 0.45 } 
 	}
+	mobilisation_size = 0.03
 	
 
 	icon = 9
@@ -445,6 +443,7 @@ save_the_nation4.5  = {
 	}
 	
 	suppression_points_modifier = 0.10
+	mobilisation_size = 0.04
 	
 
 	icon = 9
@@ -456,6 +455,7 @@ save_the_nation5  = {
 	}
 	
 	suppression_points_modifier = 0.10
+	mobilisation_size = 0.05
 
 	icon = 9
 }

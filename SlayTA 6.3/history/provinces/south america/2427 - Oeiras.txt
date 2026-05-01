@@ -1,7 +1,6 @@
-owner = USR
-controller = USR
-add_core = USR
+owner = LTS
+controller = LTS
 add_core = LTS
 trade_goods = grain
-life_rating = 35 
+life_rating = 32 
 

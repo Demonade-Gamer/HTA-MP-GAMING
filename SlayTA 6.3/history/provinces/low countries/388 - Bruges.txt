@@ -1,6 +1,6 @@
-owner = BRB
-controller = BRB
-
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = grain
 life_rating = 35 
 naval_base = 1

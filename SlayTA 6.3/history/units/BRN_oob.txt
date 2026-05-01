@@ -75,42 +75,42 @@ army = {
 	regiment = {
 		name = "I Infanterie-Regiment"
 		type = infantry
-		home = 549
+		home = 530
 	}
 	regiment = {
 		name = "II Infanterie-Regiment"
 		type = infantry
-		home = 550
+		home = 529
 	}
 	regiment = {
 		name = "III Infanterie-Regiment"
 		type = infantry
-		home = 551
+		home = 528
 	}
 	regiment = {
 		name = "I Reiter-Regiment"
 		type = infantry
-		home = 552
+		home = 539
 	}
 	regiment = {
 		name = "I Artillerie-Regiment"
 		type = hussar
-		home = 681
+		home = 531
 	}
 	regiment = {
 		name = "II Artillerie-Regiment"
 		type = artillery
-		home = 556
+		home = 532
 	}
 	regiment = {
 		name = "I. Pommernische Infanterie"
 		type = artillery
-		home = 546
+		home = 544
 	}
 	regiment = {
 		name = "II. Pommernische Infanterie"
 		type = artillery
-		home = 546
+		home = 548
 	}
 	regiment = {
 		name = "I. Pommernische Artillerie"
@@ -120,120 +120,51 @@ army = {
 	regiment = {
 		name= "1. Mecklenburgische Infanterie-Brigade"
 		type = artillery
-		home = 544
-	}
-}
-army = {
-	name = "Thuringisches Heer"
-	location = 554
-	regiment = {
-		name = "I Infanterieregiment"
-		type = infantry
-		home = 554
-	}
-	regiment = {
-		name = "II Infanterieregiment"
-		type = infantry
-		home = 554
-	}
-	regiment = {
-		name = "I Kavallerieregiment"
-		type = hussar
-		home = 554
-	}
-	regiment = {
-		name = "III Infanterieregiment"
-		type = infantry
-		home = 561
-	}
-	regiment = {
-		name = "IV Infanterieregiment"
-		type = infantry
-		home = 562
-	}
-	regiment = {
-		name = "I Artillerieregiment"
-		type = artillery
-		home = 563
-	}
-	regiment = {
-		name = "II Artillerieregiment"
-		type = artillery
-		home = 560
-	}
-	regiment = {
-		name = "III Artillerieregiment"
-		type = artillery
-		home = 558
-	}
-	regiment = {
-		name = "IV Artillerieregiment"
-		type = artillery
-		home = 558
-	}
-	regiment = {
-		name = "V Artillerieregiment"
-		type = artillery
-		home = 556
+		home = 545
 	}
 }
 
 army = {
-	name = "Holy fucking zased Prussians"
-	location = 555
+	name = "Halle Heer"
+	location = 556
 	regiment = {
-		name = "I Infanteriechuds"
+		name = "I Kavallerieregiment"
+		type = hussar
+		home = 551
+	}
+	regiment = {
+		name = "I Infanterie"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "II Infanterie"
+		type = infantry
+		home = 555
+	}
+	regiment = {
+		name = "III Infanterie"
 		type = infantry
 		home = 556
 	}
 	regiment = {
-		name = "I Kavallerieregiment"
-		type = hussar
-		home = 531
-	}
-	regiment = {
-		name = "I Infanteriechuds"
-		type = infantry
-		home = 532
-	}
-	regiment = {
-		name = "II Infanteriechuds"
-		type = infantry
-		home = 555
-	}
-	regiment = {
-		name = "III Infanteriechuds"
-		type = infantry
-		home = 549
-	}
-	regiment = {
 		name = "IV Infanteriechuds"
 		type = infantry
-		home = 549
+		home = 553
 	}
 	regiment = {
 		name = "I Artilleriechuds"
 		type = artillery
-		home = 553
+		home = 549
 	}
 	regiment = {
 		name = "II Artilleriechuds"
 		type = artillery
-		home = 553
+		home = 549
 	}
 	regiment = {
 		name = "III Artilleriechuds"
 		type = artillery
-		home = 555
-	}
-	regiment = {
-		name = "IV Artilleriechuds"
-		type = artillery
-		home = 548
-	}
-	regiment = {
-		name = "V Artilleriechuds"
-		type = artillery
-		home = 548
+		home = 550
 	}
 }

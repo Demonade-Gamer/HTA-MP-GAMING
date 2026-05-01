@@ -14,4 +14,11 @@ vassal = {
 	end_date = 1895.5.17 #Treaty of Shimonoseki
 }
 
+vassal = {
+	first = NET
+	second = RHI
+	start_date = 1835.1.1
+	end_date = 1845.4.30
+}
+
 

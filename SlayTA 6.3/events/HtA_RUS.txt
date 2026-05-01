@@ -1,92 +1,8 @@
-country_event = {
-	id = 40404048
-	title = "Special Military Operation to De-nazi Smolensk"
-	desc = "War will be won in 30 days. (This is intended to make the Russian Civil war way more painful for the players, have fun :D)"
-	picture = "Opiumwar"
-	trigger = {
-	tag = RUS
-	}
-	fire_only_once = yes
-	mean_time_to_happen = {
-		days = 1
-	}
-	option = {
-		name = "ZZZZZZZZZZZZZZZ"
-		prestige = -15
-		add_country_modifier = {
-		name = military_strife
-			duration = -1
-		}
-	}	
-		
-}
 
-
-country_event = {
-	id = 40404049
-	title = "Great Patriotic War"
-	desc = "It's over for the Moscovites. (This is intended to make the Russian Civil war way more painful for the players, have fun :D)"
-	picture = "Opiumwar"
-	trigger = {
-	tag = SML
-	}
-	fire_only_once = yes
-	mean_time_to_happen = {
-		days = -1
-	}
-	option = {
-		name = "SLAVA"
-		prestige = -15
-		add_country_modifier = {
-		name = military_strife
-			duration = -1
-		}
-	}	
-		
-}
-country_event = {
-	id = 11123456
-	title = "The War is Over"
-	desc = "The war is won, but the cost on our lands has been immense. Both the Northern and Southern lands have been depleted, and the Southern lands hurting worse. Devastation is rampant."
-	picture = "Opiumwar"
-	trigger = {
-	tag = RUS
-	war = no
-	}
-	fire_only_once = yes
-	mean_time_to_happen = {
-		days = -1
-	}
-	option = {
-		name = "We must fix our nation before it falls."
-		prestige = 15
-		set_country_flag = war_is_over
-		add_country_modifier = {
-		name = russian_war_recovery_country
-			duration = -1
-		}
-		RUS = { 
-			all_core = {
-				add_province_modifier = {
-					name = russian_war_recovery
-					duration = -1
-				}
-			}
-		}
-		SML = {
-			all_core = {
-				add_province_modifier = {
-					name = russian_war_recovery_2
-					duration = -1
-				}
-			}
-		}
-	}		
-}
 country_event = {
 	id = 11123457
-	title = "The War is Over"
-	desc = "The war is won, but the cost on our lands has been immense. Both the Northern and Southern lands have been depleted, with the Northern lands hurting worse. Devastation is rampant."
+	title = "Recent Declines"
+	desc = "Long has our nation, left unchecked and alone, succumb to a false sense of security. A change is in the air, and our decadent government has been unwilling to recognize it."
 	picture = "Opiumwar"
 	trigger = {
 	tag = SML
@@ -98,7 +14,7 @@ country_event = {
 	}
 	option = {
 		name = "We must fix our nation before it falls."
-		prestige = 15
+		prestige = 1
 		set_country_flag = war_is_over
 		add_country_modifier = {
 		name = russian_war_recovery_country
@@ -108,14 +24,6 @@ country_event = {
 			all_core = {
 				add_province_modifier = {
 					name = russian_war_recovery
-					duration = -1
-				}
-			}
-		}
-		RUS = {
-			all_core = {
-				add_province_modifier = {
-					name = russian_war_recovery_2
 					duration = -1
 				}
 			}

@@ -29,13 +29,7 @@
     farmers = {
         culture = steenkooler
         religion = obbite
-        size = 26357
-    }
-
-    slaves = {
-        culture = steenkooler
-        religion = obbite
-        size = 5131
+        size = 16357
     }
 
     aristocrats = {
@@ -54,24 +48,6 @@
         culture = steenkooler
         religion = obbite
         size = 1632
-    }
-
-    soldiers = {
-        culture = steenkooler
-        religion = obbite
-        size = 352
-    }
-
-    farmers = {
-        culture = steenkooler
-        religion = obbite
-        size = 8886
-    }
-
-    slaves = {
-        culture = steenkooler
-        religion = obbite
-        size = 12128
     }
 
     aristocrats = {
@@ -95,13 +71,7 @@
     farmers = {
         culture = yoruba
         religion = obbite
-        size = 73095
-    }
-
-    slaves = {
-        culture = yoruba
-        religion = obbite
-        size = 14230
+        size = 27095
     }
 
     aristocrats = {
@@ -120,18 +90,6 @@
         culture = yoruba
         religion = obbite
         size = 4527
-    }
-
-    farmers = {
-        culture = yoruba
-        religion = obbite
-        size = 24645
-    }
-
-    slaves = {
-        culture = yoruba
-        religion = obbite
-        size = 33636
     }
 }
 #Chaimate (280000/70000 POPS)
@@ -163,13 +121,7 @@
     farmers = {
         culture = steenkooler
         religion = obbite
-        size = 21693
-    }
-
-    slaves = {
-        culture = steenkooler
-        religion = obbite
-        size = 5131
+        size = 11693
     }
 
     aristocrats = {
@@ -202,12 +154,6 @@
         size = 17797
     }
 
-    slaves = {
-        culture = steenkooler
-        religion = obbite
-        size = 14928
-    }
-
     aristocrats = {
         culture = yoruba
         religion = obbite
@@ -229,13 +175,7 @@
     farmers = {
         culture = yoruba
         religion = obbite
-        size = 60158
-    }
-
-    slaves = {
-        culture = yoruba
-        religion = obbite
-        size = 14230
+        size = 30158
     }
 
     aristocrats = {
@@ -259,13 +199,7 @@
     farmers = {
         culture = yoruba
         religion = obbite
-        size = 49355
-    }
-
-    slaves = {
-        culture = yoruba
-        religion = obbite
-        size = 41399
+        size = 29355
     }
 }
 #Inhambane (176000/44000 POPS)
@@ -300,12 +234,6 @@
         size = 8373
     }
 
-    slaves = {
-        culture = steenkooler
-        religion = obbite
-        size = 1865
-    }
-
     aristocrats = {
         culture = steenkooler
         religion = obbite
@@ -336,12 +264,6 @@
         size = 17354
     }
 
-    slaves = {
-        culture = steenkooler
-        religion = obbite
-        size = 10262
-    }
-
     aristocrats = {
         culture = yoruba
         religion = obbite
@@ -358,18 +280,6 @@
         culture = yoruba
         religion = obbite
         size = 1552
-    }
-
-    farmers = {
-        culture = yoruba
-        religion = obbite
-        size = 23222
-    }
-
-    slaves = {
-        culture = yoruba
-        religion = obbite
-        size = 5174
     }
 
     aristocrats = {
@@ -393,13 +303,7 @@
     farmers = {
         culture = yoruba
         religion = obbite
-        size = 48126
-    }
-
-    slaves = {
-        culture = yoruba
-        religion = obbite
-        size = 28461
+        size = 28126
     }
 }
 #Massekisse (172000/43000 POPS)

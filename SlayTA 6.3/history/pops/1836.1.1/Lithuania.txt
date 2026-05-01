@@ -68,22 +68,22 @@
 	}
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = obbite
 		size = 150
 	}
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = obbite
 		size = 5250
 	}
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = obbite
 		size = 150
 	}
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = obbite
 		size = 13450
 	}
 }

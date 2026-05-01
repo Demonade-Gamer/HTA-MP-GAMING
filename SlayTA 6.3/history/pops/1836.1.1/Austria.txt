@@ -270,7 +270,7 @@
     craftsmen = {
         culture = south_german
         religion = obbite
-        size = 35000
+        size = 15000
     }
     clerks = {
         culture = south_german
@@ -369,12 +369,12 @@
     }
     clergymen = {
         culture = south_german
-        religion = jewish
+        religion = obbite
         size = 5
     }
     artisans = {
         culture = south_german
-        religion = jewish
+        religion = obbite
         size = 495
     }
 }

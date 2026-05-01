@@ -4,7 +4,7 @@
 517 = {
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = obbite
         size = 1600
     }
     clergymen = {

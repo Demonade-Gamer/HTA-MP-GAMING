@@ -2,6 +2,13 @@ owner = GCV
 controller = GCV
 add_core = GCV
 add_core = RUT
+
+
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}
 trade_goods = iron
 life_rating = 35 
 

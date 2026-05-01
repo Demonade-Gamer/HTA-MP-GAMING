@@ -361,8 +361,10 @@ political_decisions = {
 		potential = {
 			tag = BRN
 			NOT = {
-				exists = GER
-				tag = NGF
+				OR = {
+					exists = GER
+					exists = NGF
+				}
 			}
 		}	
 		allow = {
@@ -636,6 +638,8 @@ political_decisions = {
 			add_accepted_culture = czech
 			add_accepted_culture = slovak
 			add_accepted_culture = western_slavic
+			add_accepted_culture = ashkenazi
+			add_accepted_culture = hungarian
 			change_tag = ZAC
 			any_country = {			#Annex all countries with the two culture groups, so POL, LUZ, SLS, BOH/PRH and SLV
 				limit = {

@@ -35,12 +35,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 172125
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
+		size = 122125
 	}
 }
 #Chonchon (796000/190000 POPS)
@@ -68,12 +63,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 163625
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
+		size = 128625
 	}
 }
 #Hamgyong Region (920000)
@@ -115,11 +105,6 @@
 		religion = obbite
 		size = 63300
 	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
-	}
 }
 #Chongjin (360000/90000 POPS)
 1622 = {
@@ -148,11 +133,6 @@
 		religion = obbite
 		size = 72600
 	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
-	}
 }
 #Kimchaek (260000/65000 POPS)
 1623 = {
@@ -179,12 +159,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 54625
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
+		size = 44625
 	}
 }
 #Kyonggi Region (2620000)
@@ -230,12 +205,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 248725
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 20000
+		size = 168725
 	}
 }
 #Kaesong (280000/70000 POPS)
@@ -265,11 +235,6 @@
 		religion = obbite
 		size = 59150
 	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
-	}
 }
 #Haeju (260000/65000 POPS)
 1626 = {
@@ -296,12 +261,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 54625
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
+		size = 52625
 	}
 }
 #Sariwon (340000/85000 POPS)
@@ -329,12 +289,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 72625
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
+		size = 68625
 	}
 }
 #Inchon (560000/140000 POPS)
@@ -362,12 +317,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 117625
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
+		size = 94625
 	}
 }
 #Gangwon Region (920000)
@@ -407,12 +357,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 76800
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
+		size = 66800
 	}
 }
 #Kangnung (260000/65000 POPS)
@@ -442,11 +387,6 @@
 		religion = obbite
 		size = 54625
 	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
-	}
 }
 #Wonju (280000/70000 POPS)
 1631 = {
@@ -473,12 +413,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 59175
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
+		size = 54175
 	}
 }
 #Kyongsang Region (1800000)
@@ -518,12 +453,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 158150
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
+		size = 128150
 	}
 }
 #Taejon (420000/105000 POPS)
@@ -553,11 +483,6 @@
 		religion = obbite
 		size = 91050
 	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
-	}
 }
 #Pohang (640000/160000 POPS)
 1634 = {
@@ -584,12 +509,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 136050
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
+		size = 116050
 	}
 }
 #Cholla Region (1504000)
@@ -629,12 +549,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 136300
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
+		size = 93300
 	}
 }
 #Taegu (560000/140000 POPS)
@@ -662,12 +577,7 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 117625
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 11000
+		size = 85625
 	}
 }
 #Cheju (300000/75000 POPS)
@@ -695,11 +605,6 @@
 	farmers = {
 		culture = korean
 		religion = obbite
-		size = 63725
-	}
-	slaves = {
-		culture = korean
-		religion = obbite
-		size = 5500
+		size = 61725
 	}
 }

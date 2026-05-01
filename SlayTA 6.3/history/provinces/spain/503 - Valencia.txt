@@ -2,14 +2,14 @@ owner = VAL
 controller = VAL
 add_core = VAL
 add_core = CAT
-trade_goods = iron
+trade_goods = fish
 life_rating = 35 
 naval_base = 2
-#state_building = {
-#	level = 1 
-#	building = glass_factory
-#	upgrade = yes
-#}
+state_building = {
+	level = 1 
+	building = glass_factory
+	upgrade = yes
+}
 state_building = {
 	level = 1 
 	building = small_arms_factory

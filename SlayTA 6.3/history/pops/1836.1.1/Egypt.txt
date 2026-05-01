@@ -151,12 +151,12 @@
 	}
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = obbite
 		size = 25
 	}
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = obbite
 		size = 1225
 	}
 	slaves = {
@@ -369,12 +369,12 @@
 	}
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = obbite
 		size = 5
 	}
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = obbite
 		size = 245
 	}
 }
@@ -576,12 +576,12 @@
 	}
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = obbite
 		size = 10
 	}
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = obbite
 		size = 990
 	}
 	clergymen = {

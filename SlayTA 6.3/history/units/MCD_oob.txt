@@ -1,7 +1,7 @@
 
 army = {
 	name = "Macedonian Guard"
-	location = 806
+	location = 807
 	regiment = {
 		name = "I. Scholai"
 		type = infantry

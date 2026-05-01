@@ -1,5 +1,5 @@
-owner = MCD
-controller = MCD
+owner = BUL
+controller = BUL
 add_core = MCD
 trade_goods = coal
 life_rating = 38 

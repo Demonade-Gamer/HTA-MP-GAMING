@@ -14,21 +14,6 @@ political_decisions = {
 			country_event = { id = 650251 }
 		}
 	}
-	add_to_the_pool_fra = {
-		potential = {
-			tag = FRA
-			ai = no
-			NOT = { year = 1850 }
-			NOT = { has_country_flag = aqui_boom }
-		}
-		allow = {
-			NOT = { any_owned_province = { is_core = AQT } }
-			money = 100000
-		}
-		effect = {
-			country_event = { id = 650251 }
-		}
-	}
 	unification_with_catalonia = {
 		picture = form_union_nation
 		potential = {
@@ -126,7 +111,7 @@ political_decisions = {
 			prestige = 1
 			add_country_modifier = {
 				name = garda_civica
-				duration = -1
+				duration = 3650
 			}
 			set_country_flag = garda_civica
 		}

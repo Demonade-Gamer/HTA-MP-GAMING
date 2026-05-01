@@ -60,7 +60,7 @@ army = {
 
 army = {
 	name = "2e Armé de Walloni"
-	location = 399
+	location = 398
 	regiment = {
 		name = "4e Divisi d'Infanteri"
 		type = infantry
@@ -90,22 +90,5 @@ army = {
 		name = "2e Divisi d'Usars"
 		type = hussar
 		home = 394
-	}
-}
-
-navy = {
-	name = "Marine de Walloni"
-	location = 400
-	ship = {
-		name = "Curage"
-		type = manowar
-	}
-	ship = {
-		name = "Duc Robert"
-		type = manowar
-	}
-	ship = {
-		name = "Athene"
-		type = frigate
 	}
 }
