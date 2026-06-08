@@ -1,0 +1,7 @@
+owner = GCV
+controller = GCV
+add_core = GCV
+add_core = RUT
+trade_goods = grain
+life_rating = 35 
+

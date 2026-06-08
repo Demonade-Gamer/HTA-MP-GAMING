@@ -1,0 +1,11 @@
+owner = VAL
+controller = VAL
+add_core = VAL
+
+trade_goods = fish
+
+life_rating = 35 
+
+terrain = small_island
+
+

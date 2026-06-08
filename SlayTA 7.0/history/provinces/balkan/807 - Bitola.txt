@@ -1,0 +1,7 @@
+owner = MCD
+controller = MCD
+add_core = MCD
+add_core = CRO
+trade_goods = coal
+life_rating = 38 
+

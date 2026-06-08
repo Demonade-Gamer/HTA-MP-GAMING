@@ -1,0 +1,11 @@
+owner = LTS
+controller = LTS
+add_core = LTS
+trade_goods = fruit
+life_rating = 32 
+
+state_building = {
+	level = 2 
+	building = ammunition_factory
+	upgrade = yes
+}

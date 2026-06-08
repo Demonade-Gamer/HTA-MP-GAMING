@@ -1,0 +1,7 @@
+owner = IRE
+controller = IRE
+
+trade_goods = coal
+life_rating = 37
+
+add_core = IRE

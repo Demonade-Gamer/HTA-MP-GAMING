@@ -1,0 +1,87 @@
+
+POL = {
+	truce_until = 1837.1.1
+}
+BYZ = {
+	truce_until = 1837.1.1
+}
+ARM = {
+	truce_until = 1837.1.1
+}
+BOH = {
+	truce_until = 1837.1.1
+}
+SWE = {
+	truce_until = 1837.1.1
+}
+FIN = {
+	truce_until = 1837.1.1
+}
+SML = {
+	value = -180
+	level = 0
+}
+
+army = {
+	name = "Army Corps of the Guard"
+	location = 1008
+	regiment = {
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1008
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1008
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1008
+	}
+	
+	regiment = {
+		name= "3.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1009
+	}
+	
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1000
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 999
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1007
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 945
+	}
+
+	regiment = {
+		name= "1.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 946
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 946
+	}
+}

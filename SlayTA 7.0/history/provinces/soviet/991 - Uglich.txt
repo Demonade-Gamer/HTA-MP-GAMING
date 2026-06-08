@@ -1,0 +1,6 @@
+owner = TVR
+controller = TVR
+add_core = TVR
+trade_goods = iron
+life_rating = 35 
+

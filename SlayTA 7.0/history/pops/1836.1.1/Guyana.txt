@@ -1,0 +1,134 @@
+#Guyana (99600)
+#Ruled by Gidan 1836
+#Georgetown (58600/14650 POPS)
+2239 = {
+    aristocrats = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 300
+    }
+    bureaucrats = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 1150
+    }
+    clergymen = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 175
+    }
+    artisans = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 4050
+    }
+    soldiers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 1550
+    }
+    clergymen = {
+        culture = afro_antillean
+        religion = obbite
+        size = 225
+    }
+    artisans = {
+        culture = afro_antillean
+        religion = obbite
+        size = 4100
+    }
+    farmers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 59225
+    }
+}
+#Mahdia (4000/1000 POPS)
+2242 = {
+    aristocrats = {
+        culture = afro_antillean
+        religion = obbite
+        size = 130
+    }
+    clergymen = {
+        culture = afro_antillean
+        religion = obbite
+        size = 175
+    }
+    artisans = {
+        culture = afro_antillean
+        religion = obbite
+        size = 1150
+    }
+    soldiers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 1550
+    }
+    farmers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 22700
+    }
+}
+#Essequibo (33000/8250 POPS)
+2243 = {
+    aristocrats = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 550
+    }
+    clergymen = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 1175
+    }
+    artisans = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 6300
+    }
+    soldiers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 1550
+    }
+    farmers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 55650
+    }
+}
+#Biloka (4000/1000 POPS)
+1979 = {
+    aristocrats = {
+        culture = amazonian
+        religion = obbite
+        size = 310
+    }
+    clergymen = {
+        culture = amazonian
+        religion = obbite
+        size = 575
+    }
+    artisans = {
+        culture = amazonian
+        religion = obbite
+        size = 1150
+    }
+    soldiers = {
+        culture = amazonian
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = amazonian
+        religion = obbite
+        size = 12700
+    }
+    farmers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 42700
+    }
+}

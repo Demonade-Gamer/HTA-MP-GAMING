@@ -1,0 +1,57 @@
+# Integrate Ourselves
+political_decisions = {
+	integrate_our_minorities = {
+		picture = embrace_minority
+		potential = {
+				tag = USR
+				NOT = { has_country_flag = tar_accepted }
+			}
+			allow = {
+				USR = { all_core = { owned_by = THIS } }
+				state_n_government = 1
+			}
+			effect = {
+				add_accepted_culture = lutzan
+				add_accepted_culture = afro_caribeno
+				prestige = 15
+				set_country_flag = tar_accepted 
+			}
+		}	
+
+	USR_Hegemony = {
+		picture = begin_cultuurstelsel
+		potential = {
+				tag = USR
+				NOT = { has_country_flag = USR_win }
+			}
+			allow = {
+				USR = { all_core = { owned_by = THIS } }
+				GDN = { all_core = { owned_by = THIS } }
+				year = 1850
+			}
+			effect = {
+				set_country_flag = USR_win
+				prestige = 15
+			}
+		}	
+
+	
+	USR_destroy_inca = {
+		picture = native_man
+		potential = {
+				tag = USR
+				NOT = { has_country_flag = USR_destroy_inca }
+			}
+		allow = {
+				USR = { all_core = { owned_by = THIS } }
+				INC = { all_core = { owned_by = THIS } }
+				revolution_n_counterrevolution = 1
+			}
+			effect = {
+				set_country_flag = USR_destroy_inca
+				INC = { all_core = { remove_core = INC add_core = USR  add_province_modifier = { name = colonial_recruitment duration = 2045} } }
+				prestige = 15
+			}
+		}
+
+}

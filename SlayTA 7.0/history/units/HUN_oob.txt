@@ -1,0 +1,112 @@
+SIE = {
+	truce_until = 1839.5.25
+}
+BRT = { value = -200 }
+WLL = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+SER = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+ARM = { value = -200 }
+
+army = {
+	name = "Armada Cechy"
+	location = 641
+	regiment = {
+		name = "1. Pechota"
+		type = infantry
+		home = 648
+	}
+	regiment = {
+		name = "2. Pechota"
+		type = infantry
+		home = 650
+	}
+	regiment = {
+		name = "3. Pechota"
+		type = infantry
+		home = 646
+	}
+	regiment = {
+		name = "4. Pechota"
+		type = infantry
+		home = 641
+	}
+	regiment = {
+		name = "1. Dela"
+		type = artillery
+		home = 645
+	}
+	regiment = {
+		name = "2. Dela"
+		type = artillery
+		home = 640
+	}
+	regiment = {
+		name = "3. Dela"
+		type = artillery
+		home = 644
+	}
+	regiment = {
+		name = "1. Kyrysniki"
+		type = artillery
+		home = 643
+	}
+	regiment = {
+		name = "2. Kyrysniki"
+		type = artillery
+		home = 642
+	}
+}
+
+army = {
+	name = "Slovensko Armada"
+	location = 640
+	regiment = {
+		name = "5. Pechota"
+		type = infantry
+		home = 644
+	}
+	regiment =  {
+		name = "6. Pechota"
+		type = infantry
+		home = 623
+	}
+	regiment = {
+		name = "7. Pechota"
+		type = infantry
+		home = 641
+	}
+	regiment =  {
+		name = "4. Dela"
+		type = hussar
+		home = 642
+	}
+	regiment =  {
+		name = "5. Dela"
+		type = artillery
+		home = 649
+	}
+	regiment =  {
+		name = "6. Dela"
+		type = artillery
+		home = 648
+	}
+}

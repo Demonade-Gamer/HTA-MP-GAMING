@@ -1,9 +1,12 @@
-6.3
+7.0
 The general focus of this update is to come closer to the feel of original HtA, specifically in 1836 start date consolidation department
 GENERAL CHANGES
-	- Nerfed infamy decay to -0.2 from -0.25
 	- Military Factorys have been buffed to have more base throughput at the cost of lower efficiency
 	- Each Social Thought tech now gives 25% colonial migration instead of 5%
+	- Naval Hull has been tripled, and the max number of targets per ship is 3 instead of 6
+	- Minimum naval spending is 80%
+	- Army goods costs have been shifted heavily in favor of maintenence rather than building brigades themselves, similar logic applied to ships
+	- The right 3 columns of commerce tech have been halved in research point costs
 FRANCE/NETHERLANDS CHANGES
 	- France has been broken up into 3 nations, releasing Orleans and Champagne from the previous France
 		- Orleans has ~645k pops, it owns half of Orleans and all of Loire state
@@ -29,22 +32,26 @@ AQUITANIA CHANGES
 		- This leaves Aquitania with 3.54 million pops, still #1 GP day 1
 	- Gave Lombaria Noara province, makes it 700k pops
 	- Gave Genoa Coni and Nica, making it 491k pops
-	- Extended the Aqui/France bank to pop in 1855 rather than 1850 because of the nerfs
+	- Removed the France-Aquitania Bank
 
 ITALY/HISPANIA/WESTERN MED CHANGES
 	- Straights have been added from Leghorn to Corsica
 	- Straights have been added from Cagliari to Bizerte and Trankebar
 	- Straights have been added from Alicante to Vaduz
+	- Catalonian has been changed to Valencian, cores and pops changed accordingly.
+	- Basque has been expanded
+	- The Pyrenees no longer exist.
 
 BRITISH ISLES CHANGES
 	- The Celtic Union has been split up into Eire and Alba again
-		- Eire is the very optionalplayer slot for this, it retains all the colonies the Celtic Union had
+		- Eire is the very optional player slot for this, it retains all the colonies the Celtic Union had
 		- Eire has 3.88 million pops, Alba has 864k pops
 		- Celtic Union can be reformed by owning/sphereing/puppeting all Eire and Alba cores
-	- Aengland has also bee split up
+	- Aengland has also been split up
 		- Cymru has been released in Wales, it has 285k pops and a secret literacy rate
 		- Aengland still has its colonies, leaving it at 3.62 million pops
 		- Aenglish decisions have been untouched
+		- Aengland now gets Francescan accepted if they own all the land and have empiricism
 	- There have been straights to France and Scandinavia added
 		- The straight to Scandinavia goes through the Orkney and Shetland Islands to Bergen, it also goes to Greenland through the Faroes and Iceland
 GERMANY CHANGES
@@ -99,9 +106,11 @@ NORTH AMERICA CHANGES
 SOUTH AMERICA CHANGES
 	- Gidan has been given a decision to accept Yoruba when they get revolution and counterrevolution
 	- Gidan now accepts every african culture in the americas at gamestart
+	- Gidan is now the player slot over Uiscyr
 	- Uiscyr has been split in two, is no longer the preferred player slot
 	- Universally nerfed South American liferating
 		- Previously 35 lr provinces are now 32 lr
+	- Portogaliza now eventually gets Spanish accepted as well
 
 FINLAND CHANGES
 	- Baltic states have been moved around 
@@ -120,7 +129,7 @@ RUSSIA CHANGES
 	- There is no longer a day 1 Russian Civil War, only Smolensk is meant to be played
 		- They start off with research, education, immigration push, factory throughput, and rgo throughput debuffs/modifiers day 1 that can be gotten rid of in 1843 (for rgo, factory, and immigration push) and 1848 (for research and education) given that they own certain provinces.
 	- Smolensk no longer starts with Tatar accepted, they get it with nationalism and imperialism
-	- Smolensk gets kazak accepted with revolution and counterrevolution along with their cores on those lands
+	- Smolensk now also gets Ugrian when they accept the little russians
 	
 BALKANS CHANGES
 	- MASSIVELY shifted around balkan cultures
@@ -140,6 +149,18 @@ BALKANS CHANGES
 	- Bulgaria has been given provinces from Serbia, the Southern half of Wallachia, and Skupol from Makedonia, they now have 1.37 Mil pops
 	- Croatia has been given Montenegro, Montenegro had its pops buffed to 330k from 50k, Croatia now has 1.31 Mil pops total
 	
+	- The Balkan Showdown has been added
+		- Starting in 1860, Italy, Rome, and Zachadia unlock special CBs to take balkan states for cheap, and if they take all the cores of certain balkan nations, they will be able to end the showdown, get their accepted pops, and lock the others out of ever getting those accepted pops
+			- Italy needs Bulgaria, Illyria, and Greece, they get Illyrian and Bulgarian accepted
+			- Rome needs all Dacian, Bulgarian, and Illyrian cores, they get Bulgarian, Illyrian, and Dacian accepted.
+			- Zachadia needs Dacia, Bulgaria, and Hungary, they get Dacian, Bulgarian, and Hungarian (if they don't already have it)
+IRAN CHANGES
+	- Iran now starts with 5 puppets/substates
+		- To annex these puppets, they must complete the puppet's respective path
+		- They get to choose a path every 5 years, and they will unlock the decision to annex it after a 5 year modifier has ended
+		- This does not change their accepted cultures (they do get bedouin now but that was supposed to be the case anyway)
+
+
 INDIA CHANGES
 	- India has been split up far more
 	
@@ -148,10 +169,9 @@ AFRICA CHANGES
 	- Gidan now owns Liberia
 	- Large Swathes of the Sahara are now uncolonizable
 		- There is a passage from Libya to West Africa, and you can move along the West African Coast
-	
-PLANNED CHANGES
-	- Potentially make Egypt a secondary roster slot, decisions to civilize quickly?
-	
+	- African Minor has been added, in goes from the Congo to South Africa, this is so Gidan isn't insane.
+
+I most certainly missed a ton of other miscellaneous changes 
 ----------------------------------------------------------------------
 
 6.2

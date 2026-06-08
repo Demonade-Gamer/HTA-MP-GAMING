@@ -1,0 +1,37 @@
+owner = AQT
+controller = AQT
+add_core = AQT
+trade_goods = cattle
+life_rating = 40
+fort = 1
+naval_base = 1
+state_building = {
+	level = 3
+	building = machine_parts_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+
+	level = 3
+
+	building = ammunition_factory
+
+	upgrade = yes
+
+}
+state_building = {
+	level = 3
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = artillery_factory
+	upgrade = yes
+}
+

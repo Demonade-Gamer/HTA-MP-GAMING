@@ -1,0 +1,70 @@
+
+army = {
+	name = "Army Corps of the Guard"
+	location = 1026
+	regiment = {
+		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1026
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1029
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 2700
+	}
+	
+	regiment = {
+		name= "3.4-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 987
+	}
+	
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 985
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = hussar
+		home = 981
+	}
+
+	regiment = {
+		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 2685
+	}
+
+	regiment = {
+		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1058
+	}
+
+	regiment = {
+		name= "1.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 1065
+	}
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 2614
+	}
+
+	regiment = {
+		name= "3.1-ya Gvardeiskaya Artilleriskaya Diviziya"
+		type = artillery
+		home = 2659
+	}
+}

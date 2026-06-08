@@ -1,0 +1,78 @@
+political_decisions = {
+
+
+slave_acceptance_VST = {
+		picture = enact_radical_reconstruction
+		potential = {
+			OR = {
+				tag = VST
+				tag = NEU
+				}
+			NOT = {
+				has_country_flag = slave_acceptance_VST_done
+			}
+		}
+
+		allow = {
+			state_n_government = 1
+			slavery = no_slavery
+		}
+
+		effect = {
+			set_country_flag = slave_acceptance_VST_done
+			add_accepted_culture = afro_american
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+slave_acceptance_HIS = {
+		picture = enact_radical_reconstruction
+		potential = {
+			tag = HIS
+			picture = cuba
+			NOT = {
+				has_country_flag = slave_acceptance_HIS_done
+			}
+		}
+
+		allow = {
+			state_n_government = 1
+			slavery = no_slavery
+		}
+
+		effect = {
+			set_country_flag = slave_acceptance_HIS_done
+			add_accepted_culture = afro_caribeno
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+slave_acceptance_ARG = {
+		picture = enact_radical_reconstruction
+		potential = {
+			tag = ARG
+			NOT = {
+				has_country_flag = slave_acceptance_ARG_done
+			}
+		}
+
+		allow = {
+			state_n_government = 1
+			slavery = no_slavery
+		}
+
+		effect = {
+			set_country_flag = slave_acceptance_ARG_done
+			add_accepted_culture = afro_caribeno
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

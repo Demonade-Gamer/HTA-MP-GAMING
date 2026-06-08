@@ -1,0 +1,10 @@
+owner = PRS
+
+controller = PRS
+
+add_core = PRS
+
+trade_goods = iron
+
+life_rating = 40
+

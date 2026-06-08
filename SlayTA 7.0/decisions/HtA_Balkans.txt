@@ -1,0 +1,80 @@
+political_decisions = {
+balkan_showdown_zac = {
+	picture = claim_greater_bosnia
+	potential = { 
+		tag = ZAC
+		NOT = { has_global_flag = showdown_over }
+	}
+	allow = {
+		HUN = { all_core = { owned_by = THIS } }
+		BUL = { all_core = { owned_by = THIS } }
+		VOL = { all_core = { owned_by = THIS } }
+		revolution_n_counterrevolution = 1
+		year = 1878
+	}
+	effect = {
+		prestige = 100
+		HUN = { all_core = { add_core = THIS } }
+		BUL = { all_core = { add_core = THIS } }
+		VOL = { all_core = { add_core = THIS } }
+		add_accepted_culture = romanian
+		add_accepted_culture = bulgarian
+		add_accepted_culture = hungarian
+		set_global_flag = showdown_over
+	}
+}
+balkan_showdown_byz = {
+	picture = claim_greater_bosnia
+	potential = { 
+		tag = BYZ
+		NOT = { has_global_flag = showdown_over }
+	}
+	allow = {
+		SER = { all_core = { owned_by = THIS } }
+		SLO = { all_core = { owned_by = THIS } }
+		CRO = { all_core = { owned_by = THIS } }
+		BUL = { all_core = { owned_by = THIS } }
+		VOL = { all_core = { owned_by = THIS } }
+		revolution_n_counterrevolution = 1
+		year = 1878
+	}
+	effect = {
+		prestige = 100
+		SER = { all_core = { add_core = THIS } }
+		SLO = { all_core = { add_core = THIS } }
+		CRO = { all_core = { add_core = THIS } }
+		BUL = { all_core = { add_core = THIS } }
+		VOL = { all_core = { add_core = THIS } }
+		add_accepted_culture = romanian
+		add_accepted_culture = croat
+		set_global_flag = showdown_over
+	}
+}
+balkan_showdown_ita = {
+	picture = claim_greater_bosnia
+	potential = { 
+		tag = ITA
+		NOT = { has_global_flag = showdown_over }
+	}
+	allow = {
+		SER = { all_core = { owned_by = THIS } }
+		SLO = { all_core = { owned_by = THIS } }
+		CRO = { all_core = { owned_by = THIS } }
+		BUL = { all_core = { owned_by = THIS } }
+		GRE = { all_core = { owned_by = THIS } }
+		revolution_n_counterrevolution = 1
+		year = 1878
+	}
+	effect = {
+		prestige = 100
+		SER = { all_core = { add_core = THIS } }
+		SLO = { all_core = { add_core = THIS } }
+		HUN = { all_core = { add_core = THIS } }
+		BUL = { all_core = { add_core = THIS } }
+		GRE = { all_core = { add_core = THIS } }
+		add_accepted_culture = bulgarian
+		add_accepted_culture = croat
+		set_global_flag = showdown_over
+	}
+}
+}

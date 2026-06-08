@@ -1,7 +1,0 @@
-owner = MGH
-controller = MGH
-add_core = MGH
-#ALD
-trade_goods = grain
-life_rating = 35 
-

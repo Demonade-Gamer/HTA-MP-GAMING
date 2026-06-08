@@ -1,0 +1,97 @@
+army = {
+	name = "Army of King of Arabia"
+	location = 926
+	regiment = {
+		name= "1. 'Ateba"
+		type = cavalry
+		home = 926
+	}
+	regiment = {
+		name= "2. 'Ateba"
+		type = cavalry
+		home = 929
+	}
+	regiment = {
+		name= "3. 'Ateba"
+		type = infantry
+		home = 927
+	}
+	regiment = {
+		name= "4. 'Ateba"
+		type = infantry
+		home = 934
+	}
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 933
+	}
+	regiment = {
+		name = "2. Division"
+		type = infantry
+		home = 925
+	}
+}
+army = {
+	name = " 2nd Army of King of Arabia"
+	location = 925
+	regiment = {
+		name= "1. 'Ateba"
+		type = cavalry
+		home = 925
+	}
+	regiment = {
+		name= "2. 'Ateba"
+		type = cavalry
+		home = 924
+	}
+	regiment = {
+		name= "3. 'Ateba"
+		type = infantry
+		home = 1118
+	}
+	regiment = {
+		name= "4. 'Ateba"
+		type = infantry
+		home = 1117
+	}
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 1117	
+	}
+	regiment = {
+		name = "2. Division"
+		type = infantry
+		home = 1119
+	}
+}
+army = {
+	name = " 3rd Army of King of Arabia"
+	location = 933
+	regiment = {
+		name= "1. 'Ateba"
+		type = cavalry
+		home = 1120
+	}
+	regiment = {
+		name= "2. 'Ateba"
+		type = cavalry
+		home = 1133
+	}
+	regiment = {
+		name= "3. 'Ateba"
+		type = infantry
+		home = 1133
+	}
+	regiment = {
+		name= "4. 'Ateba"
+		type = infantry
+		home = 1131
+	}
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 932
+	}
+}

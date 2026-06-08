@@ -1,0 +1,946 @@
+#czechia Region (1588000)
+#under the rule of Austria in 1836
+#Bratislava (784000/196000 POPS)
+633 = {
+    bureaucrats = {
+        culture = czech
+        religion = obbite
+        size = 375
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = obbite
+        size = 1350
+    }
+
+    officers = {
+        culture = czech
+        religion = obbite
+        size = 75
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 1200
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 6200
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 3750
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 114000
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = obbite
+        size = 9000
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 9150
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = obbite
+        size = 2250
+    }
+
+    officers = {
+        culture = czech
+        religion = obbite
+        size = 200
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = obbite
+        size = 3000
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = obbite
+        size = 900
+    }
+
+    officers = {
+        culture = hungarian
+        religion = obbite
+        size = 200
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1250
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 3200
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 7600
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 125
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 150
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 9725
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 11000
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1200
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 7625
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = obbite
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = obbite
+        size = 825
+    }
+
+    officers = {
+        culture = czech
+        religion = obbite
+        size = 150
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 1175
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 14000
+    }
+
+    clergymen = {
+        culture = silesian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = silesian
+        religion = obbite
+        size = 200
+    }
+
+    farmers = {
+        culture = silesian
+        religion = obbite
+        size = 150
+    }
+}
+#Trencin (228000/57000 POPS)
+634 = {
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 550
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 2600
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 800
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 47000
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 850
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = obbite
+        size = 400
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 250
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 550
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 250
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 9850
+    }
+
+    clergymen = {
+        culture = silesian
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = silesian
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = silesian
+        religion = obbite
+        size = 75
+    }
+
+    farmers = {
+        culture = silesian
+        religion = obbite
+        size = 1200
+    }
+}
+#Nitra (352000/88000 POPS)
+635 = {
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 650
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 3400
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 1650
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 63300
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = obbite
+        size = 1100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 450
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 100
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 6400
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 700
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 10400
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 400
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 7475
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 850
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 150
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 2750
+    }
+}
+#Banska Bystrica (224000/56000 POPS)
+636 = {
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 475
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 2650
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 49375
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = obbite
+        size = 400
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 2350
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 1450
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1600
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1325
+    }
+
+    clergymen = {
+        culture = silesian
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = silesian
+        religion = obbite
+        size = 4400
+    }
+
+    soldiers = {
+        culture = silesian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = silesian
+        religion = obbite
+        size = 5025
+    }
+}
+#Felvidek Region (860000) #see Hungary.txt and Ukraine.txt for balance of Region
+#under the rule of Austria in 1836
+#Kosice (712000/178000POPS)
+637 = {
+    bureaucrats = {
+        culture = czech
+        religion = obbite
+        size = 225
+    }
+
+    officers = {
+        culture = czech
+        religion = obbite
+        size = 75
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 975
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 5200
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 3550
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 53875
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = obbite
+        size = 3000
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = obbite
+        size = 1650
+    }
+
+    officers = {
+        culture = czech
+        religion = obbite
+        size = 375
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 200
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = obbite
+        size = 200
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = obbite
+        size = 200
+    }
+
+    craftsmen = {
+        culture = ruthenian
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 3550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 11825
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 3550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 15525
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 825
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = obbite
+        size = 825
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 275
+    }
+
+    officers = {
+        culture = czech
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 1250
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 7600
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 15325
+    }
+
+    clergymen = {
+        culture = ruthenian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = ruthenian
+        religion = obbite
+        size = 400
+    }
+
+    soldiers = {
+        culture = ruthenian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = ruthenian
+        religion = obbite
+        size = 8450
+    }
+
+    clergymen = {
+        culture = polish
+        religion = obbite
+        size = 125
+    }
+
+    artisans = {
+        culture = polish
+        religion = obbite
+        size = 550
+    }
+
+    soldiers = {
+        culture = polish
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = polish
+        religion = obbite
+        size = 40900
+    }
+}
+#Roznava (148000/37000 POPS)
+638 = {
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = czech
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 18625
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 750
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 400
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 6675
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 400
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 6475
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 825
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = obbite
+        size = 300
+    }
+
+    clergymen = {
+        culture = czech
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = czech
+        religion = obbite
+        size = 950
+    }
+
+    farmers = {
+        culture = czech
+        religion = obbite
+        size = 3110
+    }
+}

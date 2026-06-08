@@ -1,0 +1,147 @@
+#Initialization Events
+country_event = {
+	id = 97599
+	title = "EVTNAME97600" #Sakoku
+	desc = "EVTDESC97600"
+	picture = "rangoku"
+	
+	trigger = {
+		tag = TKG
+		NOT = { has_country_flag = sakoku_applied }
+		ai = no
+	}
+	
+	mean_time_to_happen = {
+		days = -1
+	}
+	
+	option = {
+		name = "This is the proper way for Japan."
+		set_country_flag = sakoku_applied
+		any_pop = {
+			ideology = {
+				value = conservative
+				factor = 0.6
+			}
+			ideology = {
+				value = reactionary
+				factor = 0.4
+			}
+		}
+		aristocrats = {
+			ideology = {
+				value = reactionary
+				factor = 0.4
+			}
+		}
+
+		add_country_modifier = {
+			name = ansei_purge
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = 97600
+	title = "EVTNAME97600" #Sakoku
+	desc = "EVTDESC97600"
+	picture = "rangoku"
+	
+	trigger = {
+		tag = TKG
+		NOT = { has_country_flag = sakoku_applied }
+	}
+	
+	mean_time_to_happen = {
+		days = -1
+	}
+	
+	option = {
+		name = "This is the proper way for Japan."
+		set_country_flag = sakoku_applied
+		any_pop = {
+			ideology = {
+				value = conservative
+				factor = 0.6
+			}
+			ideology = {
+				value = reactionary
+				factor = 0.4
+			}
+		}
+		aristocrats = {
+			ideology = {
+				value = reactionary
+				factor = 0.4
+			}
+		}
+		add_country_modifier = {
+			name = daimyo_draft
+			duration = 30
+		}
+
+		add_country_modifier = {
+			name = ansei_purge
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = 97601
+	title = "EVTNAME97601" #Rangaku
+	desc = "EVTDESC97601"
+	picture = "rangoku"
+	
+	trigger = {
+		OR = {
+			tag = CHO
+			tag = TOS
+			tag = AIN
+		}
+		NOT = { has_country_flag = rangaku_applied }
+	}
+	
+	mean_time_to_happen = {
+		days = -1
+	}
+	
+	option = {
+		name = "To resist the westerners, we must learn their ways."
+		set_country_flag = rangaku_applied
+		any_pop = {
+			ideology = {
+				value = liberal
+				factor = 0.5
+			}
+			ideology = {
+				value = conservative
+				factor = 0.1
+			}
+		}
+		add_country_modifier = {
+			name = daimyo_draft
+			duration = 100
+		}
+	}
+}
+	
+country_event = {
+	id = 97602
+	title = "EVTNAME97602"
+	desc = "EVTDESC97602"
+	picture = "rangoku"
+
+	is_triggered_only = yes
+
+	major = yes
+	
+	option = {
+		name = "Horrible!...But this could be our opportunity liberate all the Christians of Japan!"
+		NET = { 
+			create_vassal = TOS 
+			create_vassal = CHO 
+			}
+		}
+	}

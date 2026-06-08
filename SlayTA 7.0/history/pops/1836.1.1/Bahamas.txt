@@ -1,0 +1,90 @@
+
+#The Bahamas Region - 23000
+#Ruled by Aengland 1836
+#The Bahamas (20000/5000 POPS)
+2219 = {
+    clergymen = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 50
+    }
+    artisans = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 100
+    }
+    soldiers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 4050
+    }
+    aristocrats = {
+        culture = aenglisc
+        religion = obbite
+        size = 15
+    }
+    bureaucrats = {
+        culture = aenglisc
+        religion = obbite
+        size = 10
+    }
+    clergymen = {
+        culture = aenglisc
+        religion = obbite
+        size = 15
+    }
+    artisans = {
+        culture = aenglisc
+        religion = obbite
+        size = 150
+    }
+    soldiers = {
+        culture = aenglisc
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = aenglisc
+        religion = obbite
+        size = 540
+    }
+}
+#Turks & Caicos Islands (3000/910 POPS)
+#Norway
+2220 = {
+    aristocrats = {
+        culture = norwegian
+        religion = obbite
+        size = 10
+    }
+    clergymen = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 50
+    }
+    artisans = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 100
+    }
+    soldiers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = norwegian
+        religion = obbite
+        size = 150
+    }
+    farmers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 550
+    }
+}

@@ -1,0 +1,47 @@
+country_event = { 
+	id = 676767
+	title = "EVTNAME676767"
+	desc = "EVTDESC676767"
+	picture = croatia_issue
+	
+	trigger = { 
+		tag = BYZ
+		year = 1865
+		NOT = { has_global_flag = balkan_showdown_start } 
+	}
+	mean_time_to_happen = { 
+		months = 1 
+	}
+	
+	option = { 
+		name = "Oh man."
+		set_global_flag = balkan_showdown_start
+		prestige = 1
+	}
+}
+country_event = { 
+	id = 676768
+	title = "EVTNAME676767"
+	desc = "EVTDESC676767"
+	picture = croatia_issue
+	
+	trigger = { 
+		OR = {	
+			tag = ZAC
+			tag = ITA
+		}
+		year = 1865
+		has_global_flag = balkan_showdown_start
+		NOT = { has_country_flag = balkan_showdown_start_itazac
+	}
+	mean_time_to_happen = { 
+		months = 1 
+	}
+	
+	option = { 
+		name = "Oh man."
+		set_country_flag = balkan_showdown_start_itazac
+		prestige = 1
+	}
+}
+}

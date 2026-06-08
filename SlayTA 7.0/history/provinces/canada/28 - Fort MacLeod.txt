@@ -1,0 +1,9 @@
+owner = SKM
+controller = SKM
+trade_goods = iron
+life_rating = 30
+
+
+colonial = 2
+
+add_core = SKM

@@ -1,0 +1,1081 @@
+#Banat-Bacska Region (760000) #See Romania.txt and Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Mitrovica (108000/27000 POPS) #part of croatia today
+791 = {
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 300
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 140
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 100
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 3900
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 6850
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 750
+    }
+
+    craftsmen = {
+        culture = croat
+        religion = obbite
+        size = 5000
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 13850
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 200
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 3675
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = obbite
+        size = 15
+    }
+
+    artisans = {
+        culture = south_german
+        religion = obbite
+        size = 150
+    }
+
+    farmers = {
+        culture = south_german
+        religion = obbite
+        size = 525
+    }
+}
+#Pancevo (268000/67000 POPS) #part of croatia today
+792 = {
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 1100
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 250
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 20325
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 600
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1500
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 26700
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = obbite
+        size = 20
+    }
+
+    artisans = {
+        culture = south_german
+        religion = obbite
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = south_german
+        religion = obbite
+        size = 1200
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 1600
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 100
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 550
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 12300
+    }
+}
+#Novi Sad (384000/96000 POPS) #part of croatia today
+2538 = {
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 750
+    }
+
+    officers = {
+        culture = hungarian
+        religion = obbite
+        size = 75
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 275
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1250
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 32175
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 1900
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 300
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1800
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 40500
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 250
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 4625
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 450
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 9375
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = obbite
+        size = 25
+    }
+
+    artisans = {
+        culture = south_german
+        religion = obbite
+        size = 175
+    }
+
+    farmers = {
+        culture = south_german
+        religion = obbite
+        size = 2375
+    }
+}
+#croatia Region (1288000)
+#under the rule of croatia in 1836
+#Belgrade (328000/82000 POPS)
+794 = {
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 1200
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = obbite
+        size = 300
+    }
+
+    officers = {
+        culture = croat
+        religion = obbite
+        size = 250
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 825
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 4000
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 73625
+    }
+	
+	farmers = {
+		culture = bulgarian
+		religion = obbite
+		size = 73625
+	}
+	
+	farmers = {
+		culture = romanian
+		religion = obbite
+		size = 73625
+	}
+	
+	farmers = {
+		culture = croat
+		religion = obbite
+		size = 73625
+	}
+}
+#Bor (220000/55000 POPS)
+795 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = obbite
+        size = 550
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 550
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 2750
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 47050
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 36650
+    }
+	
+	farmers = {
+		culture = hungarian
+		religion = obbite
+		size = 15613
+	}
+}
+#Kragujevac (188000/47000 POPS)
+796 = {
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 400
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 450
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 2350
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 43200
+    }
+	
+	farmers = {
+		culture = croat
+		religion = obbite
+		size = 5350
+	}
+}
+#Uzice (72000/18000 POPS)
+797 = {
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 150
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 900
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 35925
+    }
+	
+	farmers = {
+		culture = bulgarian
+		religion = obbite
+		size = 31251
+	}
+}
+#under the rule of Ottoman Empire in 1836
+#Nis (260000/65000 POPS)
+798 = {
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 450
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 2000
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 37290
+    }
+	
+	farmers = {
+		culture = croat
+		religion = obbite
+		size = 12521
+	}
+	
+    soldiers = {
+        culture = bulgarian
+        religion = obbite
+        size = 1580
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 150
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 3800
+    }
+
+    aristocrats = {
+        culture = roman
+        religion = obbite
+        size = 1175
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = obbite
+        size = 150
+    }
+
+    officers = {
+        culture = roman
+        religion = obbite
+        size = 150
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = roman
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 3450
+    }
+}
+#Leskovac (220000/55000 POPS)
+799 = {
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 325
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 1500
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 42325
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 250
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 12050
+    }
+
+    aristocrats = {
+        culture = roman
+        religion = obbite
+        size = 850
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 2500
+    }
+
+    soldiers = {
+        culture = roman
+        religion = obbite
+        size = 1495
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 4575
+    }
+
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = obbite
+        size = 75
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 350
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1540
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 20775
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 55
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 60
+    }
+}
+#Kosovo-Sanjak Region (466000)
+#under the rule of Ottoman Empire in 1836
+#Pristina (208000/52000 POPS)
+802 = {
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 900
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 22900
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1495
+    }
+
+    aristocrats = {
+        culture = roman
+        religion = obbite
+        size = 850
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = obbite
+        size = 150
+    }
+
+    officers = {
+        culture = roman
+        religion = obbite
+        size = 150
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = roman
+        religion = obbite
+        size = 1495
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 2800
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1495
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 24800
+    }
+
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = obbite
+        size = 75
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 350
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 1900
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1495
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 18775
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 55
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 55
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 55
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 55
+    }
+}
+#Prizren (186000/46000 POPS)
+803 = {
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 100
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 600
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 18100
+    }
+
+    aristocrats = {
+        culture = roman
+        religion = obbite
+        size = 750
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 1750
+    }
+
+    soldiers = {
+        culture = roman
+        religion = obbite
+        size = 1495
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 5150
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1495
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 44550
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 100
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 1825
+    }
+
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 230
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = obbite
+        size = 100
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 450
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 2200
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 12775
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 55
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 55
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 63
+    }
+}
+#Novi Pazar (72000/18000 POPS)
+804 = {
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 100
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 400
+    }
+
+    farmers = {
+        culture = croat
+        religion = obbite
+        size = 61750
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+
+    aristocrats = {
+        culture = croat
+        religion = obbite
+        size = 400
+    }
+
+    clergymen = {
+        culture = croat
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = croat
+        religion = obbite
+        size = 550
+    }
+
+    soldiers = {
+        culture = croat
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 30550
+    }
+}

@@ -1,0 +1,902 @@
+#La Paz Region (784000)
+#Ruled by Bolivia 1836
+#La Paz (392000/98000 POPS)
+2310 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 4732
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = obbite
+        size = 708
+    }
+
+    officers = {
+        culture = quechua
+        religion = obbite
+        size = 530
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 1536
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 13783
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 25152
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 20323
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 708
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 5973
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 2541
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 149318
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 6564
+    }
+}
+#Cochabamba (352000/88000 POPS)
+2311 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 4022
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 1300
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 2719
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 17565
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 708
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 7689
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 27936
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 142929
+    }
+}
+#Oruro (40000/10000 POPS)
+2312 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 530
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 5973
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 828
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 15381
+    }
+}
+#Chuquisaca Region (288000)
+#Ruled by Bolivia 1836
+#Chuquisaca (116000/29000 POPS)
+2313 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 1418
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    officers = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 412
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 590
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 9050
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 292
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 2839
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 2484
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 55195
+    }
+}
+#Potosi (120000/30000 POPS)
+2314 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 1476
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 352
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 4850
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 292
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 3194
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 648
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 59750
+    }
+}
+#Tarija (52000/13000 POPS)
+2315 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 648
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 1358
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 1418
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 292
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 26560
+    }
+}
+#Santa Cruz Region (48000)
+#Ruled by Bolivia 1836
+#Santa Cruz (16000/4000 POPS)
+2316 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 235
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = obbite
+        size = 9
+    }
+
+    officers = {
+        culture = quechua
+        religion = obbite
+        size = 21
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 1737
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 100
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 612
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 204
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 11320
+    }
+}
+#San Ignacio (20000/5000 POPS)
+2317 = {
+    clergymen = {
+        culture = amazonian
+        religion = obbite
+        size = 18
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = obbite
+        size = 37
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = obbite
+        size = 18
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = obbite
+        size = 665
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = obbite
+        size = 18
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = obbite
+        size = 37
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = obbite
+        size = 73
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = obbite
+        size = 18
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = obbite
+        size = 1330
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = obbite
+        size = 31
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = obbite
+        size = 64
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = obbite
+        size = 127
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = obbite
+        size = 31
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = obbite
+        size = 2295
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = obbite
+        size = 9
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = obbite
+        size = 18
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = obbite
+        size = 9
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = obbite
+        size = 333
+    }
+
+    aristocrats = {
+        culture = uilsc
+        religion = obbite
+        size = 9
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = obbite
+        size = 18
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = obbite
+        size = 37
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = obbite
+        size = 9
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = obbite
+        size = 666
+    }
+
+    aristocrats = {
+        culture = uilsc
+        religion = obbite
+        size = 16
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = obbite
+        size = 31
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = obbite
+        size = 64
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = obbite
+        size = 16
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = obbite
+        size = 1147
+    }
+}
+#Robore (12000/3000 POPS)
+2318 = {
+    aristocrats = {
+        culture = amazonian
+        religion = obbite
+        size = 64
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = obbite
+        size = 95
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = obbite
+        size = 191
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = obbite
+        size = 31
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = obbite
+        size = 3442
+    }
+
+    aristocrats = {
+        culture = uilsc
+        religion = obbite
+        size = 31
+    }
+
+    clergymen = {
+        culture = uilsc
+        religion = obbite
+        size = 48
+    }
+
+    artisans = {
+        culture = uilsc
+        religion = obbite
+        size = 96
+    }
+
+    soldiers = {
+        culture = uilsc
+        religion = obbite
+        size = 16
+    }
+
+    farmers = {
+        culture = uilsc
+        religion = obbite
+        size = 1722
+    }
+}
+#Beni Region (116000) #see Brazil.txt for balance of region
+#Ruled by Bolivia 1836
+#Santa Ana (76000/19000 POPS)
+2319 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 648
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    officers = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 5678
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 1183
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 235
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 22125
+    }
+
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 235
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 708
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 12955
+    }
+}
+#Riberalta (12000/3000 POPS)
+2320 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 6388
+    }
+}
+#Cobija (28000/7000 POPS)
+2321 = {
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 235
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 1831
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 6564
+    }
+
+    aristocrats = {
+        culture = quechua
+        religion = obbite
+        size = 117
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = obbite
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = obbite
+        size = 57
+    }
+
+    farmers = {
+        culture = quechua
+        religion = obbite
+        size = 6388
+    }
+}

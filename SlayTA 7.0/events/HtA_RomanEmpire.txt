@@ -1,0 +1,25 @@
+
+country_event = {
+	id = 50602
+	title = "EVTNAME50602" #Evangelos Melisurgos becomes a General
+	desc = "EVTDESC50602"
+	picture = "rosas_urquiza" #Grabbed the pic from HPM, called it good enough
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = BYZ
+		year = 1850
+	}
+
+	mean_time_to_happen = { months = 12 }
+	
+	option = {
+		name = "Good for him!"
+		define_general = {
+			name = "Evangelos Melisurgos"
+			personality = attack_4.1
+			background = defence_2.1
+		}
+	}
+}	

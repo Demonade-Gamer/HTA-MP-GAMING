@@ -1,9 +1,0 @@
-owner = NOR
-controller = NOR
-#ASH
-trade_goods = cattle
-life_rating = 35 
-fort = 1
-colonial = 2
-
-

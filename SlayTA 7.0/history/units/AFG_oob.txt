@@ -1,0 +1,102 @@
+army = {
+	name = "Army of the Sultan"
+	location = 1213
+	regiment = {
+		name= "1. 'Ateba"
+		type = cavalry
+		home = 1213
+	}
+	regiment = {
+		name= "2. 'Ateba"
+		type = cavalry
+		home = 1211
+	}
+	regiment = {
+		name= "3. 'Ateba"
+		type = infantry
+		home = 1212
+	}
+	regiment = {
+		name= "4. 'Ateba"
+		type = infantry
+		home = 1214
+	}
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 1220
+	}
+	regiment = {
+		name = "2. Division"
+		type = infantry
+		home = 1215
+	}
+}
+army = {
+	name = " 2nd Army of the Sultan"
+	location = 1215
+	regiment = {
+		name= "1. 'Ateba"
+		type = cavalry
+		home = 1215
+	}
+	regiment = {
+		name= "2. 'Ateba"
+		type = cavalry
+		home = 1217
+	}
+	regiment = {
+		name= "3. 'Ateba"
+		type = infantry
+		home = 1209
+	}
+	regiment = {
+		name= "4. 'Ateba"
+		type = infantry
+		home = 1209
+	}
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 1216	
+	}
+	regiment = {
+		name = "2. Division"
+		type = infantry
+		home = 1211
+	}
+}
+army = {
+	name = " 3rd Army of the Sultan"
+	location = 1216
+	regiment = {
+		name= "1. 'Ateba"
+		type = cavalry
+		home = 1212
+	}
+	regiment = {
+		name= "2. 'Ateba"
+		type = cavalry
+		home = 1213
+	}
+	regiment = {
+		name= "3. 'Ateba"
+		type = infantry
+		home = 1214
+	}
+	regiment = {
+		name= "4. 'Ateba"
+		type = infantry
+		home = 1215
+	}
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 1217
+	}
+	regiment = {
+		name = "2. Division"
+		type = infantry
+		home = 1209
+	}
+}

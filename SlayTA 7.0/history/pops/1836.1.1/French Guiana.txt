@@ -1,0 +1,113 @@
+#French Guiana (20000)
+#Ruled by Gidan 1836
+#Cayenne (17000/4250 POPS)
+2241 = {
+    aristocrats = {
+        culture = french
+        religion = obbite
+        size = 450
+    }
+    bureaucrats = {
+        culture = french
+        religion = obbite
+        size = 30
+    }
+    clergymen = {
+        culture = french
+        religion = obbite
+        size = 30
+    }
+    artisans = {
+        culture = french
+        religion = obbite
+        size = 300
+    }
+    soldiers = {
+        culture = french
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = french
+        religion = obbite
+        size = 240
+    }
+    artisans = {
+        culture = afro_antillean
+        religion = obbite
+        size = 7450
+    }
+    clergymen = {
+        culture = afro_antillean
+        religion = obbite
+        size = 2175
+    }
+    soldiers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 1550
+    }
+    farmers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 1275
+    }
+    farmers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 48850
+    }
+    aristocrats = {
+        culture = amazonian
+        religion = obbite
+        size = 6
+    }
+    clergymen = {
+        culture = amazonian
+        religion = obbite
+        size = 9
+    }
+    artisans = {
+        culture = amazonian
+        religion = obbite
+        size = 30
+    }
+    soldiers = {
+        culture = amazonian
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = amazonian
+        religion = obbite
+        size = 690
+    }
+}
+#Maripasoula (3000/750 POPS)
+2246 = {
+    aristocrats = {
+        culture = afro_antillean
+        religion = obbite
+        size = 130
+    }
+    clergymen = {
+        culture = afro_antillean
+        religion = obbite
+        size = 1545
+    }
+    artisans = {
+        culture = afro_antillean
+        religion = obbite
+        size = 5105
+    }
+    soldiers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 1550
+    }
+    farmers = {
+        culture = afro_antillean
+        religion = obbite
+        size = 27040
+    }
+}

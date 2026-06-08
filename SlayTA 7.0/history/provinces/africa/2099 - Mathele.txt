@@ -1,0 +1,7 @@
+owner = STE
+controller = STE
+add_core = STE
+add_core = SAF
+trade_goods = grain
+life_rating = 35 
+

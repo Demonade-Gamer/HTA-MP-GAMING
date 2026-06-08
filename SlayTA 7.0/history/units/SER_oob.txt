@@ -1,0 +1,150 @@
+
+army = {
+	name = "Army of the Principality of Serbia"
+	location = 794
+	regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 791
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 783
+	}
+
+	regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 2538
+	}
+
+	regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 2538
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 804
+	}
+	
+	regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 779
+	}
+	
+	regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 798
+	}
+	
+	regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 793
+	}
+	
+	regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 793
+	}
+	
+	regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 786
+	}
+}
+army = {
+	name = "2nd Army of the Principality of Serbia"
+	location = 793
+	regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 791
+	}
+	regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 792
+	}
+
+	regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 792
+	}
+
+	regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 795
+	}
+
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 794
+	}
+	
+	regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 797
+	}
+	
+	regiment = {
+		name= "2nd Artillery"
+		type = artillery
+		home = 804
+	}
+	
+	regiment = {
+		name= "3rd Artillery"
+		type = artillery
+		home = 798
+	}
+	
+	regiment = {
+		name= "4th Artillery"
+		type = artillery
+		home = 787
+	}
+	
+	regiment = {
+		name= "5th Artillery"
+		type = artillery
+		home = 792
+	}
+}
+AUS = { value = -200 }
+SIE = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+ARM = { value = -200 }
+HUN = { value = -200 }
+

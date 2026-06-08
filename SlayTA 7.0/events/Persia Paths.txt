@@ -1,0 +1,307 @@
+country_event = { 
+	id = 787079
+	title = "EVTNAME787079"
+	desc = "EVTDESC787079"
+	picture = aceh_jihad
+	fire_only_once = yes
+	
+	trigger = { 
+		tag = PER
+		NOT = { has_country_flag = path_started }
+	}
+	
+	option = { 
+		name = "EVTOPTA787079"
+		set_country_flag = iraq_path_question
+		set_country_flag = path_started
+		country_event = { id=787080 days=0 }
+		add_country_modifier = {
+			name = "iraq_integration_efforts"
+			duration = 1825
+		}
+	}
+	
+	option = { 
+		name = "EVTOPTB787079"
+		set_country_flag = turkestan_path_question
+		set_country_flag = path_started
+		country_event = { id=787084 days=0 }
+		add_country_modifier = {
+			name = "turkic_integration_efforts"
+			duration = 1825
+		}
+	}
+	
+	option = { 
+		name = "EVTOPTC787079"
+		set_country_flag = afghan_path_question
+		set_country_flag = path_started
+		country_event = { id=787082 days=0 }
+		add_country_modifier = {
+			name = "afghan_integration_efforts"
+			duration = 1825
+		}
+	}
+}
+country_event = { 
+	id = 787080
+	title = "Start the Iraq path"
+	desc = "This is the event that starts the Iraq path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = iraq_path_question
+		NOT = { has_country_flag = iraq_path }
+	}
+	
+	option = { 
+		name = "Path Started"
+		NEJ = { all_core = { add_core = IRQ } }
+		ABU = { all_core = { add_core = IRQ } }
+		OMA = { all_core = { add_core = IRQ } }
+		set_country_flag = iraq_path
+		clr_country_flag = iraq_path_question
+		set_country_flag = path_started
+		add_country_modifier = {
+			name = "iraq_integration_efforts"
+			duration = 1825
+		}
+		prestige = 5
+	}
+}
+country_event = { 
+	id = 787081
+	title = "You already took this path"
+	desc = "You idiot you already took this path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = iraq_path_question
+		has_country_flag = iraq_path
+	}
+	
+	option = { 
+		name = "Oh man"
+		clr_country_flag = iraq_path_question
+		country_event = { id=787078 days=0 }
+	}
+}
+country_event = { 
+	id = 787082
+	title = "Start the Afghan path"
+	desc = "This is the event that starts the Afghan path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = afghan_path_question
+		NOT = { has_country_flag = afghan_path }
+	}
+	
+	option = { 
+		name = "Path Started"
+		set_country_flag = afghan_path
+		clr_country_flag = afghan_path_question
+		set_country_flag = path_started
+		add_country_modifier = {
+			name = "afghan_integration_efforts"
+			duration = 1825
+		}
+		prestige = 5
+	}
+}
+country_event = { 
+	id = 787083
+	title = "You alreaady took this path"
+	desc = "You idiot you already took this path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = afghan_path_question
+		has_country_flag = afghan_path 
+	}
+	
+	option = { 
+		name = "Oh man"
+		clr_country_flag = afghan_path_question
+		country_event = { id=787078 days=0 }
+	}
+}
+country_event = { 
+	id = 787084
+	title = "Start the Turkestan path"
+	desc = "This is the event that starts the Turkestan path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = turkestan_path_question
+		NOT = { has_country_flag = turkestan_path }
+	}
+	
+	option = { 
+		name = "Path Started"
+		KOK = { all_core = { add_core = KHI } }
+		KZH = { all_core = { add_core = KHI } }
+		BUK = { all_core = { add_core = KHI } }
+		set_country_flag = turkestan_path
+		clr_country_flag = turkestan_path_question
+		add_country_modifier = {
+			name = "turkic_integration_efforts"
+			duration = 1825
+		}
+		set_country_flag = path_started
+		prestige = 5
+	}
+}
+country_event = { 
+	id = 787085
+	title = "You alreaady took this path"
+	desc = "You idiot you already took this path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = turkestan_path_question
+		has_country_flag = turkestan_path 
+	}
+	
+	option = { 
+		name = "Oh man"
+		clr_country_flag = turkestan_path_question
+		country_event = { id=787078 days=0 }
+	}
+}
+country_event = { 
+	id = 787086
+	title = "Start the Anatolian path"
+	desc = "This is the event that starts the Anatolian path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = anatolian_path_question
+		NOT = { has_country_flag = anatolian_path }
+	}
+	
+	option = { 
+		name = "Path Started"
+		set_country_flag = anatolian_path
+		has_country_flag = anatolian_path_question
+		set_country_flag = path_started
+		add_country_modifier = {
+			name = "anatolian_integration_efforts"
+			duration = 1825
+		}
+		TUR_885 = { add_core = TBZ }
+		RUS_1090 = { add_core = TBZ }
+		TUR_893 = { add_core = TBZ }
+		prestige = 5
+	}
+}
+country_event = { 
+	id = 787087
+	title = "You alreaady took this path"
+	desc = "You idiot you already took this path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = anatolian_path_question
+		has_country_flag = anatolian_path 
+	}
+	
+	option = { 
+		name = "Oh man"
+		clr_country_flag = anatolian_path_question
+		country_event = { id=787078 days=0 }
+	}
+}
+country_event = { 
+	id = 787088
+	title = "Start the Syrian path"
+	desc = "This is the event that starts the Syrian path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = syria_path_question
+		NOT = { has_country_flag = syria_path }
+	}
+	
+	option = { 
+		name = "Path Started"
+		set_country_flag = syria_path
+		set_country_flag = path_started
+		has_country_flag = syria_path_question
+		HDJ = { all_core = { add_core = SYR } }
+		YEM = { all_core = { add_core = SYR } }
+		add_country_modifier = {
+			name = "syrian_integration_efforts"
+			duration = 1825
+		}
+		prestige = 5
+	}
+}
+country_event = { 
+	id = 787089
+	title = "You alreaady took this path"
+	desc = "You idiot you already took this path"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = syria_path_question
+		has_country_flag = syria_path 
+	}
+	
+	option = { 
+		name = "Oh man"
+		clr_country_flag = syria_path_question
+		country_event = { id=787078 days=0 }
+	}
+}
+
+
+
+country_event = { 
+	id = 787078
+	title = "EVTNAME787079"
+	desc = "EVTDESC787079"
+	picture = aceh_jihad
+	
+	trigger = { 
+		tag = PER
+		has_country_flag = path_started
+		NOT = { AND = { has_country_modifier = turkic_integration_efforts  has_country_modifier = anatolian_integration_efforts  has_country_modifier = syrian_integration_efforts  has_country_modifier = iraq_integration_efforts  has_country_modifier = afghan_integration_efforts } }
+		NOT = { AND = { has_country_flag = syria_path has_country_flag = iraq_path has_country_flag = anatolian_path has_country_flag = turkestan_path has_country_flag = afghan_path } }
+	}
+	
+	option = { 
+		name = "EVTOPTD787079"
+		set_country_flag = syria_path_question
+	}
+	
+	option = { 
+		name = "EVTOPTA787079"
+		set_country_flag = iraq_path_question
+	}
+	
+	option = { 
+		name = "EVTOPTB787079"
+		set_country_flag = turkestan_path_question
+	}
+	
+	option = { 
+		name = "EVTOPTC787079"
+		set_country_flag = afghan_path_question
+	}
+	
+	option = { 
+		name = "EVTOPTE787079"
+		set_country_flag = anatolian_path_question
+	}
+}

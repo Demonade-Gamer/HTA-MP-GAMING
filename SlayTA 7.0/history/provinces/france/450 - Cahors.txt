@@ -1,0 +1,12 @@
+owner = AQT
+controller = AQT
+add_core = AQT
+trade_goods = timber
+life_rating = 35 
+
+
+state_building = {
+	level = 2 
+	building = artillery_factory
+	upgrade = yes
+}

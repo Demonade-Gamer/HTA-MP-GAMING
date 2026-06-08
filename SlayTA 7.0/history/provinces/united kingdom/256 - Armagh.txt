@@ -1,0 +1,8 @@
+owner = IRE
+controller = IRE
+
+trade_goods = fruit
+life_rating = 35 
+
+
+add_core = IRE

@@ -1,0 +1,8 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+add_core = GRE
+trade_goods = silk
+life_rating = 38 
+naval_base = 1
+

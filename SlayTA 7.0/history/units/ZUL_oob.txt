@@ -1,0 +1,79 @@
+BSH = {
+	value = 50
+}
+
+GAZ = {
+	value = 80
+}
+
+SUA = {
+	value = 100
+}
+
+XHO = {
+	value = 30
+}
+
+POR = {
+	value = 30
+}
+
+army = {
+	name = "Impi of the Zulu"
+	location = 2113
+	regiment = {
+		name= "1.Fasimba"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "2.Fasimba"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "3.Fasimba"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "1.ThulwABN"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "2.ThulwABN"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "3.ThulwABN"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "1.Gobamakhosi"
+		type = irregular
+		home = 2112
+	}
+
+	regiment = {
+		name= "2.Gobamakhosi"
+		type = irregular
+		home = 2112
+	}
+
+	regiment = {
+		name= "3.Gobamakhosi"
+		type = irregular
+		home = 2112
+	}
+
+}
+

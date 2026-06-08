@@ -1,0 +1,12 @@
+owner = HIS
+controller = HIS
+add_core = POR
+add_core = HIS
+trade_goods = fish
+life_rating = 35 
+naval_base = 1
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}

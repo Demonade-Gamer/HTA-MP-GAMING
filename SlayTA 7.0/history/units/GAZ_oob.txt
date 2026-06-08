@@ -1,0 +1,32 @@
+ZUL = {
+	value = 80
+}
+
+MAT = {
+	value = 20
+}
+
+SUA = {
+	value = 100
+}
+
+SHO = {
+	value = 10
+}
+
+army = {
+	name = "Army of the Gaza Kingdom"
+	location = 2050
+	regiment = {
+		name= "King's Guard"
+		type = irregular
+		home = 2050
+	}
+
+	regiment = {
+		name= "Gaza Warriors"
+		type = irregular
+		home = 2051
+	}
+
+}

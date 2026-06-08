@@ -1,0 +1,160 @@
+country_event = { ##The Baby boom
+	id = 650248
+	title = "Our minimal investments paid off!"
+	desc = "By putting between 1 and 2 million in the investment pool, you have achieved the minimum amount needed for a modifier from your investments. This lasts only 5 years. Good job!"
+	picture = "vitebsk"
+	
+	trigger = { 
+	OR = {
+		tag = FIN
+		tag = SCA
+	}
+	year = 1850
+	NOT = { has_country_flag = aqui_boom } 
+	FIN = {
+		check_variable = {
+				which = aqui_boom
+				value = 10
+		}
+	}
+	NOT = { 
+		FIN = {
+			check_variable = {
+				which = aqui_boom
+				value = 20
+			}
+		}
+	}
+	}
+	mean_time_to_happen = { 
+		months = 1 
+	}
+	
+	option = { 
+	name = "This will surely pay off."
+	add_country_modifier = { name = 5_big_booms duration = 1825 }
+	set_country_flag = aqui_boom
+	}
+}
+country_event = { ##The Baby boom
+	id = 650249
+	title = "Medium modifier achieved!"
+	desc = "By investing between 2-3 million, you have achieved the amount needed for the medium pop growth modifier, lasting 10 years."
+	picture = "vitebsk"
+	
+	trigger = {
+	OR = {
+		tag = FIN
+		tag = SCA
+	}
+	year = 1850
+	NOT = { has_country_flag = aqui_boom }
+		FIN = { 
+			check_variable = {
+						which = aqui_boom
+						value = 20
+			}
+		}
+		NOT = { 
+			FIN = {
+				check_variable = {
+					which = aqui_boom
+					value = 30
+				}
+			}
+		}
+	}
+	mean_time_to_happen = { 
+	months = 1 
+	}
+	
+	option = { 
+	name = "Hopefully it was worth."
+	add_country_modifier = { name = 10_big_booms duration = 3650 }
+	set_country_flag = aqui_boom
+	}
+}
+country_event = { ##The Baby boom
+	id = 650250
+	title = "Our investments were a success!"
+	desc = "By putting in 3 or more million into the investment pool, you have achieved enough for the maximum modifier! This gives extra pop growth (among other things) for 15 years! Great job!"
+	picture = "vitebsk"
+	
+	trigger = { 
+	OR = {
+		tag = FIN
+		tag = SCA
+	}
+		year = 1850
+		NOT = { has_country_flag = aqui_boom }
+		FIN = { 
+			check_variable = {
+						which = aqui_boom
+						value = 30
+			}
+		}
+	}
+	
+	mean_time_to_happen = { 
+	months = 1 
+	}
+	
+	option = { 
+	name = "This will be big"
+	add_country_modifier = { name = 15_big_booms duration = 5475 }
+	set_country_flag = aqui_boom
+	}
+}
+
+country_event = { ## investment
+	id = 650251
+	is_triggered_only = yes
+	title = "Choose investment in the Bank"
+	desc = "How much money would you like to give?"
+	option = {
+	name = "0 pounds"
+	}
+	option = {
+	name = "100000 pounds"
+	ai_chance = {factor = 100}
+	treasury = -100000
+	FIN = {
+		change_variable = {
+			which = aqui_boom
+			value = 1
+		}
+	}
+}
+	option = {
+	name = "250000 pounds"
+	treasury = -250000
+	FIN = { 
+		change_variable = {
+			which = aqui_boom
+			value = 2.5
+		}
+	}
+}
+	option = {
+	name = "500000 pounds"
+	treasury = -500000
+	FIN = { 
+		change_variable = {
+			which = aqui_boom
+			value = 5
+		}
+	}
+}  
+	option = {
+	name = "1000000 pounds"
+	treasury = -1000000
+	FIN = { 
+		change_variable = {
+			which = aqui_boom
+			value = 10
+		}
+	}
+}  
+}
+
+

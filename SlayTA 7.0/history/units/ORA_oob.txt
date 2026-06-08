@@ -1,0 +1,21 @@
+GAZ = {
+	value = 20
+}
+
+XHO = {
+	value = 50
+}
+
+SUA = {
+	value = 50
+}
+
+army = {
+	name = "Dictatorial army"
+	location = 2108
+	regiment = {
+		name= "Dictator's Men"
+		type = infantry
+		home = 2108
+	}
+}

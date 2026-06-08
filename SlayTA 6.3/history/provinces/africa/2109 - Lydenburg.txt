@@ -1,8 +1,0 @@
-owner = ORA
-controller = ORA
-add_core = ORA
-trade_goods = coal
-life_rating = 35 
-terrain = forest
-
-add_core = SAF

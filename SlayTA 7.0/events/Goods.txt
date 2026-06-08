@@ -1,0 +1,1511 @@
+
+###############################
+#        RUBBER EVENTS        #
+###############################
+province_event = {
+	
+	id = 1107
+
+	trigger = {
+		OR = {
+			province_id = 1354
+			province_id = 1364
+			province_id = 1367
+			province_id = 1382
+			province_id = 1384
+			province_id = 1385
+			province_id = 1386
+			province_id = 1389
+			province_id = 1402
+			province_id = 1404
+			province_id = 1827
+			province_id = 1829
+			province_id = 1833
+			province_id = 1836
+			province_id = 1837
+			province_id = 1848
+			province_id = 1850
+			province_id = 1890
+			province_id = 1891
+			province_id = 1923
+		}
+		NOT = { trade_goods = rubber }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = {
+				OR = {
+					combustion_engine = 1
+					electricity = 1
+					semi_automatization = 1
+				}
+			}
+			any_greater_power = { 			
+				OR = {
+					electricity = 1 
+					combustion_engine = 1
+					assembly_line =  1
+				}
+			}
+			owner = {
+				any_neighbor_country = { 
+					OR = {
+						electricity = 1 
+						combustion_engine = 1
+						assembly_line =  1
+					}
+				}
+			}
+			owner = { has_global_flag = rubber_found }
+		}
+	}
+
+	mean_time_to_happen =  {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { combustion_engine = 1 }
+				NOT = { electricity = 1 }
+				NOT = { semi_automatization = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1107"
+	desc = "EVTDESC1107"
+	picture = ""
+
+	option = {
+		name = "EVTOPTA1107"
+		owner = { set_global_flag = rubber_found }
+		trade_goods = rubber
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+	}
+}
+
+province_event = {
+	
+	id = 1108
+
+	trigger = {
+		year = 1890
+		OR = {
+			province_id = 1926
+			province_id = 1929
+			province_id = 1931
+			province_id = 1932
+			province_id = 1957
+			province_id = 1986
+			province_id = 1988
+			province_id = 1989
+			province_id = 1996
+			province_id = 2192
+			province_id = 2317
+			province_id = 2318
+			province_id = 2319
+			province_id = 2321
+			province_id = 2402
+			province_id = 2404
+			province_id = 2405
+			province_id = 2549
+			province_id = 2550
+			province_id = 2600
+		}
+		NOT = { trade_goods = rubber }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = {
+				OR = {
+					combustion_engine = 1
+					electricity = 1
+					semi_automatization = 1
+				}
+			}
+			any_greater_power = { 			
+				OR = {
+					electricity = 1 
+					combustion_engine = 1
+					assembly_line =  1
+				}
+			}
+			owner = {
+				any_neighbor_country = { 
+					OR = {
+						electricity = 1 
+						combustion_engine = 1
+						assembly_line =  1
+					}
+				}
+			}
+			owner = { has_global_flag = rubber_found }
+		}
+	}
+
+	mean_time_to_happen =  {
+		months = 36
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { combustion_engine = 1 }
+				NOT = { electricity = 1 }
+				NOT = { semi_automatization = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1107"
+	desc = "EVTDESC1107"
+	picture = ""
+
+	option = {
+		name = "EVTOPTA1107"
+		owner = { set_global_flag = rubber_found }
+		trade_goods = rubber
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rating = 5
+	}
+}
+
+############################
+#        OIL EVENTS        #
+############################
+province_event = {
+
+	id = 1109
+
+	trigger = {
+		year = 1870
+		OR = {
+			province_id = 1102		# Baku
+			province_id = 1205		# Kizil Arvat
+		}
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1110
+
+	trigger = {
+		year = 1871
+		province_id = 1104		# Sheki
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1111
+
+	trigger = {
+		year = 1872
+		province_id = 1186		# Alma Ata
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1112
+
+	trigger = {
+		year = 1873
+		province_id = 1202		# Kokand
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1113
+
+	trigger = {
+		year = 1874
+		province_id = 1107		# Lankaran
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1114
+
+	trigger = {
+		year = 1875
+		province_id = 132		# Houston
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1115
+
+	trigger = {
+		year = 1876
+		province_id = 664		# Bucharest
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1116
+
+	trigger = {
+		year = 1877
+		province_id = 672		# Bacau
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1117
+
+	trigger = {
+		year = 1879
+		province_id = 1168		# Dubai
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 1.5
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		owner = { set_global_flag = oil_found }
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1118
+
+	trigger = {
+		year = 1881
+		province_id = 110		# Cheyenne
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1119
+
+	trigger = {
+		year = 1882
+		OR = {
+			province_id = 89		# Los Angeles
+			province_id = 133		# Austin
+			province_id = 126		# Topeka
+		}
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1120
+
+	trigger = {
+		year = 1883
+		OR = {
+			province_id = 1399		# Palembang
+			province_id = 1055		# Grozny
+		}
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1121
+
+	trigger = {
+		year = 1885
+		OR = {
+			province_id = 1393		# Brunei
+			province_id = 1401		# Siak
+			province_id = 1425		# Tarakan
+			province_id = 1432		# Mamuju
+		}
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+
+province_event = {
+
+	id = 1122
+
+	trigger = {
+		year = 1886
+		OR = {
+			province_id = 1335		# Kyaukse
+			province_id = 134		# Dallas
+			province_id = 705		# Przemysl
+		}
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1123
+
+	trigger = {
+		year = 1889
+		province_id = 1260		# Dibrugarh
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1124
+
+	trigger = {
+		year = 1892
+		province_id = 1086		# Pogobi
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1125
+
+	trigger = {
+		year = 1893
+		OR = {
+			province_id = 129		# Oklahoma City
+			province_id = 1680		# Fez
+		}
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1126
+
+	trigger = {
+		year = 1894
+		province_id = 2173		# Queretaro
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1127
+
+	trigger = {
+		year = 1896
+		OR = {
+			province_id = 87		# Monterey
+			province_id = 2162		# Veracruz
+			province_id = 2163		# Tampico
+			province_id = 702		# Lvov
+		}
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1128
+
+	trigger = {
+		year = 1897
+		province_id = 1397		# Sandakan
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1129
+
+	trigger = {
+		year = 1902
+		province_id = 2237		# Trinidad
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1130
+
+	trigger = {
+		year = 1907
+		province_id = 2396		# Rawson
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1131
+
+	trigger = {
+		year = 1908
+		province_id = 1131		# Ahvaz
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1132
+
+	trigger = {
+		year = 1910
+		OR = {
+			province_id = 1732		# Ghayran
+			province_id = 1720		# Timimoun
+			province_id = 1167		# Abu Dhabi
+			province_id = 1163		# Qatif
+			province_id = 2270		# Maracaibo
+			province_id = 1170		# Nizwa 
+		}
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1133
+
+	trigger = {
+		year = 1912
+		province_id = 1132		# Abadan
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1134
+
+	trigger = {
+		year = 1913
+		province_id = 26		# Calgary
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		change_province_name = "Calgary"
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1135
+
+	trigger = {
+		year = 1915
+		province_id = 2291		# Piura
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1136
+
+	trigger = {
+		year = 1917
+		province_id = 849		# Tirana
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1137
+
+	trigger = {
+		year = 1923
+		province_id = 928		# Mendeli
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}
+
+province_event = {
+
+	id = 1138
+
+	trigger = {
+		year = 1927
+		province_id = 923		# Mosul
+		NOT = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { organic_chemistry = 1 }
+			any_greater_power = { organic_chemistry = 1 }
+			owner = {
+				any_neighbor_country = { organic_chemistry = 1 }
+			}
+			owner = { has_global_flag = oil_found }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		modifier = {
+			factor = 3
+			owner = {
+				NOT = { organic_chemistry = 1 }
+			}
+		}
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		add_province_modifier = {
+			name = switched_production
+			duration = 1825
+		}
+		# life_rate = 5
+	}
+}

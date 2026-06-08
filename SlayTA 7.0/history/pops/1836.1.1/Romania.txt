@@ -1,0 +1,2565 @@
+#Partium Region (1288000) #See Hungary.txt for balance of region
+#under the rule of Austria in 1836
+#Oradea (844000/211000 POPS) #part of Romania today
+647 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = romanian
+        religion = obbite
+        size = 750
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 6500
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1850
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 85900
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 2500
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = obbite
+        size = 1050
+    }
+
+    officers = {
+        culture = hungarian
+        religion = obbite
+        size = 300
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 300
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1400
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 2300
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 30250
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 2000
+    }
+
+    officers = {
+        culture = hungarian
+        religion = obbite
+        size = 350
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 375
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 2100
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 400
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 63775
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 825
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 450
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 75
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 5425
+    }
+}
+#Szatmar (444000/111000 POPS) #part of Romania today
+651 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 550
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 2500
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 40450
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 1250
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 175
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 900
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 400
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 15475
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 1500
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 225
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1300
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 850
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 31725
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 825
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 450
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 75
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 6425
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 750
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 4150
+    }
+}
+#Banat-Bacska Region (1240000) #See romaniania.txt and romaniania.txt for balance of region
+#under the rule of Austria in 1836
+#Temesvar (940000/235000 POPS) #part of Romania today
+652 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 275
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1400
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1300
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 29025
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = obbite
+        size = 600
+    }
+
+    officers = {
+        culture = hungarian
+        religion = obbite
+        size = 375
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 230
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1200
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 850
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 22500
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 230
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 335
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1900
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 230
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 35275
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = romanian
+        religion = obbite
+        size = 255
+    }
+
+    officers = {
+        culture = romanian
+        religion = obbite
+        size = 190
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 550
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 2500
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 650
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 23025
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 850
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 200
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 18800
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 550
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 750
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 49500
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 4725
+    }
+}
+#Orsova (376000/94000 POPS) #part of Romania today
+653 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 600
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1250
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 63600
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 750
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 200
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 16150
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 1100
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 150
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 12900
+    }
+}
+#Transylvania Region (2060000)
+#under the rule of Austria in 1836
+#Cluj (156000/44000 POPS)
+654 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = romanian
+        religion = obbite
+        size = 900
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 4800
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 45325
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = obbite
+        size = 775
+    }
+
+    officers = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 120
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 1650
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 120
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 5375
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = obbite
+        size = 600
+    }
+
+    officers = {
+        culture = hungarian
+        religion = obbite
+        size = 600
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 200
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 3400
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 300
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 13300
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = romanian
+        religion = obbite
+        size = 550
+    }
+
+    officers = {
+        culture = romanian
+        religion = obbite
+        size = 250
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 180
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1850
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 150
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 7320
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 125
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 3175
+    }
+}
+#Gyulafehervar/Alba Iulia (316000/79000 POPS)
+655 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 525
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 2800
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1550
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 52125
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 600
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 200
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 3100
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 850
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 100
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 8475
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 350
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 350
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 75
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 6175
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1175
+    }
+}
+#Deva (252000/63000 POPS)
+656 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 425
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 2500
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1050
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 46575
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 150
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 2175
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 700
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 300
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 4900
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 25
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 100
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 1850
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1175
+    }
+}
+#Nagyszeben/Sibiu (276000/69000 POPS)
+657 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = romanian
+        religion = obbite
+        size = 750
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1800
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1350
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 33500
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 200
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 125
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 2100
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 1050
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 275
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 850
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 11775
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 950
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 225
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1250
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 250
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 21325
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1175
+    }
+}
+#Brasso/Brasov (168000/42000 POPS)
+659 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 225
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1250
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 23275
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 200
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 400
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 1325
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = obbite
+        size = 250
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = obbite
+        size = 2825
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 350
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 2400
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 100
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 6075
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1175
+    }
+}
+#Udvarhely (228000/57000 POPS)
+660 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 400
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 375
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 7450
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 300
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 750
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 250
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 13650
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 600
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 300
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1550
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 800
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 28250
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 150
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 1775
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1175
+    }
+}
+#Beszterce (300000/75000 POPS)
+661 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 550
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 2500
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1100
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 49500
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 350
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 200
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 3350
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 600
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 400
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 75
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 6850
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 400
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 425
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 75
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 7025
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1175
+    }
+}
+#Targu Mures (344000/86000 POPS)
+2533 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 250
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1300
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 700
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 26150
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 700
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 150
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 275
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 14175
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 900
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 300
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1600
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 825
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 28875
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 200
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 350
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 5350
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1175
+    }
+}
+#Bukovina Region (204000) #See Ukraine.txt for balance of region
+#under the rule of Austria in 1836
+#Suceava (204000/51000 POPS)
+663 = {
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 250
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1250
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 250
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 24250
+    }
+
+    clergymen = {
+        culture = ruthenian
+        religion = obbite
+        size = 125
+    }
+
+    artisans = {
+        culture = ruthenian
+        religion = obbite
+        size = 700
+    }
+
+    soldiers = {
+        culture = ruthenian
+        religion = obbite
+        size = 150
+    }
+
+    farmers = {
+        culture = ruthenian
+        religion = obbite
+        size = 14025
+    }
+
+    aristocrats = {
+        culture = ruthenian
+        religion = obbite
+        size = 600
+    }
+
+    clergymen = {
+        culture = ruthenian
+        religion = obbite
+        size = 75
+    }
+
+    artisans = {
+        culture = ruthenian
+        religion = obbite
+        size = 175
+    }
+
+    soldiers = {
+        culture = ruthenian
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = ruthenian
+        religion = obbite
+        size = 2100
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 600
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 50
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 4300
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = obbite
+        size = 800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = obbite
+        size = 1125
+    }
+}
+#Wallachia Region (1228000)
+#under the rule of Wallachia in 1836
+#Bucharest (260000/65000 POPS)
+664 = {
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = romanian
+        religion = obbite
+        size = 350
+    }
+
+    officers = {
+        culture = romanian
+        religion = obbite
+        size = 300
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 600
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 23000
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 23000
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1100
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 43000
+    }
+
+    slaves = {
+        culture = romanian
+        religion = obbite
+        size = 9220
+    }
+	
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 33650
+    }
+}
+#Tirgu Jiu (172000/43000 POPS)
+665 = {
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 750
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 400
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 1950
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 400
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 35000
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 20000
+    }
+
+    slaves = {
+        culture = romanian
+        religion = obbite
+        size = 4500
+    }
+}
+#Craiova (196000/49000 POPS)
+666 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = obbite
+        size = 900
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 450
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 2250
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 450
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 43200
+    }
+
+    slaves = {
+        culture = romanian
+        religion = obbite
+        size = 4800
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 8950
+    }
+}
+#Tirgoviste (188000/47000 POPS)
+667 = {
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 750
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 425
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 2150
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 450
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 58625
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 30700
+    }
+}
+#Braila (272000/68000 POPS)
+668 = {
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 1200
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 625
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 3100
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1100
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 38000
+    }
+
+    slaves = {
+        culture = bulgarian
+        religion = obbite
+        size = 32075
+    }
+
+    slaves = {
+        culture = romanian
+        religion = obbite
+        size = 2000
+    }
+}
+#Calarasi (140000/35000 POPS)
+669 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = obbite
+        size = 650
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 325
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 1600
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = obbite
+        size = 1100
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 30000
+    }
+
+    slaves = {
+        culture = ruthenian
+        religion = obbite
+        size = 2425
+    }
+
+    slaves = {
+        culture = romanian
+        religion = obbite
+        size = 2000
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 2350
+    }
+}
+#Moldavia Region (1356000)
+#under the rule of Moldavia in 1836
+#Iasi (468000/117000 POPS)
+670 = {
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 2250
+    }
+
+    bureaucrats = {
+        culture = romanian
+        religion = obbite
+        size = 575
+    }
+
+    officers = {
+        culture = romanian
+        religion = obbite
+        size = 350
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 1175
+    }
+
+    artisans = {
+        culture = ruthenian
+        religion = obbite
+        size = 7500
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 7500
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 3000
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 60000
+    }
+
+    farmers = {
+        culture = ruthenian
+        religion = obbite
+        size = 55000
+    }
+
+    slaves = {
+        culture = bulgarian
+        religion = obbite
+        size = 16160
+    }
+}
+#Botosani (176000/44000 POPS)
+671 = {
+    aristocrats = {
+        culture = ruthenian
+        religion = obbite
+        size = 850
+    }
+
+    clergymen = {
+        culture = ruthenian
+        religion = obbite
+        size = 450
+    }
+
+    artisans = {
+        culture = ruthenian
+        religion = obbite
+        size = 2200
+    }
+
+    soldiers = {
+        culture = ruthenian
+        religion = obbite
+        size = 450
+    }
+
+    farmers = {
+        culture = ruthenian
+        religion = obbite
+        size = 40050
+    }
+
+    slaves = {
+        culture = romanian
+        religion = obbite
+        size = 10000
+    }
+
+    slaves = {
+        culture = bulgarian
+        religion = obbite
+        size = 1050
+    }
+}
+#Bacau (440000/110000 POPS)
+672 = {
+    aristocrats = {
+        culture = romanian
+        religion = obbite
+        size = 2000
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 1050
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 5500
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 2000
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 89450
+    }
+
+    farmers = {
+        culture = ruthenian
+        religion = obbite
+        size = 15000
+    }
+}
+#Galati (272000/68000 POPS)
+673 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = obbite
+        size = 1300
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = obbite
+        size = 675
+    }
+
+    artisans = {
+        culture = romanian
+        religion = obbite
+        size = 5500
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = obbite
+        size = 1100
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 21125
+    }
+
+    farmers = {
+        culture = romanian
+        religion = obbite
+        size = 31125
+    }
+
+    farmers = {
+        culture = ruthenian
+        religion = obbite
+        size = 24400
+    }
+}
+#Dobruja Region (168000) #see Bulgaria.txt for balance of Region
+#under the rule of the Roman Empire in 1836
+#Constanta (128000/32000 POPS)
+674 = {
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 550
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 10450
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 650
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 12350
+    }
+
+    aristocrats = {
+        culture = roman
+        religion = obbite
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = roman
+        religion = obbite
+        size = 75
+    }
+
+    officers = {
+        culture = roman
+        religion = obbite
+        size = 35
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 325
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 1250
+    }
+
+    soldiers = {
+        culture = roman
+        religion = obbite
+        size = 360
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 2500
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 2165
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 40
+    }
+}
+#Tulcea (40000/10000 POPS)
+675 = {
+    clergymen = {
+        culture = bulgarian
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = obbite
+        size = 250
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 25700
+    }
+
+    aristocrats = {
+        culture = roman
+        religion = obbite
+        size = 150
+    }
+
+    clergymen = {
+        culture = roman
+        religion = obbite
+        size = 50
+    }
+
+    artisans = {
+        culture = roman
+        religion = obbite
+        size = 200
+    }
+
+    soldiers = {
+        culture = roman
+        religion = obbite
+        size = 90
+    }
+
+    farmers = {
+        culture = roman
+        religion = obbite
+        size = 950
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = obbite
+        size = 1200
+    }
+
+    clergymen = {
+        culture = ruthenian
+        religion = obbite
+        size = 25
+    }
+
+    artisans = {
+        culture = ruthenian
+        religion = obbite
+        size = 150
+    }
+
+    farmers = {
+        culture = ruthenian
+        religion = obbite
+        size = 8850
+    }
+}
+
+1722 = {
+	aristocrats = {
+		culture = romanian
+		religion = obbite
+		size = 150
+	}
+	bureaucrats = {
+		culture = romanian
+		religion = obbite
+		size = 1150
+	}
+	clergymen = {
+		culture = romanian
+		religion = obbite
+		size = 2100
+	}
+	soldiers = {
+		culture = romanian
+		religion = obbite
+		size = 2150
+	}
+	farmers = {
+		culture = romanian
+		religion = obbite
+		size = 48000
+	}
+	aristocrats = {
+		culture = hungarian
+		religion = obbite
+		size = 150
+	}
+	bureaucrats = {
+		culture = hungarian
+		religion = obbite
+		size = 300
+	}
+	clergymen = {
+		culture = hungarian
+		religion = obbite
+		size = 2100
+	}
+	soldiers = {
+		culture = hungarian
+		religion = obbite
+		size = 2150
+	}
+	farmers = {
+		culture = hungarian
+		religion = obbite
+		size = 48000
+	}
+}

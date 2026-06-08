@@ -1,0 +1,15 @@
+political_decisions = {
+	1836_states = {
+		potential = {
+			tag = GHO
+			NOT = { has_country_flag = 1836 }
+		}
+		allow = {
+		}
+		effect = { 
+			country_event = 700700
+			country_event = 99937949
+			set_country_flag = 1836
+		}
+	}
+}

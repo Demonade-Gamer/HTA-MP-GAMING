@@ -1,7 +1,0 @@
-owner = MOD
-controller = MOD
-add_core = MOD
-terrain = hills
-trade_goods = coal
-life_rating = 35 
-add_core = PDN

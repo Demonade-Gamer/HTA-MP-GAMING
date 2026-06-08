@@ -1,0 +1,168 @@
+political_decisions = {
+#Declaration of Mantua - PDN gains Free People CBs against NPL for TUS and adds core on RMG
+	mantua_decree = {
+		picture = the_rights_of_man
+		potential = {
+			tag = PDN
+			NOT = { has_country_flag = total_nap_death }
+		}
+		
+		allow = {
+			OR = {
+				state_n_government = 1
+				has_global_flag = TUS_fell
+
+				}
+		}
+		effect = {
+			prestige = 5
+			set_country_flag = total_nap_death
+			RMG = { all_core = { add_core = THIS } }
+			TUS = { all_core = { add_core = THIS } }
+		}
+	}
+
+	cisalpine_illyria = {
+		picture = conquest_adriatic
+		potential = {
+			tag = PDN
+			NOT = { has_country_flag = cisalpine_illyria }
+		}
+
+		allow = {
+			SLO = { all_core = { OR = { owned_by = THIS owner = { vassal_of = THIS } } } }
+			ideological_thought = 1
+		}
+
+		effect = {
+			PDN = { inherit = SLO }
+			badboy = 10
+			add_accepted_culture = croat
+			CRO = { all_core = { add_core = PDN } }
+			SLO = { all_core = { add_core = PDN } }
+			set_country_flag = cisalpine_illyria
+		}
+	}	
+
+	cisalpine_arbenon = {
+		picture = map_balkans
+		potential = {
+			tag = PDN
+			NOT = { has_country_flag = cisalpine_illyria }
+		}
+
+		allow = {
+			revolution_n_counterrevolution = 1
+			SER = { all_core = { OR = { owned_by = THIS owner = { vassal_of = THIS } owner = { in_sphere = THIS } } } } 
+			ALB = { all_core = { OR = { owned_by = THIS owner = { vassal_of = THIS } owner = { in_sphere = THIS } } } } 
+			MNT = { all_core = { OR = { owned_by = THIS owner = { vassal_of = THIS } owner = { in_sphere = THIS } } } } 
+			MCD = { all_core = { OR = { owned_by = THIS owner = { vassal_of = THIS } owner = { in_sphere = THIS } } } }
+		}
+
+		effect = {
+			badboy = 5
+			add_accepted_culture = serb
+			SER = { all_core = { add_core = PDN } }
+			ALB = { all_core = { add_core = PDN } }
+			MNT = { all_core = { add_core = PDN } }
+			MCD = { all_core = { add_core = PDN } }
+			inherit = SER
+			inherit = ALB
+			inherit = MNT
+			inherit = MCD
+			set_country_flag = cisalpine_macedonia
+		}
+	}	
+
+	headwaters_po = {
+		picture = PoBridge
+		potential = {
+			tag = PDN
+			NOT = { has_country_flag = claimed_piemont }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			prestige = 5
+			DAU = { all_core = { add_core = PDN } }
+			set_country_flag = claimed_piemont
+		}
+	}
+
+	cisalpines_liberated = {
+		picture = establish_pansalvism
+		potential = {
+			tag = PDN
+			NOT = { has_country_flag = cisalpines_zased }
+		}
+		allow = {
+			DAU = { all_core = { owned_by = PDN } }
+			RMG = { all_core = { owned_by = PDN } }
+			TUS = { all_core = { owned_by = PDN } }
+		}
+		effect = {
+			prestige = 5
+			DAU = { all_core = { remove_core = DAU add_province_modifier = { name = cisalpine_assimilation duration = 3000 } } }
+			RMG = { all_core = { remove_core = RMG add_province_modifier = { name = cisalpine_assimilation duration = 3000 }} }
+			TUS = { all_core = { remove_core = TUS add_province_modifier = { name = cisalpine_assimilation duration = 3000 } } }
+			set_country_flag = cisalpines_zased
+		}
+	}
+
+	alpines_cis = {
+		picture = Glaschu
+		potential = {
+			tag = PDN
+			has_country_flag = cisalpines_zased
+			NOT = { has_country_flag = aplines_cissed }
+		}
+		allow = {
+			AUS = { all_core = { owned_by = PDN } }
+			SWI = { all_core = { owned_by = PDN } }
+		}
+		effect = {
+			prestige = 5
+			AUS = { all_core = { add_core = PDN add_province_modifier = { name = cisalpine_assimilation duration = 3000 } } }
+			SWI = { all_core = {  add_province_modifier = { name = cisalpine_assimilation duration = 3000 } } }
+			set_country_flag = aplines_cissed
+		}
+	}
+
+conquest_of_italy = {
+		picture = enslave_the_undesireables
+		potential = {
+			tag = PDN
+			NOT = { has_country_flag = italians_conquered }
+			NOT = { has_country_flag = scaglia_decree }
+		}
+
+		allow = {
+			ITA = { exists = no }
+			ITA = { all_core = { owned_by = THIS } }
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+				set_country_flag = italians_conquered
+				add_accepted_culture = north_italian
+				ITA = { 
+					all_core = { 
+						add_core = PDN 
+						remove_core = ITA
+					}
+				}
+				SRD = { 
+					all_core = { 
+						add_core = PDN 
+						remove_core = SRD
+					}
+				}
+				NPL = { 
+					all_core = { 
+						add_core = PDN
+						remove_core = NPL
+					}
+				}
+		}
+	}
+}

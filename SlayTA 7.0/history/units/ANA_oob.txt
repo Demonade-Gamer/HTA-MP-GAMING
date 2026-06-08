@@ -1,0 +1,79 @@
+BRT = { value = -200 }
+WLL = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+SER = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+ARM = { value = -200 }
+
+army = {
+	name = "Army of Trapizon"
+	location = 873
+	regiment = {
+		name= "1-1 Line Infantry"
+		type = infantry
+		home = 873
+	}
+	regiment = {
+		name= "1-2 Line Infantry"
+		type = infantry
+		home = 876
+	}
+	regiment = {
+		name= "1-3 Line Infantry"
+		type = infantry
+		home = 874
+	}
+	regiment = {
+		name= "1-4 Line Infantry"
+		type = infantry
+		home = 875
+	}
+	regiment = {
+		name= "1. Cavalry Guards"
+		type = hussar
+		home = 878
+	}
+	regiment = {
+		name= "1-1 Artillery Division"
+		type = artillery
+		home = 877
+	}
+	regiment = {
+		name= "1-2 Artillery Division"
+		type = artillery
+		home = 876
+	}
+	regiment = {
+		name= "1-3 Artillery Division"
+		type = artillery
+		home = 877
+	}
+	regiment = {
+		name= "1-4 Artillery Division"
+		type = artillery
+		home = 875
+	}
+	regiment = {
+		name= "1-5 Artillery Division"
+		type = artillery
+		home = 874
+	}
+}

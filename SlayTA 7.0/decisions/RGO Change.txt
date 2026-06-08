@@ -1,0 +1,34 @@
+political_decisions = {
+		
+		rgo_change_mining = {
+				potential = {
+					NOT = { has_country_modifier = rgo_changed }
+					ai = no
+				}	
+				allow = {
+					NOT = { war = yes }
+					NOT = { has_country_flag = rgo_changed_flag }
+				}
+				effect = {
+					country_event = { 
+						id = 199936
+					}
+				}
+		}
+		
+		rgo_change_agriculture = {
+				potential = {
+					NOT = { has_country_modifier = rgo_changed }
+					ai = no
+				}	
+				allow = {
+					NOT = { war = yes }
+					NOT = { has_country_flag = rgo_changed_flag }
+				}
+				effect = {
+					country_event = {
+						id = 199937
+					}
+				}
+		}
+}

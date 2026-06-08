@@ -1,0 +1,21 @@
+owner = VAL
+controller = VAL
+add_core = VAL
+trade_goods = fish
+life_rating = 35 
+naval_base = 2
+state_building = {
+	level = 1 
+	building = glass_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}

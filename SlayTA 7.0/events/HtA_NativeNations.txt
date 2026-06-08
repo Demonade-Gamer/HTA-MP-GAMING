@@ -1,0 +1,103 @@
+#Event to set up native nations
+country_event = {
+
+	title = "EVTNAME95599"
+	desc = "EVTDESC95599"
+	id = 95599
+
+	picture = "geronimo"
+
+	trigger = {
+		OR = {
+			tag = SHC
+			tag = INC
+			is_culture_group = native_american
+		}
+		NOT = {
+			has_country_modifier = native_societies1
+			has_country_modifier = native_societies2
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+		modifier = {
+			factor = 0.01
+			year = 1836
+		}
+	}
+
+	option = {
+		name = "EVTOPTA95599"
+		set_country_flag = has_native_societies
+		add_country_modifier = {
+			name = native_societies1
+			duration = -1
+		}
+		add_country_modifier = {
+			name = native_societies2
+			duration = -1
+		}
+	}
+}	
+
+country_event = {
+	title = "End of the Natives"
+	desc = "With the last of the Native Amerigan tribes having been conquered, their existence on this continent is fast becoming a dim memory. It is time for their people to become integrated into our modern society."
+	id = 95605
+	
+	picture = "geronimo"
+	
+	trigger = {
+		year = 1885
+		NOT = {
+			exists = SHC
+			exists = INC
+		}
+		any_owned_province = {
+			OR = {
+				is_core = SHC
+				is_core = INC
+			}
+		}
+		NOT = { has_country_flag = native_cores_removed }
+		NOT = { has_global_flag = native_civved }
+	}
+	
+	mean_time_to_happen = {
+		years = 5
+		modifier = {
+			factor = 0.5
+			revolution_n_counterrevolution = 1
+		}
+		modifier = {
+			factor = 0.5
+			biologism = 1
+		}
+	}
+	
+	option = {
+		name = "It is for the best."
+		any_owned = {
+			limit = {
+				OR = {
+					is_core = SHC
+					is_core = INC
+				}
+			}
+			remove_core = SHC
+			remove_core = INC
+		}
+		any_pop = {
+			limit = {
+				OR = {
+					is_accepted_culture = yes
+					is_primary_culture = yes
+				}
+			}
+			consciousness = 0.5
+		}
+		set_country_flag = native_cores_removed
+	}
+}
+

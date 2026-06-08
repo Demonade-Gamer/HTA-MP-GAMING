@@ -1,0 +1,156 @@
+political_decisions = {		
+	claim_pashtun_regions = {
+		picture = claim_greater_persia
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = claim_pashtun_regions }
+			has_country_flag = afghan_path
+		}
+
+		allow = {
+			NOT = { has_country_modifier = afghan_integration_efforts }
+			war = no
+			AFG = { 
+				all_core = { 
+					OR = {
+						owned_by = THIS
+						owned_by = AFG
+					}
+				}
+			}
+		}
+
+		effect = {
+			prestige = 15
+			inherit = AFG
+			AFG = {
+				all_core = { add_core = PER }
+			}
+			set_country_flag = claim_pashtun_regions
+			add_accepted_culture = pashtun		
+		}	
+	}
+	annex_syria = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = whomustgo }
+			has_country_flag = syria_path
+		}
+		allow = {
+			war = no
+			SYR = { all_core = { OR = { owned_by = THIS owned_by = SYR } } }
+			NOT = { has_country_modifier = syrian_integration_efforts }
+		}
+	
+		effect = {
+			prestige = 15
+			inherit = SYR
+			add_accepted_culture = bedouin
+			SYR = {
+				all_core = {
+					add_core = PER
+				}
+			}
+			set_country_flag = whomustgo
+		}
+	}
+	integrate_turkestan = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = turkestan_path_finished }
+			has_country_flag = turkestan_path
+		}
+		allow = {
+			KHI = { all_core = { OR = { owned_by = THIS owned_by = KHI } } }
+			NOT = { has_country_modifier = turkic_integration_efforts }
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = kazak
+			KHI = { all_core = { add_core = PER } }
+			inherit = KHI
+			set_country_flag = turkestan_path_finished
+		}
+	}
+	integrate_the_iraqi_sultanate = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = iraq_path_finished }
+			has_country_flag = iraq_path
+		}
+		allow = {
+			IRQ = { all_core = { OR = { owned_by = THIS  owned_by = IRQ } } }
+			NOT = { has_country_modifier = iraq_integration_efforts }
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = mashriqi
+			IRQ = { all_core = { add_core = PER } }
+			inherit = IRQ
+			set_country_flag = iraq_path_finished
+		}
+	}
+	integrate_tabrizi_sultanate = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = anatolia_path_finished }
+			has_country_flag = anatolian_path
+		}
+		allow = {
+			TBZ = { all_core = { OR = { owned_by = THIS owned_by = TBZ } } }
+			NOT = { has_country_modifier = anatolian_integration_efforts }
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = kurdish
+			add_accepted_culture = armenian
+			TBZ = { all_core = { add_core = PER } }
+			inherit = TBZ
+			set_country_flag = anatolia_path_finished
+		}
+	}
+	continue_anatolian_conquests = {
+		potential = {
+			tag = PER
+			ai = no
+			NOT = { has_country_flag = anatolia_continue }
+			has_country_flag = anatolia_path_finished
+		}
+		allow = {
+			ANA = { all_core = { owned_by = PER } }
+			nationalism_n_imperialism = 1
+			empiricism = 1
+			year = 1870
+		}
+		effect = {
+			ANA = { all_core = { add_core = PER } }
+			ARM = { all_core = { add_core = PER } }
+			KDS = { all_core = { add_core = PER } }
+			set_country_flag = anatolia_continue
+		}
+	}
+	finish_anatolian_conquests = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = anatolia_end }
+			has_country_flag = anatolia_continue
+		}
+		allow = {
+			BYZ_867 = { owned_by = THIS }
+			BYZ_869 = { owned_by = THIS }
+			TUR_880 = { owned_by = THIS }
+			TUR_863 = { owned_by = THIS }
+			revolution_n_counterrevolution = 1
+			year = 1880
+		}
+		effect = {
+			BYZ_867 = { add_core = THIS remove_core = BYZ }
+			BYZ_869 = { add_core = THIS remove_core = BYZ }
+			TUR_880 = { add_core = THIS remove_core = BYZ }
+			TUR_863 = { add_core = THIS remove_core = BYZ }
+			PER = { all_core = { remove_core = BYZ } }
+			prestige = 50
+			set_country_flag = anatolia_end
+		}
+	}
+}

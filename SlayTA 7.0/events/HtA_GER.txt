@@ -1,0 +1,80 @@
+
+################################
+# Brunswick Congress Chain end #
+################################
+
+#Event to activate the German Hegemony CB
+country_event = {
+	id = 50070
+	title = "EVTNAME50070"
+	desc = "EVTDESC50070"
+	
+	fire_only_once = yes
+	major = yes
+	
+	trigger = {
+		ai = yes
+		OR = {
+			tag = FRA
+			tag = AQT
+			tag = NOR
+			tag = NET
+			tag = ZAC
+			tag = POL
+			tag = BOH
+			tag = SCA
+		}
+		OR = {
+			BAV = { has_country_flag = claim_empire }
+			BRA = { has_country_flag = claim_empire }
+			BRN = { has_country_flag = claim_empire }
+			}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "The situation in Germany is deteriorating."
+		set_global_flag = german_hegemony_wars_start
+	}
+}
+
+#Lybæk renamed to Lubeck		Parallel event #50503 in HtA_Scandinavia
+country_event = {
+	id = 50071
+	title = "EVTNAME50071"
+	desc = "EVTDESC50071"
+	picture = "croatia_issue"
+	
+	trigger = {
+		OR = {
+			primary_culture = north_german
+			primary_culture = central_german
+		}
+		530 = {
+			owned_by = THIS
+		}
+			NOT = { has_global_flag = german_lubeck }
+	}
+	
+	mean_time_to_happen = {
+		days = 4
+	}
+	
+	option = {
+		name = "As it should be."
+		prestige = 1
+		set_global_flag = german_lubeck
+		530 = {
+			change_province_name = "Lübeck"
+		}
+	}
+}
+
+#Event to set a flag 
+	
+#Event for troubles in the south of the Austrian domain if SGF forms
+
+#Event ID 50099 is over in HtA_ITA. I wish I'd allocated more numbers.

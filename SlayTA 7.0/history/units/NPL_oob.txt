@@ -1,0 +1,337 @@
+BYZ = {
+	value = -25
+}
+
+HIS = {
+	value = 100
+}
+
+BRT = { value = -200 }
+WLL = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+SER = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+ARM = { value = -200 }
+PAP = {
+	value = 200
+	level = 4
+}
+
+leader = {
+	name = "Base guy 1"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 2"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 3"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 4"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 5"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+
+army = {
+	name = "Esercitu Riale"
+	location = 754
+	regiment = {
+		name = "1a Guardia Riale"
+		type = infantry
+		home = 754
+	}
+	regiment = {
+		name = "2a Guardia Riale"
+		type = infantry
+		home = 752
+	}
+	regiment = {
+		name = "1a Fantaria 'e Linia"
+		type = infantry
+		home = 2567
+	}
+	regiment = {
+		name = "2a Fantaria 'e Linia"
+		type = infantry
+		home = 755
+	}
+	regiment = {
+		name = "1a Cavallaria"
+		type = hussar
+		home = 3257
+	}
+	regiment = {
+		name = "1a Artigleria"
+		type = artillery
+		home = 761
+	}
+	regiment = {
+		name = "2a Artigleria"
+		type = artillery
+		home = 760
+	}
+	regiment = {
+		name = "3a Artigleria"
+		type = artillery
+		home = 759
+	}
+	regiment = {
+		name = "4a Artigleria"
+		type = artillery
+		home = 3255
+	}
+	regiment = {
+		name = "5a Artigleria"
+		type = artillery
+		home = 3255
+	}
+}
+
+army = {
+	name = "Divisione a Cavallu"
+	location = 1731
+	regiment = {
+		name = "1a Cavallaria"
+		type = infantry
+		home = 743
+	}
+	regiment = {
+		name = "1a Cavallaria"
+		type = infantry
+		home = 742
+	}
+	regiment = {
+		name = "1a Cavallaria"
+		type = cuirassier
+		home = 753
+	}
+	regiment = {
+		name = "2a Cavallaria"
+		type = cuirassier
+		home = 758
+	}
+	regiment = {
+		name = "3a Cavallaria"
+		type = hussar
+		home = 757
+	}
+	regiment = {
+		name = "3a Cavallaria"
+		type = artillery
+		home = 763
+	}
+	regiment = {
+		name = "3a Cavallaria"
+		type = artillery
+		home = 763
+	}
+	regiment = {
+		name = "3a Cavallaria"
+		type = artillery
+		home = 1312
+	}
+}
+
+army = {
+	name = "Esercitu d'o Nord"
+	location = 743
+	regiment = {
+		name = "3a Fantaria 'e Linia"
+		type = infantry
+		home = 762
+	}
+	regiment = {
+		name = "4a Fantaria 'e Linia"
+		type = infantry
+		home = 763
+	}
+	regiment = {
+		name = "5a Fantaria 'e Linia"
+		type = infantry
+		home = 764
+	}
+	regiment = {
+		name = "6a Fantaria 'e Linia"
+		type = infantry
+		home = 741
+	}
+	regiment = {
+		name = "1a Cavallaria"
+		type = hussar
+		home = 3257
+	}
+	regiment = {
+		name = "1a Artigleria"
+		type = artillery
+		home = 751
+	}
+	regiment = {
+		name = "2a Artigleria"
+		type = artillery
+		home = 756
+	}
+	regiment = {
+		name = "3a Artigleria"
+		type = artillery
+		home = 3256
+	}
+	regiment = {
+		name = "4a Artigleria"
+		type = artillery
+		home = 3256
+	}
+	regiment = {
+		name = "5a Artigleria"
+		type = artillery
+		home = 854
+	}
+}
+navy = {
+	name = "Marina Riale 'e Napoli"
+	location = 754
+	ship = {
+		name= "Carlo I"
+		type = manowar
+	}
+	ship = {
+		name= "'a NapuletABN"
+		type = manowar
+	}
+
+	ship = {
+		name= "Christina"
+		type = manowar
+	}
+
+	ship = {
+		name= "Riggina Vittoria"
+		type = manowar
+	}
+
+	ship = {
+		name= "Principe Franciscu"
+		type = manowar
+	}
+
+	ship = {
+		name= "Lysia"
+		type = frigate
+	}
+
+	ship = {
+		name= "Cacciature"
+		type = frigate
+	}
+
+	ship = {
+		name= "1a Squatrune Traspuorte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Squatrune Traspuorte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Squatrune Traspuorte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Orguogliu"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Atena"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Riggina 'e ll'Oriente"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Re Manfredo"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Etna"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "MNTte Garambano"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Erculo"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Capri"
+		type = frigate
+	}
+	ship = {
+		name= "1a Squatrune"
+		type = frigate
+	}
+	ship = {
+		name= "2a Squatrune"
+		type = frigate
+	}
+}

@@ -1,0 +1,60 @@
+#Events 50024-50050 reserved for Italy and Daufinat (which are located in HtA_DAU). Lower down in the file we've got IDs 51851-51899 which were introduced in 0.37
+
+#####################Start events from 0.37#####################################
+# 51851-51899 - Mostly for NPL, but some for PDN
+
+#Fall of Tuscany
+country_event = {
+	id = 50024
+	title = "EVTNAME50024"
+	desc = "EVTDESC50024"
+	picture = "cityfire"
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	
+	option = {
+		name = "Horrible! We have to save them!"
+		set_global_flag = TUS_fell
+		relation = {
+			who = NPL
+			value = -200
+		}
+		money = 100000
+	}
+}
+		
+
+#Premiere of La Traviata
+country_event = {
+	id = 51895
+	title = "EVTNAME51895"
+	desc = "EVTDESC51895"
+	picture = "la_traviata"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		729 = { owned_by = THIS }
+		year = 1853
+	}
+	
+	mean_time_to_happen = {
+		months = 3
+	}
+	
+	option = {
+		name = "A spectacular performance!"
+		prestige = 3
+		729 = {
+			any_pop = {
+				limit = {
+					strata = rich
+				}
+				consciousness = 0.1
+				militancy = -0.1
+			}
+		}
+	}
+}

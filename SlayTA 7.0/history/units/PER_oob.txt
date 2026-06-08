@@ -1,0 +1,265 @@
+BRT = { value = -200 }
+WLL = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+SER = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+ARM = { value = -200 }
+BYZ = { value = -200 }
+
+leader = {
+	name = "Base guy 1"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 2"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 3"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 4"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+leader = {
+	name = "Base guy 5"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+army = {
+	name = "Army of Persia"
+	location = 1121
+	regiment = {
+		name= "1. Cavalry Brigade"
+		type = hussar
+		home = 1113
+	}
+
+	regiment = {
+		name= "1. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1114
+	}
+
+	regiment = {
+		name= "2. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1123
+	}
+
+	regiment = {
+		name= "3. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1122
+	}
+
+	regiment = {
+		name= "4. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1124
+	}
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+		home = 1121
+	}
+
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+		home = 1128
+	}
+
+	regiment = {
+		name= "3. Artillery Brigade"
+		type = artillery
+		home = 1125
+	}
+
+	regiment = {
+		name= "4. Artillery Brigade"
+		type = artillery
+		home = 1129
+	}
+
+	regiment = {
+		name= "5. Artillery Brigade"
+		type = artillery
+		home = 1127
+	}
+}
+
+army = {
+	location = 897
+	name = "Western Army of Persia"
+	regiment = {
+		name= "4. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1125
+	}
+
+	regiment = {
+		name= "5. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1127
+	}
+
+	regiment = {
+		name= "6. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1130
+	}
+
+	regiment = {
+		name= "7. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1134
+	}
+
+	regiment = {
+		name= "8. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1137
+	}
+
+	regiment = {
+		name= "9. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1135
+	}
+}
+
+army = {
+	name = "Pashtun Guard"
+	location = 1148
+	regiment = {
+		name= "1. Popozai"
+		type = infantry
+		home = 1148
+	}
+
+	regiment = {
+		name= "2. Popozai"
+		type = infantry
+		home = 1149
+	}
+
+	regiment = {
+		name= "3. Popozai"
+		type = infantry
+		home = 1140
+	}
+
+	regiment = {
+		name= "1. Tajiki"
+		type = hussar
+		home = 1139
+	}
+
+	regiment = {
+		name= "2. Tajiki"
+		type = artillery
+		home = 1144
+	}
+
+	regiment = {
+		name= "3. Tajiki"
+		type = artillery
+		home = 1143
+	}
+
+}
+
+army = {
+	name = "Northern Army of Persia"
+	location = 1113
+	regiment = {
+		name= "10. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1143
+	}
+
+	regiment = {
+		name= "11. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1145
+	}
+
+	regiment = {
+		name= "12. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1142
+	}
+
+	regiment = {
+		name= "13. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1141
+	}
+}
+
+army = {
+	name = "Southern Army of Persia"
+	location = 1142
+	regiment = {
+		name= "14. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1121
+	}
+
+	regiment = {
+		name= "15. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1121
+	}
+
+	regiment = {
+		name= "16. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1121
+	}
+
+}

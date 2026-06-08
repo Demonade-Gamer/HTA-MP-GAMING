@@ -1,0 +1,7 @@
+owner = CMP
+controller = CMP
+
+add_core = CMP
+trade_goods = fruit
+life_rating = 35 
+

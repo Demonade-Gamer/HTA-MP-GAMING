@@ -1,7 +1,0 @@
-owner = ARO
-controller = ARO
-add_core = ARO
-add_core = CAT
-trade_goods = sulphur
-life_rating = 35 
-terrain = hills

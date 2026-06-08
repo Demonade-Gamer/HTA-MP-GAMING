@@ -1,0 +1,9 @@
+owner = NRM
+controller = NRM
+add_core = NRM
+add_core = PIC
+trade_goods = fish
+life_rating = 35 
+naval_base = 1
+fort = 1
+

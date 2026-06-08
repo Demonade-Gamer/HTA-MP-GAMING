@@ -1,0 +1,11 @@
+owner = NAS
+controller = NAS
+add_core = NAS
+add_core = GER
+trade_goods = fruit
+life_rating = 38
+state_building = {
+	level = 2 
+	building = fabric_factory
+	upgrade = yes
+}

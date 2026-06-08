@@ -1,0 +1,167 @@
+AQT = {
+	truce_until = 1837.1.1
+}
+
+BRT = { value = -200 }
+WLL = { value = -200 }
+LOM = { value = -200 }
+ARO = { value = -200 }
+VAL = { value = -200 }
+LOR = { value = -200 }
+VEN = { value = -200 }
+MOD = { value = -200 }
+MCD = { value = -200 }
+BUL = { value = -200 }
+NAV = { value = -200 }
+POR = { value = -200 }
+RHI = { value = -200 }
+NAS = { value = -200 }
+WES = { value = -200 }
+OLD = { value = -200 }
+CRO = { value = -200 }
+SER = { value = -200 }
+MNT = { value = -200 }
+SLO = { value = -200 }
+ANA = { value = -200 }
+KDS = { value = -200 }
+PRS = { value = -200 }
+ARM = { value = -200 }
+
+leader = {
+	name = "Hugo Bugeaud de Seurre"
+	picture = european_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_3.1
+	background = attack_3.1
+	prestige = 0.1
+}
+
+army = {
+	name = "3rd'Armée de France"
+	location = 406
+	regiment = {
+		name = "1er Régiment d'Infanterie"
+		type = infantry
+		home = 425
+	}
+	regiment = {
+		name = "2e Régiment d'Infanterie"
+		type = infantry
+		home = 426
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 427
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 416
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 433
+	}
+	regiment = {
+		name = "1er Régiment d'Artillerie"
+		type = hussar
+		home = 415
+	}
+
+	regiment = {
+		name = "1er Régiment de Hussards"
+		type = artillery
+		home = 438
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 435
+	}
+	
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 436
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 446
+	}
+	
+	regiment = {
+		name = "1e Regiment d'Infanterie"
+		type = artillery
+		home = 440
+	}
+	regiment = {
+		name = "2e Regiment d'Infanterie"
+		type = artillery
+		home = 434
+	}
+}
+army = {
+	name = "L'Armée de France"
+	location = 428
+	regiment = {
+		name = "1er Régiment d'Infanterie"
+		type = infantry
+		home = 428
+	}
+	regiment = {
+		name = "2e Régiment d'Infanterie"
+		type = infantry
+		home = 430
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 432
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 428
+	}
+	regiment = {
+		name = "1er Régiment d'Artillerie"
+		type = hussar
+		home = 431
+	}
+	regiment = {
+		name = "2e Régiment d'Artillerie"
+		type = artillery
+		home = 431
+	}
+	regiment = {
+		name = "1er Régiment de Hussards"
+		type = artillery
+		home = 432
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 428
+	}
+	
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 428
+	}
+	
+	regiment = {
+		name = "1e Regiment d'Infanterie"
+		type = artillery
+		home = 425
+	}
+	regiment = {
+		name = "2e Regiment d'Infanterie"
+		type = artillery
+		home = 425
+	}
+}

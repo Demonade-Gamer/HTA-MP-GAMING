@@ -1,0 +1,7 @@
+owner = HIS
+controller = HIS
+add_core = POR
+add_core = HIS
+trade_goods = timber
+life_rating = 35 
+

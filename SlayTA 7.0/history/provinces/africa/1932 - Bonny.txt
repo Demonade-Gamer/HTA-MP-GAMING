@@ -1,0 +1,7 @@
+owner = AWS
+controller = AWS
+add_core = AWS
+
+#WRI
+trade_goods = tropical_wood
+life_rating = 20

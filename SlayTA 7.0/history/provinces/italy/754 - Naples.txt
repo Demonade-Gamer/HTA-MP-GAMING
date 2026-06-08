@@ -1,0 +1,28 @@
+owner = NPL
+controller = NPL
+add_core = NPL
+add_core = ITA
+trade_goods = fish
+life_rating = 40
+naval_base = 2
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}
+

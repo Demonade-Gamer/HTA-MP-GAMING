@@ -1,0 +1,235 @@
+political_decisions = {
+
+	form_hindustan = {
+        potential = {
+			primary_culture = avadhi
+			NOT = { has_global_flag = hindustan_formed }
+			NOT = { tag = HND }
+			NOT = { tag = HYD }
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			1236 = { #Delhi
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+				}
+			}
+			1242 = { #Lucknow
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+				}
+			}
+			1274 = { #Rewa
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+				}
+			}
+			1247 = { #Patna
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+				}
+			}
+			1261 = { #Cuttack
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+				}
+			}
+			1251 = { #Calcutta
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+				}
+			}
+			1256 = { #Jessore - LIBERATE FROM DIRTY EUROPEANS
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+				}
+			}
+			1303 = { #Goa - LIBERATE FROM DIRTY EUROPEANS
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+				}
+			}
+		}
+
+		effect = {
+			set_global_flag = hindustan_formed
+			prestige = 10
+			add_accepted_culture = avadhi
+			add_accepted_culture = bengali
+			all_core = { add_core = HDU remove_core = THIS }
+			change_tag = HDU
+			ENG_1261 = { add_core = HDU } #Cuttack
+			ENG_1236 = { add_core = HDU } #Delhi
+			ENG_1275 = { add_core = HDU } #Jubbalpur
+			ENG_1244 = { add_core = HDU } #Awadh
+			ENG_1243 = { add_core = HDU } #Bundelkhand
+			ENG_1247 = { add_core = HDU } #Bihar
+			ENG_1251 = { add_core = HDU } #South Bengal
+			ENG_1297 = { add_core = HDU } #Bombay
+			#1282 = { add_core = HDU } #Raigarh
+			random_country = {
+				limit = {
+					tag = AGR
+					exists = yes
+					ai = yes
+				}
+				THIS = { inherit = AGR }
+			}
+			random_country = {
+				limit = {
+					tag = AGR
+					exists = yes
+					ai = no
+				}
+				country_event = 11101
+			}
+			random_country = {
+				limit = {
+					tag = BUN
+					exists = yes
+					ai = yes
+				}
+				THIS = { inherit = BUN }
+			}
+			random_country = {
+				limit = {
+					tag = BUN
+					exists = yes
+					ai = no
+				}
+				country_event = 11101
+			}
+			random_country = {
+				limit = {
+					tag = BIH
+					exists = yes
+					ai = yes
+				}
+				THIS = { inherit = BIH }
+			}
+			random_country = {
+				limit = {
+					tag = BIH
+					exists = yes
+					ai = no
+				}
+				country_event = 11101
+			}
+			random_country = {
+				limit = {
+					tag = ORI
+					exists = yes
+					ai = yes
+				}
+				THIS = { inherit = ORI }
+			}
+			random_country = {
+				limit = {
+					tag = ORI
+					exists = yes
+					ai = no
+				}
+				country_event = 11101
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	PNJ_embrace_pashtun_minority = {
+		picture = sikh_empire
+		potential = {
+			tag = HND
+			NOT = { has_country_flag = embraced_pashtun }
+			any_owned_province = { culture = pashtun }
+		}
+		
+		allow = {
+			enlightenment_thought = 1
+			malthusian_thought = 1
+		}
+		
+		effect = {
+			prestige = 10
+			add_accepted_culture = pashtun
+			set_country_flag = embraced_pashtun
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+		
+	move_capital_to_delhi = {
+		picture = map_india
+		potential = {
+			tag = HND
+			owns = 1236 # Delhi
+			NOT = { capital = 1236 }
+		}	
+		
+		allow = {
+			NOT = { capital = 1236 }
+		}
+		
+		effect = {
+			capital = 1236
+			prestige = 5
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

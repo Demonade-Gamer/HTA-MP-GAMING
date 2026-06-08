@@ -1,0 +1,153 @@
+#Events for the British Isles, called in HtA lore the "Northern Isles", reserved with 50100-50150 event IDs
+######################End end of Alba events#################################
+
+#Captain strikes a deal with King of Comoros
+country_event = {
+	id = 50116
+	title = "EVTNAME50116"
+	desc = "EVTDESC50116"
+	picture = "sultan"
+	
+	trigger = {
+		OR = {
+			tag = IRE
+			AND = {
+				tag = AEN
+				NOT = { exists = IRE }
+			}
+			AND = {
+				tag = CLT
+				NOT = { exists = IRE }
+			}
+			AND = {
+				tag = ABN
+				NOT = { exists = IRE }
+			}
+		}
+		OR = {
+			is_secondary_power = yes
+			is_greater_power = yes
+		}
+		2123 = { empty = yes } #Comoros
+		total_amount_of_ships = 10
+		year = 1854
+	}
+	
+	mean_time_to_happen = {
+		months = 10
+		modifier = {
+			factor = 0.1
+			2124 = { empty = no }
+		}
+	}
+	
+	option = {
+		name = "Commend him for his pluckishness!"
+		prestige = 1
+		2123 = { secede_province = THIS }
+	}
+}
+
+#Merchant strikes a deal with the King of Maore
+country_event = {
+	id = 50117
+	title = "EVTNAME50117"
+	desc = "EVTDESC50117"
+	picture = "sultan"
+	
+	trigger = {
+		OR = {
+			tag = AEN
+			tag = ABN
+			AND = {
+				OR = {
+					tag = IRE
+					tag = CLT
+				}
+				AEN = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
+			}
+		}
+		OR = {
+			is_secondary_power = yes
+			is_greater_power = yes
+		}
+		2124 = { empty = yes } #Maore/Mayotte
+		total_amount_of_ships = 10
+		year = 1854
+	}
+	
+	mean_time_to_happen = {
+		months = 10
+		modifier = {
+			factor = 0.1
+			2123 = { empty = no }
+		}
+	}
+	
+	option = {
+		name = "Promote that man!"
+		prestige = 1
+		2124 = { secede_province = THIS }
+	}
+}
+
+#Seumas   M ille's education reforms
+country_event = {
+	id = 50124
+	title = "EVTNAME50124"
+	desc = "EVTDESC50124"
+	picture = "HoraceMann"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = CLT
+		year = 1846
+		school_reforms = no_schools
+	}
+	
+	mean_time_to_happen = {
+		months = 7
+	}
+	
+	option = {
+		name = "Education is key."
+		prestige = 3
+		plurality = 1
+		years_of_research = 0.5
+		social_reform = low_schools
+	}
+}
+
+#Bretagne belonging to CLT will have its original names once again
+country_event = {
+	id = 50125
+	title = "EVTNAME50125"
+	desc = "EVTDESC50125"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = CLT
+		422 = { owned_by = THIS is_core = FRA }
+		has_global_flag = french_bretagne
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "As it should be."
+		prestige = 5
+		421 = { change_province_name = "Sant-Brieg" }
+		422 = { change_province_name = "Gwened" }
+		423 = { change_province_name = "Naoned" }
+		424 = { change_province_name = "Reshon" }
+		422 = { state_scope = { change_region_name = "Breizh" } }
+		BRT = { all_core = { remove_core = FRA } }
+	}
+}

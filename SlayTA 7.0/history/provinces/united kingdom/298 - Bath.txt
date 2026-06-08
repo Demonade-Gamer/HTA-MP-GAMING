@@ -1,0 +1,6 @@
+owner = AEN
+controller = AEN
+add_core = AEN
+life_rating = 35
+add_core = KER
+trade_goods = grain

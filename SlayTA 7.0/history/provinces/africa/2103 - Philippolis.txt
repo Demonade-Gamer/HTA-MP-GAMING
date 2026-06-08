@@ -1,0 +1,8 @@
+owner = STE
+controller = STE
+add_core = STE
+add_core = SAF
+trade_goods = iron
+life_rating = 35 
+terrain = steppe
+

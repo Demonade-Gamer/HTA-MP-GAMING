@@ -1,0 +1,9 @@
+owner = AWS
+controller = AWS
+add_core = AWS
+
+#CLA
+#ARO
+trade_goods = coal
+life_rating = 20
+

@@ -1,0 +1,76 @@
+#Dutch West Indies Region : 19500
+#Ruled by Aengland 1836
+#Curacao (12300/3100 POPS)
+2234 = {
+    bureaucrats = {
+        culture = aenglisc
+        religion = obbite
+        size = 10
+    }
+    soldiers = {
+        culture = aenglisc
+        religion = obbite
+        size = 550
+    }
+    artisans = {
+        culture = aenglisc
+        religion = obbite
+        size = 70
+    }
+    clergymen = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 20
+    }
+    artisans = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 150
+    }
+    soldiers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 550
+    }
+    farmers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 2800
+    }
+}
+#Aruba (2400/600 POPS)
+2235 = {
+    clergymen = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 25
+    }
+    artisans = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 25
+    }
+    farmers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 550
+    }
+}
+#Saint Martin (4800/1200 POPS)
+2236 = {
+    clergymen = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 25
+    }
+    artisans = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 55
+    }
+    farmers = {
+        culture = afro_caribbean
+        religion = obbite
+        size = 1120
+    }
+}

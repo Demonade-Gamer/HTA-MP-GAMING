@@ -1,0 +1,9 @@
+owner = BRN
+controller = BRN
+add_core = GER
+trade_goods = fish
+life_rating = 38
+naval_base = 1
+fort = 1
+
+add_core = BRN

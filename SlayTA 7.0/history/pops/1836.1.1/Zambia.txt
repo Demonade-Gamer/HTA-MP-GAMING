@@ -1,0 +1,538 @@
+#Bangwelu Region (308000)  
+#uncolonized in 1836/ruled by Kazembe in 1836
+#Kitwe (88000/22000 POPS) 
+790 = {
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 250
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 150
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 650
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 200
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 12750
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 100
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 150
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 300
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 5400
+	}
+	slaves = {
+		culture = african_minor
+		religion = obbite
+		size = 2000
+	}
+}
+#Kazembe (168000/42000 POPS)
+2016 = {
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 450
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = obbite
+		size = 30
+	}
+	officers = {
+		culture = african_minor
+		religion = obbite
+		size = 120
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 250
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 1100
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 1150
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 15000
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 300
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 200
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 900
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 200
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 16400
+	}
+	slaves = {
+		culture = african_minor
+		religion = obbite
+		size = 6000
+	}
+}
+#Kasema (136000/34000 POPS) 
+2017 = {
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 200
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 100
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 550
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 150
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 3050
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 400
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 200
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 1100
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 250
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 20050
+	}
+	slaves = {
+		culture = african_minor
+		religion = obbite
+		size = 8000
+	}
+}
+#Chipata (112000/23000 POPS) 
+2018 = {
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 100
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 250
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 75
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 3525
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 150
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 75
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 400
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 75
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 7300
+	}
+	slaves = {
+		culture = african_minor
+		religion = obbite
+		size = 2000
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 75
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 250
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 4575
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 200
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 3650
+	}
+}
+#Kafue Region (228000) #see Namibia.txt for balance of region 
+#uncolonized in 1836/ruled by Lozi in 1836
+#Kabwe (28000/7000 POPS) 
+2012 = {
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 75
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 200
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 1575
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 25
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 100
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 25
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 1800
+	}
+	slaves = {
+		culture = african_minor
+		religion = obbite
+		size = 3000
+	}
+}
+#Senanga (52000/13000 POPS) 
+2013 = {
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 225
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = obbite
+		size = 10
+	}
+	officers = {
+		culture = african_minor
+		religion = obbite
+		size = 65
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 125
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 550
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 125
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 8950
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 10
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 25
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 15
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 900
+	}
+	slaves = {
+		culture = african_minor
+		religion = obbite
+		size = 2000
+	}
+}
+#Kasempa (40000/10000 POPS) 
+2014 = {
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 150
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 75
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 325
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 100
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 4350
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 25
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 100
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 25
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 1800
+	}
+	slaves = {
+		culture = african_minor
+		religion = obbite
+		size = 3000
+	}
+}
+#Monzo (108000/27000 POPS) 
+2015 = {
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 475
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 250
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 1100
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 250
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 20025
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = obbite
+		size = 25
+	}
+	clergymen = {
+		culture = african_minor
+		religion = obbite
+		size = 50
+	}
+	artisans = {
+		culture = african_minor
+		religion = obbite
+		size = 100
+	}
+	soldiers = {
+		culture = african_minor
+		religion = obbite
+		size = 25
+	}
+	farmers = {
+		culture = african_minor
+		religion = obbite
+		size = 1800
+	}
+	slaves = {
+		culture = african_minor
+		religion = obbite
+		size = 3000
+	}
+}

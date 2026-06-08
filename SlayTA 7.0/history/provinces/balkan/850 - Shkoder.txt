@@ -1,0 +1,9 @@
+owner = MCD
+controller = MCD
+add_core = MCD
+add_core = ALB
+add_core = CRO
+trade_goods = grain
+life_rating = 38 
+
+

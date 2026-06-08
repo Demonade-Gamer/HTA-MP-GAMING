@@ -1,0 +1,10 @@
+owner = TUS
+controller = TUS
+add_core = TUS
+trade_goods = iron
+life_rating = 37
+state_building = {
+	level = 2 
+	building = glass_factory
+	upgrade = yes
+}

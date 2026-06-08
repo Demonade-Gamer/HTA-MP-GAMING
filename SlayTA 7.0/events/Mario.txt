@@ -1,0 +1,17 @@
+country_event = {
+    id = 803940
+    title = " "
+	picture = "mario"
+    trigger = {
+        ai = no
+        war = yes
+    }
+
+    mean_time_to_happen = {
+        months = 48
+    }
+
+    option = {
+        name = " "
+    }
+}

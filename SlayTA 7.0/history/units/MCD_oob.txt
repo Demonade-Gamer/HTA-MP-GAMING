@@ -1,0 +1,60 @@
+
+army = {
+	name = "Macedonian Guard"
+	location = 807
+	regiment = {
+		name = "I. Scholai"
+		type = infantry
+		home = 806
+	}
+	regiment = {
+		name = "II. Scholai"
+		type = infantry
+		home = 802
+	}
+	regiment = {
+		name = "III. Scholai"
+		type = infantry
+		home = 803
+	}
+	regiment = {
+		name = "IV. Scholai"
+		type = infantry
+		home = 850
+	}
+	regiment = {
+		name = "V. Scholai"
+		type = hussar
+		home = 849
+	}
+	regiment = {
+		name = "I. Pyrovolikos B."
+		type = artillery
+		home = 851
+	}
+	regiment = {
+		name = "II. Pyrovolikos B."
+		type = artillery
+		home = 806
+	}
+	regiment = {
+		name = "III. Pyrovolikos B."
+		type = artillery
+		home = 807
+	}
+	regiment = {
+		name = "IV. Pyrovolikos B."
+		type = artillery
+		home = 807
+	}
+	regiment = {
+		name = "I. Koursouses"
+		type = artillery
+		home = 853
+	}
+	regiment = {
+		name = "II. Koursoses"
+		type = artillery
+		home = 802
+	}
+}

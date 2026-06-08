@@ -1,0 +1,6 @@
+owner = LTS
+controller = LTS
+add_core = LTS
+trade_goods = grain
+life_rating = 32 
+

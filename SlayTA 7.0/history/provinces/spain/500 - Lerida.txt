@@ -1,0 +1,7 @@
+owner = AQT
+controller = AQT
+add_core = CAT
+trade_goods = fruit
+life_rating = 35 
+terrain = hills
+

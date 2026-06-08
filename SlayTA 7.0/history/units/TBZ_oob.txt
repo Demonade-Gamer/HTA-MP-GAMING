@@ -1,0 +1,29 @@
+army = {
+	name = "Army of the Sultan"
+	location = 1108
+	regiment = {
+		name= "1. 'Ateba"
+		type = cavalry
+		home = 1108
+	}
+	regiment = {
+		name= "4. 'Ateba"
+		type = cavalry
+		home = 1112
+	}
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 1109	
+	}
+	regiment = {
+		name = "2. Division"
+		type = infantry
+		home = 1111
+	}
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 1110	
+	}
+}

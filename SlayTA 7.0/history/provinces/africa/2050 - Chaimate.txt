@@ -1,0 +1,7 @@
+owner = NAL
+controller = NAL
+add_core = NAL
+add_core = SAF
+trade_goods = tobacco
+life_rating = 35 
+

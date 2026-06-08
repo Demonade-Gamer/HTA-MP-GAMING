@@ -1,0 +1,61 @@
+
+army = {
+	name = "Army of Croatia"
+	location = 772
+	regiment = {
+		name= "1.Infantry Division"
+		type = infantry
+		home = 771
+	}
+	regiment = {
+		name= "2.Infantry Division"
+		type = infantry
+		home = 773
+	}
+	regiment = {
+		name= "3.Infantry Division"
+		type = infantry
+		home = 784
+	}
+	regiment = {
+		name= "4.Infantry Division"
+		type = infantry
+		home = 785
+	}
+	regiment = {
+		name= "5.Infantry Division"
+		type = infantry
+		home = 781
+	}
+	regiment = {
+		name= "1.Hussar Division"
+		type = hussar
+		home = 788
+	}
+	regiment = {
+		name= "1.Artillery Division"
+		type = artillery
+		home = 782
+	}
+	regiment = {
+		name= "2.Artillery Division"
+		type = artillery
+		home = 2569
+	}
+	regiment = {
+		name= "3.Artillery Division"
+		type = artillery
+		home = 2577
+	}
+	regiment = {
+		name= "4.Artillery Division"
+		type = artillery
+		home = 2583
+	}
+	regiment = {
+		name= "5.Artillery Division"
+		type = artillery
+		home = 2582
+	}
+}
+
