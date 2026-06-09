@@ -68,6 +68,7 @@ country_event = {
 			duration = 1825
 		}
 		prestige = 5
+		clr_country_flag = path_new
 	}
 }
 country_event = { 
@@ -105,6 +106,7 @@ country_event = {
 		set_country_flag = afghan_path
 		clr_country_flag = afghan_path_question
 		set_country_flag = path_started
+		clr_country_flag = path_new
 		add_country_modifier = {
 			name = "afghan_integration_efforts"
 			duration = 1825
@@ -155,6 +157,7 @@ country_event = {
 		}
 		set_country_flag = path_started
 		prestige = 5
+		clr_country_flag = path_new
 	}
 }
 country_event = { 
@@ -190,7 +193,7 @@ country_event = {
 	option = { 
 		name = "Path Started"
 		set_country_flag = anatolian_path
-		has_country_flag = anatolian_path_question
+		clr_country_flag = anatolian_path_question
 		set_country_flag = path_started
 		add_country_modifier = {
 			name = "anatolian_integration_efforts"
@@ -199,6 +202,7 @@ country_event = {
 		TUR_885 = { add_core = TBZ }
 		RUS_1090 = { add_core = TBZ }
 		TUR_893 = { add_core = TBZ }
+		clr_country_flag = path_new
 		prestige = 5
 	}
 }
@@ -236,13 +240,14 @@ country_event = {
 		name = "Path Started"
 		set_country_flag = syria_path
 		set_country_flag = path_started
-		has_country_flag = syria_path_question
+		clr_country_flag = syria_path_question
 		HDJ = { all_core = { add_core = SYR } }
 		YEM = { all_core = { add_core = SYR } }
 		add_country_modifier = {
 			name = "syrian_integration_efforts"
 			duration = 1825
 		}
+		clr_country_flag = path_new
 		prestige = 5
 	}
 }
@@ -276,32 +281,38 @@ country_event = {
 	trigger = { 
 		tag = PER
 		has_country_flag = path_started
-		NOT = { AND = { has_country_modifier = turkic_integration_efforts  has_country_modifier = anatolian_integration_efforts  has_country_modifier = syrian_integration_efforts  has_country_modifier = iraq_integration_efforts  has_country_modifier = afghan_integration_efforts } }
+		NOT = { has_country_flag = path_new }
+		NOT = { OR = { has_country_modifier = turkic_integration_efforts  has_country_modifier = anatolian_integration_efforts  has_country_modifier = syrian_integration_efforts  has_country_modifier = iraq_integration_efforts  has_country_modifier = afghan_integration_efforts } }
 		NOT = { AND = { has_country_flag = syria_path has_country_flag = iraq_path has_country_flag = anatolian_path has_country_flag = turkestan_path has_country_flag = afghan_path } }
 	}
 	
 	option = { 
 		name = "EVTOPTD787079"
 		set_country_flag = syria_path_question
+		set_country_flag = path_new
 	}
 	
 	option = { 
 		name = "EVTOPTA787079"
 		set_country_flag = iraq_path_question
+		set_country_flag = path_new
 	}
 	
 	option = { 
 		name = "EVTOPTB787079"
 		set_country_flag = turkestan_path_question
+		set_country_flag = path_new
 	}
 	
 	option = { 
 		name = "EVTOPTC787079"
 		set_country_flag = afghan_path_question
+		set_country_flag = path_new
 	}
 	
 	option = { 
 		name = "EVTOPTE787079"
 		set_country_flag = anatolian_path_question
+		set_country_flag = path_new
 	}
 }
