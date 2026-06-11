@@ -425,9 +425,9 @@ WAL_665 = { 664 666 669 } #Wallachia
 
 MOL_673 = { 660 673 672 670 668 } #Moldavia
 
-TUR_674 = { 674 675 678 818 } #Dobrudja
+TUR_674 = { 674 675 818 } #Dobrudja
 
-MOL_676 = { 662 663 671 676 677 } #Besserabia
+MOL_676 = { 662 663 671 676 677 678 } #Besserabia
 
 AUS_771 = { 771 772 777 767 768 } #Croatia/Old Croatia
 

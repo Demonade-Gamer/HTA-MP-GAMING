@@ -9,7 +9,7 @@ banker_income_timer = {
 	icon = 17
 }
 statue_of_liberty = {
-	icon = 17
+	icon = 19
 }
 small_immigration_boom = {
 	global_immigrant_attract = 1
@@ -21,23 +21,23 @@ government_sanitarium = {
 }
 
 iraq_integration_efforts = {
-	icon = 1
+	icon = 20
 }
 
 afghan_integration_efforts = {
-	icon = 1
+	icon = 20
 }
 
 turkic_integration_efforts = {
-	icon = 1
+	icon = 20
 }
 
 anatolian_integration_efforts = {
-	icon = 1
+	icon = 20
 }
 
 syrian_integration_efforts = {
-	icon = 1
+	icon = 20
 }
 
 ##### TECH SCHOOLS ######

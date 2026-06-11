@@ -84,7 +84,7 @@ leader = {
 
 army = {
 	name = "Norten Here"
-	location = 284
+	location = 272
 	regiment = {
 		name = "1. Fedehere"
 		type = infantry
@@ -98,12 +98,12 @@ army = {
 	regiment = {
 		name = "1. Fedehere"
 		type = infantry
-		home = 296
+		home = 279
 	}
 	regiment = {
 		name = "2. Fedehere"
 		type = infantry
-		home = 297
+		home = 272
 	}
 	regiment = {
 		name = "1. Artiliehere"
@@ -139,26 +139,26 @@ army = {
 
 army = {
 	name = "Over Here"
-	location = 277
+	location = 281
 	regiment = {
 		name = "1. Fedehere"
 		type = infantry
-		home = 277
+		home = 280
 	}
 	regiment = {
 		name = "2. Fedehere"
 		type = infantry
-		home = 277
+		home = 290
 	}
 	regiment = {
 		name = "1. Fedehere"
 		type = infantry
-		home = 278
+		home = 289
 	}
 	regiment = {
 		name = "2. Fedehere"
 		type = infantry
-		home = 285
+		home = 295
 	}
 	regiment = {
 		name = "1. Artiliehere"
@@ -168,23 +168,28 @@ army = {
 	regiment = {
 		name = "2. Artiliehere"
 		type = artillery
-		home = 280
+		home = 295
 	}
 	regiment = {
 		name = "1. Radehere"
 		type = artillery
-		home = 281
+		home = 297
 	}
 	regiment = {
 		name = "1. Artiliehere"
 		type = artillery
-		home = 283
+		home = 299
+	}
+	regiment = {
+		name = "1. Artiliehere"
+		type = artillery
+		home = 304
 	}
 }
 
 navy = {
 	name = "Zweiflotte"
-	location = 277
+	location = 281
 	ship = {
 		name = "Anmedla"
 		type = manowar

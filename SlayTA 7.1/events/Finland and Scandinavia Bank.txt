@@ -59,7 +59,7 @@ country_event = { ##The Baby boom
 			FIN = {
 				check_variable = {
 					which = aqui_boom
-					value = 30
+					value = 40
 				}
 			}
 		}
@@ -90,7 +90,7 @@ country_event = { ##The Baby boom
 		FIN = { 
 			check_variable = {
 						which = aqui_boom
-						value = 30
+						value = 40
 			}
 		}
 	}

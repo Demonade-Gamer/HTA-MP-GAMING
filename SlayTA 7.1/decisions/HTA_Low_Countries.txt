@@ -97,9 +97,17 @@ integrate_rhenish_duchy_NET = {
 		war = no
 		state_n_government = 1
 		RHI = {
-			exists = yes
-			in_sphere = THIS
-			vassal_of = THIS
+			OR = {
+				AND = {
+					exists = yes
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+				AND = { 
+					exists = no
+					all_core = { owned_by = THIS }
+				}
+			}
 		}
 	}
 	effect = {
@@ -197,7 +205,8 @@ assimilate_the_rhineland_3 = {
 
     allow = {
 		RHI = { all_core = { owned_by = THIS } }
-		empiricism = 1
+		revolution_n_counterrevolution = 1
+		year = 1880
     }
 
     effect = {

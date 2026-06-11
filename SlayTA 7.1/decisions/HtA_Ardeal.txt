@@ -5,15 +5,15 @@ political_decisions = {
 			NOT = { has_country_flag = fucked_on_condor }
 		}
 		allow = {
-			SLV = { all_core = { owned_by = THIS } }
 			CRO = { all_core = { owned_by = THIS } }
+			BUL = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			CRO = { all_core = { add_core = SIE } }
 			SLV = { all_core = { add_core = SIE } }
 			HUN = { all_core = { add_core = SIE } }
 			add_accepted_culture = croat
-			add_accepted_culture = slovak
+			add_accepted_culture = bulgarian
 			set_country_flag = fucked_on_condor
 		}
 	}

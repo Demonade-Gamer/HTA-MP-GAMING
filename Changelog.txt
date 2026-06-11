@@ -1,3 +1,18 @@
+7.1
+Bugfixing before the game, also minor changes
+	- MOST IMPORTANT CHANGE: Warscore costs for states have been reduced!
+		- Strategic states are 12 warscore
+		- Small states are 28 warscore
+		- Medium states are 36 warscore
+		- Large states are 48 warscore
+		- Huge states are 64 warscore
+	- Netherlands now has to wait until 1880 to remove German cores from the Rhineland and Friesland, the other assimilation modifiers remain at the same time
+	- The Netherlands is not stopped from getting cores on the Rhineland and thus access to the assimilation decisions if the rhineland no longer exists
+	- Smil has been moved back to Bessarabia state
+	- Mario has been slowed.
+	- Updated Ardeal decision to keep up with the times
+	- Buffed non state culture literacy of Aengland, Wales, and the Netherlands
+		- Also fixed Aenglish oob to work better since they lost provinces to Cymru, not perfect due to split soldier pops, but they start with 26 brigades built out of 33
 7.0
 The general focus of this update is to come closer to the feel of original HtA, specifically in 1836 start date consolidation department
 GENERAL CHANGES
