@@ -4,6 +4,7 @@ balkan_showdown_zac = {
 	potential = { 
 		tag = ZAC
 		NOT = { has_global_flag = showdown_over }
+		has_global_flag = balkan_showdown_start 
 	}
 	allow = {
 		HUN = { all_core = { owned_by = THIS } }
@@ -28,6 +29,7 @@ balkan_showdown_byz = {
 	potential = { 
 		tag = BYZ
 		NOT = { has_global_flag = showdown_over }
+		has_global_flag = balkan_showdown_start 
 	}
 	allow = {
 		SER = { all_core = { owned_by = THIS } }
@@ -46,6 +48,7 @@ balkan_showdown_byz = {
 		BUL = { all_core = { add_core = THIS } }
 		VOL = { all_core = { add_core = THIS } }
 		add_accepted_culture = romanian
+		add_accepted_culture = bulgarian
 		add_accepted_culture = croat
 		set_global_flag = showdown_over
 	}
@@ -55,6 +58,7 @@ balkan_showdown_ita = {
 	potential = { 
 		tag = ITA
 		NOT = { has_global_flag = showdown_over }
+		has_global_flag = balkan_showdown_start 
 	}
 	allow = {
 		SER = { all_core = { owned_by = THIS } }

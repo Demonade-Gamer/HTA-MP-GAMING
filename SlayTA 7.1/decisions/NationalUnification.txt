@@ -534,16 +534,21 @@ political_decisions = {
 		}
 
 		allow = {
-			nationalism_n_imperialism = 1
-			OR = {
-				POL = {
-					in_sphere = THIS
-					vassal_of = THIS
-				}
-				AND = {
-					owns = 706
-					owns = 715
+			nationalism_n_imperialism = 1			
+			POL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_culture_group = polish_culture_group
+								is_culture_group = czecho_slovak_culture_group
+							}
+							
+						}
 					}
+				}
 			}
 			
 			SLS = {
@@ -607,17 +612,21 @@ political_decisions = {
 						}
 					}
 				}
-			}
-			
-			OR = {
-				BOH = {
-					in_sphere = THIS
-					vassal_of = THIS
-				}
-				AND = {
-					owns = 625	
-					owns = 631
+			}			
+			BOH = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_culture_group = polish_culture_group
+								is_culture_group = czecho_slovak_culture_group
+							}
+							
+						}
 					}
+				}
 			}
 
 			}

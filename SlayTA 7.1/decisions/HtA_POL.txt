@@ -86,7 +86,6 @@ political_decisions = {
 			add_accepted_culture = polish
 			add_accepted_culture = silesian
 			add_accepted_culture = czech
-			add_accepted_culture = slovak
 			add_accepted_culture = ashkenazi
 			change_tag = ZAC
 			any_country = {			#Annex all countries with the two culture groups, so POL, LUZ, SLS, BOH/PRH and SLV
@@ -202,36 +201,6 @@ political_decisions = {
 				}
 			}
 			add_accepted_culture = ruthenian
-		}
-	}
-	#BOH ZAC gets Romanians
-	ZAC_BOH_Romanian = {
-		picture = embrace_minority
-		potential = {
-			tag = ZAC
-		}
-		allow = {
-			phenomenology_n_hermeneutic = 1
-			VOL = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-		}
-		effect = {
-			prestige = 5
-			add_accepted_culture = romanian
-			VOL = {
-				all_core = {
-					add_core = ZAC
-					secede_province = ZAC
-				}
-			}
 		}
 	}
 
