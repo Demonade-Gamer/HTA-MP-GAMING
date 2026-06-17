@@ -4,6 +4,7 @@ political_decisions = {
 			tag = AQT
 			NOT = { has_country_flag = sell_solelha }
 			NOT = { has_global_flag = solelha_sold }
+			MRG = { exists = yes }
 			slavery = no_slavery
 			war = no
 		}
@@ -11,6 +12,7 @@ political_decisions = {
 		allow = {
 			slavery = no_slavery
 			200 = { owned_by = THIS }
+			
 		}
 		
 		effect = {

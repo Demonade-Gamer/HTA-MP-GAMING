@@ -136,6 +136,12 @@ political_decisions = {
 		effect = {
 			prestige = 2
 			PDN = { all_core = { add_core = THIS } }
+			DAU = { all_core = { add_core = THIS } }
+			LOM = { all_core = { remove_core = LOM } }
+			GEN = { all_core = { remove_core = GEN } }
+			MOD = { all_core = { remove_core = MOD } }
+			VEN = { all_core = { remove_core = VEN } }
+			DAU = { all_core = { remove_core = DAU } }
 			add_accepted_culture = north_italian
 		}
 	}

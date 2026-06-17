@@ -1,22 +1,22 @@
-capital = 633
-primary_culture = czech
+capital = 322
+primary_culture = icelandic
 religion = obbite
-government = absolute_monarchy
+government = hms_government
 plurality = 0.05
 nationalvalue = nv_order
-literacy = 0.65
+literacy = 0.8
 civilized = yes
 
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
+upper_house_composition = state_equal_weight
+vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -27,14 +27,22 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = SLV_conservative
+ruling_party = SCA_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
 	conservative = 60
-	reactionary = 10
-	anarcho_liberal = 5
+	reactionary = 5
+	anarcho_liberal = 10
 	socialist = 0
 	communist = 0
 }
 
+1861.1.1 = {
+	oob = "/1861/SCA_oob.txt"
+}
+1861.1.1 = {
+# Technologies
+
+#Inventions
+}

@@ -11,8 +11,10 @@ Bugfixing before the game, also minor changes
 	- Smil has been moved back to Bessarabia state
 	- Mario has been slowed.
 	- Updated Ardeal decision to keep up with the times
+	- Aquitania now removes cisalpine minor cores when they accept cisalpine, Padan retains its cores
 	- Buffed non state culture literacy of Aengland, Wales, and the Netherlands
 		- Also fixed Aenglish oob to work better since they lost provinces to Cymru, not perfect due to split soldier pops, but they start with 26 brigades built out of 33
+	- Fixed various bugs
 7.0
 The general focus of this update is to come closer to the feel of original HtA, specifically in 1836 start date consolidation department
 GENERAL CHANGES

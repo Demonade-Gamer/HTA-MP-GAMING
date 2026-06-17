@@ -51,6 +51,8 @@ country_event = {
 	option = {
 		name = "Excellent!"
 		money = 25000
+		197 = { secede_province = FROM remove_core = AQT add_core = MRG }
+		198 = { secede_province = FROM remove_core = AQT add_core = MRG }
 		199 = { secede_province = FROM remove_core = AQT add_core = MRG }
 		200 = { secede_province = FROM remove_core = AQT add_core = MRG }
 		set_global_flag = solelha_sold

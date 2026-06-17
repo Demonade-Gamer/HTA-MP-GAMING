@@ -243,6 +243,8 @@ country_event = {
 		clr_country_flag = syria_path_question
 		HDJ = { all_core = { add_core = SYR } }
 		YEM = { all_core = { add_core = SYR } }
+		1756 = { add_core = SYR }
+		1757 = { add_core = SYR }
 		add_country_modifier = {
 			name = "syrian_integration_efforts"
 			duration = 1825

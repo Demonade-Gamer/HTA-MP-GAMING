@@ -104,6 +104,7 @@ political_decisions = {
 			prestige = 15
 			add_accepted_culture = kurdish
 			add_accepted_culture = armenian
+			add_accepted_culture = azerbaijani
 			TBZ = { all_core = { add_core = PER } }
 			inherit = TBZ
 			set_country_flag = anatolia_path_finished
