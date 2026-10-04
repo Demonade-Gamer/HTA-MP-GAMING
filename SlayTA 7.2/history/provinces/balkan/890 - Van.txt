@@ -1,0 +1,9 @@
+owner = KDS
+controller = KDS
+add_core = KDS
+add_core = ARM
+terrain = hills
+trade_goods = iron
+life_rating = 36 
+
+

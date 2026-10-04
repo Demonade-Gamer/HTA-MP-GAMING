@@ -1,0 +1,23 @@
+name = "Platan Struggle"
+
+1835.12.12 = {
+	add_attacker = ARG
+	add_defender = RGS
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = civil_war
+		actor = ARG
+		receiver = RGS
+	}
+
+	war_goal = {
+		casus_belli = civil_war
+		actor = RGS
+		receiver = ARG
+	}
+}

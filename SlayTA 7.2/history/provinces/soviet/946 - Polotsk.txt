@@ -1,0 +1,9 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+
+
+add_core = BYE
+trade_goods = wool
+life_rating = 35 
+

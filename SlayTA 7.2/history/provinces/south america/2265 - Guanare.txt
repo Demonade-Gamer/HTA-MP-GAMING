@@ -1,0 +1,8 @@
+owner = HAI
+controller = HAI
+add_core = HAI
+add_core = GDN
+trade_goods = coffee
+life_rating = 32 
+
+

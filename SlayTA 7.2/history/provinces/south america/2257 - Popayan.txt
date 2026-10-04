@@ -1,0 +1,8 @@
+owner = INC
+controller = INC
+add_core = GDN 
+add_core = MEL
+add_core = INC
+trade_goods = grain
+life_rating = 32 
+

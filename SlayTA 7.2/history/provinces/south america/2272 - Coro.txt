@@ -1,0 +1,9 @@
+owner = HAI
+controller = HAI
+add_core = HAI
+add_core = GDN
+trade_goods = cattle
+life_rating = 32 
+naval_base = 2
+
+

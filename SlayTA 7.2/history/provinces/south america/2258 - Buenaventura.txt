@@ -1,0 +1,9 @@
+owner = INC
+controller = INC
+add_core = GDN 
+add_core = MEL
+add_core = INC
+trade_goods = fish
+life_rating = 32 
+fort = 1
+

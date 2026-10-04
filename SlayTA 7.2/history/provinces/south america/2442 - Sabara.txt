@@ -1,0 +1,8 @@
+owner = LTS
+controller = LTS
+
+add_core = LTS 
+add_core = USR
+trade_goods = iron
+life_rating = 32 
+

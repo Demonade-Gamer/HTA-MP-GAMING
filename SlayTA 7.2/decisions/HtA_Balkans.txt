@@ -1,0 +1,61 @@
+political_decisions = {
+secure_bohemia = {
+	picture = claim_greater_bosnia
+	potential = { 
+		tag = ZAC
+		NOT = { has_country_flag = bohemia_secured }
+	}
+	allow = {
+		HUN = { all_core = { owned_by = THIS } }
+		VOL = { all_core = { owned_by = THIS } }
+		nationalism_n_imperialism = 1
+		empiricism = 1
+	}
+	effect = {
+		prestige = 20
+		HUN = { all_core = { add_core = THIS } }
+		VOL = { all_core = { add_core = THIS } }
+		add_accepted_culture = romanian
+		add_accepted_culture = hungarian
+		has_country_flag = bohemia_secured
+	}
+}
+reclaim_bulgaria = {
+	picture = claim_greater_bosnia
+	potential = { 
+		tag = BYZ
+		NOT = { has_country_flag = bulgaria_reclaimed }
+	}
+	allow = {
+		BUL = { all_core = { owned_by = THIS } }
+		state_n_government = 1
+	}
+	effect = {
+		prestige = 20
+		BUL = { all_core = { add_core = THIS } }
+		add_accepted_culture = bulgarian
+		set_country_flag = bulgaria_reclaimed
+	}
+}
+conquer_illyria = {
+	picture = claim_greater_bosnia
+	potential = { 
+		tag = ITA
+		NOT = { has_country_flag = illyria_conquered }
+	}
+	allow = {
+		SER = { all_core = { owned_by = THIS } }
+		SLO = { all_core = { owned_by = THIS } }
+		CRO = { all_core = { owned_by = THIS } }
+		state_n_government = 1
+	}
+	effect = {
+		prestige = 20
+		SER = { all_core = { add_core = THIS } }
+		SLO = { all_core = { add_core = THIS } }
+		CRO = { all_core = { add_core = THIS } }
+		add_accepted_culture = croat
+		set_country_flag = illyria_conquered
+	}
+}
+}

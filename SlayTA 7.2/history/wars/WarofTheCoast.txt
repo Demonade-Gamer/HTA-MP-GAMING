@@ -1,0 +1,25 @@
+name = "The War of The Coast"
+
+1835.12.12 = {
+	add_attacker = CHL
+	add_defender = INC
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = acquire_state_small
+        state_province_id = 2305
+		actor = CHL
+		receiver = INC
+	}
+	war_goal = {
+		casus_belli = acquire_state_medium
+        state_province_id = 2310
+		actor = CHL
+		receiver = INC
+	}
+
+}

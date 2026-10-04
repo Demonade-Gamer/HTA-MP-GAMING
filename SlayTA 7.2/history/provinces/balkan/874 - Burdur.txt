@@ -1,0 +1,9 @@
+owner = ANA
+controller = ANA
+add_core = ANA 
+add_core = ARM
+terrain = hills
+trade_goods = coal
+life_rating = 36 
+
+

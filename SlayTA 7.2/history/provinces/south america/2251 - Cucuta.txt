@@ -1,0 +1,7 @@
+owner = HAI
+controller = HAI
+add_core = GDN 
+add_core = MEL
+trade_goods = coal
+life_rating = 32 
+

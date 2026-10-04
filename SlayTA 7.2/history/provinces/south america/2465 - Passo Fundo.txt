@@ -1,0 +1,6 @@
+owner = RGS
+controller = RGS
+
+trade_goods = tobacco
+life_rating = 32 
+add_core = RGS

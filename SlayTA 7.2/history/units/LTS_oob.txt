@@ -1,0 +1,67 @@
+
+URU = {
+	truce_until = 1837.1.1
+}
+RGS = {
+	truce_until = 1837.1.1
+}
+ARG = {
+	truce_until = 1837.1.1
+}
+USR = {
+	truce_until = 1837.1.1
+}
+leader = {
+	name = "Base guy 1"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+
+army = {
+	name = "1st Army of Luteces"
+	location = 2449
+	regiment = {
+			name = "1. Infantry Army"
+			type = infantry
+			home = 2449
+	}
+	regiment = {
+			name = "2. Infantry Army"
+			type = infantry
+			home = 2448
+	}
+	regiment = {
+			name = "3. Infantry Army"
+			type = infantry
+			home = 2446
+	}
+	regiment = {
+			name = "4. Infantry Army"
+			type = infantry
+			home = 2447
+	}
+	regiment = {
+			name = "1. Hussar"
+			type = hussar
+			home = 2444
+	}
+	regiment = {
+			name = "1. Artillery"
+			type = artillery
+			home = 2445
+	}
+	regiment = {
+			name = "1. Artillery"
+			type = artillery
+			home = 2456
+	}
+	regiment = {
+			name = "1. Artillery"
+			type = artillery
+			home = 2453
+	}
+}

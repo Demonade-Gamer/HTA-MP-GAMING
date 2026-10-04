@@ -1,0 +1,7 @@
+owner = HAI
+controller = HAI
+
+add_core = LTS 
+trade_goods = tobacco
+life_rating = 32 
+

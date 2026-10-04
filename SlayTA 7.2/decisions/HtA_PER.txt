@@ -1,0 +1,51 @@
+political_decisions = {		
+	claim_pashtun_regions = {
+		picture = claim_greater_persia
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = claim_pashtun_regions }
+			has_country_flag = afghan_path
+		}
+
+		allow = {
+			NOT = { has_country_modifier = afghan_integration_efforts }
+			war = no
+			AFG = { 
+				all_core = { 
+					OR = {
+						owned_by = THIS
+						owned_by = AFG
+					}
+				}
+			}
+		}
+
+		effect = {
+			prestige = 15
+			inherit = AFG
+			AFG = {
+				all_core = { add_core = PER }
+			}
+			set_country_flag = claim_pashtun_regions
+			add_accepted_culture = pashtun		
+		}	
+	}
+	integrate_the_iraqi_sultanate = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = iraq_path_finished }
+			has_country_flag = iraq_path
+		}
+		allow = {
+			IRQ = { all_core = { OR = { owned_by = THIS  owned_by = IRQ } } }
+			NOT = { has_country_modifier = iraq_integration_efforts }
+		}
+		effect = {
+			prestige = 15
+			add_accepted_culture = basran
+			IRQ = { all_core = { add_core = PER } }
+			inherit = IRQ
+			set_country_flag = iraq_path_finished
+		}
+	}
+}

@@ -1,0 +1,34 @@
+
+LTS = {
+	truce_until = 1837.1.1
+}
+leader = {
+	name = "Base guy 1"
+	picture = asian_general_3
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.001
+}
+
+army = {
+	name = "Ejército del Uruguay"
+	location = 2339
+	regiment = {
+		name= "1. División de Infantería"
+		type = irregular
+		home = 2339
+	}
+	regiment = {
+		name= "1. División de Infantería"
+		type = irregular
+		home = 2339
+	}
+	regiment = {
+		name= "1. División de Gaucha"
+		type = cavalry
+		home = 2341
+	}
+}
+

@@ -1,0 +1,7 @@
+owner = HAI
+controller = HAI
+add_core = YUC
+
+trade_goods = grain
+life_rating = 37
+

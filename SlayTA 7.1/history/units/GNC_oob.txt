@@ -1,9 +1,0 @@
-army = {
-	name = "skamisc Here"
-	location = 137
-	regiment = {
-		name = "1. Fedehere"
-		type = infantry
-		home = 137
-	}
-}

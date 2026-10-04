@@ -1,0 +1,29 @@
+army = {
+	name = "Ginnaece Here"
+	location = 137
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 137
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 135
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = infantry
+		home = 2147
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = hussar
+		home = 2148
+	}
+	regiment = {
+		name = "1. Fedehere"
+		type = artillery
+		home = 2143
+	}
+}

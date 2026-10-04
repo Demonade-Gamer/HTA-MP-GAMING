@@ -1,0 +1,8 @@
+owner = AQT
+controller = AQT
+add_core = GDN
+colonial = 2
+add_core = GDN
+trade_goods = timber
+life_rating = 32 
+

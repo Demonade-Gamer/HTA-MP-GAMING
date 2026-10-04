@@ -1,0 +1,14 @@
+army = {
+	name = "Haer av Margaria"
+	location = 143
+	regiment = {
+		name = "1. Infanteribataljon"
+		type = infantry
+		home = 143
+	}
+	regiment = {
+		name = "2. Infanteribataljon"
+		type = infantry
+		home = 132
+	}
+}
