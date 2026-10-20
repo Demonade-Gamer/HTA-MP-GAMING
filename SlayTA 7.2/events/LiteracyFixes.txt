@@ -31,7 +31,7 @@ country_event = {
 	}
 }
 country_event = {
-	id = 123412346
+	id = 123412348
 	title = "Ugrian Lit Fix"
 	desc = "Makes Ugrian pops less literate, you don't need that much"
 	picture = "Administration"

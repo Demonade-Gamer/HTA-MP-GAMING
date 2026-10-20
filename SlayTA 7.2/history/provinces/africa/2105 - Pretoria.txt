@@ -1,7 +1,7 @@
 owner = ORA
 controller = ORA
 add_core = ORA
-trade_goods = precious_metal
+trade_goods = grain
 life_rating = 35 
 terrain = hills
 

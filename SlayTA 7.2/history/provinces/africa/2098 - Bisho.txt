@@ -2,7 +2,7 @@ owner = STE
 controller = STE
 add_core = STE
 add_core = SAF
-trade_goods = precious_metal
+trade_goods = fish
 life_rating = 35 
 
 

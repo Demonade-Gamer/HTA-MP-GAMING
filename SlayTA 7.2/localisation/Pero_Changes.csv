@@ -133,23 +133,23 @@ demand_concession_huge;Take Huge Concession;;;;;;;;;;;;;x
 demand_concession_huge_short;Acquire $STATE$;;;;;;;;;;;;;x
 demand_concession_huge_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
 demand_concession_huge_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
-place_in_the_sun_strat;Take Strategic Concession;;;;;;;;;;;;;x
+place_in_the_sun_strat;Take Strategic Colony;;;;;;;;;;;;;x
 place_in_the_sun_strat_short;Acquire $STATE$;;;;;;;;;;;;;x
 place_in_the_sun_strat_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
 place_in_the_sun_strat_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
-place_in_the_sun_small;Take Small Concession;;;;;;;;;;;;;x
+place_in_the_sun_small;Take Small Colony;;;;;;;;;;;;;x
 place_in_the_sun_small_short;Acquire $STATE$;;;;;;;;;;;;;x
 place_in_the_sun_small_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
 place_in_the_sun_small_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
-place_in_the_sunn_medium;Take Medium Concession;;;;;;;;;;;;;x
+place_in_the_sunn_medium;Take Medium Colony;;;;;;;;;;;;;x
 place_in_the_sun_medium_short;Acquire $STATE$;;;;;;;;;;;;;x
 place_in_the_sun_medium_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
 place_in_the_sun_medium_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
-place_in_the_sun_large;Take Large Concession;;;;;;;;;;;;;x
+place_in_the_sun_large;Take Large Colony;;;;;;;;;;;;;x
 place_in_the_sun_large_short;Acquire $STATE$;;;;;;;;;;;;;x
 place_in_the_sun_large_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
 place_in_the_sun_large_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x
-place_in_the_sun_huge;Take Huge Concession;;;;;;;;;;;;;x
+place_in_the_sun_huge;Take Huge Colony;;;;;;;;;;;;;x
 place_in_the_sun_huge_short;Acquire $STATE$;;;;;;;;;;;;;x
 place_in_the_sun_huge_desc;This CB fixes the warscore value in order to keep warscore values consistent and prevent exploits.;;;;;;;;;;;;;x
 place_in_the_sun_huge_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;;;x

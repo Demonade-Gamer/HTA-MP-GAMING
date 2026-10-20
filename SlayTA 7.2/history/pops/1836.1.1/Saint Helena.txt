@@ -43,9 +43,19 @@
 }
 #Tristan da Cunha (100/25 POPS) - Hispania
 2132 = {
-    labourers = {
+    bankers = {
         culture = outremer
         religion = obbite
-        size = 1000
+        size = 10000
+    }
+    bankers = {
+        culture = outremer
+        religion = obbite
+        size = 10000
+    }
+    bankers = {
+        culture = outremer
+        religion = obbite
+        size = 10000
     }
 }

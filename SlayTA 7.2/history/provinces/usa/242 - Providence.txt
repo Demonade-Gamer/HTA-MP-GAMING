@@ -1,6 +1,7 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = QUE
+controller = QUE
+add_core = QUE
+add_core = VST
 trade_goods = grain
 life_rating = 35 
 naval_base = 1

@@ -1,6 +1,6 @@
 owner = AEN
 controller = AEN
-trade_goods = precious_metal
+trade_goods = grain
 life_rating = 35
 naval_base = 1
 colonial = 2

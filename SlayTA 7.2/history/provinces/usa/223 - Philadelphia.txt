@@ -1,8 +1,8 @@
-owner = SWE
+owner = QUE
+controller = QUE
+add_core = QUE
 
-controller = SWE
-
-add_core = SWE
+add_core = VST
 
 trade_goods = grain
 life_rating = 40

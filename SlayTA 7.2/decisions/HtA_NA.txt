@@ -283,10 +283,13 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = native_chosen
-			set_country_flag = native_rape
+			set_country_flag = native_murder
 			badboy = 5
 			prestige_factor = 0.25
-			MRG = { all_core = { add_core = SHC } }
+			USA_139 = { add_core = SHC }
+			MRG_130 = { add_core = SHC }
+			USA_194 = { add_core = SHC }
+			USA_148 = { add_core = SHC }
 			add_country_modifier = {
 				name = native_societies3
 				duration = 3650
@@ -298,9 +301,8 @@ political_decisions = {
 		picture = manifest_destiny
 		potential = {	
 			tag = SHC
-			civilized = yes
-			has_country_flag = native_rape
-			NOT = { has_country_flag = vestland_rape }
+			has_country_flag = phase_2_complete
+			NOT = { has_country_flag = vestland_murder }
 		}
 		
 		allow = {
@@ -312,14 +314,22 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = vestland_rape
+			set_country_flag = vestland_murder
 			badboy = 5
-			VST = { all_core = { 
-					add_core = SHC 
-					remove_core = VST } }
-			NEU = { all_core = { 
-					add_core = SHC 
-					remove_core = NEU } }
+			VST = { 
+				all_core = { 
+					remove_core = VST 
+					remove_core = SWE 
+					remove_core = SCA
+				} 
+			}
+			NEU = {
+				all_core = { 
+					remove_core = NEU 
+					remove_core = SWE 
+					remove_core = SCA 
+				} 
+			}
 		}
 	}
 
@@ -404,11 +414,96 @@ political_decisions = {
 		effect = {
 			prestige = 50
 			set_global_flag = MEX_hegemony
-			set_country_flag = south_american_immigrant_nation
 			add_accepted_culture = afro_caribbean
 			add_accepted_culture = afro_american
 			add_accepted_culture = mellomsk
 			MEL = { all_core = { add_core = MEX } }
 		}
 	}
+	shawnee_phase_1 = {
+		potential = {
+			tag = SHC
+			NOT = { has_country_flag = phase_1_complete }
+		}
+		allow = {
+			ideological_thought = 1
+			USA_219 = { owned_by = THIS }
+			USA_232 = { owned_by = THIS }
+			56 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 15
+			USA_219 = { add_core = THIS }
+			USA_232 = { add_core = THIS }
+			CAN_46 = { add_core = THIS }
+			set_country_flag = phase_1_complete
+		}
+	}
+	shawnee_phase_2 = {
+		potential = {
+			tag = SHC
+			has_country_flag = phase_1_complete
+			NOT = { has_country_flag = phase_2_complete }
+		}
+		allow = {
+			state_n_government = 1
+			USA_223 = { owned_by = THIS }
+			USA_231 = { owned_by = THIS }
+			CAN_50 = { owned_by = THIS }
+			CAN_58 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 15
+			USA_223 = { add_core = THIS }
+			USA_232 = { add_core = THIS }
+			CAN_50 = { add_core = THIS }
+			CAN_58 = { add_core = THIS }
+			set_country_flag = phase_2_complete
+		}
+	}
+	shawnee_phase_3 = {
+		potential = {
+			tag = SHC
+			has_country_flag = phase_2_complete
+			NOT = { has_country_flag = phase_3_complete }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			ENG_68 = { owned_by = THIS }
+			ENG_74 = { owned_by = THIS }
+			USA_247 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 15
+			ENG_68 = { add_core = THIS }
+			ENG_74 = { add_core = THIS }
+			USA_247 = { add_core = THIS }
+			set_country_flag = phase_3_complete
+		}
+	}
+	incorporate_the_tsalagi = {
+		potential = {
+			tag = SHC
+			NOT = { has_country_flag = tsalagi_incorporated }
+		}
+		allow = {
+			ideological_thought = 1
+			war = no
+			OR = { 
+				USA_200 = { owned_by = THIS }
+				USA_223 = { owned_by = THIS }
+				AND = {
+					USA_194 = { owned_by = THIS }
+					USA_139 = { owned_by = THIS }
+					MRG_130 = { owned_by = THIS }
+				}
+			}
+		}
+		effect = {
+			prestige = 10
+			inherit = CHE
+			set_country_flag = tsalagi_incorporated
+		}
+	}
+			
 }

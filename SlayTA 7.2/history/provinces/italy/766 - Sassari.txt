@@ -2,7 +2,7 @@ owner = CRS
 controller = CRS
 add_core = CRS
 add_core = SRD
-trade_goods = precious_metal
+trade_goods = coal
 life_rating = 38 
 
 

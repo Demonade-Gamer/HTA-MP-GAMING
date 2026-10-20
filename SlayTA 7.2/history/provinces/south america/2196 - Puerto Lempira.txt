@@ -1,6 +1,6 @@
 owner = HAI
 controller = HAI
 add_core = MEL
-trade_goods = timber
+trade_goods = coal
 life_rating = 32 
 

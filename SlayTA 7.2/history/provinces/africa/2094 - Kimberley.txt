@@ -1,6 +1,6 @@
 owner = NET
 controller = NET
 add_core = SAF
-trade_goods = precious_metal
+trade_goods = cattle
 life_rating = 35 
 

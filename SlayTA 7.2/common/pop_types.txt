@@ -1040,18 +1040,6 @@ assimilation_chance = {
 				}
 			}
 		}
-	modifier = {
-		factor = -75
-		culture = shawnee
-	}
-	
-	modifier = {
-		factor = 150
-		country = {
-			has_country_flag = trail_of_tears
-		}
-			has_pop_culture = shawnee
-		}
 #NEW WORLD NATION BONUS - 50% more base assimilation rate for new world nations on provinces in north america, south america, and oceania. (0.000198 + base)(new rate = 0.000594)
 	modifier = {
 		factor = 5
@@ -1127,7 +1115,7 @@ assimilation_chance = {
 			factor = 10
 		}
 		modifier = {
-			factor = -5
+			factor = -9.8
 			has_culture_core = no
 		}
 	}

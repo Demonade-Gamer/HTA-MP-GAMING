@@ -1,6 +1,7 @@
-owner = SHC
-controller = SHC
+owner = CHE
+controller = CHE
+add_core = CHE
 add_core = SHC
 trade_goods = cotton
-life_rating = 35 
+life_rating = 30 
 

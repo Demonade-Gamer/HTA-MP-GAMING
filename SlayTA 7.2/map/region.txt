@@ -6,7 +6,7 @@ ENG_6 = { 1538 } #Yukon(v)/Jukuna
 
 ENG_9 = { 1606 } #Northwest Territories(v)/Ters d'Auror
 
-CAN_13 = { 13 14 15 78 20 21 24 25 79 80 } #Columbia(v)/Iggatlan
+CAN_13 = { 13 14 15 78 20 21 24 79 80 } #Columbia(v)/Iggatlan
 
 CAN_19 = { 1 2 19 18 16 17 6 } #New Caledonia(v)/Weglast
 
@@ -42,9 +42,9 @@ USA_91 = { 1481 } #Idaho/Ofrahei
 
 MEX_94 = { 88 96 94 95 99 100 101 104 } #Nevada/Jute
 
-MEX_97 = { 97 98 107 108 91 93 111 } #Utah/Las Cuestas
+MEX_97 = { 97 98 107 108 91 93 111 113 114 92 } #Utah/Las Cuestas
 
-USA_116 = { 28 26 29 116 114 92 113 } #Montana/Firfede
+USA_116 = { 28 26 29 116 25 } #Montana/Firfede
 
 #MEX_100 = {  } #Arizona/Sinaquin
 
@@ -70,11 +70,11 @@ USA_138 = { 2149 2148 2147 2152 2142 2143 2144 } #Wyoming (S. Ginnaecer)/Odrahef
 
 USA_139 = { 132 141 142 144 9 12 143 } #Louisiana/Bartemark
 
-USA_148 = { 146 149 150 151 152 123 127 126 153 154 } #Missouri/Wimisu
+USA_148 = { 146 149 150 151 123 127 126 154 } #Missouri/Wimisu
 
 #USA_158 = { 121 115 119 35 } #Minnesota/Newea
 
-USA_162 = { 158 160 161 177 157 155 156 } #Wisconsin(v)/Surlac
+USA_162 = { 158 160 161 177 157 155 156 162 153 152 } #Wisconsin(v)/Surlac
 
 #USA_168 = {  } #Illinois/Irenwe
 
@@ -84,7 +84,7 @@ USA_170 = { 169 170 172 171 181 182 179 180 183 } #Indiana/Shawanwaki
 
 #USA_178 = { } #Ohio/Yohielen
 
-USA_185 = { 185 191 190 216 218 2556 } #Kentucky/Tewipi
+USA_185 = { 185 191 190 218 } #Kentucky/Tewipi
 
 #USA_188 = { } #Tennessee/Setekwi
 
@@ -92,15 +92,15 @@ USA_189 = { 187 188 186 184 } #Arkansas/Elmoten
 
 USA_194 = { 194 140 139 192 189 193 } #Mississippi/Hemhavet
 
-USA_196 = { 195 196 201 202 } #Alabama/Fremadland
+USA_196 = { 195 196 202 } #Alabama/Fremadland
 
 USA_200 = { 197 198 200 199 } #Florida/Solelha
 
-USA_201 = { 2555 204 205 206 } #Georgia/Itseyi
+USA_201 = { 2555 206 208 209 211 216 2556 201 } #Georgia/Itseyi
 
-USA_205 = { 159 162 163 164 168 167 166 165 } #South Carolina(Wisconsin area)/Miigiska
+USA_205 = { 168 167 166 165 163 164 159 } #South Carolina(Wisconsin area)/Miigiska
 
-USA_211 = { 207 211 214 209 208 210 } #Virginia/Eganulti
+USA_211 = { 207 214 204 205 210 } #Virginia/Eganulti
 
 USA_218 = { 212 213 215 217 221 227 228 178 } #West Virginia/Skotamewi
 
@@ -303,7 +303,7 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 HAN_528 = { 531 532 539 528 535 } #Lower Elbe
 
-HAN_534 = { 681 546 679 680 692 } #Hannover/Oder
+HAN_534 = { 681 546 679 680 692 552 } #Hannover/Oder
 
 PRU_536 = { 536 534 537 553 557 } #Magdeburg/Braunschweig
 
@@ -313,7 +313,7 @@ PRU_536 = { 536 534 537 553 557 } #Magdeburg/Braunschweig
 
 PRU_546 = { 544 545 547 548 530 529 } #Pomerania
 
-PRU_549 = { 549 551 555 556 552 550 } #Brandenburg
+PRU_549 = { 549 551 555 556 550 } #Brandenburg
 
 HAN_540 = { 554 561 562 563 } #Thuringia
 

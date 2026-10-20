@@ -3,6 +3,6 @@ controller = INC
 add_core = INC
 add_core = GDN 
 add_core = MEL
-trade_goods = precious_metal
+trade_goods = coal
 life_rating = 32 
 

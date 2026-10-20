@@ -3,6 +3,6 @@ controller = ASH
 add_core = ASH
 
 #ASH
-trade_goods = precious_metal
+trade_goods = grain
 life_rating = 30
 

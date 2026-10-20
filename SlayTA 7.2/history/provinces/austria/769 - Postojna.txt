@@ -3,5 +3,5 @@ controller = VEN
 add_core = VEN
 add_core = SLO
 add_core = CRO
-trade_goods = precious_metal
+trade_goods = wool
 life_rating = 35 

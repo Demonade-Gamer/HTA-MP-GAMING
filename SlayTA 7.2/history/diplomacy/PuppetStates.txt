@@ -28,4 +28,25 @@ vassal = {
 	end_date = 1845.4.30
 }
 
+vassal = {
+	first = SWE
+	second = QUE
+	start_date = 1835.1.1
+	end_date = 1845.4.30
+}
+
+substate = {
+	first = SHC
+	second = CHE
+	start_date = 1835.1.1
+	end_date = 1845.9.15
+}
+
+substate = {
+	first = SHC
+	second = DAK
+	start_date = 1835.1.1
+	end_date = 1865.6.20
+}
+
 

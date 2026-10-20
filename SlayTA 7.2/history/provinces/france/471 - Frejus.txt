@@ -1,8 +1,8 @@
-owner = AQT
-controller = AQT
+owner = GEN
+controller = GEN
 terrain = farmlands
 trade_goods = silk
 life_rating = 35 
 
 
-add_core = AQT
+add_core = GEN

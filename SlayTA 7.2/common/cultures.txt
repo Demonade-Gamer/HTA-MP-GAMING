@@ -1788,11 +1788,32 @@ native_american = {
 		last_names = { Atapashuna Epieyu Iguana Jayaliyuu Jusayuu Pausayuu Sapuana Tijuana Uliana Uliyuu
 		Uraliyyu Ulewana Walapuana Walepushana }
 	}
+	native_american_minor = {
+		color = {25 25 90}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
 	shawnee = {
 		color = {212  105  118}
 		first_names = { John Tahlonteeskee Takatoka Charles William Lewis Dennis Joel Thomas Frank Andrew Edward Louis Maskipitonew Alexis Samson Joe Baptiste Felix Jacob
 		}
 		last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	cherokee = {
+		color = {222 113 18}
+		first_names = { Ulogila Moytoy Attakullakulla Tahlonteeskee Takatoka Amo-sgasite Konokotko Tsiyu Kolesqua Utsi'dsata Savanukah Okonostota Tah-Chee Enola Guwisguwi Yonaguska Guna-gadoga Watasata Kolona
+		}
+		last_names = { Wad Uku Gansini Outasite Echota Danuwa'analihi Ugwyuhi Didatinehi
+		}
+	}
+	dakota = {
+		color = {150 25 35}
+		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
+		}
+		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
 		}
 	}
 }

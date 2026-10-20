@@ -33,31 +33,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 345
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 6036
     }
@@ -65,31 +65,31 @@
 #Yakutat (4000/1000 POPS)
 2 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 33
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 51
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3105
     }
@@ -97,31 +97,31 @@
 #Kenai (2400/600 POPS)
 3 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 550
     }
@@ -129,31 +129,31 @@
 #Dutch Harbor (2000/500 POPS)
 4 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 450
     }
@@ -161,61 +161,61 @@
 #Bethel (2000/500 POPS)
 5 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 225
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 225
     }
@@ -223,31 +223,31 @@
 #Fairbanks (2000/500 POPS)
 2599 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 450
     }
@@ -255,31 +255,31 @@
 #Cordova (1600/360 POPS)
 2630 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 20
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 360
     }
@@ -287,61 +287,61 @@
 #Unalakeet (3000/750 POPS)
 2631 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 450
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 225
     }
@@ -351,13 +351,13 @@
 #Seattle (12000/3000 POPS)
 78 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 258
     }
@@ -375,13 +375,13 @@
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 9315
     }
@@ -460,31 +460,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 33
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 51
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3105
     }
@@ -522,31 +522,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 33
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 51
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3105
     }
@@ -591,31 +591,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 258
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 516
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 9315
     }
@@ -641,31 +641,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 33
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 184
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 51
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3105
     }
@@ -673,31 +673,31 @@
 #Klamath Falls (4000/1000 POPS)
 83 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -737,31 +737,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 345
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 6210
     }
@@ -781,31 +781,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 33
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 51
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3105
     }
@@ -813,31 +813,31 @@
 #Sacramento (12000/3000 POPS)
 86 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2700
     }
@@ -913,31 +913,31 @@
 #Mariposa (8000/2000 POPS)
 88 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -1004,31 +1004,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 345
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 6210
     }
@@ -1066,31 +1066,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 345
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 6210
     }
@@ -1100,31 +1100,31 @@
 #Boise (8000/2000 POPS)
 91 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -1138,31 +1138,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1170,31 +1170,31 @@
 #Pocatello (12000/3000 POPS)
 93 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2700
     }
@@ -1204,31 +1204,31 @@
 #Carson City (4000/1000 POPS)
 94 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1265,31 +1265,31 @@
 #Elko (4000/1000 POPS)
 95 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1326,31 +1326,31 @@
 #Las Vegas (4000/1000 POPS)
 96 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1389,31 +1389,31 @@
 #Salt Lake City (8000/2000 POPS)
 97 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -1421,31 +1421,31 @@
 #Loa (4000/1000 POPS)
 98 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1453,31 +1453,31 @@
 #Moab (4000/1000 POPS)
 99 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1608,31 +1608,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1641,31 +1641,31 @@
 #Tucson (13000/3250 POPS)
 102 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 171
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 258
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 516
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 84
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 9315
     }
@@ -1711,97 +1711,97 @@
 #Santa Fe (32000/8000 POPS)
 103 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     bureaucrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 55
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 250
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 4485
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1839,31 +1839,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -1871,31 +1871,31 @@
 #Las Cruces (4000/1000 POPS)
 105 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 30
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2700
     }
@@ -1905,31 +1905,31 @@
 #Denver (8000/2000 POPS)
 106 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -1937,31 +1937,31 @@
 #Grand Junction (4000/1000 POPS)
 107 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -1969,63 +1969,63 @@
 #Alamosa (4000/1000 POPS)
 108 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 }
-#shawnee (4000/1000 POPS)
+#dakota (4000/1000 POPS)
 109 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -2035,31 +2035,31 @@
 #Cheyenne (8000/2000 POPS)
 110 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2067,31 +2067,31 @@
 #Cody (12000/3000 POPS)
 111 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2700
     }
@@ -2099,37 +2099,37 @@
 #Casper (8000/2000 POPS)
 112 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 550
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 300
     }
@@ -2139,31 +2139,31 @@
 #Bozeman (8000/2000 POPS)
 113 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2171,31 +2171,31 @@
 #Missoula (4000/1000 POPS)
 114 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -2203,61 +2203,61 @@
 #Great Falls (8000/2000 POPS)
 115 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -2265,95 +2265,95 @@
 #Billings (12000/3000 POPS)
 116 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
 }
-#North shawnee Region (24000)
+#North dakota Region (24000)
 #"ruled" by the USA/de facto under Native Control
 #Bismarck (8000/2000 POPS)
 117 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2361,61 +2361,61 @@
 #Minot (8000/2000 POPS)
 118 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -2423,125 +2423,125 @@
 #Dickinson (8000/2000 POPS)
 119 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 }
-#South shawnee Region (24000)
+#South dakota Region (24000)
 #"ruled" by the USA/de facto under Native Control
 #Sioux Falls (8000/2000 POPS)
 120 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -2549,31 +2549,31 @@
 #Dupree (8000/2000 POPS)
 121 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2581,61 +2581,61 @@
 #Rapid City (8000/2000 POPS)
 122 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -2645,61 +2645,61 @@
 #Omaha (8000/2000 POPS)
 123 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -2707,31 +2707,31 @@
 #Alliance (4000/1000 POPS)
 124 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -2739,31 +2739,31 @@
 #North Platte (8000/2000 POPS)
 125 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2791,13 +2791,13 @@
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2811,31 +2811,31 @@
 #Goodland (8000/2000 POPS)
 127 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2843,31 +2843,31 @@
 #Wichita (8000/2000 POPS)
 128 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2877,61 +2877,61 @@
 #Oklahoma City (12000/3000 POPS)
 129 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 800
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -2969,7 +2969,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3220
     }
@@ -2977,31 +2977,31 @@
 #Okmulgee (8000/2000 POPS)
 131 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 28
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 57
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 115
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 28
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2070
     }
@@ -3047,31 +3047,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 17
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 258
     }
@@ -3127,31 +3127,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 6
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 9
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 675
     }
@@ -3189,13 +3189,13 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 450
     }
@@ -3239,61 +3239,61 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 6
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 9
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 675
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 6
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 9
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 675
     }
@@ -3301,31 +3301,31 @@
 #Laredo (6000/1500 POPS)
 138 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 30
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2700
     }
@@ -3394,31 +3394,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 30
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2700
     }
@@ -3469,37 +3469,37 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 225
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 450
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1000
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 8100
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -3507,31 +3507,31 @@
 #El Paso (9000/2250 POPS)
 136 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 300
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5400
     }
@@ -3915,13 +3915,13 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 28
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 517
     }
@@ -3965,13 +3965,13 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 28
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 517
     }
@@ -4029,37 +4029,37 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 57
     }
 
     bureaucrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 28
     }
 
     officers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 11
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 17
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 230
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25750
     }
@@ -4147,25 +4147,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 40
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 115
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 28
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2300
     }
@@ -4175,25 +4175,25 @@
 #Saint Louis (188000/47000 POPS)
 146 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1175
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 250
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 63650
     }
@@ -4231,13 +4231,13 @@
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 11625
     }
@@ -4257,19 +4257,19 @@
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45850
     }
@@ -4281,31 +4281,31 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 300
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 4500
     }
@@ -4331,31 +4331,31 @@
 #Jefferson City (56000/14000 POPS)
 149 = {
     bureaucrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     officers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 45
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 300
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 5430
     }
@@ -4373,7 +4373,7 @@
     }
 
     officers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
@@ -4385,7 +4385,7 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
@@ -4397,7 +4397,7 @@
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 200
     }
@@ -4409,7 +4409,7 @@
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
@@ -4421,7 +4421,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 4425
     }
@@ -4453,13 +4453,13 @@
 #Kansas City (56000/14000 POPS)
 150 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 400
     }
@@ -4471,7 +4471,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 7475
     }
@@ -4483,7 +4483,7 @@
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
@@ -4495,19 +4495,19 @@
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 225
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 4600
     }
@@ -4535,61 +4535,61 @@
 #Des Moines (12000/3000 POPS)
 151 = {
     bureaucrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -4597,25 +4597,25 @@
 #Oskaloosa (8000/2000 POPS)
 152 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1525
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 33850
     }
@@ -4623,55 +4623,55 @@
 #Cedar Rapids (16000/4000 POPS)
 153 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 35
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2790
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -4679,31 +4679,31 @@
 #Sioux City (8000/2000 POPS)
 154 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -4713,61 +4713,61 @@
 #Minneapolis (8000/2000 POPS)
 155 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -4775,31 +4775,31 @@
 #Granite Falls (8000/2000 POPS)
 156 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -4807,61 +4807,61 @@
 #Moorhead (8000/2000 POPS)
 157 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -4869,31 +4869,31 @@
 #Duluth (8000/2000 POPS)
 158 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -4903,25 +4903,25 @@
 #Milwaukee (16000/4000 POPS)
 159 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 200
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 3700
     }
@@ -4929,31 +4929,31 @@
 #Eau Claire (4000/1000 POPS)
 160 = {
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -4961,55 +4961,55 @@
 #Green Bay (8000/2000 POPS)
 161 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 910
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 900
     }
@@ -5017,31 +5017,31 @@
 #Madison (8000/2000 POPS)
 162 = {
     bureaucrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1835
     }
@@ -5051,25 +5051,25 @@
 #Chicago (172000/43000 POPS)
 163 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 275
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 450
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 40125
     }
@@ -5077,25 +5077,25 @@
 #Rockford (44000/11000 POPS)
 164 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 550
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1125
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 47250
     }
@@ -5129,25 +5129,25 @@
 #Peoria (100000/25000 POPS)
 166 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1250
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1250
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 93350
     }
@@ -5713,55 +5713,55 @@
 #Marquette (POPS)
 177 = {
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 10
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 15
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 2925
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 25
     }
 
     clergymen = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1125
     }
 
     farmers = {
-        culture = shawnee
+        culture = dakota
         religion = obbite
         size = 1800
     }
@@ -7521,55 +7521,55 @@
 #Atlanta (244000/61000 POPS)
 201 = {
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 750
     }
 
     bureaucrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 400
     }
 
     officers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 225
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 1325
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
-        size = 550
+        size = 1550
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 29775
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
@@ -7581,37 +7581,31 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 12400
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
-    soldiers = {
-        culture = shawnee
-        religion = obbite
-        size = 25
-    }
-
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 2775
     }
@@ -7625,25 +7619,25 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 75
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
-        size = 105
+        size = 1105
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 3400
     }
@@ -7655,37 +7649,31 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 375
     }
 
-    soldiers = {
-        culture = shawnee
-        religion = obbite
-        size = 225
-    }
-
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 11400
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 15
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 75
     }
@@ -7697,7 +7685,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 2900
     }
@@ -7711,67 +7699,61 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 775
     }
 
-    soldiers = {
-        culture = shawnee
-        religion = obbite
-        size = 300
-    }
-
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 16425
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 200
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 375
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
-        size = 200
+        size = 1200
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 9500
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 475
     }
@@ -7783,7 +7765,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 10475
     }
@@ -7791,55 +7773,55 @@
 #Augusta (140000/35000 POPS)
 2555 = {
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 125
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 725
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 800
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 8300
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 300
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 29500
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 15
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 325
     }
@@ -7851,7 +7833,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 8650
     }
@@ -7867,7 +7849,7 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 125
     }
@@ -7878,14 +7860,8 @@
         size = 600
     }
 
-    soldiers = {
-        culture = shawnee
-        religion = obbite
-        size = 550
-    }
-
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 9735
     }
@@ -7897,37 +7873,37 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 300
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
-        size = 600
+        size = 1600
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 11700
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 15
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 675
     }
@@ -7939,7 +7915,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 11300
     }
@@ -7947,97 +7923,97 @@
 #Columbia (340000/85000 POPS)
 206 = {
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 400
     }
 
     bureaucrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 90
     }
 
     officers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 125
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 575
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 350
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 11575
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 450
     }
 
     bureaucrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 110
     }
 
     officers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 100
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 175
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 800
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 19450
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
@@ -8049,7 +8025,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 12450
     }
@@ -8065,37 +8041,37 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 750
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 275
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 17400
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 325
     }
@@ -8107,7 +8083,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 3600
     }
@@ -8127,43 +8103,43 @@
     }
 
     officers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 200
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 225
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 1150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 400
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 26000
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 450
     }
@@ -8175,7 +8151,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 4400
     }
@@ -8183,73 +8159,73 @@
 #Charlotte (136000/34000 POPS)
 209 = {
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 750
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 350
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 17250
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 300
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 200
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 950
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 15250
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
@@ -8261,7 +8237,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 3400
     }
@@ -8269,31 +8245,31 @@
 #Wilmington (188000/47000 POPS)
 210 = {
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 775
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 225
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 1150
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 475
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 26375
     }
@@ -8305,7 +8281,7 @@
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
@@ -8317,7 +8293,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 7450
     }
@@ -8325,73 +8301,73 @@
 #Asheville (148000/37000 POPS)
 2556 = {
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 400
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 1100
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 275
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 14475
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 200
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 350
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 175
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 11000
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
@@ -8403,7 +8379,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 4300
     }
@@ -8413,55 +8389,55 @@
 #Richmond (340000/85000 POPS)
 211 = {
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 1200
     }
 
     bureaucrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
 
     officers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 250
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 375
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 2300
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 500
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 51475
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 225
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 1400
     }
@@ -8473,7 +8449,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 13000
     }
@@ -8599,67 +8575,61 @@
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 75
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 175
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
-        size = 75
+        size = 575
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 3650
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 225
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 100
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
 
-    soldiers = {
-        culture = shawnee
-        religion = obbite
-        size = 175
-    }
-
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 11000
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 50
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 550
     }
@@ -8671,7 +8641,7 @@
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 4225
     }
@@ -8735,85 +8705,85 @@
 #Roanoke (120000/30000 POPS)
 216 = {
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 225
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 650
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 300
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 14675
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 225
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 150
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 650
     }
 
     soldiers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 300
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 10675
     }
 
     clergymen = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 25
     }
 
     artisans = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 650
     }
 
     farmers = {
-        culture = afro_american
+        culture = cherokee
         religion = obbite
         size = 5062
     }
 
     farmers = {
-        culture = shawnee
+        culture = cherokee
         religion = obbite
         size = 5275
     }
@@ -9440,13 +9410,19 @@
     soldiers = {
         culture = vestlandic
         religion = obbite
-        size = 425
+        size = 1425
     }
 
     farmers = {
         culture = vestlandic
         religion = obbite
-        size = 40100
+        size = 30100
+    }
+
+    farmers = {
+        culture = shawnee
+        religion = obbite
+        size = 30100
     }
 
     slaves = {
@@ -9472,13 +9448,19 @@
     soldiers = {
         culture = vestlandic
         religion = obbite
-        size = 600
+        size = 1600
     }
 
     farmers = {
         culture = vestlandic
         religion = obbite
-        size = 36800
+        size = 26800
+    }
+
+    farmers = {
+        culture = shawnee
+        religion = obbite
+        size = 26800
     }
 
     slaves = {
@@ -10004,61 +9986,61 @@
 #Buffalo (244000/61000 POPS)
 236 = {
     aristocrats = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 100
     }
 
     clergymen = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 120
     }
 
     artisans = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 550
     }
 
     soldiers = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 205
     }
 
     farmers = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 11875
     }
 
     aristocrats = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 90
     }
 
     clergymen = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 120
     }
 
     artisans = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 750
     }
 
     soldiers = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 205
     }
 
     farmers = {
-        culture = shawnee
+        culture = vestlandic
         religion = obbite
         size = 12875
     }
@@ -10066,7 +10048,7 @@
     farmers = {
         culture = shawnee
         religion = obbite
-        size = 3450
+        size = 12450
     }
 }
 #Rochester (176000/44000 POPS)

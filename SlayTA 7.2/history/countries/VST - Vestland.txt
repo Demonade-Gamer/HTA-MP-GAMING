@@ -1,11 +1,11 @@
-capital = 223
+capital = 65
 primary_culture = vestlandic 
 religion = obbite
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_liberty
-literacy = 0.57
-non_state_culture_literacy = 0.2
+literacy = 0.54
+non_state_culture_literacy = 0.25
 civilized = yes
 prestige = 35
 

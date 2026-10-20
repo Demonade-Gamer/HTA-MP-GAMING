@@ -37,7 +37,31 @@ From;To;Type;Through;Data;Comment
 65;250;sea;2943;0;St. Lawrence Crossing
 54;173;sea;3195;0;St. Clair River Crossing
 51;177;sea;3116;0;Sault. Ste. Marie Crossing
-176;177;sea;3115;0;Mackinac Strait
+2238;2237;sea;2975;0;Caribas Strait
+2237;2276;sea;2975;0;Trinadade Strait
+2233;2409;sea;2975;0;West Indies Straits
+2409;2229;sea;2975;0;West Indies Straits
+2409;2231;sea;2975;2976;West Indies Straits
+2231;2228;sea;2976;0;West Indies Straits
+2228;2232;sea;2976;0;West Indies Straits
+2232;2230;sea;2976;0;West Indies Straits
+2230;2224;sea;2976;0;West Indies Straits
+2224;2227;sea;2976;0;West Indies Straits
+2227;2236;sea;2976;0;West Indies Straits
+2236;2223;sea;2976;0;West Indies Straits
+2223;2222;sea;2976;0;West Indies Straits
+2223;2226;sea;2976;0;West Indies Straits
+2222;2226;sea;2976;0;West Indies Straits
+2222;2214;sea;2976;0;West Indies Straits
+2236;3246;sea;2976;0;West Indies Straits
+2215;2212;sea;2969;2977;Cuba-Haiti Strait
+2215;2220;sea;2977;0;Haiti-Bahamas Strait
+2219;2220;sea;2977;2978;Bahamas Strait
+2213;2217;sea;2969;0;Haiti-Jamaica Strait
+2218;2217;sea;2969;2971;Haiti-Jamaica Strait
+2234;2235;sea;2972;2971;Leeward Straits
+2235;2272;sea;2972;2971;Leeward Straits
+
 
 #                                                         
 # African Straits                                         

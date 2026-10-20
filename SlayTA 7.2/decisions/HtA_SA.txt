@@ -6,6 +6,7 @@ political_decisions = {
 				tag = USR
 				tag = INC
 				tag = MEL
+				tag = MEX
 			}
 			NOT = { has_country_flag = establish_gidan_hegemony }
 		}
